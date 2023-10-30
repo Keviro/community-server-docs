@@ -32,7 +32,7 @@ Solltet ihr vermehrt negativ mit Aktionen auffallen könnt ihr jederzeit vom Ser
 
 5. Es wird erwartet, dass ihr euch **freundlich und respektvoll gegenüber anderen Spielern** verhaltet. Solltet ihr ein
    Problem mit einer anderen Person haben, versucht es **miteinander** zu lösen. Sollte dies nicht möglich sein,
-   kontaktiert bitte einen Moderator. Offener Streit wird nicht gedulded und wir behalten uns vor Spieler auch dafür
+   kontaktiert bitte einen Moderator. Offener Streit wird nicht geduldet und wir behalten uns vor Spieler auch dafür
    temporär vom Server auszuschließen.
 
 6. **Boosting und IRL Trading ist nicht gestattet.** Jeder Spieler darf nur über **einen Account** verfügen.

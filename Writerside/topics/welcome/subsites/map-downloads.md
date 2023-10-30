@@ -7,6 +7,9 @@ Die wichtigsten
 Cords: [Klicke hier](https://docs.google.com/spreadsheets/d/1WwJnW_DNhfov8kdCEfmtaetZmDRtk9CcKuqcTblibKc/)
 
 1.18 Community Server
-: Abschlusstour: [Klicke hier](https://youtu.be/DIsrLx1XOXs) \
+: Abschlusstour: [Siehe unten](#) \
 Map Download: [Klicke hier](https://drive.google.com/file/d/1ofcEedWs0scHFZnC_qTlybHT1dqRXrBp/view) \
 Die wichtigsten Cords: [Klicke hier](https://drive.google.com/file/d/1GS6Q-mXy2aWyikcperhichH2WDrNf-En/view)
+
+###### Abschlusstour 1.18 Community Server
+<video src="https://youtu.be/DIsrLx1XOXs"/>

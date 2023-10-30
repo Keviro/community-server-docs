@@ -1,7 +1,13 @@
 # Grundstücke
 
+<img src="https://i.imgur.com/m0udbaO.jpeg" alt="claim" border-effect="rounded" thumbnail="true" width="960" height="505"/>
+
+Die meisten Features auf dem Server wurden extra für diesen programmiert, ebenso dieses Protection System.
 Um ungestört bauen zu können, gibt es auf dem Server Grundstücke. Du hast eine begrenzte Anzahl an Blöcken, die du als
-Grundstück claimen kannst. Je länger du spielst, um so mehr Blöcke kannst du später claimen.
+Grundstück claimen kannst. Je länger du spielst, um so mehr Blöcke kannst du später claimen. Wenn ihr ein neues
+Grundstück erstellt oder erweitert, habt ihr ihr die Möglichkeit bis zu 8 Ecken mit Redstone Fackeln zu definieren,
+welche sich zu einem Grundstück verbinden. Mit diesem System könnt ihr euer Grundstück genau so festlegen, wie ihr es
+haben wollt und es muss nicht zwingend Rechteckig sein sondern kann auch schräg verlaufen.
 
 ###### Grundstücke claimen {collapsible="false" caps="sentence"}
 

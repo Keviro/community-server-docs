@@ -7,6 +7,13 @@
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
+
+        <footer>
+            <copyright>2023 CastCrafter</copyright>
+            <social type="youtube" href="https://www.youtube.com/@CastCrafter">
+                CastCrafter
+            </social>
+        </footer>
     </build-profile>
 
 </buildprofiles>
