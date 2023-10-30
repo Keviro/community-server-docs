@@ -11,3 +11,6 @@ Außerdem kannst du einen Rechtsklick mit einem Feuerstein machen. Dadurch öffn
 und alle Körperteile separat rotieren.
 
 > Um einen Rüstungsständer abzubauen, benötigst du eine Axt.
+
+
+Genauere Information folgen in Kürze.

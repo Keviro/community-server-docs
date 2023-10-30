@@ -11,8 +11,10 @@
         <toc-element topic="how-to-join.md"/>
         <toc-element topic="support.md"/>
         <toc-element topic="verified-mods.md"/>
+        <toc-element topic="Besonderheiten.md"/>
         <toc-element topic="plots.md"/>
         <toc-element topic="economy.md"/>
+        <toc-element topic="custom-enchantments.md"/>
         <toc-element topic="cosmetics.md"/>
         <toc-element topic="map-downloads.md"/>
     </toc-element>
