@@ -170,7 +170,7 @@ Farsight <i>(Nicht auf Modrinth verfügbar)</i>
 <a href="https://modrinth.com/mod/jade">Jade</a>
 </li>
 <li>
-<a href="https://modrinth.com/mod/enchantment-descriptions">https://modrinth.com/mod/jade</a>
+<a href="https://modrinth.com/mod/enchantment-descriptions">Enchantment Descriptions</a>
 </li>
 <li>
 <a href="https://modrinth.com/mod/shulkerboxtooltip">ShulkerBoxTooltip</a>
