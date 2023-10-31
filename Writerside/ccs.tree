@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="ccs"
-                 name="CastCrafter Community Server"
+                 name="Community Server"
                  start-page="Welcome.md">
 
     <toc-element topic="Welcome.md">
