@@ -1,5 +1,21 @@
 # Besonderheiten
 
+## Keine Villager {collapsible="true" default-state="collapsed"}
+
+Villager sind einfach ausgedrückt “zu OP” für eine funktionierende Economy. Würden wir Villager aktivieren, würden die
+meisten Items zu schnell an Wert verlieren. Durch das Deaktivieren von Villagern wird vor allem der Wert von Eisen,
+Enchantments im Allgemeinen aber auch Mending, Totems und anderen Items vor einem massiven Verfall bewahrt. \
+Auf dem alten Server wurden aufgrund der massenhaft von Villagern erschaffen Items viele Neulinge direkt ins Endgame
+befördert, indem sie “Endgame” Items geschenkt bekommen haben. Im Nether gab es Kisten, welche kostenlos Totems verteilt
+haben und Spieler somit direkt in den “Godmode” versetzt haben. Das möchten wir in einer Economy verhindern, da wir den
+Handel und die Interaktion unter den Spielern fördern möchten und somit ist das zwar ein extremer aber notwendiger
+Einschnitt in die Vanilla-Mechanik.
+
+> Um die Möglichkeit zu bewahren, trotz deaktivierter Villager an Totems zu kommen ist 
+> es nun möglich, diese ebenfalls wie Mending durch Fishing zu erhalten.
+
+{style="note"}
+
 ## Nether Portale {collapsible="true" default-state="collapsed"}
 
 Um einen größeren Nether von `5.000 · 5.000` Blöcken zu ermöglichen, haben wir uns dazu entschieden die Portal
