@@ -2,18 +2,26 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <primary-color>emerald</primary-color>
+        <header-logo>https://i.imgur.com/clhj72d.png</header-logo>
+        <max-search-results>3</max-search-results>
+    </variables>
+
     <build-profile instance="hi">
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
-
-        <footer>
-            <copyright>2023 CastCrafter</copyright>
-            <social type="youtube" href="https://www.youtube.com/@CastCrafter">
-                CastCrafter
-            </social>
-        </footer>
     </build-profile>
+    <footer>
+        <copyright>CastCrafter Community Server 2021-2023</copyright>
+        <social type="youtube" href="https://www.youtube.com/@CastCrafter">
+            YouTube
+        </social>
+        <social type="twitter" href="https://twitter.com/castcrafter">Twitter</social>
+        <social type="instagram" href="https://www.instagram.com/castagram_">Instagram</social>
+        <link href="https://discord.gg/castcrafter">Discord</link>
+        <link href="https://www.twitch.tv/castcrafter">Twitch</link>
+    </footer>
 
 </buildprofiles>
