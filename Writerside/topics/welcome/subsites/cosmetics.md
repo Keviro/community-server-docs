@@ -1,7 +1,6 @@
 # Köpfe und Rüstungsständer
 
-<img src="https://i.imgur.com/iI39y84.jpeg" alt="armorstands" thumbnail="true" height="95" width="12"/>
-<img src="https://i.imgur.com/i3HT4nj.jpeg" alt="verschwörung" thumbnail="true" height="95" width="12"/>
+![](https://i.imgur.com/ldr57s6.jpeg){ border-effect="rounded" thumbnail="true" preview-src="https://i.imgur.com/LV0GVIc.jpeg" }
 
 Mit dem Befehl `/hdb` hast du Zugriff auf ein Menü, mit dem du verschiedene Köpfe erhalten kannst, die du zum Bauen
 verwenden kannst.
