@@ -1,4 +1,4 @@
-# CastCrafter Community Server
+# Community Server
 
 Der Server ist für Zuschauer von [CastCrafter](%twitch_cast%) bestimmt.
 Für weitere Information, wie du dem Server beitreten kannst
