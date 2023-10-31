@@ -21,8 +21,8 @@ Solltet ihr vermehrt negativ mit Aktionen auffallen könnt ihr jederzeit vom Ser
    Möglichkeiten handelt. Bitte stelle sicher, dass alle Modifikationen, die du verwendest, ausschließlich clientseitig
    sind und das Verhalten des Spiels nicht verändern. Sollte es nicht klar sein, ob eine Modifikation erlaubt ist,
    verwendet sie nicht,
-   [werft einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der Geprüfte Modifikationen") weiter
-   unten oder kontaktiert den Support.
+   [werft einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der Geprüfte Modifikationen") oder
+   kontaktiert den Support.
 
 3. Game breaking Exploits wie das Dupen von Items oder Versuche den Server absichtlich zum Absturz zu bringen, sind
    untersagt. Bedrock Deletion, aber auch TNT-Duper sind hiervon ausgenommen.
