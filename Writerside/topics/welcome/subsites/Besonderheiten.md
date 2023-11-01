@@ -23,7 +23,7 @@ Umrechnung
 etwas anzupassen. Daher beträgt die Umrechnung vom Nether zur Overworld bei uns **1:4** anstelle der normalen 1:8
 Umrechnung. Behaltet dies also beim Bauen eurer Portale im Hinterkopf.
 
-## Quests {collapsible="true" default-state="collapsed"}
+## Quests {collapsible="true" default-state="collapsed" id="quests"}
 
 Für die Spieler, welche etwas Abwechslung zum Bauen brauchen bieten wir im Hub einige optionale Questreihen an, in denen
 sich einige Belohnungen verdienen lassen. Beim Release des Servers wird sich das Ganze jedoch noch sehr in Grenzen
@@ -36,9 +36,9 @@ interessierten Spielern aber die Möglichkeit mit anderen Spielern in-game zu sp
 installiert haben.
 <tabs>
     <tab title="Curseforge" group-key="mod-launcher-curse-forge">
-        <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple-Voice-Map Download</a>
+        <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple-Voice-Chat Download</a>
     </tab>
     <tab title="Modrinth" group-key="mod-launcher-modrinth">
-        <a href="https://modrinth.com/plugin/simple-voice-chat">Simple-Voice-Map Download</a>
+        <a href="https://modrinth.com/plugin/simple-voice-chat">Simple-Voice-Chat Download</a>
     </tab>
 </tabs>
