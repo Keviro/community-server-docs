@@ -1,7 +1,5 @@
 # Geprüfte Modifikationen
 
-
-
 In der nachfolgen Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden könnt. \
 Bitte beachtet, dass auch andere Mods erlaubt sind, welche die Kriterien in den Regeln erfüllen, doch folgende Mods
 wurden durch das Team geprüft.

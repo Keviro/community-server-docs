@@ -10,4 +10,8 @@
         <description>Created after removal of "Quests" from CastCrafter Community Server</description>
         <accepts>quests.html</accepts>
     </rule>
+    <rule id="18d34063">
+        <description>Created after removal of "Topic title" from Community Server</description>
+        <accepts>TestFile.html</accepts>
+    </rule>
 </rules>
