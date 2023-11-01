@@ -4,6 +4,8 @@
 
     <variables>
         <primary-color>emerald</primary-color>
+        <color-preset>vivid</color-preset>
+
         <header-logo>https://i.imgur.com/clhj72d.png</header-logo>
         <max-search-results>3</max-search-results>
     </variables>
