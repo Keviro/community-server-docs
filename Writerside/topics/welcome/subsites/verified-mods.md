@@ -47,7 +47,7 @@ wurden durch das Team geprüft.
 <a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items">Roughly Enough Items (REI)</a>
 </li>
 <li>
-<a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple VoiceChat</a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/plasmo-voice">Plasmo Voice</a>
 </li>
 <li>
 <a href="https://www.curseforge.com/minecraft/mc-mods/litematica">Litematica <b>(Ohne AutoBuild, Printer oder Easy Mode!!!)</b></a>
@@ -129,7 +129,7 @@ Inventory HUD+ <i>(Nicht auf Modrinth verfügbar)</i>
 <a href="https://modrinth.com/mod/rei">Roughly Enough Items (REI)</a>
 </li>
 <li>
-<a href="https://modrinth.com/plugin/simple-voice-chat">Simple VoiceChat</a>
+<a href="https://modrinth.com/plugin/plasmo-voice">Plasmo Voice</a>
 </li>
 <li>
 Litematica <b>(Ohne AutoBuild, Printer oder Easy Mode!!!)</b> <i>(Nicht auf Modrinth verfügbar)</i>

@@ -36,9 +36,9 @@ interessierten Spielern aber die Möglichkeit mit anderen Spielern in-game zu sp
 installiert haben.
 <tabs>
     <tab title="Curseforge" group-key="mod-launcher-curse-forge">
-        <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple-Voice-Chat Download</a>
+        <a href="https://www.curseforge.com/minecraft/mc-mods/plasmo-voice">Plasmo Voice Download</a>
     </tab>
     <tab title="Modrinth" group-key="mod-launcher-modrinth">
-        <a href="https://modrinth.com/plugin/simple-voice-chat">Simple-Voice-Chat Download</a>
+        <a href="https://modrinth.com/plugin/plasmo-voice">Plasmo Voice Download</a>
     </tab>
 </tabs>
