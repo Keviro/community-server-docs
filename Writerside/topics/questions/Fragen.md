@@ -4,7 +4,7 @@
 
 {collapsible="true" default-state="collapsed" }
 Wieso gibt es keine Villager?
-: Siehe [Besonderheiten](Besonderheiten.md#keine-villager "Klicke hier für mehr Information").
+: Siehe [Besonderheiten](specials.md#keine-villager "Klicke hier für mehr Information").
 
 {collapsible="true" default-state="collapsed" }
 Wieso sind Elytren im End deaktiviert?

@@ -2,8 +2,8 @@
 
 Einen Shop herstellen ist ganz einfach.
 
-> Du kannst Shops sowohl auf dem Survival Server als auch auf dem Shop Server erstellen. Allerdings kannst du ihn nur
-> auf dem Shop Server benutzen.
+> Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% erstellen.
+> Allerdings kannst du ihn nur auf dem [%shop-server-name%](servers.md "%shop-server-desc%") benutzen.
 
 {style="note"}
 
@@ -26,3 +26,17 @@ Für das Crafting Rezept benötigst du folgende Items:
 
 Wie du nun einen Shop erstellst, erfährst du
 hier: [Shop erstellen](create-shop.md "Hier findest du eine Anleitung, wie du einen Shop erstellen kannst.")
+
+####  Items in anderen Shops kaufen oder verkaufen {id="buy-sell" collapsible="true" default-state="collapsed"}
+
+<procedure type="choices">
+<step>
+Klicke auf den gewünschten Shop.
+</step>
+<step>
+Verwende die Güterlore, um Items von dem Shop zu kaufen.
+</step>
+<step>
+Verwende die Trichterlore, um Items an den Shop zu verkaufen.
+</step>
+</procedure>

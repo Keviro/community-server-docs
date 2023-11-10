@@ -10,7 +10,7 @@ Der Survival Server
 Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
 Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen zum Vanilla Gameplay. \
 Diese Änderungen sind in der
-Kategorie [Besonderheiten](Besonderheiten.md "Hier findest du einige besonderheiten von diesem Server.") aufgelistet.
+Kategorie [Besonderheiten](specials.md "Hier findest du einige besonderheiten von diesem Server.") aufgelistet.
 
 Der Shop Server
 : Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop eröffnen um deine
@@ -20,7 +20,7 @@ kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu präsentieren. \
 Informationen wie du einen Shop eröffnen kannst, findest du in der Kategorie [Shops](shops.md).
 
 Der Hub Server
-: Auf dem Hub Server kannst du unter anderem die verschiedenen [Quests](Besonderheiten.md#quests) starten, welche
+: Auf dem Hub Server kannst du unter anderem die verschiedenen [Quests](specials.md#quests) starten, welche
 dir `%main_currency%s` und andere Belohnungen einbringen. \
 Du kannst allerdings auch bei den verschiedenen NPCs, welche auf dem Hub verteilt sind, einkaufen und besondere Items
 bekommen.

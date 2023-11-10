@@ -13,15 +13,17 @@
         <toc-element topic="how-to-join.md"/>
         <toc-element topic="support.md">
         </toc-element>
-        <toc-element topic="Besonderheiten.md"/>
+        <toc-element topic="specials.md"/>
         <toc-element topic="servers.md"/>
         <toc-element topic="plots.md"/>
         <toc-element topic="economy.md"/>
         <toc-element topic="custom-enchantments.md"/>
         <toc-element topic="shops.md">
-            <toc-element topic="Shop-Verwalten.md"/>
             <toc-element topic="make-shop.md"/>
             <toc-element topic="create-shop.md"/>
+            <toc-element topic="manage-shop.md">
+                <toc-element topic="delete-shop.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="cosmetics.md"/>
         <toc-element topic="map-downloads.md"/>

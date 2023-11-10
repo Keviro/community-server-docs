@@ -13,4 +13,8 @@
     <var name="twitch_connect_tut"
          value="https://discord.com/channels/133198459531558912/1124438644523012234/1124440165943869441"/>
     <var name="twitch_cast" value="https://www.twitch.tv/castcrafter"/>
+    <var name="shop-server-name" value="Shop Server"/>
+    <var name="shop-server-desc" value="Hier erfährst du wie du auf den Shop Server kommst!"/>
+    <var name="remember-confirmation" value="Vergiss nicht, den Vorgang danach zu bestätigen,
+    da sonst deine Eingabe nicht gespeichert wird."/>
 </vars>
