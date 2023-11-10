@@ -1,3 +1,3 @@
 # community-server-docs
 
-Nichts kaputt machen
+Nichts kaputt machen!
