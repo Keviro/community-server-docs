@@ -27,4 +27,4 @@ bekommen.
 
 Der PvP Server
 : Auf dem PvP Server kannst du mit anderen Spielern kämpfen. \
-Mehr Informationen zum PvP Server findest du in der Kategorie [PvP](pvp.md).
+Mehr Informationen zum PvP Server findest du in der Kategorie `[PvP](pvp.md)`.
