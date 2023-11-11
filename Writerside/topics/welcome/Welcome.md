@@ -2,8 +2,7 @@
 
 Der Server ist für Zuschauer von [CastCrafter](%twitch_cast%) bestimmt.
 Für weitere Information, wie du dem Server beitreten kannst
-und was es zu beachten gibt, schau dir die Kategorien weiter
-unten an.
+und was es zu beachten gibt.
 
 Der Server wurde so gestaltet den Spielern möglichst viele Freiheiten zu bieten.
 Aus diesem Grund gibt es auf dem Server deutlich weniger Einschränkungen als man es von anderen öffentlichen SMP Servern
