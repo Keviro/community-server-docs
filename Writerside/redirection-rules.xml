@@ -14,4 +14,8 @@
         <description>Created after removal of "Topic title" from Community Server</description>
         <accepts>TestFile.html</accepts>
     </rule>
+    <rule id="677309af">
+        <description>Created after removal of "Zitate" from Community Server</description>
+        <accepts>quotes.html</accepts>
+    </rule>
 </rules>
