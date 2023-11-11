@@ -10,7 +10,7 @@
         <max-search-results>3</max-search-results>
     </variables>
 
-    <build-profile instance="hi">
+    <build-profile instance="ccs">
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
