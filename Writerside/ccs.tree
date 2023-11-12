@@ -38,6 +38,7 @@
         </toc-element>
         <toc-element topic="update-project.md"/>
         <toc-element topic="publish-changes.md"/>
+        <toc-element topic="create-merge-request.md"/>
     </toc-element>
     <toc-element topic="Fragen.md"/>
 </instance-profile>

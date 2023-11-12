@@ -61,7 +61,7 @@ Beispiel:
 ## Code {id="code"}
 
 Verwende Backticks \` \` oder dreifache Backticks \`\`\` \`\`\`, um Code-Text darzustellen. \
-Wenn du dreifache Backticks verwendest, kannst du auch die Sprache angeben, in der der Code geschrieben ist. \
+Wenn du dreifache Backticks verwendest, kannst du auch die Sprache angeben, in der Code geschrieben ist.
 
 Beispiel:
 

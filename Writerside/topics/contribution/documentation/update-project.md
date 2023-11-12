@@ -2,7 +2,7 @@
 switcher-label: Shortcuts
 ---
 
-# Projekt Updaten
+# Projekt & Fork Updaten
 
 <procedure title="Projekt Updaten" id="update">
 <step>
@@ -20,6 +20,24 @@ Dann wählst du <code>merge</code> aus und klickst auf <code>OK</code>.
 Wenn du <code>rebase</code> auswählst, werden deine Änderungen mit den Änderungen aus dem Repository überschrieben 
 und sie gehen verloren.
 </warning>
+</step>
+</procedure>
+
+<procedure title="Fork Updaten" id="update-fork">
+<step>
+Öffne die Github Seite <b>deines</b> Forks.
+</step>
+<step>
+Klicke auf den Button <code>Sync fork</code> und dann auf <code>Update branch</code>.
+<img src="https://i.imgur.com/yUevWzH.png" alt="Sync fork" style="block" thumbnail="true"/>
+</step>
+<step>
+Jetzt musst du nur noch kurz warten, bis dein Fork aktualisiert wurde.
+</step>
+<step>
+Es empfiehlt sich, dass du nun auch dein 
+<a href="update-project.md" anchor="update" summary="Projekt Updaten">Projekt updatest</a>
+wie oben beschrieben.
 </step>
 </procedure>
 

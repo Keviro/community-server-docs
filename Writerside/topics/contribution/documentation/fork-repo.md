@@ -18,6 +18,9 @@ Nun kannst du der Repository einen Namen geben und auf <code>Create Fork</code> 
 </step>
 <step>
 Nun hast du eine Kopie der Repository auf deinem Account.
+Diesen solltest du regelmäßig 
+<a href="update-project.md" anchor="update-fork" summary="Hier erfährst du wie deinen Fork updatest">updaten</a>
+um auf dem neusten Stand zu bleiben.
 </step>
 </procedure>
 
