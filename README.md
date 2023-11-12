@@ -1,3 +1,3 @@
-# community-server-docs
+# Community Server Docs
 
-Nichts kaputt machen
+Wie du zu dieser Dokumentation beitragen kannst, erfährst du auf der Dokumentationsseite [hier](https://docs.slne.dev/doc-contribution.html).
