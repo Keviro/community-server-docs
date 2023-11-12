@@ -1,5 +1,0 @@
-# Dokumentation Contribution
-
-## Voraussetzungen
-
-- 

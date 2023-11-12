@@ -17,3 +17,4 @@ und Elytren ist ebenfalls erlaubt.
 {style="warning"}
 
 Fange mit der Kategorie [Regeln](rules.md) an, um zu erfahren, was auf dem Server erlaubt ist und was nicht.
+
