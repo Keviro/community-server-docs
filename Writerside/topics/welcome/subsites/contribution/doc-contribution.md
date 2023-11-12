@@ -10,4 +10,3 @@
 > Eine Grobe übersicht wird in den folgenden Abschnitten gegeben.
 
 {style="note"}
-
