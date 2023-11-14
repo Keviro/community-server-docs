@@ -42,3 +42,7 @@ installiert haben.
         <a href="https://modrinth.com/plugin/plasmo-voice">Plasmo Voice Download</a>
     </tab>
 </tabs>
+
+## Geänderte Vanilla Mechaniken {collapsible="true" default-state="collapsed"}
+
+> Siehe [Geänderte Vanilla Mechaniken](changed-vanilla-mechanics.md "Geänderte Vanilla Mechaniken")
