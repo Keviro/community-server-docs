@@ -7,15 +7,15 @@ switcher-label: Shortcuts
 <procedure title="Projekt Updaten" id="update">
 <step>
 Öffne das Hauptmenü oben links in der Ecke.
-<img src="https://i.imgur.com/7hmYrrl.png" alt="Open Main-Menu" style="block"/>
+<img src="update-project-first.png" alt="Open Main-Menu" style="block"/>
 </step>
 <step>
 Klicke auf <code>Git</code> und dann auf <code>Update Project</code>.
-<img src="https://i.imgur.com/x8cSeVt.png" alt="Update Project" style="block" thumbnail="true"/>
+<img src="update-project-second.png" alt="Update Project" style="block" thumbnail="true"/>
 </step>
 <step>
 Dann wählst du <code>merge</code> aus und klickst auf <code>OK</code>.
-<img src="https://i.imgur.com/IFP6M8C.png" alt="Select merge" style="block"/>
+<img src="update-project-third.png" alt="Select merge" style="block"/>
 <warning>
 Wenn du <code>rebase</code> auswählst, werden deine Änderungen mit den Änderungen aus dem Repository überschrieben 
 und sie gehen verloren.
@@ -29,7 +29,7 @@ und sie gehen verloren.
 </step>
 <step>
 Klicke auf den Button <code>Sync fork</code> und dann auf <code>Update branch</code>.
-<img src="https://i.imgur.com/yUevWzH.png" alt="Sync fork" style="block" thumbnail="true"/>
+<img src="update-project-fourth.png" alt="Sync fork" style="block" thumbnail="true"/>
 </step>
 <step>
 Jetzt musst du nur noch kurz warten, bis dein Fork aktualisiert wurde.
