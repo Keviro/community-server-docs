@@ -3,7 +3,7 @@
 ## Feste Mining-Events
 Jeden **Montag, Dienstag, Mittwoch, Donnerstag und Freitag** finden um **20:00 Uhr** Mining-Events statt.
 Diese dauern 20 Minuten. Während diesem Event wird die Abbaugeschwindigkeit erhöht.
-Du bekommst den Eile (Haste) Effect mit einer zufälligen Stufe.
+Du bekommst den Eile (Haste) Effect mit der Stufe `10`.
 
 ## Spontane Mining-Events
 Es können auch spontane Mining-Events von Moderatoren und Administratoren gestartet werden.
