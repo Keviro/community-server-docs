@@ -38,7 +38,7 @@ Spawn Limit
 </table>
 
 
-<deflist id="spawn-limits-def" collapsible="true" default-state="collapsed">
+<deflist id="spawn-limits-def" collapsible="true" default-state="collapsed" type="medium">
 <def title="Ambient" id="spawn-limits-ambient">
 Die Konstante, die verwendet wird, um zu bestimmen, wie viele Umgebungsmobs pro Welt natürlich gespawnt werden sollen.
 </def>
@@ -109,9 +109,24 @@ Ticks-Per
     <td>16</td>
     <td>8</td>
 </tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-container-update" summary="%click-more-info%">Container Update</a></td>
+    <td>1</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-grass-spread" summary="%click-more-info%">Verbreitung von Gras</a></td>
+    <td>1</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-mob-spawner" summary="%click-more-info%">Mob Spawner</a></td>
+    <td>1</td>
+    <td>2</td>
+</tr>
 </table>
 
-<deflist id="ticks-per-settings-def" collapsible="true" default-state="collapsed">
+<deflist id="ticks-per-settings-def" collapsible="false" default-state="collapsed" type="medium">
 <def title="Ambient Spawn" id="ticks-per-ambient-spawn">
 Anzahl der Ticks zwischen jedem Versuch, Umgebungsmobs zu spawnen
 </def>
@@ -138,6 +153,15 @@ Die Anzahl der Ticks, die zwischen den Überprüfungen vergehen, um Gegenstände
 </def>
 <def title="Trichter Transfer" id="ticks-per-hopper-transfer">
 Die Anzahl der Ticks, die zwischen den Bewegungen von Gegenständen in einem Trichter vergehen.
+</def>
+<def title="Container Update" id="ticks-per-container-update">
+Die Anzahl der Ticks, die zwischen den Aktualisierungen von Containern und Inventaren vergehen.
+</def>
+<def title="Verbreitung von Gras" id="ticks-per-grass-spread">
+Die Anzahl der Ticks, die zwischen den Versuchen vergehen, Gras zu verbreiten.
+</def>
+<def title="Mob Spawner" id="ticks-per-mob-spawner">
+Die Anzahl der Ticks, die zwischen den Versuchen vergehen, Monster aus einem Mob Spawner zu spawnen.
 </def>
 </deflist>
 
@@ -171,7 +195,7 @@ Entity Activation Range
 </tr>
 </table>
 
-<deflist id="entity-activation-range-def" collapsible="true" default-state="collapsed">
+<deflist id="entity-activation-range-def" collapsible="true" default-state="collapsed" type="medium">
 <def title="Tiere" id="entity-activation-range-animals">
 Die Entfernung, in der Tiere aktiv sind.
 </def>
@@ -206,7 +230,7 @@ Verschmelzungsradius
 </tr>
 </table>
 
-<deflist id="merge-radius-def" collapsible="true" default-state="collapsed">
+<deflist id="merge-radius-def" collapsible="true" default-state="collapsed" type="medium">
 <def title="Items" id="merge-radius-item">
 Der Radius, in dem mehrere kleinere stacks von Items zu einem größeren verschmelzen.
 </def>
@@ -265,6 +289,12 @@ Item Despawn Rules
     <td></td>
     <td>Vanilla</td>
     <td>Community Server</td>
+</tr>
+<!-- Arrow -->
+<tr>
+    <td>Pfeil</td>
+    <td>1.200 (1m)</td>
+    <td>600 (30s)</td>
 </tr>
 <!-- acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves -->
 <tr>
@@ -393,3 +423,125 @@ Item Despawn Rules
     <td>600 (30s)</td>
 </tr>
 </table>
+
+### Despawn-Regeln für Entitäten {collapsible="true" default-state="collapsed" id="entity-despawn-rules"}
+
+
+Entity Despawn Rules
+: Bestimmt, wann Entitäten despawnen.
+
+<table style="both">
+<tr>
+    <td></td>
+    <td>Vanilla Soft</td>
+    <td>Vanilla Hard</td>
+    <td>Community Server Soft</td>
+    <td>Community Server Hard</td>
+</tr>
+<tr>
+    <td>Ambient</td>
+    <td>32</td>
+    <td>128</td>
+    <td>28</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Axolotl</td>
+    <td>32</td>
+    <td>128</td>
+    <td>28</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Monster</td>
+    <td>32</td>
+    <td>128</td>
+    <td>28</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Wasser Kreatur</td>
+    <td>32</td>
+    <td>128</td>
+    <td>28</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Kreatur</td>
+    <td>N/A</td>
+    <td>128</td>
+    <td>N/A</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Untergrund Wasser Kreatur</td>
+    <td>N/A</td>
+    <td>128</td>
+    <td>N/A</td>
+    <td>72</td>
+</tr>
+<tr>
+    <td>Wasser Ambient</td>
+    <td>32</td>
+    <td>N/A</td>
+    <td>28</td>
+    <td>N/A</td>
+</tr>
+<tr>
+    <td>Sonstige</td>
+    <td>N/A</td>
+    <td>128</td>
+    <td>N/A</td>
+    <td>72</td>
+</tr>
+</table>
+
+<deflist collapsible="true" default-state="collapsed">
+<def title="Soft Despawn Range" id="soft-despawn-range">
+Die "Soft Despawn Range" bezeichnet die Distanz in Blöcken um einen Spieler herum, außerhalb derer verschiedene
+Entitätentypen (für jeden Typ individuell festgelegt) zufällig zum Verschwinden ausgewählt werden können. 
+Diese Regel gilt sowohl horizontal als auch vertikal.
+
+<tip>
+In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine andere Kreatur – sich außerhalb dieser festgelegten Distanz zum Spieler befindet, kann sie zufällig despawnen.
+</tip>
+</def>
+<def title="Hard Despawn Range" id="hard-despawn-range">
+Die "Hard Despawn Range" bezeichnet die Distanz in Blöcken um einen Spieler herum, außerhalb derer verschiedene
+Entitätentypen (für jeden Typ individuell festgelegt) auf jeden Fall despawnen. 
+Diese Regel gilt sowohl horizontal als auch vertikal.
+
+<tip>
+In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine andere Kreatur – sich außerhalb dieser festgelegten Distanz zum Spieler befindet, wird sie auf jeden Fall despawnen.
+</tip>
+</def>
+</deflist>
+
+
+## Alternate Current Redstone-Implementierung {collapsible="true" default-state="collapsed" id="alternate-current"}
+
+Der Server verwendet
+die [Alternate Current Redstone-Implementierung
+![logo](https://i.imgur.com/Xn4Ya2P.png) {border-effect="rounded"}](https://github.com/SpaceWalkerRS/alternate-current/blob/main/README.md "Alternate Current Redstone-Implementierung")
+um die Leistung von Redstone-Systemen zu verbessern.
+
+Alternate Current
+: "Alternate Current" ist eine effiziente, nicht-lokationsabhängige Redstone-Staub-Implementierung. Der Hauptfokus liegt
+darauf, die durch Redstone-Staub verursachte Verzögerung zu verringern, indem Leistungsberechnungen optimiert und die
+Anzahl an Form- und Block-Updates reduziert werden. Diese Implementierung macht die Update-Reihenfolge von
+Redstone-Staubnetzwerken vorhersehbar und intuitiv, anstatt positionsabhängig und chaotisch zu sein.
+
+Leistungsverbesserung
+: Die Leistungsbeiträge (MSPT) von Redstone-Staub sind mit "Alternate Current" bis zu 20 Mal niedriger als in Vanilla,
+bei gleichzeitiger Beibehaltung hoher Vanilla-Parität. Durch die geringe Anzahl an Code-Modifikationen ist es eine
+einfach einzubindende Alternative zum Vanilla-Redstone-Staub.
+
+Funktionsweise
+: "Alternate Current" verwendet einen Algorithmus, der folgende Ziele verfolgt: \
+\
+Minimierung der Häufigkeit, mit der eine Leitung ihre Umgebung überprüft, um ihren Leistungspegel zu bestimmen.
+Minimierung der Anzahl von Block- und Form-Updates.
+Ausgabe von Block- und Form-Updates in einer deterministischen, nicht-lokationsabhängigen Reihenfolge.
+Im Gegensatz zu Vanilla, wo eine Redstone-Leitung ihre Leistungsstufe isoliert berechnet, baut "Alternate Current" ein
+Netzwerk verbundener Leitungen auf und verbreitet von dort aus die Energie. Dadurch werden weniger häufige und weniger
+redundante Updates erzeugt.
