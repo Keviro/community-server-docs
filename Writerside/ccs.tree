@@ -4,8 +4,9 @@
 
 <instance-profile id="ccs"
                  name="Community Server"
-                 start-page="Welcome.md">
+                 start-page="community-server-documentation.topic">
 
+    <toc-element topic="community-server-documentation.topic"/>
     <toc-element topic="Welcome.md" accepts-web-file-names-ref="677309af">
         <toc-element topic="rules.md">
             <toc-element topic="verified-mods.md"/>
