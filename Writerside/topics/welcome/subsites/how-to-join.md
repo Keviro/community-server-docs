@@ -1,7 +1,12 @@
 # Wie kann ich dem Server beitreten?
 
 Du benötigst die [Java-Edition](https://minecraft.fandom.com/wiki/Java_Edition) in der Version
-[%required_game_version%](%required_game_version_link%) um auf dem Server zu spielen.
+[%required_game_version%](%required_game_version_link%), um auf dem Server zu spielen.
+
+> Wichtig: Wenn du den Server betrittst, bestätigst du automatisch, dass du die [Regeln](rules.md "Hier findest du die Regeln")
+> gelesen und akzeptiert hast.
+
+{style="warning"}
 
 #### Ein Großteil des Servers ist nicht öffentlich zugänglich und befindet sich hinter einer Whitelist!
 
