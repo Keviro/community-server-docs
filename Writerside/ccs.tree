@@ -15,6 +15,7 @@
         <toc-element topic="support.md">
         </toc-element>
         <toc-element topic="specials.md">
+            <toc-element topic="fishing-events.md"/>
             <toc-element topic="changed-vanilla-mechanics.md"/>
         </toc-element>
         <toc-element topic="servers.md"/>
@@ -31,7 +32,6 @@
         <toc-element topic="cosmetics.md"/>
         <toc-element topic="map-downloads.md"/>
     </toc-element>
-    <toc-element topic="fishing-events.md"/>
     <toc-element topic="contribution.md">
         <toc-element topic="doc-contribution.md">
             <toc-element topic="fork-repo.md"/>
