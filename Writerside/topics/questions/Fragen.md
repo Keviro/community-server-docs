@@ -16,7 +16,7 @@ Das End ist die einzige Dimension, welche nicht vorher generiert wird und es gen
 massenhaft neue Chunks.
 
 #### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" }
-Es gibt regelmäßige [MiningEvents](mining-events.md) und [AngelEvents](fishing-events.md).
+Es gibt regelmäßige [MiningEvents](events.md#mining-events) und [AngelEvents](events.md#fishing-events).
 
 >Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter dem [Server Update Channel](%com_updates_channel%) darüber informiert.
 > {style="note"}
