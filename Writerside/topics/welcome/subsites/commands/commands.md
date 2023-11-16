@@ -2,7 +2,7 @@
 
 **Folgende Befehle kannst du auf dem Server verwenden:**
 
-#### Chat und Tectnachrichten {collapsible="true" default-state="collapsed"}
+#### Chat und Textnachrichten {collapsible="true" default-state="collapsed"}
 
 <deflist type="wide">
 <def title="/msg [SPIELER] [NACHRICHT]">
@@ -27,7 +27,7 @@ Blockiert den angegebenen Spieler im Chat.
 Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
 </def>
 <def title="/balance [CastCoin/ EventCoin]">
-Zeigt den aktuellen Kontostand der CastCoins oder EventCoins an.
+Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
 </def>
 <def title="/lastseen [SPIELER]">
 Deaktiviert / Aktiviert Privatnachrichten an dich.
@@ -44,7 +44,7 @@ Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war
 Gibt dir den Kopf des angegebenen Spielers.
 </def>
 <def title="/heads">
-Öffnet ein Menu, aus welchem man Köpfe bekommen kann.
+Öffnet ein Menü, aus welchem man Köpfe bekommen kann.
 </def>
 </deflist>
 
@@ -63,7 +63,7 @@ Jeglicher <b>Missbrauch</b> dieses Befehls wird Folgen haben und kann zum <b>Aus
 </warning>
 </def>
 <def title="/protect ">
-Öffnet ein Menu, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
+Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
 Grundstücke, welche in deinem Besitz sind anzuzeigen.
 </def>
 </deflist>
@@ -72,7 +72,7 @@ Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 <deflist type="wide">
 <def title="/chestprotect">
-Öffnet das Hauptmenu von Chestprotect.
+Öffnet das Hauptmenü von Chestprotect.
 </def>
 <def title="/lock">
 Sperrt eine Kiste nach anschließendem anklicken.
