@@ -8,5 +8,7 @@ Du bekommst den Glück (Luck) Effect mit einer zufälligen Stufe.
 ## Spontane Angel-Events
 Es können auch spontane Angel-Events von Moderatoren und Administratoren gestartet werden.
 Das ist aber die Entscheidung der Person.
-Das **Auffordern** ein Angel-Event zu starten ist **strengstens Verboten!**
-Solltest du so etwas machen kannst du mit **Chat-Mutes** und **anderen Strafen** rechnen.
+>Das **Auffordern** ein Angel-Event zu starten ist **strengstens Verboten!**
+>Solltest du so etwas machen kannst du mit **Chat-Mutes** und **anderen Strafen** rechnen.
+
+{style="warning"}
