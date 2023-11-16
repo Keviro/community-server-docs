@@ -3,16 +3,16 @@
 <procedure title="Änderungen Veröffentlichen" id="publish">
 <step>
 Klicke links am Rand auf <code>Commit</code>.
-<img src="https://i.imgur.com/h60dk06.png" alt="Commit" style="block"/>
+<img src="publish-changes-first.png" alt="Commit" style="block"/>
 </step>
 <step>
 Wähle die Dateien aus, die du veröffentlichen möchtest. In der Regel sind das alle Dateien, die du geändert hast.
-<img src="https://i.imgur.com/FJHfvFs.png" alt="Select commit files" style="block" thumbnail="true"/>
+<img src="publish-changes-second.png" alt="Select commit files" style="block" thumbnail="true"/>
 </step>
 <step>
 Dann Klicke auf <code>Build Commit Message</code> um eine Commitnachricht zu erstellen, damit andere wissen, 
 was du geändert hast.
-<img src="https://i.imgur.com/Tl2hsiV.png" alt="Build Commit Message" thumbnail="true" style="block"/>
+<img src="publish-changes-third.png" alt="Build Commit Message" thumbnail="true" style="block"/>
 </step>
 <step>
 <p>
@@ -30,15 +30,15 @@ Jetzt öffnet sich ein Pop-Up, in dem du deine Commitnachricht schreiben kannst.
 <p>
 <b>Body:</b> Hier kommt eine ausführliche Beschreibung der Änderung rein. Also z.B. <code>There was a typo in the documentation</code>.
 </p>
-<img src="https://i.imgur.com/7lqcE31.png" alt="Build Commit Message PopUp" style="block"/>
+<img src="publish-changes-fourth.png" alt="Build Commit Message PopUp" style="block"/>
 </step>
 <step>
 Klicke auf <code>Commit and Push...</code> um die Änderungen in deinem fork zu veröffentlichen.
-<img src="https://i.imgur.com/WMJMElY.png" alt="Commit and Push..." style="block" thumbnail="true"/>
+<img src="publish-changes-fifth.png" alt="Commit and Push..." style="block" thumbnail="true"/>
 </step>
 <step>
 Jetzt öffnet sich ein Pop-Up, in dem du deine Änderungen nochmal sehen kannst.
 Klicke auf <code>Push</code> um die Änderungen zu veröffentlichen.
-<img src="https://i.imgur.com/R1spPVF.png" alt="Push" style="block" thumbnail="true"/>
+<img src="publish-changes-sixth.png" alt="Push" style="block" thumbnail="true"/>
 </step>
 </procedure>

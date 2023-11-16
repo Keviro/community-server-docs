@@ -10,11 +10,11 @@ der Community Server Dokumentation
 </step>
 <step>
 Klicke auf den Button <code>Fork</code> oben rechts
-<img src="https://i.imgur.com/bgv8CBn.png" alt="Fork Repository" style="block" thumbnail="true"/>
+<img src="fork-repo-first.png" alt="Fork Repository" style="block" thumbnail="true"/>
 </step>
 <step>
 Nun kannst du der Repository einen Namen geben und auf <code>Create Fork</code> klicken.
-<img src="https://i.imgur.com/Gx3wzfE.png" alt="Fork Repository" style="block" thumbnail="true"/>
+<img src="fork-repo-second.png" alt="Fork Repository" style="block" thumbnail="true"/>
 </step>
 <step>
 Nun hast du eine Kopie der Repository auf deinem Account.

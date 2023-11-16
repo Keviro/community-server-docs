@@ -10,12 +10,12 @@ Gehe auf die Seite <b>deines</b> Forks auf GitHub.
 </step>
 <step>
 Klicke auf den Button <code>Contribute</code> und wähle <code>Open pull request</code> aus.
-<img src="https://i.imgur.com/NbCY6BW.png" alt="Contribute" style="block" thumbnail="true"/>
+<img src="open-pull-request.png" alt="Contribute" style="block" thumbnail="true"/>
 </step>
 <step>
 Gebe der Pull Request einen Titel und eine Beschreibung.
 Klicke dann auf <code>Create pull request</code>.
-<img src="https://i.imgur.com/OAKaPcb.png" alt="Create pull request" style="block" thumbnail="true"/>
+<img src="create-pull-request.png" alt="Create pull request" style="block" thumbnail="true"/>
 </step>
 <step>
 Jetzt musst du nur noch warten, dass ein Teammitglied deine Änderungen überprüft und akzeptiert.
