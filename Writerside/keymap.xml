@@ -5,4 +5,9 @@
         <Shortcut layout="primary_Windows">Ctrl+C</Shortcut>
         <Shortcut layout="primary_macOS">Meta+C</Shortcut>
     </Action>
+    <Action id="$Enter">
+        <Description>Enter</Description>
+        <Shortcut layout="primary_Windows">Enter</Shortcut>
+        <Shortcut layout="primary_macOS">Enter</Shortcut>
+    </Action>
 </Keymap>

@@ -8,7 +8,9 @@
 #### Wie komme ich auf den Shopserver? {collapsible="true" default-state="collapsed" }
 Du kannst den Shopserver betreten, indem du mit dem Kapitän Nepomuk auf dem Schiff in der Nähe des Spawn redest.
 Hierzu musst du mit dem Mausrad scrollen, bis das Feld "Zum Marktplatz" gelb hinterlegt ist.
-Anschließend bestätigst du mit der ENTER Taste den Vorgang und wirst auf den Server erbunden.
+Anschließend bestätigst du mit der 
+<shortcut key="$Enter"/>
+Taste den Vorgang und wirst auf den Server erbunden.
 
 #### Wieso sind Elytren im End deaktiviert? {collapsible="true" default-state="collapsed"}
 Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll. Es gestaltet das “Ende des Spiels” anspruchsvoller, erhält
