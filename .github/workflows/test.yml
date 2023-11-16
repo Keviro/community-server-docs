@@ -2,6 +2,14 @@ on:
   pull_request_review_comment:
     types:
       - created
+
+  workflow_dispatch:
+    inputs:
+      comment:
+        description: 'Comment'
+        required: true
+        default: '/test'
+
 jobs:
   build:
     if: contains(github.event.comment.body, '/test')
@@ -17,22 +25,22 @@ jobs:
           artifact: ${{ env.ARTIFACT }}
           docker-version: ${{ env.DOCKER_VERSION }}
 
-#      - name: Upload documentation
-#        uses: actions/upload-artifact@v3
-#        with:
-#          name: docs
-#          path: |
-#            artifacts/${{ env.ARTIFACT }}
-#            artifacts/report.json
-#          retention-days: 7
-#
-#      # Add the step below to upload Algolia indexes
-#      - name: Upload algolia-indexes
-#        uses: actions/upload-artifact@v3
-#        with:
-#          name: algolia-indexes
-#          path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
-#          retention-days: 7
+  #      - name: Upload documentation
+  #        uses: actions/upload-artifact@v3
+  #        with:
+  #          name: docs
+  #          path: |
+  #            artifacts/${{ env.ARTIFACT }}
+  #            artifacts/report.json
+  #          retention-days: 7
+  #
+  #      # Add the step below to upload Algolia indexes
+  #      - name: Upload algolia-indexes
+  #        uses: actions/upload-artifact@v3
+  #        with:
+  #          name: algolia-indexes
+  #          path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
+  #          retention-days: 7
 
   # Add the job below and artifacts/report.json on Upload documentation step above if you want to fail the build when documentation contains errors
   test:
