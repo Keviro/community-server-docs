@@ -16,6 +16,7 @@
         </toc-element>
         <toc-element topic="commands.md"/>
         <toc-element topic="specials.md">
+            <toc-element topic="community-events.md"/>
             <toc-element topic="mining-events.md"/>
             <toc-element topic="fishing-events.md"/>
             <toc-element topic="changed-vanilla-mechanics.md"/>

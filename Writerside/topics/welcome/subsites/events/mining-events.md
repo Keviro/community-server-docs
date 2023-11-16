@@ -8,5 +8,7 @@ Du bekommst den Eile (Haste) Effect mit der Stufe `10`.
 ## Spontane Mining-Events
 Es können auch spontane Mining-Events von Moderatoren und Administratoren gestartet werden.
 Das ist aber die Entscheidung der Person.
-Das **Auffordern** ein Mining-Event zu starten ist **strengstens Verboten!**
-Solltest du so etwas machen kannst du mit **Chat-Mutes** und **anderen Strafen** rechnen.
+>Das **Auffordern** ein Mining-Event zu starten ist **strengstens Verboten!**
+>Solltest du so etwas machen kannst du mit **Chat-Mutes** und **anderen Strafen** rechnen.
+
+{style="warning"}
