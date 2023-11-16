@@ -4,6 +4,8 @@ Auf dem Community Server gibt es verschiedene Server, welche alle unterschiedlic
 Im Folgenden werden die verschiedenen Server kurz vorgestellt.
 
 > Auf jedem Server gibt es ein Schiff am Spawn mit einem Kapitän, welcher dich zu den anderen Servern bringt.
+> Hierzu musst du mit dem Kapitän reden. Anschließend kannst du mit dem Mausrad scrollen, bis dein gewünschter Server gelb hinterlegt ist.
+> Dann bestätigst du mit der <shortcut key="$Enter"/>Taste den Vorgang und wirst auf den Server verbunden.
 
 Der Survival Server
 : Der Survival Server ist der Hauptserver des Community Servers. \
@@ -13,7 +15,7 @@ Diese Änderungen sind in der
 Kategorie [Besonderheiten](specials.md "Hier findest du einige besonderheiten von diesem Server.") aufgelistet.
 
 Der Shop Server
-: Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop eröffnen um deine
+: Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop eröffnen, um deine
 Items zu verkaufen und `%main_currency%s` zu verdienen. \
 Der Shop Server ist ein reiner Wirtschaftsserver, auf dem es keine Möglichkeit gibt zu bauen oder zu farmen. Allerdings
 kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu präsentieren. \
@@ -28,3 +30,4 @@ bekommen.
 Der PvP Server
 : Auf dem PvP Server kannst du mit anderen Spielern kämpfen. \
 Mehr Informationen zum PvP Server findest du in der Kategorie `[PvP](pvp.md)`.
+

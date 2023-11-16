@@ -6,6 +6,7 @@
     <var name="required_game_version_link"
          value="https://minecraft.fandom.com/wiki/Java_Edition_1.20.1"/>
     <var name="main_currency" value="CastCoin"/>
+    <var name="event_coin" value="Event Coin"/>
     <var name="paycheck" value="500"/>
 
     <var name="dc_link" value="https://discord.gg/castcrafter"/>
@@ -22,4 +23,5 @@
     <var name="git-repo-clone-link" value="https://github.com/Keviro/community-server-docs.git"/>
     <var name="git-repo-link" value="https://github.com/Keviro/community-server-docs"/>
     <var name="click-more-info" value="Klicke hier für mehr Informationen!"/>
+
 </vars>

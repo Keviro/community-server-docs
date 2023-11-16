@@ -1,4 +1,4 @@
-# Support und Erstattungen
+# Support, Erstattungen & Bugreport
 
 Support
 : Der Support findet, abgesehen von generellen Fragen, lediglich über das Ticket System statt. Solltest du Hilfe
@@ -12,3 +12,8 @@ kann. In der Regel wird dafür ein Video benötigt. Wir empfehlen deshalb allen 
 entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia
 oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-relive) für AMD zu verwenden, um im Notfall die letzten
 5 Minuten als Video speichern zu können.
+
+Bugreport 
+: Wenn du einen Bug auf dem Server gefunden hast, bitten wir dich diesen umgehend in einem [Bugreport Ticket](%tickets_channel%) 
+auf dem [Discord Server](%dc_link%) zu melden. Beschreibe hierzu so genau wie möglich, was vorgefallen ist. Bitte beschreibt so genau wie möglich, was ihr gemacht habt und was hätte passieren sollen.
+Screenshots und vor allem Videos sind gerne gesehen.
