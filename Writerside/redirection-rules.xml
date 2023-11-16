@@ -22,4 +22,16 @@
         <description>Created after removal of "Tutorial Seite" from Community Server</description>
         <accepts>tutorial-site.html</accepts>
     </rule>
+    <rule id="69fff3c3">
+        <description>Created after removal of "Community-Events" from Community Server</description>
+        <accepts>community-events.html</accepts>
+    </rule>
+    <rule id="7bd1666b">
+        <description>Created after removal of "Mining Events" from Community Server</description>
+        <accepts>mining-events.html</accepts>
+    </rule>
+    <rule id="3e2f7fc9">
+        <description>Created after removal of "Angel Events" from Community Server</description>
+        <accepts>fishing-events.html</accepts>
+    </rule>
 </rules>
