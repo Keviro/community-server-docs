@@ -8,6 +8,12 @@
 
         <header-logo>https://i.imgur.com/clhj72d.png</header-logo>
         <max-search-results>3</max-search-results>
+
+        <!-- algolia search -->
+        <algolia-id>XOZHNXNWCN</algolia-id>
+        <algolia-index>docs_search</algolia-index>
+        <algolia-api-key>59b8b48eca30d39c1b02a2c78b93f948</algolia-api-key>
+        <web-root>https://docs.slne.dev/</web-root>
     </variables>
 
     <build-profile instance="ccs">
