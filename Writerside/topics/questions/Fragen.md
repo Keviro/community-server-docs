@@ -6,9 +6,7 @@
 > Siehe [Besonderheiten](specials.md#keine-villager "Klicke hier für mehr Information").
 
 #### Wie komme ich auf den Shopserver? {collapsible="true" default-state="collapsed" }
-Du kannst den Shopserver betreten, indem du mit dem Kapitän Nepomuk auf dem Schiff in der Nähe des Spawn redest.
-Hierzu musst du mit dem Mausrad scrollen, bis das Feld "Zum Marktplatz" gelb hinterlegt ist.
-Anschließend bestätigst du mit der ENTER Taste den Vorgang und wirst auf den Server erbunden.
+Wie du zwischen den verschiedenen Servern wechselt, erfährst du **[HIER](servers.md)**.
 
 #### Wieso sind Elytren im End deaktiviert? {collapsible="true" default-state="collapsed"}
 Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll. Es gestaltet das “Ende des Spiels” anspruchsvoller, erhält
@@ -20,13 +18,13 @@ massenhaft neue Chunks.
 #### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" }
 Es gibt regelmäßige [MiningEvents](mining-events.md) und [AngelEvents](fishing-events.md).
 
->Wenn ein größeres Event stattfindet, wirst du im [Discord](https://discord.com/channels/133198459531558912/980810495877607524) darüber informiert.
+>Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter dem [Server Update Channel](%com_updates_channel%) darüber informiert.
 > {style="note"}
 
 #### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" }
 Nein, als Veteran hat man keine großen Vorteile. Man kann dennoch den Server betreten, obwohl er schon voll ist.
 
->Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens 200 Spielstunden hatte.
+>Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
 > {style="note"}
 
 #### Wieso gibt es keine Teleportation? {collapsible="true" default-state="collapsed" }
@@ -44,7 +42,7 @@ Block-Limit mehr. Die Tickrate von Hoppern ist jedoch leider weiterhin reduziert
 sonst irgendwann an seine Grenzen stößt und niemand hat etwas von schnellen Hoppern, wenn dafür die TPS auf 12 hängen.
 
 #### Was mache ich, wenn ich versehentlich gebannt werde? {collapsible="true" default-state="collapsed" }
-Wenn du denkst dir ist mit einem Ausschluss des Server unrecht getan, öffne ein [Ticket](support.md)
+Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, öffne ein [Ticket](support.md)
 
 #### Kann ich LightBlocks und unsichtbare Itemframes bekommen? {collapsible="true" default-state="collapsed" }
 Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im Survival zu
@@ -57,10 +55,10 @@ Damit kannst du den Rüstungsständern zum Beispiel Arme geben und alle Körpert
 Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 
 #### Was mache ich, wenn ein Spieler mich betrügt oder beklaut? {collapsible="true" default-state="collapsed" }
-Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattung](support.md "Klicke hier für mehr Information").
+Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
 
 #### Wie gehe ich vor, wenn ich einen Bug entdecke? {collapsible="true" default-state="collapsed" }
 öffne hierzu ein [Bugreport Ticket](support.md).
 
->Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch eines Bugs wird als Exploit angesehen und wird mit einem Ausschluss des Servers bestraft!
+>Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
 > {style="warning"}
