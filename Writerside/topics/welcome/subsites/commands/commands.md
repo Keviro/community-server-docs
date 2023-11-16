@@ -2,134 +2,108 @@
 
 **Folgende Befehle kannst du auf dem Server verwenden:**
 
+#### Chat und Tectnachrichten {collapsible="true" default-state="collapsed"}
 
-<procedure title="Chat und Textnachrichten" collapsible="true" default-state="collapsed">
-<step>
-/msg [SPIELER] [NACHRICHT]
+<deflist type="wide">
+<def title="/msg [SPIELER] [NACHRICHT]">
+Schickt eine Privatnachricht an den angegebenen Spieler.
+</def>
+<def title="/r [NACHRICHT]">
+Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
+</def>
+<def title="/msgtoggle">
+Deaktiviert / Aktiviert Privatnachrichten an dich.
+</def>
+<def title="/block [SPIELER]">
+Blockiert den angegebenen Spieler im Chat.
+</def>
+</deflist>
 
-→ Schickt eine Privatnachricht an den jeweiligen Spieler.
-</step>
-<step>
-/r [NACHRICHT]
 
-→ Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
+#### Informationen {collapsible="true" default-state="collapsed"}
 
-</step>
-<step>
-/msgtoggle
+<deflist type="wide">
+<def title="/playtime]">
+Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
+</def>
+<def title="/balance [CastCoin/ EventCoin]">
+Zeigt den aktuellen Kontostand der CastCoins oder EventCoins an.
+</def>
+<def title="/lastseen [SPIELER]">
+Deaktiviert / Aktiviert Privatnachrichten an dich.
+</def>
+<def title="/block [SPIELER]">
+Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
+</def>
+</deflist>
 
-→ Deaktiviert / Aktiviert Privatnachrichten an dich.
-</step>
-<step>
-/block [SPIELER]
+#### Köpfe {collapsible="true" default-state="collapsed"}
 
-→ Blockiert den jeweiligen Spieler im Chat.
-</step>
-</procedure>
+<deflist type="wide">
+<def title="/phead [SPIELER]">
+Gibt dir den Kopf des angegebenen Spielers.
+</def>
+<def title="/heads">
+Öffnet ein Menu, aus welchem man Köpfe bekommen kann.
+</def>
+</deflist>
 
-<procedure title="Informationen" collapsible="true" default-state="collapsed">
-<step>
-/playtime
+#### Grundstücke {collapsible="true" default-state="collapsed"}
 
-→ Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
+<deflist type="wide">
+<def title="/pwho">
+Zeigt an, auf welchem Grundstück du dich gerade befindest.
+</def>
+<def title="/unstuck">
+Befreit dich, falls du auf einem fremden Grundstück feststeckst.
+<warning>
+Dieser Befehl ist dafür gedacht, dich aus einem <b>fremden Grundstück</b> zu <b>befreien</b>,
+wenn du <b>feststecken</b> solltest.
+Jeglicher <b>Missbrauch</b> dieses Befehls wird Folgen haben und kann zum <b>Ausschluss des Servers</b> führen.
+</warning>
+</def>
+<def title="/protect ">
+Öffnet ein Menu, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
+Grundstücke, welche in deinem Besitz sind anzuzeigen.
+</def>
+</deflist>
 
-</step>
-<step>
-/balance [CastCoin/ EventCoin]
+#### Chestprotect {collapsible="true" default-state="collapsed"}
 
---> Zeigt den aktuellen Kontostand der CastCoins oder EventCoins an.
-</step>
-<step>
-/lastseen [SPIELER]
+<deflist type="wide">
+<def title="/chestprotect">
+Öffnet das Hauptmenu von Chestprotect.
+</def>
+<def title="/lock">
+Sperrt eine Kiste nach anschließendem anklicken.
+</def>
+<def title="/trust [SPIELER]">
+Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
+</def>
+<def title="/untrust [SPIELER] ">
+Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
+</def>
+</deflist>
 
-→ Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
-</step>
-</procedure>
+#### Positionen {collapsible="true" default-state="collapsed"}
 
-<procedure title="Köpfe" collapsible="true" default-state="collapsed">
-<step>
-/phead [SPIELER]
+<deflist type="wide">
+<def title="/lay">
+Mit diesem Befehl kannst du dich auf den Boden legen.
+</def>
+<def title="/crawl">
+Mit diesem Befehl kannst du auf dem Boden krabbeln.
+</def>
+<def title="/bellyflop">
+Mit diesem Befehl kannst du dich auf den Boden legen.
+</def>
+<def title="/sit ">
+Mit diesem Befehl kannst du dich hinsetzen.
+<note>
+Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
+</note>
+</def>
+</deflist>
 
-→ Gibt dir den Kopf eines jeweiligen Spielers.
-</step>
-<step>
-/heads
-
-→ Öffnet ein Menu, aus welchem man Köpfe bekommen kann.
-</step>
-</procedure>
-
-<procedure title="Grundstücke" collapsible="true" default-state="collapsed">
-<step>
-/pwho
-
-→ Zeigt an, auf welchem Grundstück du dich gerade befindest.
-</step>
-<step>
-/unstuck
-
-→ Befreit dich, falls du auf einem fremden Grundstück feststeckst.
-> Dieser Befehl ist dafür gedacht, dich aus einem **fremden Grundstück** zu **befreien**, wenn du **feststecken**
-> solltest. Jeglicher **Missbrauch** dieses Befehls wird Folgen haben und kann zum **Ausschluss des Servers** führen.
-> {style="warning"}
-
-</step>
-<step>
-/protect 
-
-→ Öffnet ein Menu, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
-Grundstücke, welche in deinem besitz sind anzuzeigen.
-</step>
-</procedure>
-
-<procedure title="Chestprotect" collapsible="true" default-state="collapsed">
-<step>
-/chestprotect
-
-→ Öffnet das Hauptmenu von Chestprotect.
-</step>
-<step>
-/unlock
-
-→ Entsperrt eine Kiste nach anschließendem anklicken.
-</step>
-<step>
-/trust [SPIELER]
-
-→ Fügt einen jeweiligen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
-</step>
-<step>
-/untrust [SPIELER]
-
-→ Entfernt einen jeweiligen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
-</step>
-</procedure>
-
-<procedure title="Positionen" collapsible="true" default-state="collapsed">
-<step>
-/lay 
-
-→ Mit diesem Befehl kannst du dich auf den Boden legen.
-
-</step>
-<step>
-/crawl
-
-→ Mit diesem Befehl kannst du auf dem Boden krabbeln.
-</step>
-<step>
-/bellyflop
-
-→ Mit diesem Befehl kannst du dich auf den Boden legen.
-</step>
-<step>
-/sit
-
-→ Mit diesem Befehl kannst du dich hinsetzen.
-
-> Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
-> {style="note"}
-</step>
-</procedure>
 
 

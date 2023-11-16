@@ -13,7 +13,7 @@ Diese Änderungen sind in der
 Kategorie [Besonderheiten](specials.md "Hier findest du einige besonderheiten von diesem Server.") aufgelistet.
 
 Der Shop Server
-: Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop eröffnen um deine
+: Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop eröffnen, um deine
 Items zu verkaufen und `%main_currency%s` zu verdienen. \
 Der Shop Server ist ein reiner Wirtschaftsserver, auf dem es keine Möglichkeit gibt zu bauen oder zu farmen. Allerdings
 kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu präsentieren. \
