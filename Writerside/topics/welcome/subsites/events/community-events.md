@@ -6,7 +6,7 @@
 
 Community Events sind vom Server Team entwickelte Events, diese sind **nicht regelmäßig**.
 
-Vor jedem Event bekommt ihr im [Discord](https://discord.com/invite/castcrafter) im [#server-updates](https://discord.com/channels/133198459531558912/980810495877607524) Kanal eine **Mitteilung**.
+Vor jedem Event bekommt ihr im [Discord](%dc_link%) im [#server-updates](%com_updates_channel%) Kanal eine **Mitteilung**.
 In dieser stehen meistens **Informationen**, **Regeln** und **Hinweise**.
-Wenn ihr **gepingt** werden wollt, könnt ihr euch in **[#server-info](https://discord.com/channels/133198459531558912/1005106900179894333)** die Rolle holen!
+Wenn ihr **gepingt** werden wollt, könnt ihr euch in **[#server-info](%com_info_channel%)** die Rolle holen!
 
