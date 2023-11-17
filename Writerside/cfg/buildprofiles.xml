@@ -17,6 +17,7 @@
 
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
+        <fallback-url>https://docs.slne.dev</fallback-url>
     </variables>
 
     <build-profile instance="ccs">
