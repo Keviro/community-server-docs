@@ -3,4 +3,6 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
     <category id="wrs" name="Writerside documentation" order="1"/>
+    <category id="spotlight" name="Spotlight" order="2"/>
+    <category id="shops" name="Shops" order="3"/>
 </categories>

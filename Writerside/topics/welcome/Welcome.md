@@ -16,5 +16,14 @@ und Elytren ist ebenfalls erlaubt.
 
 {style="warning"}
 
-Fange mit der Kategorie [Regeln](rules.md) an, um zu erfahren, was auf dem Server erlaubt ist und was nicht.
+[//]: # (Fange mit der Kategorie [Regeln]&#40;rules.md&#41; an, um zu erfahren, was auf dem Server erlaubt ist und was nicht.)
+
+
+<seealso style="cards">
+    <category ref="spotlight">
+        <a href="rules.md" summary="Hier findest du die Regeln des Servers. 
+        Fang hier an, wenn du dem Server beitreten möchtest.">Regeln</a>
+        <a href="Fragen.md" summary="Hier findest du Antworten auf häufig gestellte Fragen.">FAQ</a>
+    </category>
+</seealso>
 

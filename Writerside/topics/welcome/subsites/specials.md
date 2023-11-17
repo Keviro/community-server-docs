@@ -46,3 +46,13 @@ installiert haben.
 ## Geänderte Vanilla Mechaniken {collapsible="true" default-state="collapsed"}
 
 > Siehe [Geänderte Vanilla Mechaniken](changed-vanilla-mechanics.md "Geänderte Vanilla Mechaniken")
+
+
+<seealso style="cards">
+    <category ref="spotlight">
+        <a href="events.md" summary="Auf dem Server finden auch regelmäßig Events statt. 
+        Hier findest du alle Informationen dazu.">Events</a>
+        <a href="changed-vanilla-mechanics.md" summary="Auf dem Server wurden einige Vanilla Mechaniken geändert 
+        wie z.B. das Mobcap. Weitere Informationen findest du hier.">Geänderte Vanilla Mechaniken</a>
+    </category>
+</seealso>
