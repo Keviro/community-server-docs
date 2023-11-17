@@ -10,7 +10,7 @@ Um einen Shop zu erstellen musst du ihn einfach nur platzieren.
 
 Um das Verkaufsitem festzulegen, musst du einfach nur das Item, welches du verkaufen möchtest, in der Hand halten.
 Dann mache
-<shortcut>Shift+Rechtsklick</shortcut>
+<shortcut key="$Shift"/><shortcut>Rechtsklick</shortcut>
 auf den Shop. Dein Item sollte nun automatisch im Shop angezeigt werden.
 
 > Lese auch [Shop verwalten](manage-shop.md "Hier findest du eine Anleitung, wie du deinen Shop verwalten kannst.")

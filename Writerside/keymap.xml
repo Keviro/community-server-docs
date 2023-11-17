@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Keymap id="instance_id">
-    <Action id="$Copy">
-        <Description>Copy</Description>
-        <Shortcut layout="primary_Windows">Ctrl+C</Shortcut>
-        <Shortcut layout="primary_macOS">Meta+C</Shortcut>
+<Keymap id="ccs">
+    <Action id="$Control_Key">
+        <Description>Control Key</Description>
+        <Shortcut layout="primary_Windows">Ctrl</Shortcut>
+        <Shortcut layout="primary_macOS">⌘</Shortcut>
     </Action>
     <Action id="$Enter">
         <Description>Enter</Description>
         <Shortcut layout="primary_Windows">Enter</Shortcut>
         <Shortcut layout="primary_macOS">Enter</Shortcut>
+    </Action>
+    <Action id="Update_Project">
+        <Description>Update Project</Description>
+        <Shortcut layout="primary_Windows">Ctrl+T</Shortcut>
+        <Shortcut layout="primary_macOS">⌘+T</Shortcut>
+    </Action>
+    <Action id="$Shift">
+        <Description>Shift</Description>
+        <Shortcut layout="primary_Windows">Shift</Shortcut>
+        <Shortcut layout="primary_macOS">⇧</Shortcut>
     </Action>
 </Keymap>
