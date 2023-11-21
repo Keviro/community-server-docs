@@ -30,7 +30,9 @@
                 <toc-element topic="delete-shop.md"/>
             </toc-element>
         </toc-element>
-        <toc-element topic="cosmetics.md"/>
+        <toc-element topic="cosmetics.md">
+            <toc-element topic="armorstand.md"/>
+        </toc-element>
         <toc-element topic="map-downloads.md"/>
     </toc-element>
     <toc-element topic="contribution.md">
