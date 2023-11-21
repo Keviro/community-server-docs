@@ -4,7 +4,7 @@
 
 {style="note"}
 
-## Spawn limits {collapsible="true" default-state="expanded" id="spawn-limits"}
+## Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
 
 Spawn Limit
 : Die Anzahl an Mobs, welche natürlich spawnen können.
