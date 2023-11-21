@@ -4,7 +4,7 @@
 
 {style="note"}
 
-## Spawn limits {collapsible="true" default-state="expanded" id="spawn-limits"}
+## Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
 
 Spawn Limit
 : Die Anzahl an Mobs, welche natürlich spawnen können.
@@ -106,7 +106,7 @@ Ticks-Per
 </tr>
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-hopper-transfer" summary="%click-more-info%">Trichter Transfer</a></td>
-    <td>16</td>
+    <td>1</td>
     <td>8</td>
 </tr>
 <tr>
