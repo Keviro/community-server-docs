@@ -12,7 +12,7 @@
         <algolia-id>XOZHNXNWCN</algolia-id>
         <algolia-index>docs_search</algolia-index>
         <algolia-api-key>59b8b48eca30d39c1b02a2c78b93f948</algolia-api-key>
-        <web-root>https://docs.slne.dev/</web-root>
+        <web-root>https://some.domain/</web-root>
 
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
