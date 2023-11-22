@@ -1,9 +1,10 @@
-# Rüstungsständer
+# Rüstungsständer 
 
 Um deinen Rüstungsständer zu bearbeiten, mache <shortcut>Rechtsklick</shortcut> mit einem <tooltip term="Flintstone">Feuerstein</tooltip>. \
-Es sollte sich nun ein Menü öffnen, in welchem du verschiedene Voreinstellungen vornehmen 
-kannst: \
-![Menu](https://i.imgur.com/FZzCl1M.png)
+Es sollte sich nun ein Menü öffnen, in welchem du verschiedene Voreinstellungen vornehmen
+kannst:
+
+<img src="armorstand-editing-menu.png" alt="Armorstand editing menu"/>
 
 > Um einen Rüstungsständer abzubauen, benötigst du eine Axt oder ein Schwert.
 {style="note"}
@@ -108,7 +109,7 @@ Um den jegliche Posen des gesamten Rüstungsständers zurückzusetzen <shortcut>
 
 ## Bearbeiten des Inventars {collapsible="true" default-state="collapsed" id="edit-inventory"}
 <procedure>
-<img src="https://i.imgur.com/M51Cgz7.png" alt="chest-menu"/>
+<img src="armorstand-inventory-menu.png" alt="chest-menu"/>
 <step>
 Klick in dem Menü zum Bearbeiten des Inventars auf die <b>Kiste</b>.
 </step>
