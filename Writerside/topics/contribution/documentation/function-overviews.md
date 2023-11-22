@@ -45,17 +45,19 @@ Beispiel:
 
 ## Bilder
 
-Verwende Ausrufezeichen `!`, eckige Klammern `[]` für den alternativen Text und runde Klammern `()` für die Bild-URL, um
-ein Bild einzufügen.
+Verwende Ausrufezeichen `!`, eckige Klammern `[]` für den alternativen Text und runde Klammern `()` für den Pfad zum
+Bild.
 
 Beispiel:
 
-````text
-![Alternativer Text](https://i.imgur.com/8pPloDC.png)
-````
+```text
+![Alternativer Text](fork-repo-first.png)
+```
 
-> Die Bilder sollten auf Imgur hochgeladen werden.
-
+> Die Bilder sollten in dem `images` Ordner liegen, damit sie auch auf der Website angezeigt werden können. \
+> Hier ist eine [Anleitung](https://www.jetbrains.com/help/writerside/visual-elements.html#img) dazu, allerdings auf
+> Englisch. Es folgt bald eine deutsche Version.
+> 
 {style="note"}
 
 ## Code {id="code"}
