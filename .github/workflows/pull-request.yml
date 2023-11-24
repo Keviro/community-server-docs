@@ -100,3 +100,4 @@ jobs:
         uses: rossjrw/pr-preview-action@v1.4.4
         with:
           source-dir: dir
+          preview-branch: master
