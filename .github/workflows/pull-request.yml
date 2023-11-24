@@ -8,9 +8,11 @@ on:
       - synchronize
       - labeled
 
-# Gives the workflow permissions to clone the repo and create a page deployment
-#permissions:
- # id-token: write
+concurrency: preview-${{ github.ref }}
+
+  # Gives the workflow permissions to clone the repo and create a page deployment
+  #permissions:
+  # id-token: write
   #pages: write
 
 env:
@@ -61,3 +63,38 @@ jobs:
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ env.INSTANCE }}
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Requires the build job results
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: docs
+
+      - name: Unzip artifact
+        uses: montudor/action-zip@v1
+        with:
+          args: unzip -qq ${{ env.ARTIFACT }} -d dir
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: dir
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+
+      - name: Deploy PR Preview
+        uses: rossjrw/pr-preview-action@v1.4.4
+        with:
+          source-dir: dir
