@@ -11,7 +11,9 @@ on:
 concurrency: preview-${{ github.ref }}
 
   # Gives the workflow permissions to clone the repo and create a page deployment
-  #permissions:
+permissions:
+  id-token: write
+  pages: write
   # id-token: write
   #pages: write
 
