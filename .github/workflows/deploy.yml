@@ -93,22 +93,19 @@ jobs:
         with:
           name: docs
 
-      - name: Unzip artifact
-        uses: montudor/action-zip@v1
+      - name: Extract Files
+        run: 7z x artifacts/${{ env.ARTIFACT }} -ocf-pages
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
         with:
-          args: unzip -qq ${{ env.ARTIFACT }} -d dir
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: dir
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: community-server-docs
+          directory: cf-pages
+          branch: main
+          # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
+          wranglerVersion: 'beta'
 
   publish-indexes:
     # Requires the build-job results
