@@ -82,7 +82,7 @@ jobs:
 
   deploy:
     environment:
-      name: github-pages
+      name: cloudflare-pages
       url: ${{ steps.deployment.outputs.page_url }}
     # Requires the build job results
     needs: test
@@ -93,8 +93,10 @@ jobs:
         with:
           name: docs
 
-      - name: Extract Files
-        run: 7z x artifacts/${{ env.ARTIFACT }} -ocf-pages
+      - name: Unzip artifact
+        uses: montudor/action-zip@v1
+        with:
+          args: unzip -qq ${{ env.ARTIFACT }} -d cf-pages
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
