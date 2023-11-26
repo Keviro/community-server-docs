@@ -1,15 +1,16 @@
 name: Build documentation preview and deploy to Cloudflare Pages
 
 on:
-  pull_request:
+  issue_comment:
     types:
-      - opened
-      - reopened
-      - synchronize
-      - labeled
+      - created
 
-  # Specify to run a workflow manually from the Actions tab on GitHub
   workflow_dispatch:
+    inputs:
+      comment:
+        description: 'Comment'
+        required: true
+        default: '/preview'
 
 # Gives the workflow permissions to clone the repo and create a page deployment
 permissions:
@@ -27,6 +28,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'issue_comment' && github.event.comment.body == '/preview')}}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
