@@ -4,7 +4,7 @@ on:
   # If specified, the workflow will be triggered automatically once you push to the `main` branch.
   # Replace `main` with your branch’s name
   push:
-    branches: [ "main", "master", "upstream/master" ]
+    branches: [ "master" ]
 
   # Specify to run a workflow manually from the Actions tab on GitHub
   workflow_dispatch:
@@ -105,7 +105,7 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: community-server-docs
           directory: cf-pages
-          branch: master
+          branch: main
           # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
           wranglerVersion: 'beta'
 
