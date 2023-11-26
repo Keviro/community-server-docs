@@ -90,6 +90,6 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: community-server-docs
           directory: cf-pages
-          branch: main
+          branch: preview-${{ github.event.pull_request.number }}
           # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
           wranglerVersion: 'beta'
