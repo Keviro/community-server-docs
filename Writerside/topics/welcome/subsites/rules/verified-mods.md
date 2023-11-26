@@ -5,7 +5,7 @@ Bitte beachtet, dass auch andere Mods erlaubt sind, welche die Kriterien in den 
 wurden durch das Team geprüft.
 
 > Aufgrund von vermehrten Banns weisen wir darauf hin, dass **MouseWheelie mit dem Server nicht kompatibel ist**,
-> obwohl diese als ClientSide Only Mod beworben wird!
+> weil diese die Kommunikation zwischen Client und Server verändert!
 
 {style="warning"}
 
