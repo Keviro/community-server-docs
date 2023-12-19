@@ -1,6 +1,6 @@
 # Köpfe und Rüstungsständer
 
-![](https://i.imgur.com/ldr57s6.jpeg){ border-effect="rounded" thumbnail="true" preview-src="https://i.imgur.com/LV0GVIc.jpeg" }
+![](cosmetics-thumbnail.png){ border-effect="rounded" thumbnail="true" preview-src="cosmetics-thumbnail-preview.png" }
 
 Mit dem Befehl `/hdb` hast du Zugriff auf ein Menü, mit dem du verschiedene Köpfe erhalten kannst, die du zum Bauen
 verwenden kannst.

@@ -3,8 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="ccs"
-                 name="Community Server"
-                 start-page="community-server-documentation.topic">
+                 name="Community Server Docs"
+                 start-page="community-server-documentation.topic"
+                 status="eap">
 
     <toc-element topic="community-server-documentation.topic"/>
     <toc-element topic="Welcome.md" accepts-web-file-names-ref="677309af">
