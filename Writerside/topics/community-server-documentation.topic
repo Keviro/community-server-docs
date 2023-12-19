@@ -22,7 +22,7 @@
             <a href="plots.md"/>
             <a href="economy.md" summary="Auf dem Community Server gibt es verschiedene W&auml;hrungen, darunter z.B. %main_currency%s. Wie du sie bekommst und wof&uuml;r du sie ausgeben kannst, erf&auml;hrst du hier."/>
             <a href="custom-enchantments.md"/>
-            <a href="shops.md"/>
+            <a href="shops-starting-page.topic"/>
         </primary>
 
         <secondary>
@@ -35,13 +35,26 @@
 
 
         <misc>
-            <cards>
+            <cards narrow="true">
                 <title>Andere relevante Themen</title>
+                <a href="support.md" summary="Hier erf&auml;hrst du wie du den Support kontaktierst, um z.B. Griefing oder einen Bug zu melden."/>
+                <a href="servers.md" summary="Auf dem Community Server gibt es verschiedene Server. Hier erf&auml;hrst du wie du sie betrittst und was du auf ihnen tun kannst."/>
+                <a href="commands.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Commands, die du auf dem Community Server nutzen kannst."/>
+                <a href="Fragen.md" summary="Hier findest du Antworten auf h&auml;ufig gestellte Fragen."/>
+                <a href="contribution.md" summary="Du m&ouml;chtest zu der Dokumentation beitragen? Hier erf&auml;hrst du wie es geht."/>
                 <a href="map-downloads.md" summary="Hier findest du die Downloads zu den alten Maps."/>
-                <a href="contribution.md"/>
-                <a href="support.md"/>
             </cards>
+            <links narrow="true">
+                <group>
+                    <title>Shops</title>
+                    <a href="make-shop.md"/>
+                    <a href="create-shop.md"/>
+                    <a href="manage-shop.md"/>
+                    <a href="delete-shop.md"/>
+                </group>
+            </links>
         </misc>
+
     </section-starting-page>
 
 </topic>

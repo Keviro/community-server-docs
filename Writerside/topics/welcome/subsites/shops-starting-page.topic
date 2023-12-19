@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Shops" id="shops-starting-page">
+
+
+    <section-starting-page>
+        <title>Shops</title>
+        <description>
+            Shops können auf dem Shop Server eröffnet werden.
+            Dort kannst du Items an- und verkaufen und dabei %main_currency%s verdienen.
+        </description>
+
+        <spotlight>
+            <a href="make-shop.md" type="tools" summary="Hier erf&auml;hrst du, wie du einen Shop herstellen kannst."/>
+            <a href="manage-shop.md" type="settings" summary="Hier erf&auml;hrst du, wie du deinen Shop verwalten kannst."/>
+        </spotlight>
+
+        <primary>
+            <title>Los geht's</title>
+            <a href="create-shop.md" summary="Du hast einen Shop hergestellt und m&ouml;chtest ihn jetzt erstellen? Hier erf&auml;hrst du wie es geht."/>
+            <a href="delete-shop.md" summary="Du m&ouml;chtest deinen Shop wieder l&ouml;schen? Hier erf&auml;hrst du wie es geht."/>
+        </primary>
+
+        <secondary>
+            <title>Shop Server</title>
+            <a href="servers.md" summary="Du wei&szlig;t nicht wie du auf den Shop Server gelangst? Kein Problem! Hier werden dir alle Server und wie du sie betreten kannst erkl&auml;rt.">Shop Server</a>
+        </secondary>
+    </section-starting-page>
+</topic>

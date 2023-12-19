@@ -2,7 +2,7 @@
 
 Einen Shop herstellen ist ganz einfach.
 
-> Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% erstellen.
+> Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% herstellen.
 > Allerdings kannst du ihn nur auf dem [%shop-server-name%](servers.md "%shop-server-desc%") benutzen.
 
 {style="note"}
