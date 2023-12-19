@@ -12,7 +12,6 @@
         <download-page>https://server.castcrafter.de/support.html</download-page>
         <custom-favicons>logo.png</custom-favicons>
         <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
-        <generate-canonicals>true</generate-canonicals>
 
         <!-- algolia search -->
         <algolia-id>XOZHNXNWCN</algolia-id>
