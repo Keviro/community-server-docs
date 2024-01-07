@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="ccs"
-                 name="Community Server"
+                 name="Community Server Docs"
                  start-page="community-server-documentation.topic">
 
     <toc-element topic="community-server-documentation.topic"/>
@@ -23,7 +23,7 @@
         <toc-element topic="plots.md"/>
         <toc-element topic="economy.md"/>
         <toc-element topic="custom-enchantments.md"/>
-        <toc-element topic="shops.md">
+        <toc-element topic="shops-starting-page.topic">
             <toc-element topic="make-shop.md"/>
             <toc-element topic="create-shop.md"/>
             <toc-element topic="manage-shop.md">

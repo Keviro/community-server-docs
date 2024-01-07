@@ -19,7 +19,7 @@ Der Shop Server
 Items zu verkaufen und `%main_currency%s` zu verdienen. \
 Der Shop Server ist ein reiner Wirtschaftsserver, auf dem es keine Möglichkeit gibt zu bauen oder zu farmen. Allerdings
 kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu präsentieren. \
-Informationen wie du einen Shop eröffnen kannst, findest du in der Kategorie [Shops](shops.md).
+Informationen wie du einen Shop eröffnen kannst, findest du in der Kategorie [Shops](shops-starting-page.topic).
 
 Der Hub Server
 : Auf dem Hub Server kannst du unter anderem die verschiedenen [Quests](specials.md#quests) starten, welche

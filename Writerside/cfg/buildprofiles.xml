@@ -6,17 +6,22 @@
         <primary-color>emerald</primary-color>
         <color-preset>vivid</color-preset>
 
-        <header-logo>https://i.imgur.com/clhj72d.png</header-logo>
+        <header-logo>logo.svg</header-logo>
+        <showDownloadButton>true</showDownloadButton>
+        <download-title>Support</download-title>
+        <download-page>https://server.castcrafter.de/support.html</download-page>
+        <custom-favicons>logo.svg</custom-favicons>
+        <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
 
         <!-- algolia search -->
         <algolia-id>XOZHNXNWCN</algolia-id>
         <algolia-index>docs_search</algolia-index>
         <algolia-api-key>59b8b48eca30d39c1b02a2c78b93f948</algolia-api-key>
-        <web-root>https://some.domain/</web-root>
+        <web-root>https://server.castcrafter.de/</web-root>
 
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
-        <fallback-url>https://docs.slne.dev</fallback-url>
+        <fallback-url>https://server.castcrafter.de/</fallback-url>
     </variables>
 
     <build-profile instance="ccs">

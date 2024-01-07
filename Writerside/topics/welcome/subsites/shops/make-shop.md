@@ -2,7 +2,7 @@
 
 Einen Shop herstellen ist ganz einfach.
 
-> Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% erstellen.
+> Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% herstellen.
 > Allerdings kannst du ihn nur auf dem [%shop-server-name%](servers.md "%shop-server-desc%") benutzen.
 
 {style="note"}
@@ -20,7 +20,7 @@ Für das Crafting Rezept benötigst du folgende Items:
 </step>
 <step>
 <p>Lege die Truhe in die Mitte der Crafting Box.</p>
-<img src="https://i.imgur.com/jhAI7ZZ.gif" alt="Crafting Showcase" preview-src="https://i.imgur.com/XXSXt6l.png" border-effect="rounded"/>
+<img src="craft-shop.gif" alt="Crafting Showcase" preview-src="craft-shop-preview.png" border-effect="rounded"/>
 </step>
 </procedure>
 

@@ -1,6 +1,6 @@
 # Grundstücke
 
-<img src="https://i.imgur.com/m0udbaO.jpeg" alt="claim" border-effect="rounded" thumbnail="true" width="960" height="505"/>
+<img src="plot-thumbnail.png" alt="claim" border-effect="rounded" thumbnail="true" width="960" height="505"/>
 
 Die meisten Features auf dem Server wurden extra für diesen programmiert, ebenso dieses Protection System.
 Um ungestört bauen zu können, gibt es auf dem Server Grundstücke. Du hast eine begrenzte Anzahl an Blöcken, die du als
