@@ -177,10 +177,9 @@ Größe verändern
 
 Erdanziehungskraft ein- oder ausschalten
 :
-> Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf dem Server keine
-> Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
-> Erdanziehungskraft besitzen, herunterfallen werden.
-> {style="warning"}
+_Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf dem Server keine
+Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
+Erdanziehungskraft besitzen, herunterfallen werden._
 1. Klicke im Menü auf **Sand**.
 2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den
    Rüstungsständer aus.
