@@ -4,7 +4,7 @@ Um deinen Rüstungsständer zu bearbeiten, mache einen <shortcut>Rechtsklick</sh
 einem <tooltip term="Flintstone"> Feuerstein</tooltip> direkt auf den Rüstungsständer. \
 Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kannst:
 
-<img src="armorstand-editing-menu.png" alt="Armorstand editing menu"/>
+![Armorstand editing menu](armorstand-editing-menu.png)
 
 > Um einen Rüstungsständer abzubauen, benötigst du eine Axt oder ein Schwert.
 > {style="note"}
@@ -15,27 +15,27 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 > des Mausrades einstellen.
 > {style="note"}
 
-<procedure title="x-Achse einstellen">
-<step>Klicke die <b>rote Wolle</b> an.</step>
-</procedure>
-<procedure title="y-Achse einstellen">
-<step>Klicke die <b>grüne Wolle</b> an.</step>
-</procedure>
-<procedure title="z-Achse einstellen">
-<step>Klicke die <b>blaue Wolle</b> an.</step>
-</procedure>
+{type="medium"}
+X-Achse einstellen
+: Klicke die <b>rote Wolle</b> an.
+
+Y-Achse einstellen
+: Klicke die <b>grüne Wolle</b> an.
+
+Z-Achse einstellen
+: Klicke die <b>blaue Wolle</b> an.
 
 ## Stärke {collapsible="true" default-state="collapsed" id="strength"}
 
-<procedure title="Grobe Anpassung"> 
-<step>Klick die <b>Erde</b> an.</step>
-</procedure>
-<procedure title="Feine Anpassung">
-<step>Klick den <b>Sandstein</b> an.</step>
-</procedure>
+{type="medium"}
+Grobe Anpassung
+: Klicke die <b>rote Wolle</b> an.
 
-> Der Unterschied zwischen grober und feiner Anpassung ist, dass bei der groben Anpassung der Rüstungsständer sich
-> in größeren Schritten bewegt und bei der feinen Anpassung in kleineren Schritten.
+Feine Anpassung
+: Klicke die <b>grüne Wolle</b> an.
+
+> Der wesentliche Unterschied besteht darin, dass bei der groben Anpassung der Rüstungsständer in größeren Schritten
+> bewegt wird, während die feine Anpassung Bewegungen in kleineren, genaueren Schritten ermöglicht.
 
 ## Rotieren/Verschieben des Rüstungsständers {collapsible="true" default-state="collapsed" id="rotation-moving-armor-stand"}
 
@@ -145,61 +145,51 @@ Ein Menü öffnet sich, in dem du deine Items in die entsprechenden, hier mit 1 
 <step>
 Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1-6 einlegen.
 </step>
-<procedure title="Slots von 1-6">
-<step>Helm</step>
-<step>Brustplatte</step>
-<step>Hose</step>
-<step>Schuhe</step>
-<step>Erste Hand</step>
-<step>Zweite Hand</step>
 </procedure>
-</procedure>
+
+### Slots von 1-6 {id="slots-1-6"}
+
+1. Helm
+2. Brustplatte
+3. Hose
+4. Schuhe
+5. Erste Hand
+6. Zweite Hand
 
 ## Extras {collapsible="true" default-state="collapsed" id="extras"}
 
-<procedure title="Arme ein- oder ausschalten" collapsible="true" default-state="collapsed">
-<step>
-Klicke im Menü auf den ganz rechts befindlichen <b>Stock</b>.
-</step>
-<step>
-Um die Arme ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>
-</procedure>
-<procedure title="Sichtbarkeit ein- oder ausschalten" collapsible="true" default-state="collapsed">
-<step>
-Klicke im Menü auf den <b>Trank</b> auf den Rüstungsständer.
-</step>
-<step>
-Um die Sichtbarkeit ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>
-</procedure>
-<procedure title="Größe verändern" collapsible="true" default-state="collapsed">
-<step>
-Klicke im Menü auf den <b>Pufferfisch</b>.
-</step>
-<step>
-Um die Größe umzustellen, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>
-</procedure>
-<procedure title="Erdanziehungskraft ein- oder ausschalten" collapsible="true" default-state="collapsed">
-<warning>Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf dem Server keine 
-Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die 
-Erdanziehungskraft besitzen, herunterfallen werden.</warning>
-<step>
-Klicke im Menü auf den <b>Sand</b>.
-</step>
-<step>
-Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>
-</procedure>
-<procedure title="Bodenplatte ein- oder ausschalten" collapsible="true" default-state="collapsed">
-<step>
-Klicke im Menü auf die <b>Steinstufe</b>.
-</step>
-<step>
-Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>
-</procedure>
+{collapsible="true"}
+Arme ein- oder ausschalten
+: 
+1. Klicke im Menü auf den ganz rechts befindlichen **Stock**.
+2. Um die Arme ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+
+Sichtbarkeit ein- oder ausschalten
+:
+1. Klicke im Menü auf den **Trank** auf den Rüstungsständer.
+2. Um die Sichtbarkeit ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer
+   aus.
+
+Größe verändern
+:
+1. Klicke im Menü auf den **Pufferfisch**.
+2. Um die Größe umzustellen, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+
+Erdanziehungskraft ein- oder ausschalten
+:
+> Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf dem Server keine
+> Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
+> Erdanziehungskraft besitzen, herunterfallen werden.
+> {style="warning"}
+1. Klicke im Menü auf **Sand**.
+2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den
+   Rüstungsständer aus.
+
+Bodenplatte ein- oder ausschalten
+:
+1. Klicke im Menü auf die **Steinstufe**.
+2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den
+   Rüstungsständer aus.
 
 ## Kopieren und Einfügen {collapsible="true" default-state="collapsed" id="copy-paste"}
 
