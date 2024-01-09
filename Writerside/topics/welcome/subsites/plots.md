@@ -56,7 +56,7 @@ Nun kannst du, wenn du den <b>Kopf unten links</b> anklickst, einen Spieler zu d
 Tippe den Spielernamen ein und klicke dann auf das <b>Papier</b> um den Vorgang abzuschließen.
 </step>
 <note>
-Beachte, dass der eingetippte Spielernamen den Vorraussetzungen entspricht und keine Leerzeichen oder nicht gültigen Zeichen enthält!
+Achte darauf, dass der eingetippte Spielernamen den Voraussetzungen entspricht und keine Leerzeichen oder nicht gültige Zeichen enthält!
 </note>
 
 </procedure>
