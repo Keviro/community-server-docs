@@ -52,7 +52,7 @@ Wähle nun das Grundstück aus, auf welchem du die Mitglieder bearbeiten möchte
 Klicke <b>rechts auf den Spielerkopf</b>.
 </step>
 <step>
-Nun Kannst du wenn du den <b>Kopf unten links</b> anklickst einen Spieler zu deinem Grundstück hinzufügen.
+Nun kannst du, wenn du den <b>Kopf unten links</b> anklickst, einen Spieler zu deinem Grundstück hinzufügen.
 Tippe den Spielernamen ein und klicke dann auf das <b>Papier</b> um den Vorgang abzuschließen.
 </step>
 <note>
