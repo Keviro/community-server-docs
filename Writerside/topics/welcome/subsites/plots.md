@@ -31,7 +31,7 @@ Wenn du damit fertig bist, nutze den <b>grünen</b> Beton Block um das Grundstü
 
 <procedure title="So kannst du dein Grundstück erweitern:" id="expand-claim" type="steps">
 <step>
-Gebe <code>/protect</code> im Chat ein und klicke nun im angezeigten Menu auf <b>Meine Grundstücke</b> um dir alle deine Grundstücke anzeigen zu 
+Gebe <code>/protect</code> im Chat ein und klicke nun im angezeigten Menü auf <b>Meine Grundstücke</b> um dir alle deine Grundstücke anzeigen zu 
 lassen. Hier findest du ebenfalls Informationen über dein Grundstück, z.B. die Größe oder die Koordinaten deines Grundstückes.
 </step>
 <step>
