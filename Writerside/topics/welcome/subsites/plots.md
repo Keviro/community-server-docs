@@ -43,7 +43,7 @@ Wähle nun das Grundstück aus, welches du erweitern möchtest und klicke auf <b
 <procedure title="So kannst du Mitglieder auf deinem Grundstück bearbeiten:" id="configure-claim-members" type="steps">
 <step>
 Gebe <code>/protect</code> im Chat ein und klicke nun im angezeigten Menü auf <b>Meine Grundstücke</b> um dir alle deine Grundstücke anzeigen zu 
-lassen. Hier findest du ebenfalls Informationen über dein Grundstück, z.B. die Größe oder die Koordinaten deines Grundstückes.
+lassen. Hier findest du ebenfalls Informationen über dein Grundstück, wie z.B. die Größe oder die Koordinaten deines Grundstückes.
 </step>
 <step>
 Wähle nun das Grundstück aus, auf welchem du die Mitglieder bearbeiten möchtest.
