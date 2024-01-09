@@ -65,7 +65,7 @@ Achte darauf, dass der eingetippte Spielernamen den Voraussetzungen entspricht u
 <procedure title="So kannst du deine Grundstück Flags anpassen:" id="configure-claim-flags" type="steps">
 <step>
 Gebe <code>/protect</code> im Chat ein und klicke nun im angezeigten Menü auf <b>Meine Grundstücke</b> um dir alle deine Grundstücke anzeigen zu 
-lassen. Hier findest du ebenfalls Informationen über dein Grundstück, z.B. die Größe oder die Koordinaten deines Grundstückes.
+lassen. Hier findest du ebenfalls Informationen über dein Grundstück, wie z.B. die Größe oder die Koordinaten deines Grundstückes.
 </step>
 <step>
 Wähle nun das Grundstück aus, auf welchem du die Flags bearbeiten möchtest.
