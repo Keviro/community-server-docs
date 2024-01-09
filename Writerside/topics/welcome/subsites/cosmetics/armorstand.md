@@ -29,10 +29,10 @@ Z-Achse einstellen
 
 {type="medium"}
 Grobe Anpassung
-: Klicke die <b>rote Wolle</b> an.
+: Klicke die <b>grobe Erde</b> an.
 
 Feine Anpassung
-: Klicke die <b>grüne Wolle</b> an.
+: Klicke auf den <b>Sandstein</b> an.
 
 > Der wesentliche Unterschied besteht darin, dass bei der groben Anpassung der Rüstungsständer in größeren Schritten
 > bewegt wird, während die feine Anpassung Bewegungen in kleineren, genaueren Schritten ermöglicht.
