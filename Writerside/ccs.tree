@@ -20,7 +20,15 @@
             <toc-element topic="changed-vanilla-mechanics.md"/>
         </toc-element>
         <toc-element topic="servers.md"/>
-        <toc-element topic="plots.md"/>
+        <toc-element topic="plots.md">
+            <toc-element topic="plot-creation.md"/>
+            <toc-element topic="plot-expand.md"/>
+            <toc-element topic="plot-add-member.md"/>
+            <toc-element topic="plot-edit-flags.md"/>
+            <toc-element topic="plot-visualizer.md"/>
+            <toc-element topic="plot-other.md"/>
+        </toc-element>
+        <toc-element topic="plots-homepage.topic"/>
         <toc-element topic="economy.md"/>
         <toc-element topic="custom-enchantments.md"/>
         <toc-element topic="shops-starting-page.topic">
