@@ -22,6 +22,7 @@
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
         <fallback-url>https://server.castcrafter.de/</fallback-url>
+        <noindex-content>true</noindex-content>
     </variables>
 
     <build-profile instance="ccs">
