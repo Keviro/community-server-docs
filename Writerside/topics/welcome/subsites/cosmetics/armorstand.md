@@ -11,7 +11,7 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 
 ## Achsen einstellen {collapsible="true" default-state="collapsed" id="axis"}
 
-> Wenn du den Flint in der Hand hälst und <shortcut>Shift + Mausrad</shortcut>, kannst du die Achsen auch durch Drehen
+> Wenn du das Flint in der Hand hälst und <shortcut>Shift + Mausrad</shortcut>, kannst du die Achsen auch durch Drehen
 > des Mausrades einstellen.
 > {style="note"}
 
