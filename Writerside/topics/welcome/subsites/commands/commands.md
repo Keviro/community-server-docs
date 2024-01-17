@@ -23,7 +23,7 @@ Blockiert den angegebenen Spieler im Chat.
 #### Informationen {collapsible="true" default-state="collapsed"}
 
 <deflist type="wide">
-<def title="/playtime]">
+<def title="/playtime">
 Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
 </def>
 <def title="/balance [CastCoin/ EventCoin]">
@@ -102,6 +102,9 @@ Mit diesem Befehl kannst du dich hinsetzen.
 <note>
 Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
 </note>
+</def>
+<def title="/sit [TOGGLE]] ">
+Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.
 </def>
 </deflist>
 
