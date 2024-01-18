@@ -15,9 +15,9 @@
                 Only the spotlight section is limited to two topics.
                 For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
 
-    <section-starting-page>
+    <section-starting-page id="plots">
         <title>Grundstücke</title>
-        <description>
+        <description id="plots-desc">
             <!--            Add an introductory paragraph: explain what this section is about in 2-3 short sentences.-->
             Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Blöcke
             erhöht sich mit der Spielzeit und Grundstücke können durch Platzieren von Redstone-Fackeln definiert werden.

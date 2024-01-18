@@ -18,11 +18,11 @@ Solltest du auf einem fremden Grundstück feststecken, kannst du <code>/unstuck<
 
 ````tex
 \begin{align*}
-x &= \text{Distanz zum Spawn in Blöcken} \\
-p(x) &= \max\left(4, \left\lfloor -0.0016666666667 \times x + 12.3333333333 \right\rceil \right)
+p(x) &= \max\left(4, \left\lfloor -0.0016666666667 \times x + 12.3333333333 \right\rceil \right) \\
+x &= \text{Distanz zum Spawn in Blöcken}
 \end{align*}
 ````
 Hierbei:
-- `x` ist die Distanz vom Grundstück zum Spawn, gemessen in Blöcken.
 - `p(x)` ist der berechnete Preis pro Block.
+- `x` ist die Distanz vom Grundstück zum Spawn, gemessen in Blöcken.
 - `⌊...⌉` bedeutet runden
