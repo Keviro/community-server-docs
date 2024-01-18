@@ -34,4 +34,8 @@
         <description>Created after removal of "Angel Events" from Community Server</description>
         <accepts>fishing-events.html</accepts>
     </rule>
+    <rule id="5a6fc3f">
+        <description>Created after removal of "Grundstücke" from Community Server Docs</description>
+        <accepts>plots.html</accepts>
+    </rule>
 </rules>

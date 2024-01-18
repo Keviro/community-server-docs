@@ -19,7 +19,8 @@
 
         <primary>
             <title>Features</title>
-            <a href="plots.md"/>
+            <a href="plots-homepage.topic" summary="Auf dem Server k&ouml;nnen Spieler Grundst&uuml;cke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Bl&ouml;cke
+            erh&ouml;ht sich mit der Spielzeit und Grundst&uuml;cke k&ouml;nnen durch Platzieren von Redstone-Fackeln definiert werden."/>
             <a href="economy.md" summary="Auf dem Community Server gibt es verschiedene W&auml;hrungen, darunter z.B. %main_currency%s. Wie du sie bekommst und wof&uuml;r du sie ausgeben kannst, erf&auml;hrst du hier."/>
             <a href="custom-enchantments.md"/>
             <a href="shops-starting-page.topic"/>
