@@ -31,6 +31,16 @@
         </toc-element>
         <toc-element topic="economy.md"/>
         <toc-element topic="custom-enchantments.md"/>
+        <toc-element topic="Verschiedene-Textchannel.md">
+            <toc-element topic="Textkanal-umbenennen.md"/>
+            <toc-element topic="Textkanal-auswählen.md"/>
+            <toc-element topic="Textkanäle-anzeigen-lassen.md"/>
+            <toc-element topic="Textkanal-verlassen.md"/>
+            <toc-element topic="Mitglieder-aus-einem-Textkanal-entfernen.md"/>
+            <toc-element topic="Textkanäle-beitreten.md"/>
+            <toc-element topic="Textkanal-erstellen.md"/>
+            <toc-element topic="Mitglieder-einem-Textkanal-hinzufügen.md"/>
+        </toc-element>
         <toc-element topic="shops-starting-page.topic">
             <toc-element topic="make-shop.md"/>
             <toc-element topic="create-shop.md"/>
