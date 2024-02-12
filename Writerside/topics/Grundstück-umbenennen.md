@@ -12,5 +12,6 @@
    ![rename plot](plot-rename.png) {border-effect="rounded" thumbnail="true" width="384"}
 4. Nun kannst du dein Grundstück beliebig umbenennen.
    ![rename plot anvil](plot-rename-anvil.png)
+
 > Beachte, dass der Name des Grundstückes nicht gegen das Regelwerk verstößt.
 {style="warning"}
