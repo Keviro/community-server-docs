@@ -4,6 +4,6 @@
 
 <deflist>
 <def title="Textkanal verlassen">
-Um deinen eigenen Textkanal zu verlassen, benutze den Befehl <code>/channel leave</code>.
+Um einen Textkanal zu verlassen, benutze den Befehl <code>/channel leave <Channel></code>.
 </def>
 </deflist>

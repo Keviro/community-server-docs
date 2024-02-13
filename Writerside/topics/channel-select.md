@@ -4,6 +4,6 @@
 
 <deflist>
 <def title="Textkanal auswählen">
-Um in den jeweiligen Kanälen zu schreiben verwende den Befehl <code>/channel select</code> und füge den jeweils gewünschen Kanal an.
+Um deinen aktiven Textkanal auszuwählen, nutze <code>/channel select <Channel></code> und füge den jeweils gewünschen Kanal an.
 </def>
 </deflist>

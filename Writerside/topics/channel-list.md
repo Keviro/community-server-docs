@@ -4,6 +4,6 @@
 
 <deflist>
 <def title="Textkanal anzeigen">
-Um deine Textkanäle einzusehen und einen Überblick zu haben, benutze den Befehl <code>/channel list</code> 
+Um dir alle Textkannäle anzuzeigen, in denen du Mitglied bist, benutze den Befehl <code>/channel list</code>
 </def>
 </deflist>
