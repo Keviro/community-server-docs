@@ -4,6 +4,6 @@
 
 <deflist>
 <def title="Textkanäle beitreten">
-Mit dem Befehl <code>/channel join <Channel></code> kannst du verschiedene Textkanäle betreten.
+Mit dem Befehl <code>/channel join <Channel></code> kannst du verschiedene Textkanäle betreten. Wenn ein Passwort für den Channel gesetzt ist musst dieses auch angeben. 
 </def>
 </deflist>
