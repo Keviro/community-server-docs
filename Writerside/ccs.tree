@@ -32,14 +32,14 @@
         <toc-element topic="economy.md"/>
         <toc-element topic="custom-enchantments.md"/>
         <toc-element topic="channels.md">
+            <toc-element topic="channel-create.md"/>
             <toc-element topic="channel-rename.md"/>
+            <toc-element topic="channel-invite.md"/>
+            <toc-element topic="channel-join.md"/>
             <toc-element topic="channel-select.md"/>
             <toc-element topic="channel-list.md"/>
-            <toc-element topic="channel-leave.md"/>
             <toc-element topic="channel-kick.md"/>
-            <toc-element topic="channel-join.md"/>
-            <toc-element topic="channel-create.md"/>
-            <toc-element topic="channel-invite.md"/>
+            <toc-element topic="channel-leave.md"/>
         </toc-element>
         <toc-element topic="shops-starting-page.topic">
             <toc-element topic="make-shop.md"/>
