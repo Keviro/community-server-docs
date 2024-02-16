@@ -5,7 +5,7 @@
 <deflist>
 <def title="Mitglieder hinzufügen">
 Um deinem Textkanal Mitglieder hinzuzufügen, ohne ihnen das Passwort zu verraten, kannst du sie einladen.
-Hierzu erstellst du eine Einladung mit dem Befehl <code>/channel invite [KANAL] [SPIELER]</code>.
+Hierzu erstellst du eine Einladung mit dem Befehl <code>/channel invite &lt;channel&gt; &lt;player&gt;</code>.
 <tip>
 Zum Beispiel: <code>/channel invite Testkanal Twisti_Twixi</code>
 </tip>

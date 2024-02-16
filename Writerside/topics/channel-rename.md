@@ -4,7 +4,7 @@
 
 <deflist>
 <def title="Textkanal umbenennen">
-Um deinen Textkanal umzubenennen, benutze den Befehl <code>/channel rename [KANAL] [NAME]</code>.
+Um deinen Textkanal umzubenennen, benutze den Befehl <code>/channel rename &lt;channel&gt; &lt;name&gt;</code>.
 <tip>
 Zum Beispiel: <code>/channel rename Bauteam Affenbande</code>
 </tip>

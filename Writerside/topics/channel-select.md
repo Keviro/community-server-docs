@@ -4,6 +4,6 @@
 
 <deflist>
 <def title="Textkanal auswählen">
-Um einen Textkanal auszuwählen, nutze <code>/channel select [KANAL]</code>.
+Um einen Textkanal auszuwählen, nutze <code>/channel select &lt;channel&gt;</code>.
 </def>
 </deflist>

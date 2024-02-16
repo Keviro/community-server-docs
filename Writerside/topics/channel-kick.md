@@ -4,7 +4,7 @@
 
 <deflist>
 <def title="Mitglieder entfernen">
-Um Mitglieder aus deinem Textkanal zu entfernen, benutze den Befehl <code>/channel kick [SPIELER]</code>.
+Um Mitglieder aus deinem Textkanal zu entfernen, benutze den Befehl <code>/channel kick &lt;player&gt;</code>.
 <tip>
 Zum Beispiel: <code>/channel kick Twisti_Twixi</code>
 </tip>
