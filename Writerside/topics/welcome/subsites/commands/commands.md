@@ -5,16 +5,16 @@
 #### Chat und Textnachrichten {collapsible="true" default-state="collapsed"}
 
 <deflist type="wide">
-<def title="/msg [SPIELER] [NACHRICHT]">
+<def title="/msg &lt;player&gt; &lt;message&gt;">
 Schickt eine Privatnachricht an den angegebenen Spieler.
 </def>
-<def title="/r [NACHRICHT]">
+<def title="/r &lt;message&gt;">
 Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
 </def>
 <def title="/msgtoggle">
 Deaktiviert / Aktiviert Privatnachrichten an dich.
 </def>
-<def title="/block [SPIELER]">
+<def title="/block &lt;player&gt;">
 Blockiert den angegebenen Spieler im Chat.
 </def>
 </deflist>
@@ -26,13 +26,13 @@ Blockiert den angegebenen Spieler im Chat.
 <def title="/playtime">
 Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
 </def>
-<def title="/balance [CastCoin/ EventCoin]">
+<def title="/balance &lt;castcoin/eventcoin&gt;">
 Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
 </def>
-<def title="/lastseen [SPIELER]">
+<def title="/lastseen &lt;player&gt;">
 Deaktiviert / Aktiviert Privatnachrichten an dich.
 </def>
-<def title="/block [SPIELER]">
+<def title="/block &lt;player&gt;">
 Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
 </def>
 </deflist>
@@ -40,7 +40,7 @@ Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war
 #### Köpfe {collapsible="true" default-state="collapsed"}
 
 <deflist type="wide">
-<def title="/phead [SPIELER]">
+<def title="/phead &lt;player&gt;">
 Gibt dir den Kopf des angegebenen Spielers.
 </def>
 <def title="/heads">
@@ -77,10 +77,10 @@ Grundstücke, welche in deinem Besitz sind anzuzeigen.
 <def title="/lock">
 Sperrt eine Kiste nach anschließendem anklicken.
 </def>
-<def title="/trust [SPIELER]">
+<def title="/trust &lt;player&gt;">
 Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
 </def>
-<def title="/untrust [SPIELER] ">
+<def title="/untrust &lt;player&gt; ">
 Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
 </def>
 </deflist>
@@ -103,7 +103,7 @@ Mit diesem Befehl kannst du dich hinsetzen.
 Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
 </note>
 </def>
-<def title="/sit [TOGGLE]] ">
+<def title="/sit toggle [on/off] ">
 Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.
 </def>
 </deflist>
