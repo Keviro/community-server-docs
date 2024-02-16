@@ -38,4 +38,46 @@
         <description>Created after removal of "Grundstücke" from Community Server Docs</description>
         <accepts>plots.html</accepts>
     </rule>
+  <rule id="5f27bc3a">
+    <description>Created after removal of "Textkanal erstellen" from Community Server Docs
+    </description>
+    <accepts>channel-create.html</accepts>
+  </rule>
+    <rule id="5f1b3f9f">
+        <description>Created after removal of "Textkanal umbenennen" from Community Server Docs
+        </description>
+        <accepts>channel-rename.html</accepts>
+    </rule>
+    <rule id="3c94b58e">
+        <description>Created after removal of "Mitglieder einem Textkanal hinzufügen" from Community
+            Server Docs
+        </description>
+        <accepts>channel-invite.html</accepts>
+    </rule>
+    <rule id="355669a2">
+        <description>Created after removal of "Textkanäle beitreten" from Community Server Docs
+        </description>
+        <accepts>channel-join.html</accepts>
+    </rule>
+    <rule id="1f9773c9">
+        <description>Created after removal of "Textkanal auswählen" from Community Server Docs
+        </description>
+        <accepts>channel-select.html</accepts>
+    </rule>
+    <rule id="65c8881a">
+        <description>Created after removal of "Textkanäle im Überbick" from Community Server Docs
+        </description>
+        <accepts>channel-list.html</accepts>
+    </rule>
+    <rule id="584cc2a7">
+        <description>Created after removal of "Mitglieder aus einem Textkanal entfernen" from
+            Community Server Docs
+        </description>
+        <accepts>channel-kick.html</accepts>
+    </rule>
+    <rule id="5587ebef">
+        <description>Created after removal of "Textkanal verlassen" from Community Server Docs
+        </description>
+        <accepts>channel-leave.html</accepts>
+    </rule>
 </rules>
