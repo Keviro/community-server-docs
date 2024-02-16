@@ -14,7 +14,7 @@ Mit dem Visualizer kannst du dir die Grundstücke in deiner Umgebung anzeigen la
 |-----------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Grün      | Das Grundstück gehört dir selbst                                                 | <img src="plot-visualizer-owning.png" width="256" thumbnail="true" border-effect="rounded"/>     |
 | Rot       | Das Grundstück gehört einem anderen Spieler                                      | <img src="plot-visualizer-not-owning.png" width="256" thumbnail="true" border-effect="rounded"/> |
-| Hellblau  | Das Grundstück gehört einem anderen Spieler, du bist jedoch auf diesem Mitglied  | <img src="plot-visualizer-member.png" width="128" thumbnail="true" border-effect="rounded"/>     |
+| Hellblau  | Das Grundstück gehört einem anderen Spieler, du bist jedoch auf diesem Mitglied  | <img src="plot-visualizer-member.png" width="256" thumbnail="true" border-effect="rounded"/>     |
 
 
 ## So deaktivierst du den Visualizer:
