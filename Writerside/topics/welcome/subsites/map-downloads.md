@@ -1,16 +1,23 @@
 # Map Downloads
 
 [//]: # (1.19 Community Server)
+
 [//]: # (: Abschlusstour: [Klicke hier]&#40;https://youtu.be/qIeR1H9HZ38&#41; \)
 [//]: # (Map Download: [Klicke hier]&#40;https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/&#41; \)
 [//]: # (Die wichtigsten)
+
 [//]: # (Cords: [Klicke hier]&#40;https://docs.google.com/spreadsheets/d/1WwJnW_DNhfov8kdCEfmtaetZmDRtk9CcKuqcTblibKc/&#41;)
+
 [//]: # ()
+
 [//]: # (1.18 Community Server)
+
 [//]: # (: Abschlusstour: [Klicke hier]&#40;https://youtu.be/DIsrLx1XOXs&#41; \)
 [//]: # (Map)
+
 [//]: # (Download: [Klicke hier]&#40;https://drive.google.com/file/d/1ofcEedWs0scHFZnC_qTlybHT1dqRXrBp/view&#41; \)
 [//]: # (Die wichtigsten)
+
 [//]: # (Cords: [Klicke hier]&#40;https://drive.google.com/file/d/1GS6Q-mXy2aWyikcperhichH2WDrNf-En/view&#41;)
 
 
@@ -44,7 +51,7 @@
 <tr><td>Mensch ärger dich nicht, PvP Arena</td><td><code>Speed_Marc</code></td><td>Overworld</td><td><code>-1371 128 -851</code></td><td>Hier fanden einmal große Spiele statt</td></tr>
 <tr><td>Mittelalter Stadt (+ Schiffe + Base)</td><td><code>Jo_field</code></td><td>Overworld</td><td><code>-1196 114 816</code></td><td>Am besten das TP für die Bilder verwenden: <a href="https://discord.com/channels/133198459531558912/851822693657083935/1112103155891699742">Hier</a></td></tr>
 <tr><td>Inselbase, Keller und Aquadom</td><td><code>N333999666</code></td><td>Overworld</td><td><code>3116 73 -887</code></td><td>-/-</td></tr>
-<tr><td>Netcastle &amp; co.</td><td><code>BlockNic</code>, <code>Twisti_twixi</code>, <code>Fuximus</code>, <code>BlockLukeHD</code>, <code>AlexMaro</code>, <code>Trytan</code>, <code>SirMax</code>, <code>SiderealPuppy90</code>, <code>PowerCraft</code>, <code>Gost|Pixel</code>, <code>Richart3855</code>, <code>Jo_Field</code></td><td>Overworld</td><td><code>-555 218 3903</code></td><td>- Große Netherburg inspiriert von Loony mit vielen Farmen und Redstoneschaltungen, z.B. Goldfabrik, Casino und Google Dino-Game etc.<br/>- Jesus-Statue aus Rio<br/>- Riesiger Steinelefant und vieles mehr in der Umgebung. https://i.imgur.com/jS1WumE.png</td></tr>
+<tr><td>Netcastle &amp; co.</td><td><code>BlockNic</code>, <code>Twisti_twixi</code>, <code>Fuximus</code>, <code>BlockLukeHD</code>, <code>AlexMaro</code>, <code>Trytan</code>, <code>SirMax</code>, <code>SiderealPuppy90</code>, <code>PowerCraft</code>, <code>Gost|Pixel</code>, <code>Richart3855</code>, <code>Jo_Field</code></td><td>Overworld</td><td><code>-555 218 3903</code></td><td>- Große Netherburg inspiriert von Loony mit vielen Farmen und Redstoneschaltungen, z.B. Goldfabrik, Casino und Google Dino-Game etc.<br/>- Jesus-Statue aus Rio<br/>- Riesiger Steinelefant und vieles mehr in der Umgebung. <img src="netcastle-overview.png" thumbnail="true" width="256"/></td></tr>
 <tr><td>Sci-Fi Pyramide</td><td><code>Sheppardt98</code></td><td>Overworld</td><td><code>8435 142 -2721</code></td><td>Das ist physikalisch unmöglich.</td></tr>
 <tr><td>Community Tempel</td><td><code>Erzengel_36</code>, <code>Firedr4gon24</code></td><td>Overworld</td><td><code>-2304 100 84</code></td><td>Großer Tempel, welcher viele Spieler des Servers verewigt</td></tr>
 <tr><td>Xenus Base</td><td><code>Xenus_LP</code></td><td>Overworld</td><td><code>-2568 114 4036</code></td><td>Großer Militärhafen mit UBooten, einem Kreuzer, Flugzeugen und anderen Fahrzeugen</td></tr>
