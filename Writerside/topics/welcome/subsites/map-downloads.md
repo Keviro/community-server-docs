@@ -18,10 +18,10 @@
 
 <tabs>
 <tab title="1.19 Community Server">
-<p>
 <a href="https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/">Map Download</a>
-<video src="https://www.youtube.com/watch?v=qIeR1H9HZ38&ab_channel=CastCrafter"/>
-</p>
+<video src="https://www.youtube.com/watch?v=qIeR1H9HZ38%26ab_channel=CastCrafter"/>
+<br/>
+<br/>
 <chapter title="Die wichtigsten Cords" collapsible="true">
 <table>
 <tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
@@ -56,10 +56,10 @@
 </tab>
 
 <tab title="1.18 Community Server">
-<p>
 <a href="https://drive.google.com/file/d/1ofcEedWs0scHFZnC_qTlybHT1dqRXrBp/view">Map Download</a>
-<video src="https://www.youtube.com/watch?v=DIsrLx1XOXs&ab_channel=CastCrafter"/>
-</p>
+<video src="https://www.youtube.com/watch?v=DIsrLx1XOXs%26ab_channel=CastCrafter"/>
+<br/>
+<br/>
 <chapter title="Die wichtigsten Cords" collapsible="true">
 <chapter title="Farmen">
 <table>
