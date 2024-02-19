@@ -20,7 +20,7 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ARTIFACT: webHelpCCS2-all.zip
   # Writerside docker image version
-  DOCKER_VERSION: 232.10275
+  DOCKER_VERSION: 233.14389
 
   # Add the variable below to upload Algolia indexes
   # Replace HI with the ID of the instance in capital letters
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Build Writerside docs using Docker
         uses: JetBrains/writerside-github-action@v4
@@ -46,7 +46,7 @@ jobs:
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Upload documentation
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.3.1
         with:
           name: docs
           path: |
@@ -56,7 +56,7 @@ jobs:
 
       # Add the step below to upload Algolia indexes
       - name: Upload algolia-indexes
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.3.1
         with:
           name: algolia-indexes
           path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
@@ -70,7 +70,7 @@ jobs:
 
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.2
         with:
           name: docs
           path: artifacts
@@ -89,7 +89,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.2
         with:
           name: docs
 
@@ -99,7 +99,7 @@ jobs:
           args: unzip -qq ${{ env.ARTIFACT }} -d cf-pages
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/pages-action@v1.5.0
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -107,7 +107,7 @@ jobs:
           directory: cf-pages
           branch: main
           # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
-          wranglerVersion: 'beta'
+          wranglerVersion: '3.4.1'
 
   publish-indexes:
     # Requires the build-job results
@@ -118,7 +118,7 @@ jobs:
 
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.2
         with:
           name: algolia-indexes
       - name: Unzip artifact
