@@ -26,7 +26,7 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ALGOLIA_ARTIFACT: algolia-indexes-CCS.zip
   ALGOLIA_APP_NAME: XOZHNXNWCN
-  ALGOLIA_INDEX_NAME: docs_search
+  ALGOLIA_INDEX_NAME: docs
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: CCS
   CONFIG_JSON_VERSION: 1.0
@@ -117,14 +117,13 @@ jobs:
       image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
+      - name: Download artifact
+        uses: actions/download-artifact@v3
         with:
           name: algolia-indexes
-      - uses: montudor/action-zip@v1
-        with:
-          args: unzip -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
-      - run: |
+      - name: Unzip artifact
+        run: |
+          unzip -O UTF-8 -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
           env "algolia-key=${{env.ALGOLIA_KEY}}" java -jar /opt/builder/help-publication-agent.jar \
           update-index \
           --application-name ${{env.ALGOLIA_APP_NAME}} \
