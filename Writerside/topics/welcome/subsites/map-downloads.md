@@ -1,28 +1,5 @@
 # Map Downloads
 
-[//]: # (1.19 Community Server)
-
-[//]: # (: Abschlusstour: [Klicke hier]&#40;https://youtu.be/qIeR1H9HZ38&#41; \)
-[//]: # (Map Download: [Klicke hier]&#40;https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/&#41; \)
-[//]: # (Die wichtigsten)
-
-[//]: # (Cords: [Klicke hier]&#40;https://docs.google.com/spreadsheets/d/1WwJnW_DNhfov8kdCEfmtaetZmDRtk9CcKuqcTblibKc/&#41;)
-
-[//]: # ()
-
-[//]: # (1.18 Community Server)
-
-[//]: # (: Abschlusstour: [Klicke hier]&#40;https://youtu.be/DIsrLx1XOXs&#41; \)
-[//]: # (Map)
-
-[//]: # (Download: [Klicke hier]&#40;https://drive.google.com/file/d/1ofcEedWs0scHFZnC_qTlybHT1dqRXrBp/view&#41; \)
-[//]: # (Die wichtigsten)
-
-[//]: # (Cords: [Klicke hier]&#40;https://drive.google.com/file/d/1GS6Q-mXy2aWyikcperhichH2WDrNf-En/view&#41;)
-
-
-[//]: # (Die Tabellen befinden sich im lesbaren Format in templates/map-downloads/1.19-coords-table.md)
-
 <tabs>
 <tab title="1.19 Community Server">
 <a href="https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/">Map Download</a>
