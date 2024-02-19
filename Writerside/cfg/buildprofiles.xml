@@ -16,7 +16,7 @@
 
         <!-- algolia search -->
         <algolia-id>XOZHNXNWCN</algolia-id>
-        <algolia-index>docs_search</algolia-index>
+        <algolia-index>docs</algolia-index>
         <algolia-api-key>59b8b48eca30d39c1b02a2c78b93f948</algolia-api-key>
         <web-root>https://server.castcrafter.de/</web-root>
 
