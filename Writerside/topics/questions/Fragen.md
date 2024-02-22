@@ -46,11 +46,11 @@ Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, öffne ei
 
 #### Kann ich LightBlocks und unsichtbare Itemframes bekommen? {collapsible="true" default-state="collapsed" }
 Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im Survival zu
-erhalten und auch zu verwenden. Diese können im Hub erworben werden.
+erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst du [HIER](Lightblocks-unsichtbare-Itemframes.md "%click-more-info%").
 
 
 #### Kann ich ArmorStands anpassen? {collapsible="true" default-state="collapsed" }
-[ArmorStands können mithilfe eines Flints komplett angepasst werden](cosmetics.md "Klicke hier für mehr Information").
+[ArmorStands können mithilfe eines Flints komplett angepasst werden](cosmetics.md "%click-more-info%").
 Damit kannst du den Rüstungsständern zum Beispiel Arme geben und alle Körperteile separat rotieren. Durch diese
 Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 
