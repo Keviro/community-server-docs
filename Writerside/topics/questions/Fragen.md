@@ -46,7 +46,7 @@ Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, öffne ei
 
 #### Kann ich LightBlocks und unsichtbare Itemframes bekommen? {collapsible="true" default-state="collapsed" }
 Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im Survival zu
-erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst du [HIER](Lightblocks-unsichtbare-Itemframes.md "%click-more-info%").
+erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst du [HIER](light-blocks-and-invisible-item-frames.md "%click-more-info%").
 
 
 #### Kann ich ArmorStands anpassen? {collapsible="true" default-state="collapsed" }
