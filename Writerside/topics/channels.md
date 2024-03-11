@@ -14,122 +14,123 @@ Du kannst hierbei selbst entscheiden, wer deinen Textkanal betreten kann, und we
 
 
 <tab title="Erstellen und Benennen">
-<deflist style="wide">
-<def title="/channel create <name> [passwort]">
-<a href="channels.md#channel-create" summary="%click-more-info%">Erstelle deinen Textkanal</a>
-</def>
-<def title="/channel rename <channel> <name>">
-<a href="#channel-rename" summary="%click-more-info%">Benenne deinen Textkanal um</a>
-</def>
-</deflist>
 
-<p>­</p>
+/channel create &lt;name> [passwort]
+: [Erstelle deinen Textkanal](channels.md#channel-create "%click-more-info%")
+
+/channel rename &lt;channel> &lt;name>
+: [Benenne deinen Textkanal um](channels.md#channel-rename "%click-more-info%")
+
+­
 
 <deflist>
 <def title="Textkanal erstellen" id="channel-create">
-Um deinen eigenen Textkanal zu erstellen,
-benutze den Befehl <code>/channel create &lt;name&gt; [passwort] </code>.
+
+Um deinen eigenen Textkanal zu erstellen, benutze den Befehl `/channel create <name> [passwort]`.
 Alternativ kannst du auch noch ein Passwort anfügen, damit nicht jeder Spieler bem Kanal beitreten kann.
 Dieses ist jedoch optional und nicht zwingend notwendig.
-<tip>
-Zum Beispiel: <code>/channel create Bauteam Passwort123</code>
-</tip>
+
+> Zum Beispiel: `/channel create Bauteam Passwort123`
+>
+
 </def>
 <def title="Textkanal umbenennen" id="channel-rename">
-Um deinen Textkanal umzubenennen, benutze den Befehl <code>/channel rename &lt;channel&gt; &lt;name&gt;</code>.
-<note>
-Hierzu musst du Inhaber des Textkanals sein.
-</note>
-<tip>
-Zum Beispiel: <code>/channel rename Bauteam Affenbande</code>
-</tip>
+
+Um deinen Textkanal umzubenennen, benutze den Befehl `/channel rename <channel> <name>`.
+
+> Hierzu musst du Inhaber des Textkanals sein.
+> 
+
+> Zum Beispiel: `/channel rename Bauteam Affenbande`
+>
 </def>
 </deflist>
 </tab>
 
-
-
 <tab title="Teilnahme und Auswahl">
-<deflist style="wide">
-<def title="/channel join <channel>">
-<a href="#channel-join" summary="%click-more-info%">Trete einem Textkanal bei</a>
-</def>
-<def title="/channel select <channel>">
-<a href="#channel-select" summary="%click-more-info%">Wähle einen Textkanal aus</a>
-</def>
-<def title="/channel leave <channel>">
-<a href="#channel-leave" summary="%click-more-info%">Verlasse einen Textkanal</a>
-</def>
-</deflist>
+/channel join &lt;channel>
+: [Trete einem Textkanal bei](channels.md#channel-join "%click-more-info%")
 
-<p>­</p>
+/channel select &lt;channel>
+: [Wähle einen Textkanal aus](channels.md#channel-select "%click-more-info%")
+
+/channel leave &lt;channel>
+: [Verlasse einen Textkanal](channels.md#channel-leave "%click-more-info%")
+
+­
 
 <deflist>
 <def title="Textkanäle beitreten" id="channel-join">
-Mit dem Befehl <code>/channel join &lt;channel&gt;</code> kannst du verschiedenen Textkanäle betreten. Wenn ein Passwort für den Channel gesetzt ist, musst dieses auch angeben. 
+
+Mit dem Befehl `/channel join <channel>` kannst du verschiedenen Textkanäle betreten. 
+Wenn ein Passwort für den Channel gesetzt ist, musst dieses auch angeben.
 </def>
 <def title="Textkanal auswählen" id="channel-select">
-Um einen Textkanal auszuwählen, nutze <code>/channel select &lt;channel&gt;</code>.
+
+Um einen Textkanal auszuwählen, nutze `/channel select <channel>`.
 </def>
 <def title="Textkanal verlassen" id="channel-leave">
-Um einen Textkanal zu verlassen, benutze den Befehl <code>/channel leave &lt;channel&gt;</code>.
+
+Um einen Textkanal zu verlassen, benutze den Befehl `/channel leave <channel>`.
 </def>
 </deflist>
 </tab>
-
 
 
 <tab title="Mitgliederverwaltung">
-<deflist style="wide">
-<def title="/channel invite <channel> <player>">
-<a href="#channel-invite" summary="%click-more-info%">Lade Spieler in deinen Textkanal ein</a>
-</def>
-<def title="/channel kick <player>">
-<a href="#channel-kick" summary="%click-more-info%">Entferne Spieler aus deinem Textkanal</a>
-</def>
-</deflist>
 
-<p>­</p>
+/channel invite &lt;channel> &lt;player>
+: [Lade Spieler in deinen Textkanal ein](channels.md#channel-invite "%click-more-info%")
+
+/channel kick &lt;player>
+: [Entferne Spieler aus deinem Textkanal](channels.md#channel-kick "%click-more-info%")
+
+­
 
 <deflist>
 <def title="Mitglieder hinzufügen" id="channel-invite">
+
 Um deinem Textkanal Mitglieder hinzuzufügen, ohne ihnen das Passwort zu verraten, kannst du sie einladen.
-Hierzu erstellst du eine Einladung mit dem Befehl <code>/channel invite &lt;channel&gt; &lt;player&gt;</code>.
-<note>
-Hierzu musst du Inhaber des Textkanals sein.
-</note>
-<tip>
-Zum Beispiel: <code>/channel invite Testkanal Twisti_Twixi</code>
-</tip>
+Hierzu erstellst du eine Einladung mit dem Befehl `/channel invite <channel> <player>`.
+
+> Hierzu musst du Inhaber des Textkanals sein.
+>
+{style="note"}
+
+> Zum Beispiel: `/channel invite Testkanal Twisti_Twixi`
+> 
+
 Der jeweilige Spieler erhält nun eine Benachrichtigung und wird in den Kanal hinzugefügt, sobald er sie annimmt.
-<img src="channel-invite.png" alt="Alt text" width="500" border-effect="rounded"/>
+
+![Channel Invite](channel-invite.png) {width="500" border-effect="rounded"}
+
 </def>
 <def title="Mitglieder entfernen" id="channel-kick">
-Um Mitglieder aus deinem Textkanal zu entfernen, benutze den Befehl <code>/channel kick &lt;player&gt;</code>.
-<note>
-Hierzu musst du Inhaber des Textkanals sein.
-</note>
-<tip>
-Zum Beispiel: <code>/channel kick Twisti_Twixi</code>
-</tip>
+
+Um Mitglieder aus deinem Textkanal zu entfernen, benutze den Befehl **/channel kick &lt;player>**.
+
+> Hierzu musst du Inhaber des Textkanals sein.
+>
+{style="note"}
+
+> Zum Beispiel: `/channel kick Twisti_Twixi`
+>
+
 </def>
 </deflist>
 </tab>
 
-
-
 <tab title="Information">
-<deflist style="wide">
-<def title="/channel list">
-<a href="#channel-list" summary="%click-more-info%">Textkanäle im Überblick</a>
-</def>
-</deflist>
 
-<p>­</p>
+/channel list
+: [Textkanäle im Überblick](channels.md#channel-list "%click-more-info%")
+
+­
 
 <deflist>
 <def title="Textkanal anzeigen" id="channel-list">
-Um dir alle Textkanäle anzuzeigen, in denen du Mitglied bist, benutze den Befehl <code>/channel list</code>.
+
+Um dir alle Textkanäle anzuzeigen, in denen du Mitglied bist, benutze den Befehl `/channel list`.
 </def>
 </deflist>
 </tab>
