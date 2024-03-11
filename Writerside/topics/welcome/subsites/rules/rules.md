@@ -4,9 +4,11 @@ Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhal
 Zwar besteht die Möglichkeit, sich ein Grundstück zu erstellen, auf dem nur du und deine
 Freunde bauen können, jedoch heißt dies nicht, dass ihr im Umkehrschluss alles zerstören
 und abbauen dürft, was nicht Teil eines Grundstücks ist.
-> **Allgemein gilt:** Alles, was nicht explizit als öffentlich ausgeschildert ist, muss als
+> Alles, was nicht explizit als öffentlich ausgeschildert ist, muss als
 > privat angesehen werden. Unabhängig davon, ob das Ganze durch ein Grundstück gesichert
 > wurde und für jegliche Veränderung oder Nutzung ist vorab die Erlaubnis des Besitzers einzuholen.
+> 
+{title="Allgemein gilt:"}
 
 Solltet ihr vermehrt negativ mit Aktionen auffallen könnt ihr jederzeit vom Server ausgeschlossen werden.
 
