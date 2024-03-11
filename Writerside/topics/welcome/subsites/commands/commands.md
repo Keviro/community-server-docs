@@ -4,49 +4,36 @@
 
 #### Chat und Textnachrichten {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/msg &lt;player&gt; &lt;message&gt;">
-Schickt eine Privatnachricht an den angegebenen Spieler.
-</def>
-<def title="/r &lt;message&gt;">
-Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
-</def>
-<def title="/msgtoggle">
-Deaktiviert / Aktiviert Privatnachrichten an dich.
-</def>
-<def title="/block &lt;player&gt;">
-Blockiert den angegebenen Spieler im Chat.
-</def>
-</deflist>
+/msg &lt;player&gt; &lt;message&gt;
+: Schickt eine Privatnachricht an den angegebenen Spieler.
 
+/r &lt;message&gt;
+: Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
+
+/msgtoggle
+: Deaktiviert / Aktiviert Privatnachrichten an dich.
+
+/block &lt;player&gt;
+: Blockiert den angegebenen Spieler im Chat.
 
 #### Informationen {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/playtime">
-Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
-</def>
-<def title="/balance &lt;castcoin|eventcoin&gt;">
-Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
-</def>
-<def title="/lastseen &lt;player&gt;">
-Deaktiviert / Aktiviert Privatnachrichten an dich.
-</def>
-<def title="/block &lt;player&gt;">
-Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
-</def>
-</deflist>
+/playtime
+: Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
+
+/balance &lt;%main_currency%|%event_coin%&gt;
+: Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
+
+/lastseen &lt;player&gt;
+: Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
 
 #### Köpfe {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/phead &lt;player&gt;">
-Gibt dir den Kopf des angegebenen Spielers.
-</def>
-<def title="/heads">
-Öffnet ein Menü, aus welchem man Köpfe bekommen kann.
-</def>
-</deflist>
+/phead &lt;player&gt;
+: Gibt dir den Kopf des angegebenen Spielers.
+
+/heads
+: Öffnet ein Menü, aus welchem man Köpfe bekommen kann.
 
 #### Grundstücke {collapsible="true" default-state="collapsed"}
 
@@ -56,11 +43,13 @@ Zeigt an, auf welchem Grundstück du dich gerade befindest.
 </def>
 <def title="/unstuck">
 Befreit dich, falls du auf einem fremden Grundstück feststeckst.
-<warning>
-Dieser Befehl ist dafür gedacht, dich aus einem <b>fremden Grundstück</b> zu <b>befreien</b>,
-wenn du <b>feststecken</b> solltest.
-Jeglicher <b>Missbrauch</b> dieses Befehls wird Folgen haben und kann zum <b>Ausschluss des Servers</b> führen.
-</warning>
+
+
+> Dieser Befehl ist dafür gedacht, dich aus einem **fremden Grundstück** zu **befreien**,
+> wenn du **feststecken** solltest.
+> Jeglicher **Missbrauch** dieses Befehls wird Folgen haben und kann zum **Ausschluss des Servers** führen.
+> 
+{style="warning"}
 </def>
 <def title="/protect ">
 Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
@@ -70,20 +59,17 @@ Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 #### Chestprotect {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/chestprotect">
-Öffnet das Hauptmenü von Chestprotect.
-</def>
-<def title="/lock">
-Sperrt eine Kiste nach anschließendem anklicken.
-</def>
-<def title="/trust &lt;player&gt;">
-Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
-</def>
-<def title="/untrust &lt;player&gt; ">
-Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
-</def>
-</deflist>
+/chestprotect
+: Öffnet das Hauptmenü von Chestprotect.
+
+/lock
+: Sperrt eine Kiste nach anschließendem anklicken.
+
+/trust &lt;player&gt;
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
+
+/untrust &lt;player&gt;
+: Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
 
 #### Positionen {collapsible="true" default-state="collapsed"}
 
@@ -99,9 +85,9 @@ Mit diesem Befehl kannst du dich auf den Boden legen.
 </def>
 <def title="/sit ">
 Mit diesem Befehl kannst du dich hinsetzen.
-<note>
-Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
-</note>
+
+> Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
+
 </def>
 <def title="/sit toggle [on|off] ">
 Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.

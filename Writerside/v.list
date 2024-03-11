@@ -6,7 +6,7 @@
     <var name="required_game_version_link"
          value="https://minecraft.fandom.com/wiki/Java_Edition_1.20.4"/>
     <var name="main_currency" value="CastCoin"/>
-    <var name="event_coin" value="Event Coin"/>
+    <var name="event_coin" value="EventCoin"/>
     <var name="paycheck" value="500"/>
 
     <var name="dc_link" value="https://discord.gg/castcrafter"/>
