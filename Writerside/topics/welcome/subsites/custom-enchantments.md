@@ -1,10 +1,9 @@
 # Custom-Enchantments
 
 Auf dem Server gibt es eigene Enchantments. Diese entfernen sich jedoch nicht allzu weit von
-Vanilla, sondern spielen eher eine Quality-Of-Live Rolle. Ein gutes Beispiel ist hier das Enchantment `Replenish`
-welches
-euch ermöglicht alle möglichen Pflanzen beim Ernten automatisch nachzupflanzen, solange ihr genügend Seeds im Inventar
-habt.
+Vanilla, sondern spielen eher eine Quality-Of-Live Rolle. Ein gutes Beispiel ist hier das
+Enchantment `Replenish` welches euch ermöglicht alle möglichen Pflanzen beim Ernten automatisch
+nachzupflanzen, solange ihr genügend Seeds im Inventar habt.
 
 Folgende zusätzliche Enchantments sind auf dem Server verfügbar:
 
