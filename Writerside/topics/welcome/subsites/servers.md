@@ -35,4 +35,4 @@ bekommen. </format>
 
 <format color="Gray"> Der PvP Server _**soon™**_ </format>
 : <format color="Gray"> Auf dem PvP Server kannst du mit anderen Spielern kämpfen. \
-Mehr Informationen zum PvP Server findest du in der Kategorie `[PvP](pvp.md)`. </format>
+Mehr Informationen zum PvP Server findest du in der Kategorie PvP.</format>
