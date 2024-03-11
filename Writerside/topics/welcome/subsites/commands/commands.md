@@ -37,25 +37,24 @@
 
 #### Grundstücke {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/pwho">
-Zeigt an, auf welchem Grundstück du dich gerade befindest.
-</def>
+/pwho
+: Zeigt an, auf welchem Grundstück du dich gerade befindest.
+
+<deflist>
 <def title="/unstuck">
 Befreit dich, falls du auf einem fremden Grundstück feststeckst.
-
 
 > Dieser Befehl ist dafür gedacht, dich aus einem **fremden Grundstück** zu **befreien**,
 > wenn du **feststecken** solltest.
 > Jeglicher **Missbrauch** dieses Befehls wird Folgen haben und kann zum **Ausschluss des Servers** führen.
-> 
+>
 {style="warning"}
 </def>
-<def title="/protect ">
-Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
-Grundstücke, welche in deinem Besitz sind anzuzeigen.
-</def>
 </deflist>
+
+/protect
+: Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
+Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 #### Chestprotect {collapsible="true" default-state="collapsed"}
 
@@ -73,26 +72,26 @@ Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 #### Positionen {collapsible="true" default-state="collapsed"}
 
-<deflist type="wide">
-<def title="/lay">
-Mit diesem Befehl kannst du dich auf den Boden legen.
-</def>
-<def title="/crawl">
-Mit diesem Befehl kannst du auf dem Boden krabbeln.
-</def>
-<def title="/bellyflop">
-Mit diesem Befehl kannst du dich auf den Boden legen.
-</def>
-<def title="/sit ">
+/lay
+: Mit diesem Befehl kannst du dich auf den Boden legen.
+
+/crawl
+: Mit diesem Befehl kannst du auf dem Boden krabbeln.
+
+/bellyflop
+: Mit diesem Befehl kannst du dich auf den Boden legen.
+
+<deflist>
+<def title="/sit">
 Mit diesem Befehl kannst du dich hinsetzen.
 
-> Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die klickst.
-
-</def>
-<def title="/sit toggle [on|off] ">
-Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.
+> Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die Treppe klickst.
+> 
 </def>
 </deflist>
+
+/sit toggle [on|off]
+: Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.
 
 
 
