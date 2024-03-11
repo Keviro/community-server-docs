@@ -35,12 +35,14 @@ Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, 
 interessierten Spielern aber die Möglichkeit mit anderen Spielern in-game zu sprechen, wenn diese den Mod ebenfalls
 installiert haben.
 <tabs>
-    <tab title="Curseforge" group-key="mod-launcher-curse-forge">
-        <a href="https://www.curseforge.com/minecraft/mc-mods/plasmo-voice">Plasmo Voice Download</a>
-    </tab>
-    <tab title="Modrinth" group-key="mod-launcher-modrinth">
-        <a href="https://modrinth.com/plugin/plasmo-voice">Plasmo Voice Download</a>
-    </tab>
+<tab title="Curseforge" group-key="mod-launcher-curse-forge">
+
+[Plasmo Voice Download](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)
+</tab>
+<tab title="Modrinth" group-key="mod-launcher-modrinth">
+
+[Plasmo Voice Download](https://modrinth.com/plugin/plasmo-voice)
+</tab>
 </tabs>
 
 ## Geänderte Vanilla Mechaniken {collapsible="true" default-state="collapsed"}
