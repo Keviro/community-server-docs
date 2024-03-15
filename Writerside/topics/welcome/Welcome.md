@@ -23,7 +23,7 @@ und Elytren ist ebenfalls erlaubt.
     <category ref="spotlight">
         <a href="rules.md" summary="Hier findest du die Regeln des Servers. 
         Fang hier an, wenn du dem Server beitreten möchtest.">Regeln</a>
-        <a href="Fragen.md" summary="Hier findest du Antworten auf häufig gestellte Fragen.">FAQ</a>
+        <a href="faq.md" summary="Hier findest du Antworten auf häufig gestellte Fragen.">FAQ</a>
     </category>
 </seealso>
 

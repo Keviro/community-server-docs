@@ -41,19 +41,10 @@
                 <a href="support.md" summary="Hier erf&auml;hrst du wie du den Support kontaktierst, um z.B. Griefing oder einen Bug zu melden."/>
                 <a href="servers.md" summary="Auf dem Community Server gibt es verschiedene Server. Hier erf&auml;hrst du wie du sie betrittst und was du auf ihnen tun kannst."/>
                 <a href="commands.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Commands, die du auf dem Community Server nutzen kannst."/>
-                <a href="Fragen.md" summary="Hier findest du Antworten auf h&auml;ufig gestellte Fragen."/>
-                <a href="contribution.md" summary="Du m&ouml;chtest zu der Dokumentation beitragen? Hier erf&auml;hrst du wie es geht."/>
+                <a href="faq.md" summary="Hier findest du Antworten auf h&auml;ufig gestellte Fragen."/>
+                <a href="troubleshooting.md" summary="Hier findest du L&ouml;sungsans&auml;tze für h&auml;ufige Probleme"/>
                 <a href="map-downloads.md" summary="Hier findest du die Downloads zu den alten Maps."/>
             </cards>
-            <links narrow="true">
-                <group>
-                    <title>Shops</title>
-                    <a href="make-shop.md"/>
-                    <a href="create-shop.md"/>
-                    <a href="manage-shop.md"/>
-                    <a href="delete-shop.md"/>
-                </group>
-            </links>
         </misc>
 
     </section-starting-page>

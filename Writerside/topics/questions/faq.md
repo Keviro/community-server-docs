@@ -1,4 +1,4 @@
-# Fragen
+# Häufige Fragen
 
 ## FAQ 
 
