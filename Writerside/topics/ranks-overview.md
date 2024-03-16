@@ -31,14 +31,48 @@ Wer welchen hat, was sie bedeuten oder welche Vorteile sie haben erfährst du au
 
 ## Bewerbungen
 
-Bewerbungen
-: Jeder kann sich als Builder, Supporter und Developer bewerben, indem er sich bei uns meldet.
-Eine Bewerbung als Moderator, Administrator oder Management ist nicht möglich. Was Builder und Supporter betrifft, machen wir jedoch in der Regel einen Aufruf, sobald wir Teammitglieder suchen oder
-kommen aktiv auf Spieler zu, welche uns positiv aufgefallen sind. Eine direkte Bewerbung auf den Moderator Rang ist
-nicht möglich, man kann nur von Supporter aufsteigen.
+<tabs>
+<tab title="Builder, Supporter">
+<deflist>
+<def title="Bewerbung als Builder oder Supporter">
+Jeder kann sich als Builder oder Supporter bewerben, indem er sich bei uns meldet. 
+Am einfachsten geht dies, wenn ihr euch in einem 
+<a href="%tickets_channel%">Ticket</a>
+an uns wendet.
+</def>
+</deflist>
+</tab>
+
+<tab title="Developer">
+<deflist>
+<def title="Bewerbung als Developer">
 Die Anforderungen für Developer sind recht hoch. Bitte bewerbt euch nur, wenn ihr genügend Erfahrung und Lust und Zeit
 für das Projekt habt. Bewerber sollten sich mit Gradle, Git, Spring, MySQL und Redis auskennen und es sollten bereits
 Erfahrungen in der Entwicklung von Paper und Velocity Plugins vorhanden sein. Asynchrone Programmierung und die Arbeit
 mit Packets bzw. PacketEvents sollte kein Problem darstellen.
-Teammitglieder müssen außerdem TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem server und
-TeamSpeak aktiv sein.
+</def>
+</deflist>
+
+</tab>
+<tab title="Moderator, Admin, Management">
+<deflist>
+<def title="Bewerbung als Moderator, Administrator oder im Management">
+Eine Bewerbung als Moderator, Administrator oder im Management ist nicht möglich.
+<note>
+Eine direkte Bewerbung auf den Moderator Rang ist nicht möglich, man kann jedoch vom Supporter aufsteigen.
+</note>
+</def>
+</deflist>
+</tab>
+</tabs>
+
+<note>
+In der Regel machen wir einen Aufruf, sobald wir Teammitglieder suchen oder
+kommen aktiv auf Spieler zu, welche uns positiv aufgefallen sind.
+Teammitglieder müssen außerdem TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem
+Server und TeamSpeak aktiv sein.
+
+Wenn ihr Lust habt, mit im Server Team dabei zu sein wendet euch gerne in einem <a href="%tickets_channel%">Ticket</a> an uns und bewerbt euch.
+</note>
+
+
