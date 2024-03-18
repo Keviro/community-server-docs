@@ -1,26 +1,31 @@
 # Lightblocks & unsichtbare ItemFrames
 
-Lightblocks & invisible ItemFrames
-: Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im
-Survival zu erhalten und zu verwenden.
-Hierzu befindet sich am Spawn ein NPC, welcher euch diese verkauft. Um den Alchemisten
-freizuschalten, müsst ihr diesen zunächst mit `32` Smaragden freischalten.
+> Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im
+> Survival-Modus zu erwerben.\
+> Am Spawn erwartet euch ein Alchemist in Form eines NPCs, welcher spezialisiert auf den Verkauf
+> dieser besonderen Gegenstände ist. Um mit dem Alchemisten Geschäfte machen zu können, müsst ihr
+> ihn
+> zunächst mit `32` Smaragden aktivieren.
+>
+{title="Lightblocks & unsichtbare ItemFrames" style="tip"}
 
-![npc-alchemist-ulrich](npc-alchemist-ulrich.png) {width=750 thumbnail="true"
+![NPC Alchemist](npc-alchemist-ulrich.png) {width=750 thumbnail="true"
 border-effect="rounded"}
 
 <tabs>
 <tab title="Lightblocks">
 
 Lightblocks
-: Wenn du den Alchemisten freigeschaltet hast, kannst du bei ihm einmal am Tag `20` Redstonelampen
-und `5` Smaragde gegen `20` Lightblocks tauschen. Sobald du die Lightblocks erworben hast, kannst du
-diese normal platzieren und abbauen. \
-Die Helligkeit eines Lightblocks kannst du beliebig anpassen, indem du ihn mit einem weiteren
-Lightblock rechtsklickst.
+:
+Nach der Freischaltung des Alchemisten habt ihr täglich die Möglichkeit, `20` Lightblocks zu
+erwerben,
+indem ihr ihm `20` Redstonelampen und `5` Smaragde anbietet. Die erworbenen Lightblocks könnt ihr
+wie
+gewohnt in eurer Welt platzieren und wieder abbauen.\
+Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
+Lightblock per Rechtsklick modifiziert.
 
-> Beachte, dass du zum Abbauen eines Lightblocks einen weiteren Lightblock benötigst, weil du diesen
-> in der Hand halten musst.
+> Zum Abbauen eines Lightblocks ist es notwendig, einen weiteren Lightblock in der Hand zu halten.
 >
 {style="note"}
 
@@ -28,12 +33,13 @@ Lightblock rechtsklickst.
 <tab title="Unsichtbare ItemFrames">
 
 Unsichtbare ItemFrames
-: Wenn du den Alchemisten freigeschaltet hast, kannst du bei ihm einmal am Tag `20` normale
-ItemFrames und `5` Smaragde gegen `20` unsichtbare ItemFrames tauschen.
-Diese kannst du nun beliebig platzieren.
+:
+Ebenfalls nach der Aktivierung des Alchemisten könnt ihr täglich `20` unsichtbare ItemFrames
+erhalten, indem ihr ihm `20` gewöhnliche ItemFrames und `5` Smaragde übergebt. Diese unsichtbaren
+ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 
-> Beachte, dass du den unsichtbaren ItemFrame nur einmalig platzieren kannst. Dieser kann nicht
-> abgebaut und erneut platziert werden.
+> Unsichtbare ItemFrames lassen sich abbauen, verlieren dabei jedoch ihre Unsichtbarkeit und werden
+> zu normalen ItemFrames.
 >
 {style="note"}
 </tab>
