@@ -114,7 +114,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
-          name: algolia-indexes
+          name: docs
       - name: Unzip artifact
         run: |
           unzip -O UTF-8 -qq '${{ env.ALGOLIA_ARTIFACT }}' -d algolia-indexes
