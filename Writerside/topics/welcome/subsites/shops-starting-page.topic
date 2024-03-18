@@ -5,12 +5,10 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Shops" id="shops-starting-page">
 
-
     <section-starting-page>
         <title>Shops</title>
         <description>
-            Shops können auf dem Shop Server eröffnet werden.
-            Dort kannst du Items an- und verkaufen und dabei %main_currency%s verdienen.
+            Eröffne Shops auf dem Shop Server, um mit Items zu handeln und %main_currency%s zu verdienen.
         </description>
 
         <spotlight>
@@ -20,8 +18,8 @@
 
         <primary>
             <title>Los geht's</title>
-            <a href="create-shop.md" summary="Du hast einen Shop hergestellt und m&ouml;chtest ihn jetzt erstellen? Hier erf&auml;hrst du wie es geht."/>
-            <a href="delete-shop.md" summary="Du m&ouml;chtest deinen Shop wieder l&ouml;schen? Hier erf&auml;hrst du wie es geht."/>
+            <a href="create-shop.md" summary="Shop hergestellt? Hier lernst du, wie du ihn erstellst."/>
+            <a href="delete-shop.md" summary="M&ouml;chtest du deinen Shop l&ouml;schen? Hier wird erkl&auml;rt, wie das geht."/>
         </primary>
 
         <secondary>
