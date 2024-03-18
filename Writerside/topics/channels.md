@@ -1,12 +1,9 @@
 # Textkanäle
 
-Auf dem Server kannst du eigene Textkanäle erstellen oder beitreten.
-In diesen kannst du zum Beispiel mit mehreren Freunden oder Spielern auf dem Server schreiben.
-Dies ist sehr nützlich, wenn du mit mehreren Spielern gleichzeitig schreiben willst.
-Somit erleichtert dieses Feature zum Beispiel die Kommunikation in gemeinsamen Bauprojekten mit
-vielen Spielern aus der Community oder bietet einen einfachen Chatraum, welcher neben dem
-öffentlichen Chat existiert.
-Du kannst hierbei selbst entscheiden, wer deinen Textkanal betreten kann, und wer nicht.
+Auf dem Server kannst du eigene Textkanäle erstellen und beitreten, um mit Freunden oder anderen
+Spielern zu kommunizieren. Dies erleichtert die Koordination in gemeinsamen Projekten oder bietet
+einen privaten Raum für Gespräche neben dem öffentlichen Chat. Du kannst selbst entscheiden, wer
+deinen Textkanal betreten darf.
 
 ## Befehle
 
@@ -27,27 +24,26 @@ Du kannst hierbei selbst entscheiden, wer deinen Textkanal betreten kann, und we
 <def title="Textkanal erstellen" id="channel-create">
 
 Um deinen eigenen Textkanal zu erstellen, benutze den Befehl `/channel create <name> [passwort]`.
-Alternativ kannst du auch noch ein Passwort anfügen, damit nicht jeder Spieler bem Kanal beitreten kann.
-Dieses ist jedoch optional und nicht zwingend notwendig.
+Ein optionales Passwort kann hinzugefügt werden, um den Zugang zu beschränken.
 
-> Zum Beispiel: `/channel create Bauteam Passwort123`
->
+- Beispiel: `/channel create Bauteam Passwort123`
 
 </def>
 <def title="Textkanal umbenennen" id="channel-rename">
 
 Um deinen Textkanal umzubenennen, benutze den Befehl `/channel rename <channel> <name>`.
 
-> Hierzu musst du Inhaber des Textkanals sein.
-> 
+- Beispiel: `/channel rename Bauteam Affenbande`
 
-> Zum Beispiel: `/channel rename Bauteam Affenbande`
+> Hierzu musst du Inhaber des Textkanals sein.
+>
 >
 </def>
 </deflist>
 </tab>
 
 <tab title="Teilnahme und Auswahl">
+
 /channel join &lt;channel>
 : [Trete einem Textkanal bei](channels.md#channel-join "%click-more-info%")
 
@@ -62,7 +58,7 @@ Um deinen Textkanal umzubenennen, benutze den Befehl `/channel rename <channel> 
 <deflist>
 <def title="Textkanäle beitreten" id="channel-join">
 
-Mit dem Befehl `/channel join <channel>` kannst du verschiedenen Textkanäle betreten. 
+Mit dem Befehl `/channel join <channel>` kannst du verschiedenen Textkanäle betreten.
 Wenn ein Passwort für den Channel gesetzt ist, musst dieses auch angeben.
 </def>
 <def title="Textkanal auswählen" id="channel-select">
@@ -90,17 +86,15 @@ Um einen Textkanal zu verlassen, benutze den Befehl `/channel leave <channel>`.
 <deflist>
 <def title="Mitglieder hinzufügen" id="channel-invite">
 
-Um deinem Textkanal Mitglieder hinzuzufügen, ohne ihnen das Passwort zu verraten, kannst du sie einladen.
-Hierzu erstellst du eine Einladung mit dem Befehl `/channel invite <channel> <player>`.
+Mit `/channel invite <channel> <player>` lädst du Spieler in deinen Kanal ein, ohne das Passwort
+teilen zu müssen. Der jeweilige Spieler erhält nun eine Benachrichtigung und wird in den Kanal
+hinzugefügt, sobald er sie annimmt.
+
+- Beispiel: `/channel invite Bauteam Twisti_Twixi`
 
 > Hierzu musst du Inhaber des Textkanals sein.
 >
 {style="note"}
-
-> Zum Beispiel: `/channel invite Testkanal Twisti_Twixi`
-> 
-
-Der jeweilige Spieler erhält nun eine Benachrichtigung und wird in den Kanal hinzugefügt, sobald er sie annimmt.
 
 ![Channel Invite](channel-invite.png) {width="500" border-effect="rounded"}
 
@@ -109,12 +103,11 @@ Der jeweilige Spieler erhält nun eine Benachrichtigung und wird in den Kanal hi
 
 Um Mitglieder aus deinem Textkanal zu entfernen, benutze den Befehl **/channel kick &lt;player>**.
 
+- Beispiel: `/channel kick Twisti_Twixi`
+
 > Hierzu musst du Inhaber des Textkanals sein.
 >
 {style="note"}
-
-> Zum Beispiel: `/channel kick Twisti_Twixi`
->
 
 </def>
 </deflist>
