@@ -18,7 +18,7 @@
         <algolia-id>C86V8LU863</algolia-id>
         <algolia-index>docs_cast_crafter_community_server</algolia-index>
         <algolia-api-key>7cf09b7ca00ee35aefbe99fa74174ed6</algolia-api-key>
-        <web-root>https://castcrafter.de/</web-root>
+        <web-root>https://server.castcrafter.de/</web-root>
 
         <!-- Google Analytics -->
         <analytics-head-script-file>gtag.js</analytics-head-script-file>
