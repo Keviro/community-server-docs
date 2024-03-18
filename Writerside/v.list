@@ -18,8 +18,6 @@
     <var name="twitch_cast" value="https://www.twitch.tv/castcrafter"/>
     <var name="shop-server-name" value="Shop Server"/>
     <var name="shop-server-desc" value="Hier erfährst du wie du auf den Shop Server kommst!"/>
-    <var name="remember-confirmation" value="Vergiss nicht, den Vorgang danach zu bestätigen,
-    da sonst deine Eingabe nicht gespeichert wird."/>
     <var name="git-repo-clone-link" value="https://github.com/Keviro/community-server-docs.git"/>
     <var name="git-repo-link" value="https://github.com/Keviro/community-server-docs"/>
     <var name="click-more-info" value="Klicke hier für mehr Informationen!"/>

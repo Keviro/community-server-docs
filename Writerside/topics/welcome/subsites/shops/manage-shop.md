@@ -1,131 +1,126 @@
+[rules]: rules.md "Zurück zu den Regeln"
+
 # Shop verwalten
 
-Um deinen Shop zu verwalten, mache <shortcut>Rechtsklick</shortcut> auf deinen Shop. \
-Es sollte sich nun ein Menü öffnen, in welchem du verschiedene Einstellungen vornehmen
-kannst: \
+Verwalte deinen Shop durch einen <shortcut>Rechtsklick</shortcut> darauf. Ein Menü mit verschiedenen
+Einstellungsmöglichkeiten öffnet sich: \
 ![Menu](https://i.imgur.com/e4c8iAJ.png)
 
 <procedure title="Preise anpassen" collapsible="true" default-state="collapsed">
 <step>
-<p>
-Klicke auf den <b>Goldbarren</b> in der oberen linken Ecke. 
-</p>
+
+Wähle den **Goldbarren** in der oberen linken Ecke aus.
 </step>
 <step>
-<p>
-Klicke auf den <b>Amboss</b> um den Preis anzupassen.
-Hier kannst du jetzt einen neuen Preis eingeben.
-</p>
-<tip>%remember-confirmation%</tip>
+
+Verwende den **Amboss** zur Preisanpassung und gib den neuen Preis ein.
+
+<include from="util.md" element-id="remember-confirmation"/>
 </step>
 </procedure>
 
-<procedure title="Anzahl an Items, die Verkauft werden sollen, einstellen" collapsible="true" default-state="collapsed">
+<procedure title="Verkaufsmenge festlegen" collapsible="true" default-state="collapsed">
 <step>
-<p>
-Klicke auf die <b>Redstonefackel</b> in der obersten Reihe.
-</p>
+
+Klicke auf die **Redstonefackel** in der obersten Reihe.
 </step>
 <step>
-<p>
-Klicke auf den <b>Amboss</b> um die Anzahl der Items die verkauft werden sollen anzupassen.
-Hier kannst du jetzt eine neue Anzahl eingeben.
-</p>
-<tip>%remember-confirmation%</tip>
+
+Mit dem **Amboss** stellst du die Anzahl der zu verkaufenden Items ein. Gib die neue Menge an.
+
+<include from="util.md" element-id="remember-confirmation"/>
 </step>
 </procedure>
 
-<procedure title="Items in den Shop legen" collapsible="true" default-state="collapsed">
+<procedure title="Items hinzufügen" collapsible="true" default-state="collapsed">
 <step>
-<p>
-Klicke Rechts auf die <b>Güterlore</b>.
-</p>
+
+Klicke Rechts auf die **Güterlore**.
+
 </step>
 <step>
-<p>
-Klicke auf den <b>Amboss</b> oder die grüne Wolle auf der rechten Seite, um die Anzahl der hinzuzufügenden Items festzulegen.
-Hier kannst du jetzt die Anzahl an Items eingeben, die du hinzufügen möchtest.
-</p>
-<p>
-<i>Wenn du den Amboss verwendest darfst du keine negative Zahl eingeben.</i>
-</p>
-<note>
-Du musst die Anzahl der Items, die du hinzufügen möchtest, in deinem Inventar haben.
-</note>
+
+Leg die Anzahl der Items über den **Amboss** oder die grüne Wolle fest.\
+_Negative Zahlen sind beim Amboss nicht zulässig._
+
+> Die hinzuzufügenden Items müssen in deinem Inventar vorhanden sein.
+>
+{style="note"}
 </step>
 </procedure>
 
-<procedure title="Items aus dem Shop nehmen" collapsible="true" default-state="collapsed" id="take-item">
+<procedure title="Items entfernen" collapsible="true" default-state="collapsed" id="take-item">
 <step>
-<p>
-Klicke Rechts auf die <b>Güterlore</b>.
-</p>
+
+Klicke Rechts auf die **Güterlore**.
+
 </step>
 <step>
-<p>
-Klicke auf den <b>Amboss</b> oder die rote Wolle auf der linken Seite, um die Anzahl der herauszunehmenden Items festzulegen.
-Hier kannst du jetzt die Anzahl an Items eingeben, die du herauszunehmen möchtest.
-</p>
-<p>
-<i>Wenn du den Amboss verwendest darfst du keine positive Zahl eingeben.</i>
-</p>
-<note>
-Du musst ausreichend Platz in deinem Inventar haben, um die Items herauszunehmen.
-</note>
+
+Über den **Amboss** oder die rote Wolle gibst du die Menge der zu entnehmenden Items ein.\
+_Verwende beim Amboss keine positiven Zahlen._
+
+> Dein Inventar muss genug Platz für die Items haben.
+>
+{style="note"}
 </step>
 </procedure>
 
 <procedure title="Items ankaufen" collapsible="true" default-state="collapsed">
 <step>
-<p>
-Klicke auf den Smaragd in der obersten Reihe.
-</p>
+
+Klicke auf den **Smaragd** in der obersten Reihe.
+
 </step>
 <step>
-<p>
-Klicke auf den <b>Amboss</b> um den Preis anzupassen, den du für die Items bezahlen möchtest.
-</p>
-<tip>
-Die Anzahl der Items, die ankaufst, ist dieselbe wie die Anzahl der Items, die du verkaufst.
-</tip>
+
+Klicke auf den **Amboss**, um den Preis anzupassen, den du für die Items bezahlen möchtest.
+
+> Die Anzahl der Items, die ankaufst, ist dieselbe wie die Anzahl der Items, die du verkaufst.
+>
+{style="tip"}
 </step>
 </procedure>
 
 <procedure title="Beschreibung anpassen" collapsible="true" default-state="collapsed">
 <step>
-<p>
-Klicke in der untersten Reihe auf das <b>Schild</b>, um eine Beschreibung für deinen Shop hinzuzufügen oder anzupassen.
-</p>
+
+Klicke in der untersten Reihe auf das **Schild**, um eine Beschreibung für deinen Shop hinzuzufügen
+oder anzupassen.
+
 </step>
 <step>
-<p>
-Nun öffnet sich ein Fenster, indem du deine Beschreibung zu deinem Shop hinzufügen oder bearbeiten kannst. 
+
+Nun öffnet sich ein Fenster, indem du deine Beschreibung zu deinem Shop hinzufügen oder bearbeiten
+kannst.
 Tippe hierzu einfach deine Beschreibung ein.
-</p>
+
 </step>
 <step>
-<p>
-Klicke rechts auf das Papier um deine Beschreibung zu übernehmen.
-</p>
+
+Klicke rechts auf das Papier, um deine Beschreibung zu übernehmen.
+
 </step>
-<warning>
-Bitte beachte die <a href="rules.md">Regeln</a> des Servers, wenn du eine Beschreibung für deinen Shop hinzufügst.
-</warning>
+
+> Halte dich an die [Serverregeln][rules], wenn du eine Shop beschreibung verfasst.
+>
+{style="warning"}
 </procedure>
 
 <procedure title="Aussehen anpassen" collapsible="true" default-state="collapsed">
 <step>
-<p>
+
 Klicke unten links in der Ecke auf den Endportalrahmen.
-</p>
+
 </step>
 <step>
-<p>
+
 Jetzt kannst du das Aussehen deines Shops anpassen.
 Klicke hierzu einfach das Aussehen an, welches du haben möchtest.
-</p>
-<tip>
-Manche Aussehen kosten <code>%main_currency%s</code>.
-</tip>
+
+> Manche Aussehen kosten `%main_currency%s`.
+>
+{style="tip"}
+
 </step>
 </procedure>
