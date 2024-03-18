@@ -1,17 +1,22 @@
+[rules]: rules.md "Zurück zu den Regeln"
+
+[replaymod]: https://www.replaymod.com/
+
 # Geprüfte Modifikationen
 
-In der nachfolgen Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden könnt. \
-Bitte beachtet, dass auch andere Mods erlaubt sind, welche die Kriterien in den Regeln erfüllen, doch folgende Mods
-wurden durch das Team geprüft.
+In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden
+könnt.\
+Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriterien in
+den [Regeln][rules] erfüllen, doch folgende Mods wurden durch das Team geprüft.
 
-> Aufgrund von vermehrten Banns weisen wir darauf hin, dass **MouseWheelie mit dem Server nicht kompatibel ist**,
-> weil diese die Kommunikation zwischen Client und Server verändert!
-> 
+> Aufgrund von vermehrten Banns weisen wir darauf hin, dass **MouseWheelie mit dem Server nicht
+> kompatibel ist**, weil diese die Kommunikation zwischen Client und Server verändert!
+>
 {style="warning"}
 
 - **Performance Mods und Shader**
-    - Performance Mods wie Optifine oder Starlight und auch Shader sind in der Regel kein Problem. Diese könnt ihr
-      verwenden.
+    - Performance Mods wie `Optifine` oder `Starlight` und auch Shader sind in der Regel kein Problem.
+      Diese könnt ihr verwenden.
 
 <tabs>
 <tab title="CurseForge" group-key="mod-launcher-curse-forge">
@@ -42,6 +47,8 @@ wurden durch das Team geprüft.
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 - [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+- [ReplayMod][replaymod]
+
 </tab>
 <tab title="Modrinth" group-key="mod-launcher-modrinth">
 
@@ -71,7 +78,7 @@ wurden durch das Team geprüft.
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)
 - [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [BetterF3](https://modrinth.com/mod/betterf3)
+- [ReplayMod][replaymod]
+
 </tab>
 </tabs>
-
-- [ReplayMod](https://www.replaymod.com/)
