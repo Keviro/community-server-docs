@@ -1,6 +1,43 @@
 # Dokumentation schreiben
 
 > Du solltest regelmäßig dein Projekt [updaten](update-project.md#update), damit du immer die neuste Version hast.
+> 
+{style="note"}
+
+<procedure title="Neuen Branch erstellen" id="new-branch">
+<step>
+
+Gehe auf die Github Seite des zuvor [geforkten Projekts](fork-repo.md).
+
+</step>
+<step>
+
+Klicke auf den Branch-Button und gib den Namen eines neuen Branches ein.
+
+![Create Branch](create-branch-first.png) {thumbnail="true"}
+
+> Der Name sollte kurz und prägnant sein und die Änderungen beschreiben, die du vornehmen möchtest.
+>
+{style="note" title="Branch Name"}
+
+</step>
+</procedure>
+
+<procedure title="Branch wechseln" id="switch-branch">
+<step>
+
+Klicke in Writerside auf den Namen des aktuellen Branches.
+![Branch Name](switch-branch-first.png) {style="block"}
+
+</step>
+<step>
+
+Scrolle nun etwas nach unten und wähle dann <ui-path>Remote | origin | _branch-name_</ui-path> aus.
+Klicke dann auf <ui-path>Checkout</ui-path>.
+![Checkout Branch](switch-branch-second.png) {style="block" thumbnail="true"}
+
+</step>
+</procedure>
 
 <procedure title="Neue Seite erstellen" id="new-page">
 <step>
