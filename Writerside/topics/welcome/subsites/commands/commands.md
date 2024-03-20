@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Befehle
 
 ## Folgende Befehle kannst du auf dem Server verwenden:

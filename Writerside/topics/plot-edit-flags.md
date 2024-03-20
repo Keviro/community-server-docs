@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Flags bearbeiten
 
 ## So kannst du deine Grundstück Flags anpassen:

@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Grundstück erweitern
 
 ## So kannst du dein Grundstück erweitern:

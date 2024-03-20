@@ -1,3 +1,5 @@
+<show-structure depth="2"/>
+
 [gold-block]: https://minecraft.fandom.com/de/wiki/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können."
 
 [chest]: https://minecraft.fandom.com/de/wiki/Truhe "Truhen sind Blöcke, die zum Lagern von Gegenständen verwendet werden können."

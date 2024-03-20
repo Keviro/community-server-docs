@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 [rules]: rules.md "Zurück zu den Regeln"
 
 # Wie kann ich dem Server beitreten?

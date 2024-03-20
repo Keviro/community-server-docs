@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Textkanäle
 
 Auf dem Server kannst du eigene Textkanäle erstellen und beitreten, um mit Freunden oder anderen
