@@ -17,13 +17,13 @@ jobs:
       - name: Close master pull request
         id: "master_branch"
         if: github.head_ref == 'master'
-        run: gh pr close ${{ github.event.pull_request.number }} --comment "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."
+        run: gh pr close ${{ github.event.pull_request.number }} --comment 'Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information.'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Close pull request from organization
         id: "org_account"
         if: github.event.pull_request.head.repo.owner.type != 'User' && steps.master_branch.outcome == 'skipped'
-        run: gh pr close ${{ github.event.pull_request.number }} --comment "Please do not open pull requests from non-user accounts like organizations. Create a fork on a user account instead."
+        run: gh pr close ${{ github.event.pull_request.number }} --comment 'Please do not open pull requests from non-user accounts like organizations. Create a fork on a user account instead.'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
