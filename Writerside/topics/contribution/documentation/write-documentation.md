@@ -1,3 +1,5 @@
+<show-structure depth="2" for="procedures"/>
+
 # Dokumentation schreiben
 
 > Du solltest regelmäßig dein Projekt [updaten](update-project.md#update), damit du immer die neuste Version hast.
