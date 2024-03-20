@@ -14,27 +14,14 @@ jobs:
       )
     runs-on: ubuntu-latest
     steps:
-      - name: Close master pull request
+      - uses: superbrothers/close-pull-request@v3
         id: "master_branch"
         if: github.head_ref == 'master'
-        run: |
-          curl -X POST \
-                -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-                -H "Accept: application/vnd.github.v3+json" \
-                "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-                -d '{"body": "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."}'
-          
-          curl -X PATCH \
-                -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-                -H "Accept: application/vnd.github.v3+json" \
-                "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}" \
-                -d '{"state": "closed"}'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          comment: "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."
 
-      - name: Close pull request from organization
+      - uses: superbrothers/close-pull-request@v3
         id: "org_account"
         if: github.event.pull_request.head.repo.owner.type != 'User' && steps.master_branch.outcome == 'skipped'
-        run: gh pr close ${{ github.event.pull_request.number }} --comment 'Please do not open pull requests from non-user accounts like organizations. Create a fork on a user account instead.'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          comment: "Please do not open pull requests from non-user accounts like organizations. Create a fork on a user account instead."
