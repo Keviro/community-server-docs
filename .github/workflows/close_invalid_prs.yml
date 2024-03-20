@@ -17,7 +17,18 @@ jobs:
       - name: Close master pull request
         id: "master_branch"
         if: github.head_ref == 'master'
-        run: gh pr close ${{ github.event.pull_request.number }} --comment 'Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information.'
+        run: |
+          curl -X POST \
+                -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                -H "Accept: application/vnd.github.v3+json" \
+                "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
+                -d '{"body": "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."}'
+          
+          curl -X PATCH \
+                -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                -H "Accept: application/vnd.github.v3+json" \
+                "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}" \
+                -d '{"state": "closed"}'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
