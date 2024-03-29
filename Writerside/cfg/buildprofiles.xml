@@ -20,9 +20,6 @@
         <algolia-api-key>7cf09b7ca00ee35aefbe99fa74174ed6</algolia-api-key>
         <web-root>https://server.castcrafter.de/</web-root>
 
-        <!-- Google Analytics -->
-        <analytics-head-script-file>gtag.js</analytics-head-script-file>
-
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
         <fallback-url>https://server.castcrafter.de/</fallback-url>
