@@ -79,6 +79,7 @@ den [Regeln][rules] erfüllen, doch folgende Mods wurden durch das Team geprüft
 - [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [BetterF3](https://modrinth.com/mod/betterf3)
 - [ReplayMod][replaymod]
+- [ForceCloseWorldLoadingScreen](https://modrinth.com/mod/forcecloseworldloadingscreen)
 
 </tab>
 </tabs>
