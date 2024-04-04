@@ -23,7 +23,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dies
 | ![Entwickler](developer.png) | Unterstützt uns bei der Entwicklung des Servers und / oder Events. |
 | ![Moderator](moderator.png) | Ebenfalls Ansprechpartner bei Fragen, jedoch auch bezüglich der Regeln und dessen Auslegung; übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln. |
 | ![Supporter](supporter.png) | Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc. |
-| ![Builder](builder.png) | Unterstützt uns beim Bauen von Maps für z.B. Events oder andere Serverbereiche. |
+| ![Builder](builder.png) | Unterstützt uns beim Bauen von Maps für bspw. Events oder andere Serverbereiche. |
 </tab>
 
 </tabs>
