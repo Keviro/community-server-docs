@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Grundstück umbenennen
 
 ## So kannst du dein Grundstück umbenennen:

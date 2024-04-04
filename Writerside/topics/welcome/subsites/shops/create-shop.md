@@ -1,16 +1,21 @@
 # Shop erstellen
 
-Um einen Shop zu erstellen musst du ihn einfach nur platzieren.
-> Um die Shops platzieren zu können musst du dich auf dem [%shop-server-name%](servers.md "%shop-server-desc%")
-> befinden.
+Einen Shop zu erstellen ist einfach: Platziere ihn einfach auf
+dem [%shop-server-name%](servers.md "%shop-server-desc%").
 
-{style="tip"}
+> Um die Shops platzieren zu können musst du dich auf
+> dem [%shop-server-name%](servers.md "%shop-server-desc%") befinden.
+>
+{style="note"}
 
 ## Verkaufsitem festlegen {id="set-sell-item"}
 
-Um das Verkaufsitem festzulegen, musst du einfach nur das Item, welches du verkaufen möchtest, in der Hand halten.
-Dann mache
-<shortcut key="$Shift"/><shortcut>Rechtsklick</shortcut>
-auf den Shop. Dein Item sollte nun automatisch im Shop angezeigt werden.
+Um ein Verkaufsitem festzulegen, halte das zu verkaufende Item in deiner Hand und führe einen
+<shortcut>Rechtsklick</shortcut> bei gedrückter<shortcut key="$Shift"/>-Taste auf deinen Shop aus. 
+Das Item erscheint daraufhin automatisch im Shop als Verkaufsangebot.
 
-> Lese auch [Shop verwalten](manage-shop.md "Hier findest du eine Anleitung, wie du deinen Shop verwalten kannst.")
+<seealso>
+<category ref="shops">
+<a href="manage-shop.md" summary="Hier findest du eine Anleitung, wie du deinen Shop verwalten kannst."/>
+</category>
+</seealso>

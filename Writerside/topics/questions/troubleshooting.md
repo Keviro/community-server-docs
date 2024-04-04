@@ -43,6 +43,7 @@ Die folgenden Tipps können dir helfen das Problem selber zu beheben.
 5. **Firewall überprüfen:** Stelle sicher, dass die Website `https://mc-packs.net/` nicht blockiert wird, da das Ressourcenpaket über sie heruntergeladen wird.
 6. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
 7. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
+8. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
 </tabs>

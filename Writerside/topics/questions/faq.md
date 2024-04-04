@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Häufige Fragen
 
 ## FAQ 

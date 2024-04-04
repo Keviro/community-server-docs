@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Mitglieder bearbeiten
 
 ## So kannst du die Mitglieder auf deinem Grundstück bearbeiten:

@@ -1,6 +1,8 @@
+<show-structure depth="0"/>
+
 # Befehle
 
-**Folgende Befehle kannst du auf dem Server verwenden:**
+## Folgende Befehle kannst du auf dem Server verwenden:
 
 #### Chat und Textnachrichten {collapsible="true" default-state="collapsed"}
 
@@ -33,7 +35,7 @@
 : Gibt dir den Kopf des angegebenen Spielers.
 
 /heads
-: Öffnet ein Menü, aus welchem man Köpfe bekommen kann.
+: Öffnet ein Menü, aus welchem man Köpfe bekommen kann. Siehe auch [Köpfe](cosmetics.md)
 
 #### Grundstücke {collapsible="true" default-state="collapsed"}
 
@@ -45,16 +47,16 @@
 Befreit dich, falls du auf einem fremden Grundstück feststeckst.
 
 > Dieser Befehl ist dafür gedacht, dich aus einem **fremden Grundstück** zu **befreien**,
-> wenn du **feststecken** solltest.
-> Jeglicher **Missbrauch** dieses Befehls wird Folgen haben und kann zum **Ausschluss des Servers** führen.
+> wenn du **feststecken** solltest. Jeglicher **Missbrauch** dieses Befehls wird Folgen haben und
+> kann zum **Ausschluss des Servers** führen.
 >
 {style="warning"}
 </def>
 </deflist>
 
 /protect
-: Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir eine Liste aller
-Grundstücke, welche in deinem Besitz sind anzuzeigen.
+: Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir
+eine Liste aller Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 #### Chestprotect {collapsible="true" default-state="collapsed"}
 
@@ -86,12 +88,13 @@ Grundstücke, welche in deinem Besitz sind anzuzeigen.
 Mit diesem Befehl kannst du dich hinsetzen.
 
 > Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die Treppe klickst.
-> 
+>
 </def>
 </deflist>
 
 /sit toggle [on|off]
-: Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren Hand deaktivieren.
+: Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren
+Hand deaktivieren oder aktivieren.
 
 
 

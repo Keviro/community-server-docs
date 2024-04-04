@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Visualizer
 
 Mit dem Visualizer kannst du dir die Grundstücke in deiner Umgebung anzeigen lassen.

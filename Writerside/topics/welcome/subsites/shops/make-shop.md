@@ -1,42 +1,65 @@
+<show-structure depth="2"/>
+
+[gold-block]: https://minecraft.fandom.com/de/wiki/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können."
+
+[chest]: https://minecraft.fandom.com/de/wiki/Truhe "Truhen sind Blöcke, die zum Lagern von Gegenständen verwendet werden können."
+
+[create-shop]: create-shop.md "Hier findest du eine Anleitung, wie du einen Shop erstellen kannst."
+
 # Shop herstellen
 
-Einen Shop herstellen ist ganz einfach.
+Das Herstellen eines Shops ist ganz einfach.
 
 > Du kannst Shops sowohl auf dem Survival Server als auch auf dem %shop-server-name% herstellen.
-> Allerdings kannst du ihn nur auf dem [%shop-server-name%](servers.md "%shop-server-desc%") benutzen.
-
+> Nutzbar sind sie jedoch nur auf dem [%shop-server-name%](servers.md "%shop-server-desc%").
+>
 {style="note"}
 
 ## Crafting Rezept {id="crafting-recipe"}
 
-Für das Crafting Rezept benötigst du folgende Items:
+Du benötigst folgende Items für das Rezept:
 
-- 4x [Gold Block](https://minecraft.fandom.com/de/wiki/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können.")
-- 1x [Truhe](https://minecraft.fandom.com/de/wiki/Truhe "Truhen sind Blöcke, die zum Lagern von Gegenständen verwendet werden können.")
+- 4x [Gold Block][gold-block]
+- 1x [Truhe][chest]
 
 <procedure title="Anleitung" id="crafting-tutorial">
 <step>
-<p>Lege die 4 Gold Blöcke in einem Quadrat in der Crafting Box ab, aber lasse die Mitte frei.</p>
+
+Positioniere die 4 Goldblöcke so in der Crafting Box, dass sie ein Quadrat bilden und die Mitte frei
+bleibt.
 </step>
 <step>
-<p>Lege die Truhe in die Mitte der Crafting Box.</p>
-<img src="craft-shop.gif" alt="Crafting Showcase" preview-src="craft-shop-preview.png" border-effect="rounded"/>
+
+Setze die Truhe in das Zentrum der Crafting Box.
+![Crafting Showcase](craft-shop.gif "Crafting Showcase") {preview-src="craft-shop-preview.png"
+border-effect="rounded" style="block"}
 </step>
 </procedure>
 
-Wie du nun einen Shop erstellst, erfährst du
-hier: [Shop erstellen](create-shop.md "Hier findest du eine Anleitung, wie du einen Shop erstellen kannst.")
+Erfahre, wie du deinen Shop einrichtest: [Shop erstellen][create-shop].
 
-####  Items in anderen Shops kaufen oder verkaufen {id="buy-sell" collapsible="true" default-state="collapsed"}
+#### Items in anderen Shops kaufen oder verkaufen {id="buy-sell" collapsible="true" default-state="collapsed"}
 
-<procedure type="choices">
+<tabs>
+<tab title="Kaufen">
+<procedure>
 <step>
-Klicke auf den gewünschten Shop.
+Wähle den gewünschten Shop aus.
 </step>
 <step>
-Verwende die Güterlore, um Items von dem Shop zu kaufen.
-</step>
-<step>
-Verwende die Trichterlore, um Items an den Shop zu verkaufen.
+Nutze die Güterlore, um Items zu kaufen.
 </step>
 </procedure>
+</tab>
+
+<tab title="Verkaufen">
+<procedure>
+<step>
+Wähle den gewünschten Shop aus.
+</step>
+<step>
+Nutze die Trichterlore, um Items zu verkaufen.
+</step>
+</procedure>
+</tab>
+</tabs>

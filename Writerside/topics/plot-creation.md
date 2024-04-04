@@ -1,3 +1,5 @@
+<show-structure depth="0"/>
+
 # Grundstücke erstellen
 
 ## So kannst du ein Grundstück erstellen:
