@@ -1,7 +1,7 @@
 # Rangübersicht
 
 Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.
-Was er zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dieser Seite.
+Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dieser Seite.
 
 <tabs>
 
@@ -11,7 +11,7 @@ Was er zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf diese
 |------|------------------------|
 | ![Contributor](contributor.png) | Verteilt an ehemalige Teammitglieder oder Spieler, die uns auf andere Weise sehr geholfen haben. |
 | ![Veteran](veteran.png) | Verteilt an alle Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten. |
-| ![Spieler](player.png) | Der normale Rang für jeden neuen Spieler. |
+| ![Spieler](player.png) | Der normale Rang, welcher jeder neue Spieler erhält. |
 </tab>
 
 <tab title="Team Ränge" >
