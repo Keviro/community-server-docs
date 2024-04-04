@@ -7,6 +7,9 @@ wurden durch das Team geprüft.
 > Aufgrund von vermehrten Banns weisen wir darauf hin, dass **MouseWheelie mit dem Server nicht kompatibel ist**,
 > weil diese die Kommunikation zwischen Client und Server verändert!
 > 
+> **Auch Freecam ist auf unserem Server nicht erlaubt**. 
+> Sie bietet Spielern einen unfairen Vorteil, da sie wie X-Ray eingesetzt werden kann um z.B. Erze zu finden.
+> 
 {style="warning"}
 
 - **Performance Mods und Shader**
