@@ -31,14 +31,17 @@ mit einem Ausschluss vom Server rechnen.
    hin, dass alles, was eine Tätigkeit des Spielers automatisiert, untersagt ist, egal ob es sich um
    Minecraft-Modifikationen, externe Software, Exploits, Hardware oder sonstige Möglichkeiten
    handelt. Bitte stelle sicher, dass alle Modifikationen, die du verwendest,
-   ausschließlich clientseitig sind und das Verhalten des Spiels nicht verändern. Sollte es nicht
-   klar sein, ob eine Modifikation erlaubt ist, verwendet sie nicht,
-   [werft einen Blick auf die Liste geprüfter Mods][verified-mods]
+   ausschließlich clientseitig sind und das Verhalten des Spiels nicht verändern. Modifikationen, welche das Ziel
+   haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Alleine das Betreten des Servers mit einer
+   unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen. Sollte es also nicht klar sein,
+   ob eine Modifikation erlaubt ist, verwendet sie nicht, [werft einen Blick auf die Liste geprüfter Mods][verified-mods]
    oder [kontaktiert den Support][support].
 
-3. **Game breaking Exploits** wie das Dupen von Items oder Versuche den Server absichtlich zum
-   Absturz zu bringen, sind strengstens untersagt. Bedrock Deletion, aber auch TNT-Duper sind
-   hiervon ausgenommen.
+3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind untersagt.**
+   Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
+   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen Vorteil zu verschaffen.
+   Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar nicht festgesteckt hat.
+   Bedrock Deletion und TNT-Duper sind von dieser Regel ausgenommen.
 
 4. Darüber hinaus tolerieren wir **keine Belästigung anderer Spieler jeglicher Art**. Seien es
    Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling.
