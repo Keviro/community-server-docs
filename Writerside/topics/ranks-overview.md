@@ -9,21 +9,23 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dies
 
 | Rang                            | Bedeutung & Erklärung                                                                                |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| ![Contributor](contributor.png) | Verteilt an ehemalige Teammitglieder oder Spieler, die uns auf andere Weise sehr geholfen haben.     |
-| ![Veteran](veteran.png)         | Verteilt an alle Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten. |
-| ![Spieler](player.png)          | Der normale Rang, welcher jeder neue Spieler erhält.                                                 |
+| ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>  |
+| ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
+| ![Spieler](player.png)          | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                               ||
+
 </tab>
 
 <tab title="Team Ränge" >
 
 | Rang                                | Bedeutung & Erklärung                                                                                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Management](management.png)       | Verwaltung der Infrastruktur, Entwicklung von Plugins, Teammanagement.                                                                                      |
-| ![Administrator](administrator.png) | Ansprechpartner bei Bugreports / Erstattungen; Entwicklung von Plugins.                                                                                     |
-| ![Entwickler](developer.png)        | Unterstützt uns bei der Entwicklung des Servers und / oder Events.                                                                                          |
-| ![Moderator](moderator.png)         | Ebenfalls Ansprechpartner bei Fragen, jedoch auch bezüglich der Regeln und dessen Auslegung; übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln. |
-| ![Supporter](supporter.png)         | Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.                                                                                   |
-| ![Builder](builder.png)             | Unterstützt uns beim Bauen von Maps für bspw. Events oder andere Serverbereiche.                                                                            |
+| ![Management](management.png)       | <ul><li>Verwaltung der Infrastruktur</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>                                                       |
+| ![Administrator](administrator.png) | <ul><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li></ul>                                                             |
+| ![Entwickler](developer.png)        | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                               |
+| ![Moderator](moderator.png)         | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul> |
+| ![Supporter](supporter.png)         | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                 |
+| ![Builder](builder.png)             | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                ||
+
 </tab>
 
 </tabs>
@@ -53,7 +55,8 @@ mit Packets bzw. PacketEvents sollte kein Problem darstellen.
 <note>
 Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorgaben machen. Überzeugt uns auf eure Art von euer Motivation und warum ihr denkt, dass ihr für den Rang geeignet seid.
 
-Grundvoraussetzung ist jedoch, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem
+Grundvoraussetzung ist jedoch, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig
+auf dem
 Server und TeamSpeak aktiv sind.
 
 Beachtet aber, dass wir in der Regel einen Aufruf machen, sobald wir Teammitglieder suchen oder
