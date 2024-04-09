@@ -7,23 +7,23 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dies
 
 <tab title="Spieler Ränge" >
 
-| Rang | Bedeutung & Erklärung |
-|------|------------------------|
-| ![Contributor](contributor.png) | Verteilt an ehemalige Teammitglieder oder Spieler, die uns auf andere Weise sehr geholfen haben. |
-| ![Veteran](veteran.png) | Verteilt an alle Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten. |
-| ![Spieler](player.png) | Der normale Rang, welcher jeder neue Spieler erhält. |
+| Rang                            | Bedeutung & Erklärung                                                                                |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| ![Contributor](contributor.png) | Verteilt an ehemalige Teammitglieder oder Spieler, die uns auf andere Weise sehr geholfen haben.     |
+| ![Veteran](veteran.png)         | Verteilt an alle Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten. |
+| ![Spieler](player.png)          | Der normale Rang, welcher jeder neue Spieler erhält.                                                 |
 </tab>
 
 <tab title="Team Ränge" >
 
-| Rang | Bedeutung & Erklärung |
-|------|------------------------|
-| ![Management](management.png) | Verwaltung der Infrastruktur, Entwicklung von Plugins, Teammanagement. |
-| ![Administrator](administrator.png) | Ansprechpartner bei Bugreports / Erstattungen; Entwicklung von Plugins. |
-| ![Entwickler](developer.png) | Unterstützt uns bei der Entwicklung des Servers und / oder Events. |
-| ![Moderator](moderator.png) | Ebenfalls Ansprechpartner bei Fragen, jedoch auch bezüglich der Regeln und dessen Auslegung; übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln. |
-| ![Supporter](supporter.png) | Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc. |
-| ![Builder](builder.png) | Unterstützt uns beim Bauen von Maps für bspw. Events oder andere Serverbereiche. |
+| Rang                                | Bedeutung & Erklärung                                                                                                                                       |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Management](management.png)       | Verwaltung der Infrastruktur, Entwicklung von Plugins, Teammanagement.                                                                                      |
+| ![Administrator](administrator.png) | Ansprechpartner bei Bugreports / Erstattungen; Entwicklung von Plugins.                                                                                     |
+| ![Entwickler](developer.png)        | Unterstützt uns bei der Entwicklung des Servers und / oder Events.                                                                                          |
+| ![Moderator](moderator.png)         | Ebenfalls Ansprechpartner bei Fragen, jedoch auch bezüglich der Regeln und dessen Auslegung; übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln. |
+| ![Supporter](supporter.png)         | Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.                                                                                   |
+| ![Builder](builder.png)             | Unterstützt uns beim Bauen von Maps für bspw. Events oder andere Serverbereiche.                                                                            |
 </tab>
 
 </tabs>
