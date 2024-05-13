@@ -75,4 +75,17 @@
 </chapter>
 </chapter>
 </tab>
+
+<tab title="1.20 Community Server">
+<format color="Gray">Coming soon™️</format>
+
+<format color="Gray">Map Download</format>
+
+<chapter title="Die wichtigsten Cords" collapsible="true">
+
+<table>
+<tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
+</table>
+</chapter>
+</tab>
 </tabs>
