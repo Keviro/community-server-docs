@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Event Server" id="cc-event">
+
+    <section-starting-page>
+        <title>Event Server</title>
+        <description>
+            Dies ist der Event Server für die Zuschauer von CastCrafter. Hier findest du alle Informationen,
+            die du brauchst, um an den Events teilzunehmen und zu gewinnen. Wir wünschen dir viel Spaß und Erfolg!
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="event-rules.md" type="install"
+               summary="Lerne die Regeln des Event Servers kennen, bevor du auf ihm spielst. Beachte das es f&uuml;hr die einzelnen Events unterschiedliche Regeln gelten."/>
+            <a href="how-to-take-part-in-an-event.md" summary="Wie du an einem Event teilnehmen kannst erf&auml;hrst du hier." type="start"/>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>Kommende Events</title>
+            <a href="cc-stoneblock-event.md"/>
+        </primary>
+
+        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
+        <secondary>
+            <title>Bereits stattgefundene Events</title>
+            <a href="anarchy-event.md"/>
+        </secondary>
+
+    </section-starting-page>
+
+</topic>
