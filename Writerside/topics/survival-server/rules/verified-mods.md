@@ -7,7 +7,7 @@
 In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden
 könnt.\
 Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriterien in
-den [Regeln][rules] erfüllen, doch folgende Mods wurden durch das Team geprüft.
+den [Regeln](survival-rules.md) erfüllen, doch folgende Mods wurden durch das Team geprüft.
 
 > Aufgrund von vermehrten Banns weisen wir darauf hin, dass **MouseWheelie mit dem Server nicht kompatibel ist**,
 > weil diese die Kommunikation zwischen Client und Server verändert!

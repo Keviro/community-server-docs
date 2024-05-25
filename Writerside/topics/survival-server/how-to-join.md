@@ -1,6 +1,6 @@
 <show-structure depth="0"/>
 
-[rules]: rules.md "Zurück zu den Regeln"
+[rules]: survial-rules.md "Zurück zu den Regeln"
 
 # Wie kann ich dem Server beitreten?
 
