@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Survival Server" id="survival-server" help-id="survival-server">
+       title="Survival Server" id="survival-server">
 
     <section-starting-page>
         <title>Survival Server Dokumentation</title>
