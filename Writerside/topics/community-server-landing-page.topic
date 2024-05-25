@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Community Server Dokumentation" id="community-server-landing-page">
+
+    <section-starting-page>
+        <title>Community Server Dokumentation</title>
+        <description>
+            Der Community Server teilt sich in zwei Bereiche, dem Survival und dem Event Server. Genauere Informationen zu den beiden Bereichen findet ihr weiter unten.
+        </description>
+
+        <spotlight>
+            <a href="survival-server.topic" type="container" summary="Lerne den Survival Server kennen und informiere dich &uuml;ber seine Funktionen und Features"/>
+            <a href="event-server.topic" type="cup" summary="Informiere dich &uuml;ber aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
+        </spotlight>
+
+        <primary>
+            <title>Mache dich mit den Regeln vertraut</title>
+            <a href="survival-rules.md" summary="Lerne die Regeln des Survival Servers kennen, bevor du auf ihm spielst">Survival Server Regeln</a>
+            <a href="event-rules.md" summary="Informiere dich &uuml;ber die Regeln f&uuml;r das aktuelle Event">Event Server Regeln</a>
+        </primary>
+
+        <secondary>
+            <title>Nützliche Informationen</title>
+            <a href="faq.md" summary="In diesem Artikel findest du Antworten auf die am h&auml;ufigsten gestellen Fragen!"/>
+            <a href="troubleshooting.md" summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu l&ouml;sen!"/>
+        </secondary>
+
+    </section-starting-page>
+</topic>

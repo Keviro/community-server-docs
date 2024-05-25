@@ -1,4 +1,4 @@
-[rules]: rules.md "Zurück zu den Regeln"
+[rules]: survival-rules "Zurück zu den Regeln"
 
 [replaymod]: https://www.replaymod.com/
 
