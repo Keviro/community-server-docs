@@ -1,7 +1,6 @@
 # Anarchy
 
-> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation und können in Zukunft
-> geändert werden.
+> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
 >
 {style="warning" title="Hinweis"}
 

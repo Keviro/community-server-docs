@@ -17,8 +17,7 @@ mit einem Ausschluss vom Server rechnen.
 1. Es wird erwartet, dass ihr euch **freundlich und respektvoll gegenüber anderen Spielern**
    verhaltet. Wir tolerieren **keine Belästigung anderer Spieler jeglicher Art**. Seien es
    Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling. Solltet ihr ein Problem mit einer anderen Person
-   haben, versucht es **miteinander** zu
-   lösen. Sollte dies nicht möglich sein,
+   haben, versucht es **miteinander** zu lösen. Sollte dies nicht möglich sein,
    [kontaktiert bitte einen Moderator][support]. Offener Streit wird nicht geduldet und wir behalten
    uns vor Spieler auch dafür temporär vom Server auszuschließen.
 
@@ -34,6 +33,7 @@ mit einem Ausschluss vom Server rechnen.
 
 <seealso>
 <category ref="events">
-<a href="anarchy-event.md"></a>
+<a href="cc-stoneblock-event.md" />
+<a href="anarchy-event.md" />
 </category>
 </seealso>
