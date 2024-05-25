@@ -1,6 +1,6 @@
 # Stoneblock
 
-> Das Event findet am **26.05.2024** um **15:00 Uhr** statt.
+> Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **26.05.2024** um **20:00 Uhr**.
 >
 _Seit im [Livestream](%twitch_cast%) dabei und erlebt das Event hautnah mit._
 
@@ -30,13 +30,19 @@ sollen.
    haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Alleine das Betreten des
    Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen.
    Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
-   nicht, [werft einen Blick auf die Liste geprüfter Mods](stoneblock-mods.md "Liste der Geprüfte Modifikationen")
+   nicht, [werft einen Blick auf die Liste geprüfter Mods](stoneblock-mods.md "Liste der geprüften Modifikationen")
    oder [kontaktiert den Support](support.md "Support, Erstattungen & Bugreport").
-2. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
+
+   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Minimap / Worldmap**, **Freecam**, **AutoClicker**, 
+   > **Macros**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
+   >
+   {style="warning"}
+   
+3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
    untersagt.** Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen
    Vorteil zu verschaffen.
-3. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
+4. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
    von anderen Spielern mutwillig zerstört oder andere Spieler bestiehlst oder mutwillig tötest, droht ein sofortiger
    Ausschluss vom Server.
 
@@ -44,7 +50,7 @@ sollen.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event findet am **26.05.2024** um **15:00 Uhr** statt.
+: Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis zum **26.05.2024** um **20:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.20.4-1.20.6** stattfinden.
