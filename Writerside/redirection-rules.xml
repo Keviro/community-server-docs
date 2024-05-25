@@ -80,4 +80,8 @@
         </description>
         <accepts>channel-leave.html</accepts>
     </rule>
+    <rule id="50dbe270">
+        <description><![CDATA[Created after removal of "Jump & Run" from Community Server Docs]]></description>
+        <accepts>jump-run-event.html</accepts>
+    </rule>
 </rules>
