@@ -43,7 +43,7 @@ sollen.
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen
    Vorteil zu verschaffen.
 4. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern mutwillig zerstört oder andere Spieler bestiehlst oder mutwillig tötest, droht ein sofortiger
+   von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, droht ein sofortiger
    Ausschluss vom Server.
 
 ## Q&amp;A
