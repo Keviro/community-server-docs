@@ -33,7 +33,7 @@ sollen.
    nicht, [werft einen Blick auf die Liste geprüfter Mods](stoneblock-mods.md "Liste der geprüften Modifikationen")
    oder [kontaktiert den Support](support.md "Support, Erstattungen & Bugreport").
 
-   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Minimap / Worldmap**, **Freecam**, **AutoClicker**, 
+   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Minimap / Worldmap**, **Freecam**, **MouseWheelie**, **AutoClicker**, 
    > **Macros**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
    >
    {style="warning"}
