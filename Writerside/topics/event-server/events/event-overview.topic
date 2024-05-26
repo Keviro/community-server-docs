@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Events" id="event-overview">
+
+
+    <section-starting-page>
+        <title>Events</title>
+        <description>
+            Hier findest du alle Informationen zu den aktuellen und vergangenen Events auf dem Server.
+        </description>
+
+        <spotlight>
+            <a href="stoneblock-event.md" type="container"/>
+            <a href="anarchy-event.md" type="cup"/>
+        </spotlight>
+
+        <primary>
+            <title>Aktuelle Event Regeln</title>
+            <a href="stoneblock-event.md" anchor="rules" summary="Gelange zu den Stoneblock spezifischen Event Regeln">
+                Stoneblock Event Regeln</a>
+        </primary>
+
+        <secondary>
+            <title>Event Archive</title>
+            <a href="anarchy-event.md" type="cup"/>
+        </secondary>
+
+    </section-starting-page>
+
+</topic>
