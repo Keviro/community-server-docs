@@ -61,3 +61,7 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 
 Ist PvP aktiviert?
 : Nein, PvP ist während des Events deaktiviert. Allerdings kann es manuell durch CastCrafter aktiviert werden.
+
+Kann man auch später noch dem Event beitreten?
+: Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
+Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
