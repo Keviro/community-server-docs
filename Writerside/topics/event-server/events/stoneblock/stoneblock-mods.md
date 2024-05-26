@@ -10,8 +10,8 @@ Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriteri
 den [Regeln](stoneblock-event.md#rules "Zurück zu den Regeln") erfüllen, doch folgende Mods wurden durch
 das Team geprüft.
 
-> Wir weisen noch einmal auf ein paar explizite verbote Modifikationen hin: **Minimap**, **AutoClicker**, **Macros**, 
-> **Freecam**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
+> Wir weisen noch einmal auf ein paar explizite verbote Modifikationen hin: **Minimap / Worldmap**, **AutoClicker**, **Macros**, 
+> **Freecam**, **MouseWheelie**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
 >
 {style="warning"}
 
