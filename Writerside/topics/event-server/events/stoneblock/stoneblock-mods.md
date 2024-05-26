@@ -7,7 +7,7 @@
 In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos während des Events verwenden
 könnt.\
 Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriterien in
-den [Regeln](cc-stoneblock-event.md#zus-tzliche-regeln "Zurück zu den Regeln") erfüllen, doch folgende Mods wurden durch
+den [Regeln](stoneblock-event.md#rules "Zurück zu den Regeln") erfüllen, doch folgende Mods wurden durch
 das Team geprüft.
 
 > Wir weisen noch einmal auf ein paar explizite verbote Modifikationen hin: **Minimap**, **AutoClicker**, **Macros**, 
