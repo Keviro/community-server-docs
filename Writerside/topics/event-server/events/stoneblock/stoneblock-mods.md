@@ -19,6 +19,8 @@ das Team geprüft.
     - Performance Mods wie `Optifine` oder `Starlight` und auch Shader sind in der Regel kein Problem.
       Diese könnt ihr verwenden.
 
+## Geprüfte Modifikationen
+
 <tabs>
 <tab title="CurseForge" group-key="mod-launcher-curse-forge">
 

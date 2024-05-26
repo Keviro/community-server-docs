@@ -2,7 +2,7 @@
 
 > Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **26.05.2024** um **20:00 Uhr**.
 >
-_Seit im [Livestream](%twitch_cast%) dabei und erlebt das Event hautnah mit._
+_Seid im [Livestream](%twitch_cast%) dabei und erlebt das Event hautnah mit._
 
 ## Über das Event
 
@@ -38,11 +38,11 @@ sollen.
    >
    {style="warning"}
    
-3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
+2. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
    untersagt.** Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen
    Vorteil zu verschaffen.
-4. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
+3. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
    von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, obwohl dies nicht vorgesehen ist, droht ein sofortiger
    Ausschluss vom Server.
 

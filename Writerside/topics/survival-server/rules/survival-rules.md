@@ -54,7 +54,7 @@ mit einem Ausschluss vom Server rechnen.
    Spieler auch dafür temporär vom Server auszuschließen.
 
 6. **Boosting und IRL Trading ist nicht gestattet.** Jeder Spieler darf nur über **einen Account**
-   verfügen. Zweit-Accounts um Geld oder sonstige Dinge zu farmen sind nicht erlaubt. Außerdem darf
+   verfügen. Zweit-Accounts, um Geld oder sonstige Dinge zu farmen, sind nicht erlaubt. Außerdem darf
    jeglicher Handel zwischen den Spielern nur mit auf dem Server verfügbaren Items
    und [Währungen][economy]
    betrieben werden.
