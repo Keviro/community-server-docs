@@ -2,14 +2,14 @@
 
 [economy]: economy.md "Economy-System"
 
-# Event Regeln
+# Allgemeine Event Regeln
 
 > Bitte beachtet, dass die Regeln für jedes Event individuell festgelegt werden und sich daher
 > von Event zu Event unterscheiden können. Die folgenden Regeln gelten für **alle** Events.
-> Bitte mache dich mit den spezifischen Regeln des jeweiligen Events vertraut **bevor** du
+> Bitte mache dich auch mit den spezifischen Regeln des jeweiligen Events vertraut **bevor** du
 > daran teilnimmst.
 >
-{title="Wichtig:" style="note"}
+{title="Wichtiger Hinweis zu den Event-Regeln" style="warning"}
 
 Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, müsst ihr
 mit einem Ausschluss vom Server rechnen.
@@ -31,9 +31,13 @@ mit einem Ausschluss vom Server rechnen.
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
    unterlassen, lasst es einfach anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
 
+> [Zu den Stoneblock spezifischen Regeln](stoneblock-event.md#rules "Stoneblock spezifische Event Regeln")
+> 
+{style="note" title="Zusätzliche Regeln"}
+
 <seealso>
 <category ref="events">
-<a href="cc-stoneblock-event.md" />
+<a href="stoneblock-event.md" />
 <a href="anarchy-event.md" />
 </category>
 </seealso>

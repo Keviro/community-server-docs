@@ -18,7 +18,7 @@ durch das Abbauen von Steinen und das Finden von Ressourcen in der Welt fortbewe
 In eurem Startraum findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern
 sollen.
 
-## Zusätzliche Regeln
+## Zusätzliche Regeln {id="rules"}
 
 1. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen sind
    erlaubt**, solange sie die Kommunikation zwischen Server und Client nicht verändern. Andere
