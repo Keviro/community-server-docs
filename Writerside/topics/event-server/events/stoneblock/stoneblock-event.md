@@ -58,3 +58,6 @@ Welche Version von Minecraft wird benötigt?
 Was passiert, wenn ich gegen die Regeln verstoße?
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
+
+Ist PvP aktiviert?
+: Nein, PvP ist während des Events deaktiviert. Allerdings kann es manuell durch CastCrafter aktiviert werden.
