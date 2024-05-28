@@ -1,8 +1,11 @@
 # Stoneblock
 
+> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
+>
+{style="warning" title="Hinweis"}
+
 > Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
 >
-_Seid im [Livestream](%twitch_cast%) dabei und erlebt das Event hautnah mit._
 
 ## Über das Event
 
