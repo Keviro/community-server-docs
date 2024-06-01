@@ -1,5 +1,7 @@
 # Häufige Probleme
 
+<include from="util.md" element-id="survival-closed"/>
+
 In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unserem Server selber beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
 <tabs>
 

@@ -6,6 +6,8 @@
 
 # Regeln
 
+<include from="util.md" element-id="survival-closed"/>
+
 Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhalten. \
 Zwar besteht die Möglichkeit, sich ein Grundstück zu erstellen, auf dem nur du und deine
 Freunde bauen können, jedoch heißt dies nicht, dass ihr im Umkehrschluss alles zerstören

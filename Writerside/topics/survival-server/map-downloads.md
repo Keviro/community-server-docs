@@ -3,6 +3,22 @@
 # Map Downloads
 
 <tabs>
+
+<tab title="1.20 Community Server">
+<include from="util.md" element-id="survival-closed"/>
+
+<format color="Gray">Coming soon™️</format>
+
+<format color="Gray">Map Download</format>
+
+<chapter title="Die wichtigsten Cords" collapsible="true">
+
+<table>
+<tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
+</table>
+</chapter>
+</tab>
+
 <tab title="1.19 Community Server">
 <a href="https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/">Map Download</a>
 <video src="https://www.youtube.com/watch?v=qIeR1H9HZ38%26ab_channel=CastCrafter"/>
@@ -76,16 +92,5 @@
 </chapter>
 </tab>
 
-<tab title="1.20 Community Server">
-<format color="Gray">Coming soon™️</format>
 
-<format color="Gray">Map Download</format>
-
-<chapter title="Die wichtigsten Cords" collapsible="true">
-
-<table>
-<tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
-</table>
-</chapter>
-</tab>
 </tabs>

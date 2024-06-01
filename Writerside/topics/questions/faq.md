@@ -2,6 +2,8 @@
 
 # Häufige Fragen
 
+<include from="util.md" element-id="survival-closed"/>
+
 ## FAQ 
 
 #### Wieso gibt es keine Villager? {collapsible="true" default-state="collapsed" }

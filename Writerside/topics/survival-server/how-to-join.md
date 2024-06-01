@@ -4,6 +4,8 @@
 
 # Wie kann ich dem Server beitreten?
 
+<include from="util.md" element-id="survival-closed"/>
+
 Du benötigst die [Java-Edition](https://minecraft.fandom.com/wiki/Java_Edition) in der
 Version [%required_game_version%](%required_game_version_link%), um auf dem Server spielen zu
 können.
