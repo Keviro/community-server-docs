@@ -1,7 +1,7 @@
 # Support, Erstattungen & Bugreport
 
 Support {id="support"}
-: Der Support findet, abgesehen von generellen Fragen, **lediglich über das Ticket System** statt.
+: Der Support findet, abgesehen von generellen Fragen, **lediglich über das [Ticket System](support-tickets.md)** statt.
 Solltest du Hilfe benötigen oder einen Spieler bzw. Bug melden wollen, so nutze bitte die dafür
 vorgesehenen [Tickets](%tickets_channel%) auf dem [Discord](%dc_link%).\
 _**Private Nachrichten an Teammitglieder werden nicht bearbeitet!**_

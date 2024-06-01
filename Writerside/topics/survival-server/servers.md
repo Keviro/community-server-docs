@@ -27,6 +27,12 @@ farmen. Allerdings kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu
 Informationen wie du einen Shop eröffnen kannst, findest du in der
 Kategorie [Shops](shops-starting-page.topic).
 
+Die Lobby Server
+: Die Lobby Server dienen hauptsächlich als Aufenthaltsort für Wartezeiten. Nebenbei kannst du die Lobby erkunden und herumspringen. \
+Von den Lobby Servern aus kommst du auf den Event Server und bald auch auf den Survival Server. Weitere Informationen findest du unter [Lobby Server](lobby-server.md).
+
+
+
 <format color="Gray">Der Hub Server _**soon™**_ </format>
 : <format color="Gray"> Auf dem Hub Server kannst du unter anderem die verschiedenen [Quests](specials.md#quests) starten, welche
 dir `%main_currency%s` und andere Belohnungen einbringen. \

@@ -84,4 +84,12 @@
         <description><![CDATA[Created after removal of "Jump & Run" from Community Server Docs]]></description>
         <accepts>jump-run-event.html</accepts>
     </rule>
+    <rule id="4a409dca">
+        <description>Created after removal of "Lobby Server" from Community Server Docs</description>
+        <accepts>lobby-server-topic.html</accepts>
+    </rule>
+    <rule id="79395380">
+        <description>Created after removal of "Lobby Server" from Community Server Docs</description>
+        <accepts>lobby-server.html</accepts>
+    </rule>
 </rules>
