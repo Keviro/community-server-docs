@@ -13,14 +13,14 @@
         </description>
 
         <spotlight>
+            <a href="Flatworld.md" type="world"/>
             <a href="stoneblock-event.md" type="container"/>
-            <a href="anarchy-event.md" type="cup"/>
         </spotlight>
 
         <primary>
             <title>Aktuelle Event Regeln</title>
-            <a href="stoneblock-event.md" anchor="rules" summary="Gelange zu den Stoneblock spezifischen Event Regeln">
-                Stoneblock Event Regeln</a>
+            <a href="Flatworld.md" anchor="rules" summary="Gelange zu den Flatworld spezifischen Event Regeln">
+                Flatworld Event Regeln</a>
         </primary>
 
         <secondary>

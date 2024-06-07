@@ -54,6 +54,7 @@
         <toc-element topic="how-to-take-part-in-an-event.md"/>
         <toc-element topic="event-rules.md"/>
         <toc-element topic="event-overview.topic">
+            <toc-element topic="Flatworld.md"/>
             <toc-element topic="stoneblock-event.md">
                 <toc-element topic="stoneblock-mods.md"/>
             </toc-element>
