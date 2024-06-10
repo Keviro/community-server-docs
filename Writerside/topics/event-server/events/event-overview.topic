@@ -25,6 +25,7 @@
 
         <secondary>
             <title>Event Archive</title>
+            <a href="Flatworld.md" type="world"/>
             <a href="stoneblock-event.md" type="container"/>
             <a href="anarchy-event.md" type="cup"/>
         </secondary>

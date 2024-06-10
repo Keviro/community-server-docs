@@ -31,12 +31,13 @@ mit einem Ausschluss vom Server rechnen.
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
    unterlassen, lasst es einfach anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
 
-> [Zu den Stoneblock spezifischen Regeln](stoneblock-event.md#rules "Stoneblock spezifische Event Regeln")
+> [Zu den Flatworld spezifischen Regeln](Flatworld.md#rules "Flatworld spezifische Event Regeln")
 > 
 {style="note" title="Zusätzliche Regeln"}
 
 <seealso>
 <category ref="events">
+<a href="Flatworld.md" />
 <a href="stoneblock-event.md" />
 <a href="anarchy-event.md" />
 </category>

@@ -2,6 +2,11 @@
 
 > Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
 >
+
+<video src="https://www.youtube.com/watch?v=27Z4fur1lEg"/>
+
+[Map Download](https://drive.google.com/file/d/18sxsHSf7INzd8DzZ8GN5JjyBhaQeyDfR/view?usp=sharing&v=27Z4fur1lEg)
+
 {style="warning" title="Hinweis"}
 
 > Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.

@@ -1,5 +1,8 @@
 # Flatworld
 
+> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
+>
+
 > Das Event läuft vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 >
 
