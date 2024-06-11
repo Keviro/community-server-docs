@@ -1,30 +1,17 @@
-# Stoneblock
+# Flatworld
 
 > Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
 >
 
-<video src="https://www.youtube.com/watch?v=27Z4fur1lEg"/>
-
-[Map Download](https://drive.google.com/file/d/18sxsHSf7INzd8DzZ8GN5JjyBhaQeyDfR/view?usp=sharing&v=27Z4fur1lEg)
-
-{style="warning" title="Hinweis"}
-
-> Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
+> Das Event läuft vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 >
 
 ## Über das Event
 
-In dem Stoneblock-Event tretet ihr in einer speziellen Welt an, die hauptsächlich aus Stein besteht. Ihr könnt euch
-durch das Abbauen von Steinen und das Finden von Ressourcen in der Welt fortbewegen und eure eigene Basis errichten.
+In dem Flatworld-Event tretet ihr in einer kompletten Flatworld an. Sowohl die Overworld, als auch der Nether und das End sind komplett flach.
+Die Challange ist, zusammen zu arbeiten um an seltene Rohstoffe zu gelangen und am Ende etwas Erstaunliches zu erschaffen.
 
-> Beim Betreten des Events wird versucht, euren Startraum an einer zufälligen Position in der Welt zu platzieren. Sollte
-> nach mehreren Versuchen kein freier Platz gefunden werden, werdet ihr vom Server getrennt. Bitte versucht es dann
-> erneut.
->
-{style="note" title="Hinweis:"}
-
-In eurem Startraum findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern
-sollen.
+Tipp: Viele Items könnt ihr in dieser Welt nur durch das finden von Strukturen erhalten. Arbeitet am besten mit anderen Spielern zusammen. Dies ist kein Gegeneinander, sondern ein Miteinander!
 
 ## Zusätzliche Regeln {id="rules"}
 
@@ -38,14 +25,14 @@ sollen.
    haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Alleine das Betreten des
    Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen.
    Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
-   nicht, [werft einen Blick auf die Liste geprüfter Mods](stoneblock-mods.md "Liste der geprüften Modifikationen")
+   nicht, [werft einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der geprüften Modifikationen")
    oder [kontaktiert den Support](support.md "Support, Erstattungen & Bugreport").
 
-   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Minimap / Worldmap**, **Freecam**, **MouseWheelie**, **AutoClicker**, 
+   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Freecam**, **MouseWheelie**, **AutoClicker**,
    > **Macros**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
    >
    {style="warning"}
-   
+
 2. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
    untersagt.** Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen
@@ -58,7 +45,7 @@ sollen.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis zum **28.05.2024** um **20:00 Uhr**.
+: Das Event läuft vorraussichtlich vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.20.4-1.20.6** stattfinden.
