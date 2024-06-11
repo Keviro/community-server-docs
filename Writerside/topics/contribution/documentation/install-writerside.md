@@ -34,4 +34,8 @@ Jetzt musst du noch bestätigen, dass du dem Projekt vertraust.
 </step>
 </procedure>
 
-Jetzt sollte sich das Projekt öffnen und du kannst loslegen.
+<seealso>
+<category ref="spotlight">
+<a href="write-documentation.md"/>
+</category>
+</seealso>

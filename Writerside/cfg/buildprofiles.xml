@@ -6,17 +6,33 @@
         <primary-color>emerald</primary-color>
         <color-preset>vivid</color-preset>
 
-        <header-logo>https://i.imgur.com/clhj72d.png</header-logo>
-        <max-search-results>3</max-search-results>
+        <header-logo>logo.svg</header-logo>
+        <showDownloadButton>true</showDownloadButton>
+        <download-title>Statistiken</download-title>
+        <download-page>https://stats.castattack.de/</download-page>
+        <custom-favicons>logo.svg</custom-favicons>
+        <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
+        <product-web-url>https://server.castcrafter.de/</product-web-url>
+
+        <!-- algolia search -->
+        <algolia-id>C86V8LU863</algolia-id>
+        <algolia-index>docs_cast_crafter_community_server</algolia-index>
+        <algolia-api-key>7cf09b7ca00ee35aefbe99fa74174ed6</algolia-api-key>
+        <web-root>https://server.castcrafter.de/</web-root>
+
+        <enable-browser-edits>true</enable-browser-edits>
+        <browser-edits-url>https://github.com/Keviro/community-server-docs/blob/master/Writerside/</browser-edits-url>
+        <noindex-content>false</noindex-content>
     </variables>
 
     <build-profile instance="ccs">
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
+        <sitemap priority="0.5" change-frequency="daily"/>
     </build-profile>
     <footer>
-        <copyright>CastCrafter Community Server 2021-2023</copyright>
+        <copyright>CastCrafter Community Server 2021-2024 | Not an official Minecraft Product. Not approved by or associated with Mojang or Microsoft</copyright>
         <social type="youtube" href="https://www.youtube.com/@CastCrafter">
             YouTube
         </social>

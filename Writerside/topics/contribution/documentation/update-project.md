@@ -1,7 +1,3 @@
----
-switcher-label: Shortcuts
----
-
 # Projekt & Fork Updaten
 
 <procedure title="Projekt Updaten" id="update">
@@ -42,10 +38,5 @@ wie oben beschrieben.
 </procedure>
 
 <tldr>
-    <p switcher-key="Windows">
-        Shortcut: <shortcut>Strg + T</shortcut>
-    </p>
-    <p switcher-key="macOS">
-        Shortcut: <shortcut>Cmd (⌘) + T</shortcut>
-    </p>
+<p>Shortcut: <shortcut key="Update_Project"/></p>
 </tldr>

@@ -1,10 +1,10 @@
-name: Build documentation
+name: Build documentation and publish to Cloudflare Pages
 
 on:
   # If specified, the workflow will be triggered automatically once you push to the `main` branch.
   # Replace `main` with your branch’s name
   push:
-    branches: [ "main", "master", "upstream/master" ]
+    branches: [ "master" ]
 
   # Specify to run a workflow manually from the Actions tab on GitHub
   workflow_dispatch:
@@ -20,40 +20,39 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ARTIFACT: webHelpCCS2-all.zip
   # Writerside docker image version
-  DOCKER_VERSION: 232.10165.1
+  DOCKER_VERSION: 233.14938
+
   # Add the variable below to upload Algolia indexes
   # Replace HI with the ID of the instance in capital letters
   ALGOLIA_ARTIFACT: algolia-indexes-CCS.zip
+  ALGOLIA_APP_NAME: C86V8LU863
+  ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
+  ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
+  CONFIG_JSON_PRODUCT: CCS
+  CONFIG_JSON_VERSION: 1.20.4
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Build Writerside docs using Docker
+      - name: Build docs using Writerside Docker builder
         uses: JetBrains/writerside-github-action@v4
         with:
           instance: ${{ env.INSTANCE }}
           artifact: ${{ env.ARTIFACT }}
           docker-version: ${{ env.DOCKER_VERSION }}
 
-      - name: Upload documentation
-        uses: actions/upload-artifact@v3
+      - name: Save artifact with build results
+        uses: actions/upload-artifact@v4
         with:
           name: docs
           path: |
             artifacts/${{ env.ARTIFACT }}
             artifacts/report.json
-          retention-days: 7
-
-      # Add the step below to upload Algolia indexes
-      - name: Upload algolia-indexes
-        uses: actions/upload-artifact@v3
-        with:
-          name: algolia-indexes
-          path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
+            artifacts/${{ env.ALGOLIA_ARTIFACT }}
           retention-days: 7
 
   # Add the job below and artifacts/report.json on Upload documentation step above if you want to fail the build when documentation contains errors
@@ -64,7 +63,7 @@ jobs:
 
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4
         with:
           name: docs
           path: artifacts
@@ -76,30 +75,54 @@ jobs:
 
   deploy:
     environment:
-      name: github-pages
+      name: cloudflare-pages
       url: ${{ steps.deployment.outputs.page_url }}
     # Requires the build job results
-    needs: test
+    needs: [build, test]
     runs-on: ubuntu-latest
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: docs
 
+#      - name: Unzip artifact
+#        uses: montudor/action-zip@v1
+#        with:
+#          args: unzip -qq ${{ env.ARTIFACT }} -d cf-pages
       - name: Unzip artifact
-        uses: montudor/action-zip@v1
+        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d cf-pages
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1.5.0
         with:
-          args: unzip -qq ${{ env.ARTIFACT }} -d dir
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: community-server-docs
+          directory: cf-pages
+          branch: main
+          # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
+          # wranglerVersion: '3.4.1'
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
+  publish-indexes:
+    needs: [ build, test, deploy ]
+    runs-on: ubuntu-latest
+    container:
+      image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-3
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
         with:
-          path: dir
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+          name: docs
+      - name: Unzip artifact
+        run: |
+          unzip -O UTF-8 -qq '${{ env.ALGOLIA_ARTIFACT }}' -d algolia-indexes
+          env algolia-key='${{env.ALGOLIA_KEY}}' java -jar /opt/builder/help-publication-agent.jar \
+          update-index \
+          --application-name '${{env.ALGOLIA_APP_NAME}}' \
+          --index-name '${{env.ALGOLIA_INDEX_NAME}}' \
+          --product '${{env.CONFIG_JSON_PRODUCT}}' \
+          --version '${{env.CONFIG_JSON_VERSION}}' \
+          --index-directory algolia-indexes/ \
+          2>&1 | tee algolia-update-index-log.txt
