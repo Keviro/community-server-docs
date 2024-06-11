@@ -78,7 +78,7 @@ Um euch das Bauen zu erleichtern, stehen euch folgende Plugins & Tools zur freie
 summary="Klicke hier, für die Anleitung der Rüstungsständer!"
 >Rüstungsständer Editor</a> (Stock)</li></ul>
 <ul><li><a href="cosmetics.md"
-summary="Klicke hier, für die Anleitung der Rüstungsständer!"
+summary="Klicke hier, für die Anleitung zu den Köpfen!"
 >Head database</a></li></ul>
 
 <warning>
