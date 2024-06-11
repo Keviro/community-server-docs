@@ -77,6 +77,10 @@ Um euch das Bauen zu erleichtern, stehen euch folgende Plugins & Tools zur freie
 <ul><li><a href="armorstand.md"
 summary="Klicke hier, für die Anleitung der Rüstungsständer!"
 >Rüstungsständer Editor</a> (Stock)</li></ul>
+<ul><li><a href="cosmetics.md"
+summary="Klicke hier, für die Anleitung der Rüstungsständer!"
+>Head database</a></li></ul>
+
 <warning>
 Modifikationen wie Litemetica oder andere Schematic Tools sind nicht gestattet!
 </warning>
