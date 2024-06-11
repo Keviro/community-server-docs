@@ -1,21 +1,35 @@
 # Lobby Server
 
+Die Lobby-Server dienen hauptsächlich als Aufenthaltsort während Wartezeiten zwischen Events oder während
+Wartungsarbeiten an den anderen Servern. Damit dir nicht langweilig wird, kannst du mit einem Doppelsprung höher und
+weiter springen. Außerdem gibt es verschiedene Geheimnisse, die du entdecken kannst.
 
-<deflist>
-<def title="Funktion">
-Die Lobby Server dienen hauptsächlich als Aufenthaltsort für Wartezeiten zwischen Events oder während Wartungsarbeiten an den anderen Servern. /
-Damit dir nicht langweilig wird, kannst du mit Doppelsprung höher und weiter springen. Außerdem gibt es verschiedene Secrets, welche du entdecken kannst.
-</def>
-<def title="Lobbyauswahl">
-Um die Stabilität der Lobby zu gewährleisten gibt es drei Lobby Server. Du kannst mit dem Kompass in deinem Inventar zwischen den Servern wechseln. Für weitere Informationen zur Serverauswahl, siehe weiter unten.
-</def>
-<def title="Serverauswahl">
-Über den Kompass in deinem Inventar kannst du die Serverauswahl öffnen. (Rechtsklick mit dem Kompass) 
-Im unterem Bereich des Menüs siehst du die 3 Lobby-Server. In der oberen hälfte siehst du  links den Survival-Server und rechts den Event-Server. 
-Um den Server zu wechseln, klicke auf das entsprechende Icon.
-</def>
-</deflist>
+> Die Lobby-Server sind aktuell noch in der Entwicklung. Änderungen können jederzeit vorgenommen werden und sind
+> möglicherweise noch nicht in der Dokumentation enthalten.
+>
+{style="note"}
 
-<note>
-Die Lobby-Server sind aktuell noch in der Entwicklung. Es können jederzeit Änderungen vorgenommen werden, die ggf. noch nicht in der Dokumentation vorhanden sind.
-</note>
+## Lobbyauswahl
+
+Um die Stabilität der Lobbys zu gewährleisten, gibt es drei verschiedene Lobby-Server. Du kannst mit dem Kompass in
+deinem Inventar zwischen den Servern wechseln. Weitere Informationen zur [Serverauswahl](#select-server) findest du
+weiter unten.
+
+<procedure title="Serverauswahl" id="select-server">
+<step>
+
+Mache einen
+<shortcut>Rechtsklick</shortcut> 
+auf den Kompass in deinem Inventar.
+
+</step>
+<step>
+
+Im Menü klicke auf das Icon des gewünschten Servers.
+
+> In der oberen Hälfte des Menüs siehst du links den Survival-Server und rechts den Event-Server.\
+> In der unteren Hälfte des Menüs siehst du die drei Lobby-Server.
+
+</step>
+
+</procedure>
