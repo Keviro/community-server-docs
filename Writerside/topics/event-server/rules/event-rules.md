@@ -37,6 +37,7 @@ mit einem Ausschluss vom Server rechnen.
 
 <seealso>
 <category ref="events">
+<a href="building-event.md" />
 <a href="Flatworld.md" />
 <a href="stoneblock-event.md" />
 <a href="anarchy-event.md" />

@@ -13,14 +13,14 @@
         </description>
 
         <spotlight>
+            <a href="building-event.md" type="creative"/>
             <a href="Flatworld.md" type="world"/>
-            <a href="stoneblock-event.md" type="container"/>
         </spotlight>
 
         <primary>
             <title>Aktuelle Event Regeln</title>
-            <a href="Flatworld.md" anchor="rules" summary="Gelange zu den Flatworld spezifischen Event Regeln">
-                Flatworld Event Regeln</a>
+            <a href="building-event.md" anchor="tools-plugins" summary="Gelange zu den Building spezifischen Event Regeln">
+                Building Event Regeln</a>
         </primary>
 
         <secondary>
