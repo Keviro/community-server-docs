@@ -22,12 +22,14 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Kommende Events</title>
-            <a href="Flatworld.md"/>
+            <a href="oceanblock.md"/>
+            <a href="building-event.md"/>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>Bereits stattgefundene Events</title>
+            <a href="flatworld.md"/>
             <a href="anarchy-event.md"/>
             <a href="stoneblock-event.md"/>
         </secondary>

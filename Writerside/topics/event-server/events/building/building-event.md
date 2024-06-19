@@ -1,6 +1,6 @@
-# Building Event
+# Vorbau Event
 
-> Das Event läuft vom **?** um **17:00 Uhr** bis **?** um **23:59 Uhr**.
+> Aktuell steht noch kein Starttermin für das Event fest.
 > 
 
 ## Über das Event

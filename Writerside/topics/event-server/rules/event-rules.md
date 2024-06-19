@@ -31,14 +31,14 @@ mit einem Ausschluss vom Server rechnen.
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
    unterlassen, lasst es einfach anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
 
-> [Zu den Flatworld spezifischen Regeln](Flatworld.md#rules "Flatworld spezifische Event Regeln")
+> [Zu den Flatworld spezifischen Regeln](flatworld.md#rules "Flatworld spezifische Event Regeln")
 > 
 {style="note" title="Zusätzliche Regeln"}
 
 <seealso>
 <category ref="events">
 <a href="building-event.md" />
-<a href="Flatworld.md" />
+<a href="flatworld.md" />
 <a href="stoneblock-event.md" />
 <a href="anarchy-event.md" />
 </category>

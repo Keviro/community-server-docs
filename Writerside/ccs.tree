@@ -6,6 +6,7 @@
                  name="Community Server Docs"
                  start-page="community-server-landing-page.topic">
 
+    <toc-element topic="oceanblock.md"/>
     <toc-element topic="community-server-landing-page.topic"/>
     <toc-element topic="lobby-server.md"/>
     <toc-element accepts-web-file-names-ref="677309af" topic="survival-server.topic">
@@ -54,7 +55,7 @@
         <toc-element topic="event-rules.md"/>
         <toc-element topic="event-overview.topic">
             <toc-element topic="building-event.md"/>
-            <toc-element topic="Flatworld.md"/>
+            <toc-element topic="flatworld.md"/>
             <toc-element topic="stoneblock-event.md">
                 <toc-element topic="stoneblock-mods.md"/>
             </toc-element>

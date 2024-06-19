@@ -13,19 +13,21 @@
         </description>
 
         <spotlight>
+            <a href="oceanblock.md" type="navigation"/>
             <a href="building-event.md" type="creative"/>
-            <a href="Flatworld.md" type="world"/>
         </spotlight>
 
         <primary>
             <title>Aktuelle Event Regeln</title>
-            <a href="building-event.md" anchor="tools-plugins" summary="Gelange zu den Building spezifischen Event Regeln">
-                Building Event Regeln</a>
+            <a href="oceanblock.md" anchor="rules" summary="Gehe zu den Oceanblock spezifischen Regeln">
+                Oceanblock Regeln</a>
+            <a href="building-event.md" anchor="tools-plugins" summary="Gelange zu den Regeln f&uuml;r das Vorbau Event">
+                Vorbau Event Regeln</a>
         </primary>
 
         <secondary>
             <title>Event Archive</title>
-            <a href="Flatworld.md" type="world"/>
+            <a href="flatworld.md" type="world"/>
             <a href="stoneblock-event.md" type="container"/>
             <a href="anarchy-event.md" type="cup"/>
         </secondary>
