@@ -52,7 +52,7 @@ Wann beginnt das Event?
 : Das Event läuft vorraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
 
 Welche Version von Minecraft wird benötigt?
-: Das Event wird in der Version **1.20.4 - 1.21** stattfinden.
+: Das Event wird in der Version **1.20.4 - 1.20.6** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße?
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
