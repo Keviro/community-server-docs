@@ -1,6 +1,6 @@
 # Oceanblock
 
-> Das Event läuft vorrausichtlich vom **21.06.2024** bis zum **21.06.2024**.
+> Das Event läuft vorausichtlich vom **21.06.2024** bis zum **23.06.2024**.
 >
 
 ## Über das Event
