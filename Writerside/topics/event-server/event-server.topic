@@ -22,7 +22,8 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Kommende Events</title>
-            <a href="building-event.md"/>
+            <a href="skyblock.md" type="cloud"/>
+            <a href="building-event.md" type="creative"/>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->

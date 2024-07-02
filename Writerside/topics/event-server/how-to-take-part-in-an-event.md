@@ -1,4 +1,4 @@
-# Teilnahme an einem Event
+# Wie kann ich an einem Event teilnehmen?
 
 ## Verbindung zur Lobby herstellen
 Um an einem Event teilzunehmen, folge diesen Schritten:

@@ -96,4 +96,8 @@
         <description>Created after removal of "Allgemeine Event Regeln" from Community Server Docs</description>
         <accepts>event-rules.html</accepts>
     </rule>
+    <rule id="4ce8678e">
+        <description>Created after removal of "Modifikationen" from Community Server Docs</description>
+        <accepts>stoneblock-mods.html</accepts>
+    </rule>
 </rules>
