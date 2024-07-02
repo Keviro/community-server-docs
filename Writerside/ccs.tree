@@ -29,9 +29,7 @@
             <toc-element topic="plot-visualizer.md"/>
             <toc-element topic="plot-other.md"/>
         </toc-element>
-        <toc-element topic="custom-enchantments.md">
-            <toc-element toc-title="Herkunft der Enchantments"/>
-        </toc-element>
+        <toc-element topic="custom-enchantments.md"/>
         <toc-element topic="light-blocks-and-invisible-item-frames.md"/>
         <toc-element topic="channels.md"/>
         <toc-element topic="ranks-overview.md"/>
