@@ -14,13 +14,9 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
 {style="warning" title="Hinweis:"}
 
 ## Event-Ankündigungen
-
-<warning>
     
 Sobald es ein neues Event gibt, wird es in den folgenden Kanälen angekündigt:
 - [🔔┃server-updates](https://discord.com/channels/133198459531558912/980810495877607524)
 - Im Stream auf [twitch.tv/castcrafter](https://twitch.tv/castcrafter)
 
-Wenn du Benachrichtigungen erhalten möchtest, reagiere im Discord-Kanal [📬┃server-info](https://discord.com/channels/133198459531558912/1005106900179894333) auf die Nachricht mit der Glocke.
-
-</warning>
+> Wenn du Benachrichtigungen erhalten möchtest, reagiere im Discord-Kanal [📬┃server-info](https://discord.com/channels/133198459531558912/1005106900179894333) auf die Nachricht mit der Glocke.
