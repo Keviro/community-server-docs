@@ -92,4 +92,8 @@
         <description>Created after removal of "Lobby Server" from Community Server Docs</description>
         <accepts>lobby-server.html</accepts>
     </rule>
+    <rule id="6a662384">
+        <description>Created after removal of "Allgemeine Event Regeln" from Community Server Docs</description>
+        <accepts>event-rules.html</accepts>
+    </rule>
 </rules>

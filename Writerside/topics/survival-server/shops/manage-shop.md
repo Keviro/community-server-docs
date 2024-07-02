@@ -102,7 +102,7 @@ Klicke rechts auf das Papier, um deine Beschreibung zu übernehmen.
 
 </step>
 
-> Halte dich an die [Serverregeln](survival-rules.md), wenn du eine Shop beschreibung verfasst.
+> Halte dich an die [Serverregeln](rules.md), wenn du eine Shop beschreibung verfasst.
 >
 {style="warning"}
 </procedure>

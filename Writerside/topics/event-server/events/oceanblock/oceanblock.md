@@ -1,5 +1,8 @@
 # Oceanblock
 
+> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
+>
+
 > Das Event läuft vorausichtlich vom **21.06.2024** bis zum **23.06.2024**.
 >
 

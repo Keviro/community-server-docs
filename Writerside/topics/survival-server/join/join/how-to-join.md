@@ -11,7 +11,7 @@ Version [%required_game_version%](%required_game_version_link%), um auf dem Serv
 können.
 
 > Wenn du den Server betrittst, bestätigst du automatisch, dass du
-> die [Regeln](survival-rules.md) gelesen und akzeptiert hast.
+> die [Regeln](rules.md) gelesen und akzeptiert hast.
 >
 {title="Wichtig" style="warning"}
 
