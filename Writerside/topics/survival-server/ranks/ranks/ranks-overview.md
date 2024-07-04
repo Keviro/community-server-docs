@@ -11,7 +11,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dies
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>  |
 | ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.19 Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
-| ![Spieler](player.png)          | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                               ||
+| ![Spieler](spieler.png)         | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                               ||
 
 </tab>
 
@@ -19,8 +19,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen erfährst du auf dies
 
 | Rang                                | Bedeutung & Erklärung                                                                                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Management](management.png)       | <ul><li>Verwaltung der Infrastruktur</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>                                                       |
-| ![Administrator](administrator.png) | <ul><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li></ul>                                                             |
+| ![Administrator](administrator.png) | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>                                                            |
 | ![Entwickler](developer.png)        | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                               |
 | ![Moderator](moderator.png)         | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul> |
 | ![Supporter](supporter.png)         | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                 |
