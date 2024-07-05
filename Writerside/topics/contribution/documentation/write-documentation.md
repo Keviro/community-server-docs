@@ -1,4 +1,4 @@
-<show-structure depth="2" for="procedures"/>
+<show-structure depth="2" for="procedure"/>
 
 # Dokumentation schreiben
 
