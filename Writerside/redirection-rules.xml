@@ -92,4 +92,8 @@
         <description>Created after removal of "Lobby Server" from Community Server Docs</description>
         <accepts>lobby-server.html</accepts>
     </rule>
+    <rule id="739f5f23">
+        <description>Created after removal of "Support" from Community Server Docs</description>
+        <accepts>support.html</accepts>
+    </rule>
 </rules>
