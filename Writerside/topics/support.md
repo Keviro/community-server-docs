@@ -1,6 +1,5 @@
 <title>Support, Erstattungen &amp; Bugreport</title>
 
-
 > Solltest du momentan Probleme mit dem Lobby- oder Event-Server haben, öffne bitte entweder
 > ein [Server Support](#server-support) oder [Whitelist](#whitelist) Ticket.
 >
