@@ -3,6 +3,10 @@
 > Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
 >
 
+<video src="https://www.youtube.com/watch?v=l96KwwMBWzw" />
+
+[Map Download](https://drive.google.com/file/d/1F3PMXmnfSsb2l-OxLV8HLBev5E0jb4MU/)
+
 > Das Event läuft vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 >
 

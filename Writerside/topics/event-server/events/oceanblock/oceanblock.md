@@ -1,5 +1,12 @@
 # Oceanblock
 
+> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
+>
+
+<video src="https://www.youtube.com/watch?v=5LmDttvPDg4" />
+
+[Map Download](https://drive.google.com/file/d/10FxOaIS7NX0H81DoFieOtLrr9Oq9Ki8W/)
+
 > Das Event läuft vorausichtlich vom **21.06.2024** bis zum **23.06.2024**.
 >
 

@@ -20,7 +20,7 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ARTIFACT: webHelpCCS2-all.zip
   # Writerside docker image version
-  DOCKER_VERSION: 233.14938
+  DOCKER_VERSION: 241.16003
 
   # Add the variable below to upload Algolia indexes
   # Replace HI with the ID of the instance in capital letters
@@ -29,7 +29,7 @@ env:
   ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: CCS
-  CONFIG_JSON_VERSION: 1.20.4
+  CONFIG_JSON_VERSION: 1.21
 
 jobs:
   build:
@@ -37,6 +37,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Build docs using Writerside Docker builder
         uses: JetBrains/writerside-github-action@v4

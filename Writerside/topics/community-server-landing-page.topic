@@ -18,8 +18,8 @@
 
         <primary>
             <title>Mache dich mit den Regeln vertraut</title>
-            <a href="survival-rules.md" summary="Lerne die Regeln des Survival Servers kennen, bevor du auf ihm spielst">Survival Server Regeln</a>
-            <a href="event-rules.md" summary="Informiere dich &uuml;ber die Regeln f&uuml;r das aktuelle Event">Event Server Regeln</a>
+            <a href="rules.md" summary="Lerne die Serverregeln kennen, bevor du auf dem server spielst">Regeln</a>
+            <a href="verified-mods.md" summary="Eine Liste mit gepr&uuml;ftenn Modifikationen, welche ihr auf dem Server verwenden d&uuml;rft">Geprüfte Modifikationen</a>
         </primary>
 
         <secondary>
