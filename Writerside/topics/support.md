@@ -1,16 +1,14 @@
 # Support
 
-<procedure>
 
 Der Support für den Community-Server oder zum Discord erfolgt **ausschließlich über
 das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
 Private Nachrichten an Teammitglieder und Support via Sprachchat ist ausgeschlossen.
 Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) verwenden.
-</procedure>
+
 
 ### Wie öffne ich ein Support-Ticket? {collapsible="true" default-state="collapsed" id="how-to-open-support-ticket"}
 
-<procedure>
 
 1. Klicke im [Discord](%dc_link%) auf den [Ticket-Kanal](%tickets_channel%).
 2. Kicke auf den Knopf, welcher sich unter der Nachricht befindet.
@@ -20,7 +18,7 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 <note title="Bitte habe einen Moment geduld!">
 Das Team ist kein 24-Stunden-Support. Sobald ein Teammitglied Zeit hat, wird dein Ticket bearbeitet.
 </note>
-</procedure>
+
 
 ### Die verschiedenen Ticket-Typen: {id="ticket-types"}
 
@@ -28,18 +26,18 @@ Das Team ist kein 24-Stunden-Support. Sobald ein Teammitglied Zeit hat, wird dei
 <tab title="Survival Support" id="survival-server-ticket">
 Wenn du Fragen oder Probleme auf dem Survival-Server hast, öffne ein Survival-Server-Support-Ticket. 
 
->Erstattungen werden nur für Verluste gewährt, an denen der Server die Schuld trägt und die der Spieler glaubhaft nachweisen kann.
->In der Regel wird dafür ein Video benötigt.
->Wir empfehlen deshalb allen Spielern, je nach Grafikkarte, entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die letzten 5 Minuten als Video speichern zu können.
-{style="warning" title="Erstattung"}
+> Erstattungen werden nur für Verluste gewährt, an denen der Server die Schuld trägt und die der Spieler glaubhaft nachweisen kann.
+> In der Regel wird dafür ein Video benötigt.
+> Wir empfehlen deshalb allen Spielern, je nach Grafikkarte, entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die letzten 5 Minuten als Video speichern zu können.
+> {style="warning" title="Erstattung"}
 </tab>
 <tab title="Event Support" id="event-server-ticket">
 Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Ticket.
 
->Erstattungen werden nur für Verluste gewährt, an denen der Server die Schuld trägt und die der Spieler glaubhaft nachweisen kann.
->In der Regel wird dafür ein Video benötigt.
->Wir empfehlen deshalb allen Spielern, je nach Grafikkarte, entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die letzten 5 Minuten als Video speichern zu können.
-{style="warning" title="Erstattung"}
+> Erstattungen werden nur für Verluste gewährt, an denen der Server die Schuld trägt und die der Spieler glaubhaft nachweisen kann.
+> In der Regel wird dafür ein Video benötigt.
+> Wir empfehlen deshalb allen Spielern, je nach Grafikkarte, entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die letzten 5 Minuten als Video speichern zu können.
+> {style="warning" title="Erstattung"}
 </tab>
 <tab title="Bugreport" id="bugreport-ticket">
 Wenn du einen Bug auf dem Server gefunden hast, bitten wir dich, diesen umgehend in einem Bugreport-Ticket zu melden.
