@@ -92,4 +92,8 @@
         <description>Created after removal of "Lobby Server" from Community Server Docs</description>
         <accepts>lobby-server.html</accepts>
     </rule>
+    <rule id="55a6d2fb">
+        <description>Created after removal of "Geprüfte Modifikationen" from Community Server Docs</description>
+        <accepts>verified-mods.html</accepts>
+    </rule>
 </rules>
