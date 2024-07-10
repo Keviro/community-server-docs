@@ -48,7 +48,7 @@
     </toc-element>
     <toc-element topic="event-server.topic">
         <toc-element topic="how-to-take-part-in-an-event.md"/>
-        <toc-element topic="event-overview.topic">
+        <toc-element toc-title="Events">
             <toc-element topic="oceanblock.md"/>
             <toc-element topic="building-event.md"/>
             <toc-element topic="flatworld.md"/>
