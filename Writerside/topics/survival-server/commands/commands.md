@@ -10,7 +10,7 @@
 : Schickt eine Privatnachricht an den angegebenen Spieler.
 
 /r &lt;message&gt;
-: Schreibe dem Spieler, der dich zuletzt angeschrieben hat eine Nachricht.
+: Schreibe dem Spieler, der dich zuletzt angeschrieben hat, eine Nachricht.
 
 /msgtoggle
 : Deaktiviert / Aktiviert Privatnachrichten an dich.
@@ -64,13 +64,13 @@ eine Liste aller Grundstücke, welche in deinem Besitz sind anzuzeigen.
 : Öffnet das Hauptmenü von Chestprotect.
 
 /lock
-: Sperrt eine Kiste nach anschließendem anklicken.
+: Sperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt;
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
 
 /untrust &lt;player&gt;
-: Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem anklicken der Kiste.
+: Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem Anklicken der Kiste.
 
 #### Positionen {collapsible="true" default-state="collapsed"}
 
@@ -93,7 +93,7 @@ Mit diesem Befehl kannst du dich hinsetzen.
 </deflist>
 
 /sit toggle [on|off]
-: Mit diesem Befehl kannst du das automatische hinsetzen auf Treppen durch Anklicken mit der leeren
+: Mit diesem Befehl kannst du das automatische Hinsetzen auf Treppen durch Anklicken mit der leeren
 Hand deaktivieren oder aktivieren.
 
 
