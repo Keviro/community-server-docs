@@ -18,10 +18,8 @@ border-effect="rounded"}
 Lightblocks
 :
 Nach der Freischaltung des Alchemisten habt ihr täglich die Möglichkeit, `20` Lightblocks zu
-erwerben,
-indem ihr ihm `20` Redstonelampen und `5` Smaragde anbietet. Die erworbenen Lightblocks könnt ihr
-wie
-gewohnt in eurer Welt platzieren und wieder abbauen.\
+erwerben, indem ihr ihm `20` Redstonelampen und `5` Smaragde anbietet.
+Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.\
 Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
 Lightblock per Rechtsklick modifiziert.
 
