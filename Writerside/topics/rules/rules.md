@@ -12,7 +12,7 @@ Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln versto
 mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
 
 1. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern mutwillig zerstört oder andere Spieler bestiehlst, droht ein sofortiger
+   von anderen Spielern mutwillig zerstörst oder andere Spieler bestiehlst, droht ein sofortiger
    Ausschluss aus dem Projekt. 
 
    > Alles, was nicht explizit als öffentlich ausgeschildert bzw. erkennbar ist, muss als
@@ -22,7 +22,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    >
    {title="Allgemein gilt:" style="note"}
 
-2. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen sind
+2. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen, sind
    erlaubt**, solange sie die Kommunikation zwischen Server und Client nicht verändern. Andere
    Modifikationen und/oder Hacked-Clients sind strengstens untersagt. Außerdem weisen wir darauf
    hin, dass alles, was eine Tätigkeit des Spielers automatisiert, untersagt ist, egal ob es sich um
@@ -43,7 +43,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
 3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind untersagt.**
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
-   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen Vorteil zu verschaffen. 
+   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen Vorteil zu verschaffen. 
    Bedrock Deletion und TNT-Duper sind von dieser Regel ausgenommen.
 
    > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar nicht festgesteckt hat.
@@ -67,4 +67,4 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
 6. **Moderatoren und Admins haben das letzte Wort**, auch wenn dies den Regeln widerspricht. Wir
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
-   unterlassen, lasst es einfach anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
+   unterlassen, lasst es einfach, anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
