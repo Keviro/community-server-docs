@@ -10,7 +10,7 @@
 
    ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="true" width="384"}
 
-2. Wähle nun das Grundstück aus, welches du erweitern möchtest und klicke auf
+2. Wähle nun das Grundstück aus, welches du erweitern möchtest, und klicke auf
    **Grundstück erweitern**.
 
    ![expand plot](plot-expand-plot.png) {border-effect="rounded" thumbnail="true" width="512"}
