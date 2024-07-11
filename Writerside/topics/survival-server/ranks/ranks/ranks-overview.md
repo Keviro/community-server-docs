@@ -41,7 +41,7 @@ an uns wendet. Bitte beachtet jedoch die Informationen weiter unten.
 <def title="Bewerbung als Moderator">
 Eine direkte Bewerbung für den Moderator Rang ist nicht möglich. Supporter können jedoch bei guter Arbeit und längerer Mitgliedschaft im Team zum Moderator aufsteigen.
 </def>
-<def title="Bewerbung als Developer">
+<def title="Bewerbung als Developer" id="dev-application">
 Die Anforderungen für Developer sind recht hoch. 
 
 Bitte bewerbt euch nur, wenn ihr genügend Erfahrung und auch Lust und Zeit
