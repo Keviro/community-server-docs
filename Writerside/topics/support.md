@@ -1,5 +1,12 @@
 <title>Support, Erstattungen &amp; Bugreport</title>
 
+<tldr>
+    <p>Erstelle ein Ticket für Serverprobleme oder Whitelist-Anfragen.</p>
+    <p>Reiche Schadensmeldungen zusammen mit einem Videobeweis ein.</p>
+    <p>Melde Fehler sofort mit detaillierten Informationen.</p>
+</tldr>
+
+
 > Solltest du momentan Probleme mit dem Lobby- oder Event-Server haben, öffne bitte entweder
 > ein [Server Support](#server-support) oder [Whitelist](#whitelist) Ticket.
 >
