@@ -1,5 +1,11 @@
 # Support
 
+<tldr>
+    <p>Erstelle ein Ticket für Serverprobleme oder Whitelist-Anfragen.</p>
+    <p>Reiche Schadensmeldungen zusammen mit einem Videobeweis ein.</p>
+    <p>Melde Fehler sofort mit detaillierten Informationen.</p>
+</tldr>
+
 Der Support für den Community-Server oder zum Discord erfolgt **ausschließlich über
 das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
 Private Nachrichten an Teammitglieder und Support via Sprachchat ist ausgeschlossen.
