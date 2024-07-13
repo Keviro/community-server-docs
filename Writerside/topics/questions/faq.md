@@ -62,7 +62,7 @@ Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
 
 #### Wie gehe ich vor, wenn ich einen Bug entdecke? {collapsible="true" default-state="collapsed" }
-öffne hierzu ein [Bugreport Ticket](support.md).
+öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket).
 
 >Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
 > {style="warning"}
