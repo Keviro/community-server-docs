@@ -20,8 +20,9 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die passende Kategorie für dein Anliegen.
 4. Es wurde ein neuer Kanal erstellt. Klicke auf diesen.
 5. Beschreibe dein Problem nun so genau wie möglich. Ein einfaches "X und Y funktioniert nicht." hilft nicht weiter.
-<note title="Bitte habe einen Moment geduld!">
-Das Team ist kein 24-Stunden-Support. Sobald ein Teammitglied Zeit hat, wird dein Ticket bearbeitet.
+<note title="Bitte habe einen Moment Geduld!">
+Wir bemühen uns die Tickets schnellstmöglich zu bearbeiten, jedoch arbeitet das gesamte Team freiwillig, und gerade unter der Woche kann die Bearbeitung der Tickets länger dauern.
+Sobald ein Teammitglied Zeit hat, wird dein Ticket bearbeitet.
 </note>
 
 
