@@ -1,7 +1,9 @@
 # Rüstungsständer
 
+
 Um deinen Rüstungsständer zu bearbeiten, mache einen <shortcut>Rechtsklick</shortcut> mit
-einem <tooltip term="Flintstone"> Feuerstein</tooltip> direkt auf den Rüstungsständer. \
+einem <tooltip term="Flintstone">Feuerstein</tooltip> direkt auf den Rüstungsständer.
+\
 Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kannst:
 
 ![Armorstand editing menu](armorstand-editing-menu.png)
@@ -16,13 +18,13 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 > {style="note"}
 
 {type="medium"}
-X-Achse einstellen
+x-Achse einstellen
 : Klicke die <b>rote Wolle</b> an.
 
-Y-Achse einstellen
+y-Achse einstellen
 : Klicke die <b>grüne Wolle</b> an.
 
-Z-Achse einstellen
+z-Achse einstellen
 : Klicke die <b>blaue Wolle</b> an.
 
 ## Stärke {collapsible="true" default-state="collapsed" id="strength"}
@@ -143,7 +145,7 @@ Um das Inventar des Rüstungsständers zu bearbeiten, führe mit dem <tooltip te
 Ein Menü öffnet sich, in dem du deine Items in die entsprechenden, hier mit 1 bis 6 beschrifteten, Plätze legen kannst.
 </step>
 <step>
-Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1-6 einlegen.
+Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
 </step>
 </procedure>
 
@@ -162,18 +164,18 @@ Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1-6 einlegen.
 Arme ein- oder ausschalten
 : 
 1. Klicke im Menü auf den ganz rechts befindlichen **Stock**.
-2. Um die Arme ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+2. Um die Arme ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 
 Sichtbarkeit ein- oder ausschalten
 :
 1. Klicke im Menü auf den **Trank** auf den Rüstungsständer.
-2. Um die Sichtbarkeit ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer
+2. Um die Sichtbarkeit ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer
    aus.
 
 Größe verändern
 :
 1. Klicke im Menü auf den **Pufferfisch**.
-2. Um die Größe umzustellen, führe einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+2. Um die Größe umzustellen, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 
 Erdanziehungskraft ein- oder ausschalten
 :
@@ -181,13 +183,13 @@ _Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf de
 Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
 Erdanziehungskraft besitzen, herunterfallen werden._
 1. Klicke im Menü auf **Sand**.
-2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den
+2. Um die Erdanziehungskraft ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den
    Rüstungsständer aus.
 
 Bodenplatte ein- oder ausschalten
 :
 1. Klicke im Menü auf die **Steinstufe**.
-2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Links-Klick</shortcut> auf den
+2. Um die Erdanziehungskraft ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den
    Rüstungsständer aus.
 
 ## Kopieren und Einfügen {collapsible="true" default-state="collapsed" id="copy-paste"}

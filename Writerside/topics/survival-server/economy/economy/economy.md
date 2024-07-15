@@ -18,7 +18,7 @@ Außerdem kannst du mit `/pay <Spieler> <Betrag>`Geld an andere Spieler überwei
 ### Handel
 
 > Der Handel findet ausschließlich zwischen den Spielern statt.
-> Es gibt keine Möglichkeit Items an oder vom Server zu verkaufen.
+> Es gibt keine Möglichkeit, Items an oder vom Server zu verkaufen.
 >
 {style="note"}
 

@@ -13,9 +13,12 @@
     <var name="tickets_channel" value="https://discord.com/channels/133198459531558912/1124438644523012234"/>
     <var name="general_support_channel" value="https://discord.com/channels/133198459531558912/803253717935587408"/>
     <var name="com_info_channel" value="https://discord.com/channels/133198459531558912/1005106900179894333"/>
+    <var name="com_info_channel_display" value="📬┃server-info" />
     <var name="com_updates_channel" value="https://discord.com/channels/133198459531558912/980810495877607524"/>
+    <var name="com_updates_channel_display" value="🔔┃server-updates" />
     <var name="twitch_connect_tut"
          value="https://discord.com/channels/133198459531558912/1124438644523012234/1124440165943869441"/>
+
     <var name="twitch_cast" value="https://www.twitch.tv/castcrafter"/>
     <var name="twitch" value="https://www.twitch.tv"/>
     <var name="shop-server-name" value="Shop Server"/>

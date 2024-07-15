@@ -12,7 +12,7 @@ stehst.
 
 Solltest du auf einem fremden Grundstück feststecken, kannst du **/unstuck** verwenden, um wieder
 zum Spawn zu gelangen.
-> Der Missbrauch dieses Befehls um zum Spawn zu gelangen wird als Exploiting gewertet und bestraft!
+> Der Missbrauch dieses Befehls, um zum Spawn zu gelangen, wird als Exploiting gewertet und bestraft!
 >
 {style="warning"}
 </def>

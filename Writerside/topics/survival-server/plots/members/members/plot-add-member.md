@@ -6,7 +6,7 @@
 
 1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls Informationen über dein
-   Grundstück, wie z.B. die Größe oder die Koordinaten deines Grundstückes.
+   Grundstück, wie z. B. die Größe oder die Koordinaten deines Grundstückes.
 
    ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="true" width="384"}
 
@@ -23,8 +23,7 @@
    ![add member menu](plot-add-member-menu.png) {border-effect="rounded" thumbnail="true"
    width="384"}
 
-> Achte darauf, dass der eingetippte Spielernamen den Voraussetzungen entspricht und keine
-> Leerzeichen oder nicht
-> gültige Zeichen enthält!
+> Achte darauf, dass der eingetippte Spielername den Voraussetzungen entspricht und keine
+> Leerzeichen oder nicht gültige Zeichen enthält!
 >
 {style="note"}

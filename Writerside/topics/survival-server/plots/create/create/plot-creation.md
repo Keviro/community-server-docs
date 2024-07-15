@@ -18,7 +18,7 @@
    Diese kannst du platzieren, um einen **Bereich abzustecken**.
 
 3. Wenn du damit fertig bist, wähle in deiner Hotbar den **grünen** Beton Block aus und mache
-   einen <shortcut> Rechtsklick</shortcut> um das Grundstück zu **kaufen**. \
+   einen <shortcut>Rechtsklick</shortcut>, um das Grundstück zu **kaufen**.\
    Um den ProtectionMode zu **verlassen**, ohne ein Grundstück zu kaufen, wähle den **roten** Beton
    aus und mache einen <shortcut>Rechtsklick</shortcut>.
 

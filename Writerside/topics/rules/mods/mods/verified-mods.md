@@ -4,8 +4,7 @@
 
 # Geprüfte Modifikationen
 
-In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden
-könnt.\
+In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden könnt.\
 Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriterien in
 den [Regeln](rules.md) erfüllen, doch folgende Mods wurden durch das Team geprüft.
 
@@ -13,7 +12,7 @@ den [Regeln](rules.md) erfüllen, doch folgende Mods wurden durch das Team gepr�
 > weil diese die Kommunikation zwischen Client und Server verändert!
 > 
 > **Auch Freecam ist auf unserem Server nicht erlaubt**. 
-> Sie bietet Spielern einen unfairen Vorteil, da sie wie X-Ray eingesetzt werden kann um z.B. Erze zu finden.
+> Sie bietet Spielern einen unfairen Vorteil, da sie wie X-Ray eingesetzt werden kann, um z. B. Erze zu finden.
 > 
 {style="warning"}
 

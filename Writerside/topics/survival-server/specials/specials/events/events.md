@@ -1,7 +1,7 @@
 # Events
 
 > Das **Auffordern** ein Event zu starten ist **untersagt**!
-> Solltest du doch zu einem Event auffordern musst du mit Konsequenzen rechen.
+> Solltest du doch zu einem Event auffordern, musst du mit Konsequenzen rechen.
 >
 {style="warning" title="Event Aufforderungen"}
 

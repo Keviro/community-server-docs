@@ -23,7 +23,7 @@ Zu den öffentlichen Bereichen zählen der Hub, der PvP Server und der Event Ser
 Der Survival und der Shop Bereich stehen nur Spielern zur Verfügung, die sich auf der Whitelist
 befinden.
 
-> Um diese Bereiche zu betreten, erstelle ein Whitelist Ticket im [#tickets](%tickets_channel%)
+> Um diese Bereiche zu betreten, erstellt ein Whitelist Ticket im [#tickets](%tickets_channel%)
 > Kanal auf unserem [Discord](%dc_link%).
 >
 {style="note"}
@@ -39,4 +39,4 @@ Hier bitten wir bei der Bearbeitung um etwas Geduld.
 - Ihr müsst CastCrafter auf [Twitch](%twitch_cast%) folgen
 - Ihr dürft den Discord nicht mehr verlassen, sobald eure Anfrage angenommen wurde
 
-Du kannst den Server unter `%com_ip%` beitreten. Viel Spaß!
+Du kannst dem Server unter `%com_ip%` beitreten. Viel Spaß!

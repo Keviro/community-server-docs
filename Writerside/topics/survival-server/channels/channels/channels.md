@@ -60,7 +60,7 @@ Um deinen Textkanal umzubenennen, benutze den Befehl `/channel rename <channel> 
 <deflist>
 <def title="Textkanäle beitreten" id="channel-join">
 
-Mit dem Befehl `/channel join <channel>` kannst du verschiedenen Textkanäle betreten.
+Mit dem Befehl `/channel join <channel>` kannst du verschiedene Textkanäle betreten.
 Wenn ein Passwort für den Channel gesetzt ist, musst dieses auch angeben.
 </def>
 <def title="Textkanal auswählen" id="channel-select">
