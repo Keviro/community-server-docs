@@ -6,9 +6,9 @@
     <p>Melde Fehler sofort mit detaillierten Informationen.</p>
 </tldr>
 
-Der Support für den Community-Server oder zum Discord erfolgt **ausschließlich über
-das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
-Private Nachrichten an Teammitglieder und Support via Sprachchat ist ausgeschlossen.
+Der Support erfolgt **ausschließlich über das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
+Private Nachrichten an Teammitglieder werden nicht bearbeitet.
+Der Support vie Sprachchat ist ausgeschlossen.
 Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) verwenden.
 
 
