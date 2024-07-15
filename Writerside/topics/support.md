@@ -71,9 +71,9 @@ Beschreibe dabei so genau wie möglich, was vorgefallen ist, was du gemacht hast
 Screenshots und vor allem Videos sind gerne gesehen.
 </tab>
 <tab title="Entbannungsantrag" id="unban-ticket">
-Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.
+Wenn du denkst, dir wurde mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.
 </tab>
 <tab title="Discord Support" id="discord-ticket">
-Bei Fragen bezüglich dem <a href="%dc_link%">Discord</a> oder wenn du einen Benutzer melden möchtest, kannst du ein Discord-Support-Ticket erstellen.
+Bei Fragen bezüglich des <a href="%dc_link%">Discords</a> oder wenn du einen Benutzer melden möchtest, kannst du ein Discord-Support-Ticket erstellen.
 </tab>
 </tabs>
