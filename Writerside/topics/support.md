@@ -28,6 +28,26 @@ Das Team ist kein 24-Stunden-Support. Sobald ein Teammitglied Zeit hat, wird dei
 ### Die verschiedenen Ticket-Typen: {id="ticket-types"}
 
 <tabs>
+<tab title="Whitelistanfrage" id="whitelist-ticket">
+Über dieses Ticket kannst du dich für den Survival-Server whitelisten lassen.
+Dazu gibt es zwei Voraussetzungen:
+
+- Du musst [CastCrafter](%twitch_cast%) auf [Twitch](%twitch%) folgen.
+- Du musst deinen Discord-Account mit [Twitch](%twitch%) verbunden haben.
+
+<deflist default-state="collapsed" collapsible="true">
+<def title="Wie verbinde ich meinen Twitch Account mit Discord?" id="link-twitch">
+
+1. Klicke in Discord auf Benutzereinstellungen.
+2. Klicke auf den Punkt "Verknüpfungen".
+3. Klicke auf das "Twitch-Symbol".
+4. Logge dich mit deinem Twitch-Account ein und warte, bis diese Meldung erscheint: `Connected your Twitch to Discord`. Der Vorgang kann einige Minuten dauern.
+<note>
+Achte bitte darauf, dass deine verknüpften Accounts auch öffentlich einsehbar sind!
+</note>
+</def>
+</deflist>
+</tab>
 <tab title="Survival Support" id="survival-server-ticket">
 Wenn du Fragen oder Probleme auf dem Survival-Server hast, öffne ein Survival-Server-Support-Ticket. 
 
@@ -48,26 +68,6 @@ Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Tic
 Wenn du einen Bug auf dem Server gefunden hast, bitten wir dich, diesen umgehend in einem Bugreport-Ticket zu melden.
 Beschreibe dabei so genau wie möglich, was vorgefallen ist, was du gemacht hast und was hätte passieren sollen.
 Screenshots und vor allem Videos sind gerne gesehen.
-</tab>
-<tab title="Whitelistanfrage" id="whitelist-ticket">
-Über dieses Ticket kannst du dich für den Survival-Server whitelisten lassen.
-Dazu gibt es zwei Voraussetzungen:
-
-- Du musst [CastCrafter](%twitch_cast%) auf [Twitch](%twitch%) folgen.
-- Du musst deinen Discord-Account mit [Twitch](%twitch%) verbunden haben.
-
-<deflist default-state="collapsed" collapsible="true">
-<def title="Wie verbinde ich meinen Twitch Account mit Discord?" id="link-twitch">
-
-1. Klicke in Discord auf Benutzereinstellungen.
-2. Klicke auf den Punkt "Verknüpfungen".
-3. Klicke auf das "Twitch-Symbol".
-4. Logge dich mit deinem Twitch-Account ein und warte, bis diese Meldung erscheint: `Connected your Twitch to Discord`. Der Vorgang kann einige Minuten dauern.
-<note>
-Achte bitte darauf, dass deine verknüpften Accounts auch öffentlich einsehbar sind!
-</note>
-</def>
-</deflist>
 </tab>
 <tab title="Entbannungsantrag" id="unban-ticket">
 Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.
