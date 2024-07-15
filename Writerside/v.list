@@ -11,6 +11,7 @@
 
     <var name="dc_link" value="https://discord.gg/castcrafter"/>
     <var name="tickets_channel" value="https://discord.com/channels/133198459531558912/1124438644523012234"/>
+    <var name="general_support_channel" value="https://discord.com/channels/133198459531558912/803253717935587408"/>
     <var name="com_info_channel" value="https://discord.com/channels/133198459531558912/1005106900179894333"/>
     <var name="com_info_channel_display" value="📬┃server-info" />
     <var name="com_updates_channel" value="https://discord.com/channels/133198459531558912/980810495877607524"/>
@@ -19,6 +20,7 @@
          value="https://discord.com/channels/133198459531558912/1124438644523012234/1124440165943869441"/>
 
     <var name="twitch_cast" value="https://www.twitch.tv/castcrafter"/>
+    <var name="twitch" value="https://www.twitch.tv"/>
     <var name="shop-server-name" value="Shop Server"/>
     <var name="shop-server-desc" value="Hier erfährst du wie du auf den Shop Server kommst!"/>
     <var name="git-repo-clone-link" value="https://github.com/Keviro/community-server-docs.git"/>
