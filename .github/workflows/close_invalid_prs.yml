@@ -14,6 +14,14 @@ jobs:
       )
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up GitHub CLI
+        uses: cli/cli-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - id: "master_branch"
         if: github.head_ref == 'master'
         run: gh pr close $PR_NUMBER --comment "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."
