@@ -14,8 +14,8 @@ jobs:
       )
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      #- name: Checkout repository
+       # uses: actions/checkout@v2
           
       - id: "master_branch"
         if: github.head_ref == 'master'
