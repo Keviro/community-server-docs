@@ -10,6 +10,7 @@ Gehe auf die Seite <b>deines</b> Forks auf GitHub.
 </step>
 <step>
 Klicke auf den Button <code>Contribute</code> und wähle <code>Open pull request</code> aus.
+<note>Achte darauf, dass du dich im richtigen Branch befindest.</note>
 <img src="open-pull-request.png" alt="Contribute" style="block" thumbnail="true"/>
 </step>
 <step>

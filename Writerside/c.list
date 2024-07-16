@@ -6,4 +6,5 @@
     <category id="spotlight" name="Spotlight" order="2"/>
     <category id="shops" name="Shops" order="3"/>
     <category id="cosmetics" name="Köpfe und Rüstungsständer﻿" order="4"/>
+    <category id="events" name="Events" order="5" />
 </categories>

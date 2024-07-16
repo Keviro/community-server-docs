@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Survival Server" id="survival-server">
+
+    <section-starting-page>
+        <title>Survival Server Dokumentation</title>
+        <description>
+            Der Survival Server ist dauerhaft online und ermöglicht der Community zusammen Unglaubliches zu erschaffen!
+            Er wurde so gestaltet, dass den Spielern möglichst viele Freiheiten geboten werden.
+            Aus diesem Grund gibt es auf dem Server deutlich weniger Einschränkungen, als man es von anderen öffentlichen SMP Servern kennt.
+        </description>
+
+        <spotlight>
+            <a href="rules.md" type="install" summary="Lerne die Regeln des Community Servers kennen, bevor du auf ihm spielst.">Regeln</a>
+            <a href="how-to-join.md" type="start">Wie kann ich dem Server beitreten?</a>
+        </spotlight>
+
+        <primary>
+            <title>Features</title>
+            <a href="plots-homepage.topic" summary="Auf dem Server k&ouml;nnen Spieler Grundst&uuml;cke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Bl&ouml;cke
+            erh&ouml;ht sich mit der Spielzeit und Grundst&uuml;cke k&ouml;nnen durch Platzieren von Redstone-Fackeln definiert werden."/>
+            <a href="economy.md" summary="Auf dem Community Server gibt es verschiedene W&auml;hrungen, darunter z.B. %main_currency%s. Wie du sie bekommst und wof&uuml;r du sie ausgeben kannst, erf&auml;hrst du hier."/>
+            <a href="custom-enchantments.md"/>
+            <a href="shops-starting-page.topic"/>
+        </primary>
+
+        <secondary>
+            <title>Besonderheiten</title>
+            <a href="changed-vanilla-mechanics.md" summary="Auf dem Community Server gibt es einige ver&auml;nderte Vanilla-Mechaniken. Welche das sind, erf&auml;hrst du hier."/>
+            <a href="cosmetics.md"/>
+            <a href="events.md" summary="Auf dem Community Server finden regelm&auml;&szlig;ig Events statt. Welche das sind, erf&auml;hrst du hier."/>
+            <a href="specials.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Besonderheiten, die du auf dem Community Server finden kannst."/>
+        </secondary>
+
+
+        <misc>
+            <cards narrow="true">
+                <title>Andere relevante Themen</title>
+                <a href="support.md" summary="Hier erf&auml;hrst du wie du den Support kontaktierst, um z.B. Griefing oder einen Bug zu melden."/>
+                <a href="servers.md" summary="Auf dem Community Server gibt es verschiedene Server. Hier erf&auml;hrst du wie du sie betrittst und was du auf ihnen tun kannst."/>
+                <a href="commands.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Commands, die du auf dem Community Server nutzen kannst."/>
+                <a href="faq.md" summary="Hier findest du Antworten auf h&auml;ufig gestellte Fragen."/>
+                <a href="troubleshooting.md" summary="Hier findest du L&ouml;sungsans&auml;tze f&uuml;r h&auml;ufige Probleme"/>
+                <a href="map-downloads.md" summary="Hier findest du die Downloads zu den alten Maps."/>
+            </cards>
+        </misc>
+
+    </section-starting-page>
+
+</topic>

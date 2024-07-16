@@ -8,3 +8,11 @@
 {style="note"}
 
 </snippet>
+
+<snippet id="survival-closed">
+
+> Der Community Server ist derzeit geschlossen.
+> 
+{style="warning"}
+
+</snippet>

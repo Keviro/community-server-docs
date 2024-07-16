@@ -8,8 +8,8 @@
 
         <header-logo>logo.svg</header-logo>
         <showDownloadButton>true</showDownloadButton>
-        <download-title>Support</download-title>
-        <download-page>https://server.castcrafter.de/support.html</download-page>
+        <download-title>Statistiken</download-title>
+        <download-page>https://stats.castattack.de/</download-page>
         <custom-favicons>logo.svg</custom-favicons>
         <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
         <product-web-url>https://server.castcrafter.de/</product-web-url>
@@ -20,12 +20,8 @@
         <algolia-api-key>7cf09b7ca00ee35aefbe99fa74174ed6</algolia-api-key>
         <web-root>https://server.castcrafter.de/</web-root>
 
-        <!-- Google Analytics -->
-        <analytics-head-script-file>gtag.js</analytics-head-script-file>
-
         <enable-browser-edits>true</enable-browser-edits>
-        <browser-edits-url>https://github.com/Keviro/community-server-docs/edit/master/Writerside/</browser-edits-url>
-        <fallback-url>https://server.castcrafter.de/</fallback-url>
+        <browser-edits-url>https://github.com/Keviro/community-server-docs/blob/master/Writerside/</browser-edits-url>
         <noindex-content>false</noindex-content>
     </variables>
 
@@ -36,7 +32,7 @@
         <sitemap priority="0.5" change-frequency="daily"/>
     </build-profile>
     <footer>
-        <copyright>CastCrafter Community Server 2021-2024 | Not an official Minecraft Product. Not Approved by or associated with Mojang or Microsoft</copyright>
+        <copyright>CastCrafter Community Server 2021-2024 | Not an official Minecraft Product. Not approved by or associated with Mojang or Microsoft</copyright>
         <social type="youtube" href="https://www.youtube.com/@CastCrafter">
             YouTube
         </social>
