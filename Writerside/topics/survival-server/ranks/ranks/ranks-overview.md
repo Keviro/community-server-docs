@@ -1,6 +1,6 @@
 # Rangübersicht
 
-Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.
+Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.\
 Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf dieser Seite.
 
 <tabs>
