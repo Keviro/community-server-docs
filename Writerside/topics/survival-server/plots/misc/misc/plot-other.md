@@ -41,7 +41,6 @@ Diese Funktion lässt sich jedoch ein- oder ausschalten.
 ````tex
 \begin{align*}
 p(x) &= \max\left(4, \left\lfloor -0.0016666666667 \times x + 12.3333333333 \right\rceil \right) \\
-x &= \text{Distanz zum Spawn in Blöcken}
 \end{align*}
 ````
 Hierbei gilt:
