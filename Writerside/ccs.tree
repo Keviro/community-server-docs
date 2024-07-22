@@ -33,7 +33,7 @@
         </toc-element>
         <toc-element topic="light-blocks-and-invisible-item-frames.md"/>
         <toc-element topic="ranks-overview.md"/>
-        <!--Shops will be updated soon !-->
+        <!-- Shops will be updated soon !-->
         <toc-element topic="shops-starting-page.topic" hidden="true">
             <toc-element topic="make-shop.md"/>
             <toc-element topic="create-shop.md"/>
