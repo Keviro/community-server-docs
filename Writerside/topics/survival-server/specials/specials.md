@@ -7,7 +7,7 @@
 </tldr>
 
 
-## Keine Villager {collapsible="true" default-state="collapsed"}
+## Keine Villager {collapsible="true" default-state="collapsed" id="no-villagers"}
 
 Villager sind einfach ausgedrückt "zu OP" für eine funktionierende Economy.
 Würden wir Villager aktivieren, würden die meisten Items zu schnell an Wert verlieren.
@@ -26,21 +26,14 @@ Vanilla-Mechanik.
 >
 {style="note"}
 
-## Nether Portale {collapsible="true" default-state="collapsed"}
+## Nether Portale {collapsible="true" default-state="collapsed" id="nether-link"}
 
 Um einen größeren Nether von `5 000 · 5 000` Blöcken zu ermöglichen, haben wir uns dazu entschieden
 die Portal-Umrechnung etwas anzupassen.
 Daher beträgt die Umrechnung vom Nether zur Overworld bei uns **1:4** anstelle der normalen 1:8 Umrechnung.
 Behaltet dies also beim Bauen eurer Portale im Hinterkopf.
 
-## Quests {collapsible="true" default-state="collapsed" id="quests"}
-
-Für die Spieler, welche etwas Abwechslung zum Bauen brauchen, bieten wir im Hub einige optionale
-Questreihen an, in denen sich einige Belohnungen verdienen lassen. Beim Release des Servers wird
-sich das Ganze jedoch noch sehr in Grenzen halten, aber es ist geplant das Questsystem im Laufe der
-Zeit immer weiter auszubauen.
-
-## Voice-Chat {collapsible="true" default-state="collapsed"}
+## Voice-Chat {collapsible="true" default-state="collapsed" id="voice-mod"}
 
 Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, um auf dem Server zu
 spielen, bietet interessierten Spielern aber die Möglichkeit, mit anderen Spielern in-game zu

@@ -2,7 +2,7 @@
 
 # Grundstück erweitern
 
-## So kannst du dein Grundstück erweitern:
+## So kannst du dein Grundstück erweitern: {id="plot-expand"}
 
 1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls Informationen über dein

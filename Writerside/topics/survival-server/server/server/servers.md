@@ -11,34 +11,34 @@ Im Folgenden werden die verschiedenen Server kurz vorgestellt.
 >
 {style="tip" title="Server wechseln"}
 
-Der Survival Server
-: Der Survival Server ist der Hauptserver des Community Servers. \
-Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
-Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen zum Vanilla Gameplay. \
-Diese Änderungen sind in der
-Kategorie [Besonderheiten](specials.md "Hier findest du einige besonderheiten von diesem Server.")
-aufgelistet.
+<deflist>
+<def title="Der Survival Server" id="survival-server">
 
-Der Shop Server
-: Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop
+Der Survival Server ist der Hauptserver des Community Servers. \
+Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
+Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas beeinflussen. \
+Diese Änderungen sind in der
+Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!")
+aufgelistet.
+</def>
+</deflist>
+
+<deflist>
+<def title="Der Shop Server" id="shop-server">
+
+Auf dem Shop Server kannst du bei den Shops von anderen Spielern einkaufen oder selbst einen Shop
 eröffnen, um deine Items zu verkaufen und `%main_currency%s` zu verdienen. \
 Der Shop Server ist ein reiner Wirtschaftsserver, auf dem es keine Möglichkeit gibt zu bauen oder zu
 farmen. Allerdings kannst du ein schönes Shop-Gebäude bauen, um deine Waren zu präsentieren. \
 Informationen wie du einen Shop eröffnen kannst, findest du in der
 Kategorie [Shops](shops-starting-page.topic).
+</def>
+</deflist>
 
-Die Lobby Server
-: Die Lobby Server dienen hauptsächlich als Aufenthaltsort für Wartezeiten. Nebenbei kannst du die Lobby erkunden und herumspringen. \
-Von den Lobby Servern aus kommst du auf den Event Server und bald auch auf den Survival Server. Weitere Informationen findest du unter [Lobby Server](lobby-server.md).
+<deflist>
+<def title="Die Lobby Server" id="lobby-server">
 
-
-
-<format color="Gray">Der Hub Server _**soon™**_ </format>
-: <format color="Gray"> Auf dem Hub Server kannst du unter anderem die verschiedenen [Quests](specials.md#quests) starten, welche
-dir `%main_currency%s` und andere Belohnungen einbringen. \
-Du kannst allerdings auch bei den verschiedenen NPCs, welche auf dem Hub verteilt sind, einkaufen und besondere Items
-bekommen. </format>
-
-<format color="Gray"> Der PvP Server _**soon™**_ </format>
-: <format color="Gray"> Auf dem PvP Server kannst du mit anderen Spielern kämpfen. \
-Mehr Informationen zum PvP Server findest du in der Kategorie PvP.</format>
+ie Lobby Server dienen hauptsächlich als Aufenthaltsort für Wartezeiten. Nebenbei kannst du die Lobby erkunden und herumspringen. \
+Von den Lobby Servern aus kommst du auf den Event Server und auch auf den Survival Server. Weitere Informationen findest du unter [Lobby Server](lobby-server.md).
+</def>
+</deflist>

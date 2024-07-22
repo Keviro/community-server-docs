@@ -2,7 +2,7 @@
 
 # Grundstücke erstellen
 
-## So kannst du ein Grundstück erstellen:
+## So kannst du ein Grundstück erstellen: {id="plot-create"}
 
 > Bitte beachte, dass du dich mindestens 200 Blöcke weit vom Spawn entfernt befinden musst, um ein
 > Grundstück zu erstellen.

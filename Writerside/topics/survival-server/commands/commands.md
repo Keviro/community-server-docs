@@ -4,7 +4,7 @@
 
 ## Folgende Befehle kannst du auf dem Server verwenden:
 
-#### Chat und Textnachrichten {collapsible="true" default-state="collapsed"}
+#### Chat und Textnachrichten {collapsible="true" default-state="collapsed" id="survival-server-chat-commands"}
 
 /msg &lt;player&gt; &lt;message&gt;
 : Schickt eine Privatnachricht an den angegebenen Spieler.
@@ -18,7 +18,7 @@
 /block &lt;player&gt;
 : Blockiert den angegebenen Spieler im Chat.
 
-#### Informationen {collapsible="true" default-state="collapsed"}
+#### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
 /playtime
 : Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
@@ -29,7 +29,7 @@
 /lastseen &lt;player&gt;
 : Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
 
-#### Köpfe {collapsible="true" default-state="collapsed"}
+#### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
 
 /phead &lt;player&gt;
 : Gibt dir den Kopf des angegebenen Spielers.
@@ -37,7 +37,7 @@
 /heads
 : Öffnet ein Menü, aus welchem man Köpfe bekommen kann. Siehe auch [Köpfe](cosmetics.md)
 
-#### Grundstücke {collapsible="true" default-state="collapsed"}
+#### Grundstücke {collapsible="true" default-state="collapsed" id="survival-server-plot-commands"}
 
 /pwho
 : Zeigt an, auf welchem Grundstück du dich gerade befindest.
@@ -58,7 +58,7 @@ Befreit dich, falls du auf einem fremden Grundstück feststeckst.
 : Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir
 eine Liste aller Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
-#### Chestprotect {collapsible="true" default-state="collapsed"}
+#### Chestprotect {collapsible="true" default-state="collapsed" id="survival-server-chestprotect-commands"}
 
 /chestprotect
 : Öffnet das Hauptmenü von Chestprotect.
@@ -72,7 +72,7 @@ eine Liste aller Grundstücke, welche in deinem Besitz sind anzuzeigen.
 /untrust &lt;player&gt;
 : Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem Anklicken der Kiste.
 
-#### Positionen {collapsible="true" default-state="collapsed"}
+#### Positionen {collapsible="true" default-state="collapsed" id="survival-server-position-commands"}
 
 /lay
 : Mit diesem Befehl kannst du dich auf den Boden legen.

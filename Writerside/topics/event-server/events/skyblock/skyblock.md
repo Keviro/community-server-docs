@@ -1,6 +1,6 @@
 # Skyblock
 
-> Das Event läuft vorausichtlich vom **05.07.2024** bis zum **07.07.2024**.
+> Aktuell steht noch kein Starttermin für das Event fest.
 >
 
 ## Über das Event

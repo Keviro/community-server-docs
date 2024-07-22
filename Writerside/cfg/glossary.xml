@@ -8,5 +8,6 @@
     <term name="Wochenende">Samstag und Sonntag</term>
     <term name="MouseWheelie">MouseWheelie verändert die Kommunikation zwischen Client und Server und ist daher verboten</term>
     <term name="Freecam">Freecam kann missbraucht werden um Strukturen, Höhlen und Erze zu finden und bietet daher einen unfairen Vorteil</term>
+    <term name="Spielstunde">Dies ist die Zeit, in welcher ein Spieler aktiv spielt. AFK-Zeit wird nicht miteinberechnet!</term>
 
 </terms>
