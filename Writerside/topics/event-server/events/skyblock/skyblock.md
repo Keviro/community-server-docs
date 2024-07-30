@@ -1,12 +1,13 @@
 # Skyblock
 
-> Das Event läuft vorausichtlich vom **05.07.2024** bis zum **07.07.2024**.
+> Das Event läuft vom **01.08.2024** bis zum **03.08.2024**.
 >
 
 ## Über das Event
 
 In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder. 
-Das einzige was ihr habt, ist eine kleine Insel und ein paar Starter Items. Werdet ihr es schaffen zu überleben?
+Das einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
+Werdet ihr es schaffen zu überleben?
 
 Auf eurer Insel findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern
 sollen.
@@ -17,6 +18,25 @@ sollen.
 >
 {style="tip" title="Hinweis:"}
 
+### Trades
+
+In den ersten 24 Stunden des Events steht euch mit `/trades` jede Stunde ein neuer Trade zu Verfügung, in dem ihr wertvolle und einzigartige Items erhallten könnt!
+
+> 
+> Sobald ein Trade freigeschaltet wurde, bleibt dieser für den Rest des Events freigeschaltet. Ihr müsst also zu dem Zeitpunkt nicht online sein.
+>
+{style="tip" title="Was passiert, wenn ich einen Trade verpasse?"}
+
+### Teleportation
+
+Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <Spieler>` zu euren Freunden zu teleportieren.
+
+Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
+
+> **Achtung:** Ihr könnte diese Befehle nur alle 10 Minuten verwenden!
+>
+{style="warning"}
+
 ## Regeln {id="rules"}
 
 > Bei diesem Event gibt es keine Regeländerungen. \
@@ -24,16 +44,16 @@ sollen.
 > 
 > **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
 >
-{style="note" title="Es gelten die allgmeinen Serverregeln!"}
+{style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
 ## Q&amp;A
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft vorraussichtlich vom **05.07.2024** bis zum **07.07.2024**.
+: Das Event läuft voraussichtlich vom **01.08.2024** bis zum **03.08.2024**.
 
 Welche Version von Minecraft wird benötigt?
-: Das Event wird in der Version **1.20.4 - 1.21** stattfinden.
+: Das Event wird in der Version **1.21** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße?
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch

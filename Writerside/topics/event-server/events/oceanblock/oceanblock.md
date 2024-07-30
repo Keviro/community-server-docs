@@ -7,13 +7,14 @@
 
 [Map Download](https://drive.google.com/file/d/10FxOaIS7NX0H81DoFieOtLrr9Oq9Ki8W/)
 
-> Das Event läuft vorausichtlich vom **21.06.2024** bis zum **23.06.2024**.
+> Das Event läuft voraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
 >
 
 ## Über das Event
 
 In dem Oceanblock-Event tretet ihr in einer speziellen Welt an, die hauptsächlich aus Wasser besteht. 
-Alles was ihr am Anfang hab ist eine kleine Insel. Was werdet ihr trotz der harten Bedingungen erschaffen?
+Alles, was ihr am Anfang habt, ist eine kleine Insel.
+Was werdet ihr trotz der harten Bedingungen erschaffen?
 
 > Beim Betreten des Events wird versucht, eure Starterinsel an einer zufälligen Position in der Welt zu platzieren. Sollte
 > nach mehreren Versuchen kein freier Platz gefunden werden, werdet ihr vom Server getrennt. Bitte versucht es dann
@@ -56,7 +57,7 @@ sollen.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft vorraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
+: Das Event läuft voraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.20.4 - 1.20.6** stattfinden.
