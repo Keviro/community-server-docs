@@ -7,7 +7,7 @@
 ## FAQ 
 
 #### Wieso gibt es keine Villager? {collapsible="true" default-state="collapsed" }
-> Siehe [Besonderheiten](specials.md#keine-villager "Klicke hier für mehr Information").
+> Siehe [Besonderheiten](specials.md#no-villagers "Klicke hier für mehr Information").
 
 #### Wie komme ich auf den Shopserver? {collapsible="true" default-state="collapsed" }
 Wie du zwischen den verschiedenen Servern wechselt, erfährst du **[HIER](servers.md)**.
