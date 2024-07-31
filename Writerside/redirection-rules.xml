@@ -96,4 +96,12 @@
         <description>Created after removal of "Geprüfte Modifikationen" from Community Server Docs</description>
         <accepts>verified-mods.html</accepts>
     </rule>
+    <rule id="bae114">
+        <description>Created after removal of "Textkanäle" from Community Server Docs</description>
+        <accepts>channels.html</accepts>
+    </rule>
+    <rule id="535cc295">
+        <description>Created after removal of "Teammitglieder" from Community Server Docs</description>
+        <accepts>team-members.html</accepts>
+    </rule>
 </rules>

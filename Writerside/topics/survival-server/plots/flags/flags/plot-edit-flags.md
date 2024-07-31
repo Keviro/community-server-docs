@@ -2,7 +2,7 @@
 
 # Flags bearbeiten
 
-## So kannst du deine Grundstück Flags anpassen:
+## So kannst du deine Grundstück Flags anpassen: {id="plot-edit-flags"}
 
 1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls Informationen über dein

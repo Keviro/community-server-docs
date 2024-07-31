@@ -2,7 +2,7 @@
 
 # Mitglieder bearbeiten
 
-## So kannst du die Mitglieder auf deinem Grundstück bearbeiten:
+## So kannst du die Mitglieder auf deinem Grundstück bearbeiten: {id="plot-edit-members"}
 
 1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls Informationen über dein

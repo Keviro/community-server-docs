@@ -1,11 +1,11 @@
 # Rangübersicht
 
-Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.
+Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.\
 Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf dieser Seite.
 
 <tabs>
 
-<tab title="Spieler Ränge" >
+<tab title="Spieler Ränge" id="player-ranks" >
 
 | Rang                            | Bedeutung & Erklärung                                                                                |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 </tab>
 
-<tab title="Team Ränge" >
+<tab title="Team Ränge" id="team-ranks">
 
 | Rang                                | Bedeutung & Erklärung                                                                                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,14 +29,24 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 </tabs>
 
-## Bewerbungen
+## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
+
+| Rang                                | Mitglieder                                                                                                      |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                       |
+| ![Entwickler](developer.png)        | <ul><li>`Chilliger_`</li></ul>                                                                                  |
+| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li></ul>                     |
+| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`W3eze`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`PhoenixYokaii`</li></ul> |
+| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                  |
+
+## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
 <deflist>
 <def title="Bewerbung als Builder oder Supporter">
 Grundsätzlich können sich alle als Builder oder Supporter bewerben, indem sie sich bei uns melden. 
 Am einfachsten geht dies, wenn ihr euch in einem 
 <a href="%tickets_channel%">Ticket</a>
-an uns wendet. Bitte beachtet jedoch die Informationen weiter unten.
+ an uns wendet. Bitte beachtet jedoch die Informationen weiter unten.
 </def>
 <def title="Bewerbung als Moderator">
 Eine direkte Bewerbung für den Moderator Rang ist nicht möglich. Supporter können jedoch bei guter Arbeit und längerer Mitgliedschaft im Team zum Moderator aufsteigen.
