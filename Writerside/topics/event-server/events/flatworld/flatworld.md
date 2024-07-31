@@ -13,7 +13,7 @@
 ## Über das Event
 
 In dem Flatworld-Event tretet ihr in einer kompletten Flatworld an. Sowohl die Overworld, als auch der Nether und das End sind komplett flach.
-Die Challange ist, zusammen zu arbeiten um an seltene Rohstoffe zu gelangen und am Ende etwas Erstaunliches zu erschaffen.
+Die Challange ist, zusammenzuarbeiten um an seltene Rohstoffe zu gelangen und am Ende etwas Erstaunliches zu erschaffen.
 
 Tipp: Viele Items könnt ihr in dieser Welt nur durch das finden von Strukturen erhalten. Arbeitet am besten mit anderen Spielern zusammen. Dies ist kein Gegeneinander, sondern ein Miteinander!
 
@@ -49,7 +49,7 @@ Tipp: Viele Items könnt ihr in dieser Welt nur durch das finden von Strukturen 
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft vorraussichtlich vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
+: Das Event läuft voraussichtlich vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.20.4-1.20.6** stattfinden.

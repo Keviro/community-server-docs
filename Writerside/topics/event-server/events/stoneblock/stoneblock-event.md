@@ -9,7 +9,7 @@
 
 {style="warning" title="Hinweis"}
 
-> Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
+> Das Event läuft voraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
 >
 
 ## Über das Event
@@ -58,7 +58,7 @@ sollen.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft vorraussichtlich vom **26.05.2024** um **15:00 Uhr** bis zum **28.05.2024** um **20:00 Uhr**.
+: Das Event läuft voraussichtlich vom **26.05.2024** um **15:00 Uhr** bis zum **28.05.2024** um **20:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.20.4-1.20.6** stattfinden.
