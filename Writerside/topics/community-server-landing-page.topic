@@ -18,13 +18,13 @@
 
         <primary>
             <title>Mache dich mit den Regeln vertraut</title>
-            <a href="rules.md" summary="Lerne die Serverregeln kennen, bevor du auf dem server spielst">Regeln</a>
+            <a href="rules.md" summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst">Regeln</a>
             <a href="verified-mods.md" summary="Eine Liste mit gepr&uuml;ftenn Modifikationen, welche ihr auf dem Server verwenden d&uuml;rft">Geprüfte Modifikationen</a>
         </primary>
 
         <secondary>
             <title>Nützliche Informationen</title>
-            <a href="faq.md" summary="In diesem Artikel findest du Antworten auf die am h&auml;ufigsten gestellen Fragen!"/>
+            <a href="faq.md" summary="In diesem Artikel findest du Antworten auf die am h&auml;ufigsten gestellten Fragen!"/>
             <a href="troubleshooting.md" summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu l&ouml;sen!"/>
         </secondary>
 
