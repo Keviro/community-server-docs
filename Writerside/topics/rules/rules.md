@@ -41,6 +41,8 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    >
    {style="tip"}
 
+   <include from="util.md" element-id="mod-pack"/>
+
 3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind untersagt.**
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen Vorteil zu verschaffen. 
