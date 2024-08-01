@@ -1,7 +1,7 @@
+<primary-label ref="event-held" />
+
 # Oceanblock
 
-> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
->
 
 <video src="https://www.youtube.com/watch?v=5LmDttvPDg4" />
 

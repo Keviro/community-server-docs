@@ -1,3 +1,5 @@
+<primary-label ref="event-upcoming" />
+
 # Vorbau Event
 
 > Aktuell steht noch kein Starttermin für das Event fest.

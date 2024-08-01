@@ -1,3 +1,6 @@
+<primary-label ref="event-running" />
+<secondary-label ref="skyblock-date" />
+
 # Skyblock
 
 > Das Event läuft vom **01.08.2024** bis zum **03.08.2024**.

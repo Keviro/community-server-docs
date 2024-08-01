@@ -1,7 +1,6 @@
-# Stoneblock
+<primary-label ref="event-held" />
 
-> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
->
+# Stoneblock
 
 <video src="https://www.youtube.com/watch?v=27Z4fur1lEg"/>
 

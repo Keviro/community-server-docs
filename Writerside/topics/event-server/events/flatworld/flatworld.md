@@ -1,7 +1,7 @@
+<primary-label ref="event-held" />
+
 # Flatworld
 
-> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
->
 
 <video src="https://www.youtube.com/watch?v=l96KwwMBWzw" />
 

@@ -1,8 +1,6 @@
-# Anarchy
+<primary-label ref="event-held" />
 
-> Dieses Event hat bereits stattgefunden. Die Informationen dienen lediglich zur Dokumentation.
->
-{style="warning" title="Hinweis"}
+# Anarchy
 
 <video src="https://www.youtube.com/watch?v=eJ3wrRLPGIs" />
 

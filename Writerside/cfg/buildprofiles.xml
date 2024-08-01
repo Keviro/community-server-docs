@@ -23,6 +23,7 @@
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/Keviro/community-server-docs/blob/master/Writerside/</browser-edits-url>
         <noindex-content>false</noindex-content>
+
     </variables>
 
     <build-profile instance="ccs">
