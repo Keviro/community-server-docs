@@ -5,7 +5,7 @@
 
 ## Über das Event
 
-In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder. 
+In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder.
 Das einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
 Werdet ihr es schaffen zu überleben?
 
@@ -22,7 +22,7 @@ sollen.
 
 In den ersten 24 Stunden des Events steht euch mit `/trades` jede Stunde ein neuer Trade zu Verfügung, in dem ihr wertvolle und einzigartige Items erhalten könnt!
 
-> 
+>
 > Sobald ein Trade freigeschaltet wurde, bleibt dieser für den Rest des Events freigeschaltet. Ihr müsst also zu dem Zeitpunkt nicht online sein.
 >
 {style="tip" title="Was passiert, wenn ich einen Trade verpasse?"}
@@ -37,11 +37,20 @@ Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch 
 >
 {style="warning"}
 
+### VoiceChat
+
+In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
+
+Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+
+Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+
+
 ## Regeln {id="rules"}
 
 > Bei diesem Event gibt es keine Regeländerungen. \
 > Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
-> 
+>
 > **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
