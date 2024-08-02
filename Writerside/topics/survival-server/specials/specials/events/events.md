@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Events
 
 > Das **Auffordern** ein Event zu starten ist **untersagt**!

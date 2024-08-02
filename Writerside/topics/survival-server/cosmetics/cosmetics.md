@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Köpfe und Rüstungsständer
 
 ![thumbnail](cosmetics-thumbnail.png){ border-effect="rounded" thumbnail="true" 

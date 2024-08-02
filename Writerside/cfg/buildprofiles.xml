@@ -8,8 +8,8 @@
 
         <header-logo>logo.svg</header-logo>
         <showDownloadButton>true</showDownloadButton>
-        <download-title>Statistiken</download-title>
-        <download-page>https://stats.castattack.de/</download-page>
+        <download-title>Support</download-title>
+        <download-page>https://server.castcrafter.de/support.html</download-page>
         <custom-favicons>logo.svg</custom-favicons>
         <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
         <product-web-url>https://server.castcrafter.de/</product-web-url>

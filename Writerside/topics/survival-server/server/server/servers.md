@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Die verschiedenen Server
 
 Auf dem Community Server gibt es verschiedene Server, welche alle unterschiedliche Funktionen

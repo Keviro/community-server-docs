@@ -1,4 +1,5 @@
 <show-structure depth="2"/>
+<primary-label ref="survival-closed" />
 
 [gold-block]: https://minecraft.fandom.com/de/wiki/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können."
 

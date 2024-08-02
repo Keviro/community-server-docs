@@ -1,9 +1,11 @@
+<primary-label ref="survival-closed" />
+
 # Shop erstellen
 
 Einen Shop zu erstellen ist einfach: Platziere ihn einfach auf
 dem [%shop-server-name%](servers.md "%shop-server-desc%").
 
-> Um die Shops platzieren zu können musst du dich auf
+> Um die Shops platzieren zu können, musst du dich auf
 > dem [%shop-server-name%](servers.md "%shop-server-desc%") befinden.
 >
 {style="note"}

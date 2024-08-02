@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Shop löschen
 
 <procedure title="Um deinen Shop zu löschen:">

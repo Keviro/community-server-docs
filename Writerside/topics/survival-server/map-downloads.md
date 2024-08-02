@@ -7,6 +7,8 @@
 <tab title="1.20 Community Server">
 <include from="util.md" element-id="survival-closed"/>
 
+<primary-label ref="survival-closed" />
+
 <format color="Gray">Coming soon™️</format>
 
 <format color="Gray">Map Download</format>

@@ -1,13 +1,10 @@
+<primary-label ref="under-development" />
+
 # Lobby Server
 
 Die Lobby-Server dienen hauptsächlich als Aufenthaltsort während Wartezeiten zwischen Events oder während
 Wartungsarbeiten an den anderen Servern. Damit dir nicht langweilig wird, kannst du mit einem Doppelsprung höher und
 weiter springen. Außerdem gibt es verschiedene Geheimnisse, die du entdecken kannst.
-
-> Die Lobby-Server sind aktuell noch in der Entwicklung. Änderungen können jederzeit vorgenommen werden und sind
-> möglicherweise noch nicht in der Dokumentation enthalten.
->
-{style="note"}
 
 ## Lobbyauswahl
 

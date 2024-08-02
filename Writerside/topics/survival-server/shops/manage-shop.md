@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 [rules]: rules.md "Zurück zu den Regeln"
 
 # Shop verwalten
@@ -13,7 +15,7 @@ Wähle den **Goldbarren** in der oberen linken Ecke aus.
 </step>
 <step>
 
-Verwende den **Amboss** zur Preisanpassung und gib den neuen Preis ein.
+Verwende den **Amboss** zur Preisanpassung und gebe den neuen Preis ein.
 
 <include from="util.md" element-id="remember-confirmation"/>
 </step>

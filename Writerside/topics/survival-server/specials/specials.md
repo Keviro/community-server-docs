@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Besonderheiten
 
 <tldr>

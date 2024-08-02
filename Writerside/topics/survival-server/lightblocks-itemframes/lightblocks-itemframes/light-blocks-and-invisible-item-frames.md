@@ -1,3 +1,5 @@
+<primary-label ref="survival-closed" />
+
 # Lightblocks & unsichtbare ItemFrames
 
 > Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im
