@@ -4,7 +4,7 @@
 
 <tabs>
 
-<tab title="1.20 Community Server">
+<tab title="1.20 Community Server" id="survival-server-1_20">
 <include from="util.md" element-id="survival-closed"/>
 
 <primary-label ref="survival-closed" />
@@ -13,14 +13,14 @@
 
 <format color="Gray">Map Download</format>
 
-<chapter title="Die wichtigsten Cords" collapsible="true">
+<chapter title="Die wichtigsten Cords" collapsible="true" id="points-of-interest-1_20">
 
 <table>
-<tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
+<tr><td>Name (Grundstück)</td><td>Spielername</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
 </table>
 </chapter>
 
-<chapter title="Veteranen" collapsible="true" default-state="collapsed">
+<chapter title="Veteranen" collapsible="true" default-state="collapsed" id="veteran-1_20">
 
 > Diese Season haben alle Spieler, die mehr als `200` Stunden auf dem Server verbracht haben, den Veteranen-Rang
 > erhalten.
@@ -81,14 +81,14 @@
 
 </tab>
 
-<tab title="1.19 Community Server">
+<tab title="1.19 Community Server" id="survival-server-1_19">
 <a href="https://drive.google.com/file/d/1Fi5ciIlGYr2B3KRIZHX6ArWtTY14I0K3/">Map Download</a>
 <video src="https://www.youtube.com/watch?v=qIeR1H9HZ38%26ab_channel=CastCrafter"/>
 <br/>
 <br/>
-<chapter title="Die wichtigsten Cords" collapsible="true">
+<chapter title="Die wichtigsten Cords" collapsible="true" id="points-of-interest-1_19">
 <table>
-<tr><td>Name (Grundstück)</td><td>MinecraftName</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
+<tr><td>Name (Grundstück)</td><td>Spielername</td><td>Welt</td><td>Location                                   </td><td>Beschreibung</td></tr>
 <tr><td>Spawn &amp; Scoreboards</td><td>-/-</td><td>Overworld</td><td><code>0 110 0</code></td><td>Der Spawn mit ScoreBoards für Spielzeit und Währung. In der Umgebung befinden sich natürlich viele kleinere Grundstücke unterschiedlicher Qualität</td></tr>
 <tr><td>Nether Decke</td><td>-/-</td><td>Nether</td><td><code>0 150 0</code></td><td>Der Shopping District des Servers und ein Treffpunkt für die Community</td></tr>
 <tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
@@ -118,7 +118,7 @@
 </table>
 </chapter>
 
-<chapter title="Veteranen" collapsible="true" default-state="collapsed">
+<chapter title="Veteranen" collapsible="true" default-state="collapsed" id="veteran-1_19">
 
 > Diese Season haben alle Spieler, die mehr als `200` Stunden auf dem Server verbracht haben, den Veteranen-Rang
 > erhalten.
@@ -175,12 +175,12 @@
 
 </tab>
 
-<tab title="1.18 Community Server">
+<tab title="1.18 Community Server" id="survival-server-1_18">
 <a href="https://drive.google.com/file/d/1ofcEedWs0scHFZnC_qTlybHT1dqRXrBp/view">Map Download</a>
 <video src="https://www.youtube.com/watch?v=DIsrLx1XOXs%26ab_channel=CastCrafter"/>
 <br/>
 <br/>
-<chapter title="Die wichtigsten Cords" collapsible="true">
+<chapter title="Die wichtigsten Cords" collapsible="true" id="points-of-interest-1_18">
 <chapter title="Farmen">
 <table>
 <tr><td> </td><td>Location                                   </td><td>Beschreibung</td></tr>
