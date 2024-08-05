@@ -6,7 +6,7 @@ Die Lobby-Server dienen hauptsächlich als Aufenthaltsort während Wartezeiten z
 Wartungsarbeiten an den anderen Servern. Damit dir nicht langweilig wird, kannst du mit einem Doppelsprung höher und
 weiter springen. Außerdem gibt es verschiedene Geheimnisse, die du entdecken kannst.
 
-## Lobbyauswahl
+## Lobbyauswahl {id="lobby-selection"}
 
 Um die Stabilität der Lobbys zu gewährleisten, gibt es drei verschiedene Lobby-Server. Du kannst mit dem Kompass in
 deinem Inventar zwischen den Servern wechseln. Weitere Informationen zur [Serverauswahl](#select-server) findest du

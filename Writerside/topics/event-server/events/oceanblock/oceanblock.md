@@ -10,7 +10,7 @@
 > Das Event läuft voraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
 >
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 In dem Oceanblock-Event tretet ihr in einer speziellen Welt an, die hauptsächlich aus Wasser besteht. 
 Alles, was ihr am Anfang habt, ist eine kleine Insel.
@@ -53,7 +53,7 @@ sollen.
    von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, obwohl dies nicht vorgesehen ist, droht ein sofortiger
    Ausschluss vom Server.
 
-## Q&amp;A
+## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?

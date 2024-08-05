@@ -11,7 +11,7 @@
 > Das Event läuft voraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
 >
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 In dem Stoneblock-Event tretet ihr in einer speziellen Welt an, die hauptsächlich aus Stein besteht. Ihr könnt euch
 durch das Abbauen von Steinen und das Finden von Ressourcen in der Welt fortbewegen und eure eigene Basis errichten.
@@ -53,7 +53,7 @@ sollen.
    von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, obwohl dies nicht vorgesehen ist, droht ein sofortiger
    Ausschluss vom Server.
 
-## Q&amp;A
+## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
