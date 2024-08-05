@@ -3,12 +3,11 @@
 In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unserem Server selber beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
 <tabs>
 
-<tab title="Verbindungsprobleme / Netzwerk Lags">
+<tab title="Verbindungsprobleme / Netzwerk Lags" id="connection-issues">
 
-Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?
-Die folgenden Tipps können dir helfen das Problem selber zu beheben.
+**Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?**
+**Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
 
-:
 1. **Minecraft Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
    beheben.
 2. **Aktuelle Version verwenden:** Verwende die neueste Version von Minecraft, um die
@@ -27,10 +26,10 @@ Die folgenden Tipps können dir helfen das Problem selber zu beheben.
 9. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
 
 </tab>
-<tab title="Probleme mit dem Ressourcenpaket">
+<tab title="Probleme mit dem Ressourcenpaket" id="resourcepack-issues">
 
-Das Ressourcenpaket läd nicht richtig oder du erhältst dauerhaft die Nachricht `Aktiviere Ressourcenpaket...`?
-Die folgenden Tipps können dir helfen das Problem selber zu beheben.
+**Das Ressourcenpaket läd nicht richtig oder du erhältst dauerhaft die Nachricht `Aktiviere Ressourcenpaket...`?**
+**Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
 
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Ressourcenpaket beheben.
