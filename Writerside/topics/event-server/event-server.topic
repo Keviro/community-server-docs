@@ -22,13 +22,13 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Kommende Events</title>
-            <a href="skyblock.md" type="cloud"/>
             <a href="building-event.md" type="creative"/>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>Bereits stattgefundene Events</title>
+            <a href="skyblock.md" />
             <a href="oceanblock.md"/>
             <a href="flatworld.md"/>
             <a href="anarchy-event.md"/>
