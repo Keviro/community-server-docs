@@ -67,5 +67,10 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 >Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
 > {style="warning"}
 > 
- #### Ist der Seed des Servers öffentlich? {collapsible="true" default-state="collapsed" }
+#### Ist der Seed des Servers öffentlich? {collapsible="true" default-state="collapsed" }
 Nein, der Seed ist nicht öffentlich.
+
+#### Wie kann ich mich als Teammitglied bewerben? {collapsible="true" default-state="collapsed" }
+>Wie du dich als Teammitglied bewerben kannst, erfährst du [HIER](ranks-overview.md#team-application "%click-more-info%").
+> {style="tip"}
+> 
