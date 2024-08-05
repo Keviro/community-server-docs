@@ -50,7 +50,7 @@ In dieser Phase werdet ihr die Möglichkeit haben, eure Fähigkeiten in einem "A
 Hier könnt ihr zeigen, was ihr drauf habt und warum gerade ihr das Zeug zum Builder habt.
 Dafür stellen wir euch verschiedene Plugins wie WorldEdit oder goPaint zur Verfügung, damit ihr eure Kreativität und Technik in vollem Umfang nutzen könnt.
 Wann das Event stattfindet und wie ihr teilnehmen könnt, erfahrt ihr auf dem <a href="%dc_link%">Discord</a> unter <a href="%com_updates_channel%">%com_updates_channel_display%</a>.
-<br>
+<br/>
 Wir danken euch für euer Verständnis und freuen uns schon darauf, eure beeindruckenden Bauwerke in der Bewerbungsphase zu sehen!
 </warning>
 
