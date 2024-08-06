@@ -8,6 +8,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 **Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?**
 **Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
 
+:
 1. **Minecraft Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
    beheben.
 2. **Aktuelle Version verwenden:** Verwende die neueste Version von Minecraft, um die
