@@ -31,20 +31,36 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                | Mitglieder                                                                                                                                                                 |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                                                                                  |
-| ![Entwickler](developer.png)        | <ul><li>`Chilliger_`</li></ul>                                                                                                                                             |
-| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li></ul>                                                                                |
-| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`W3eze`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`PhoenixYokaii`</li><li>`Koljav`</li><li>`Progeilo`</li><li>`Sommer_Tyler`</li></ul> |
-| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                             |
+| Rang                                | Mitglieder                                                                                                                                         |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                                                          |
+| ![Entwickler](developer.png)        | <ul><li>`Chilliger_`</li></ul>                                                                                                                     |
+| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li></ul>                                |
+| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`W3eze`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`Koljav`</li><li>`Progeilo`</li><li>`Sommer_Tyler`</li></ul> |
+| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                     |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
 <deflist>
 <def title="Bewerbung als Builder oder Supporter">
-Grundsätzlich können sich alle als Builder oder Supporter bewerben, indem sie sich bei uns melden. 
-Am einfachsten geht dies, wenn ihr euch in einem 
+
+> **Derzeit werden keine Bewerbungen für die Position des Builders angenommen**!
+> Keine Sorge, es wird bald eine spezielle Bewerbungsphase geben, in der ihr euch als Builder bewerben könnt!
+> In dieser Phase werdet ihr die Möglichkeit haben, eure Fähigkeiten in einem "Auswahlverfahren" auf einem Vorbau-Server
+> unter Beweis zu stellen.
+> Hier könnt ihr zeigen, was ihr drauf habt und warum gerade ihr das Zeug zum Builder habt.
+> Dafür stellen wir euch verschiedene Plugins wie WorldEdit oder goPaint zur Verfügung, damit ihr eure Kreativität und
+> Technik in vollem Umfang nutzen könnt.
+> Wann das Event stattfindet und wie ihr teilnehmen könnt, erfahrt ihr auf dem [Discord](%dc_link%)
+> unter [%com_updates_channel_display%](%com_updates_channel%).
+\
+> Wir danken euch für euer Verständnis und freuen uns schon darauf, eure beeindruckenden Bauwerke in der Bewerbungsphase
+> zu sehen!
+>
+{style="warning" title="Momentan keine Bewerbung als Builder möglich!"}
+
+Grundsätzlich können sich alle als Builder oder Supporter bewerben, indem sie sich bei uns melden.
+Am einfachsten geht dies, wenn ihr euch in einem
 <a href="%tickets_channel%">Ticket</a>
  an uns wendet. Bitte beachtet jedoch die Informationen weiter unten.
 </def>
