@@ -6,7 +6,7 @@
 
 # Wie kann ich dem Server beitreten?
 
-Du benötigst die [Java-Edition](https://minecraft.fandom.com/wiki/Java_Edition) in der
+Du benötigst die [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) in der
 Version [%required_game_version%](%required_game_version_link%), um auf dem Server spielen zu
 können.
 
