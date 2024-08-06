@@ -15,7 +15,7 @@ können.
 >
 {style="warning"}
 
-#### Der Server ist nicht öffentlich zugänglich und befindet sich hinter einer Whitelist!
+#### Der Server ist nicht öffentlich zugänglich und befindet sich hinter einer Whitelist! {id="server-whitelist-required"}
 
 > Um auf dem Server zu spielen, erstelle
 > ein [Whitelist Ticket](support.md#whitelist-ticket "%click-more-info%") auf
