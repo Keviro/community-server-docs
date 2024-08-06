@@ -5,12 +5,12 @@
 > Aktuell steht noch kein Starttermin für das Event fest.
 > 
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 Das Ziel des Events ist es, talentierte Builder für unser Team zu rekrutieren. Dazu veranstalten wir ein Bau-Event, bei
 dem ihr die Möglichkeit habt, euer Können unter Beweis zu stellen.
 
-## Grundstück sichern
+## Grundstück sichern {id="claim-plot"}
 
 Nachdem ihr euch mit dem Vorbauserver verbunden habt, könnt ihr euch mit dem Befehl `/plot auto` einen eigenen Bereich
 sichern, auf dem ihr in Ruhe bauen könnt.
@@ -25,37 +25,37 @@ sichern, auf dem ihr in Ruhe bauen könnt.
 Euer Bauwerk sollte den folgenden Vorgaben entsprechen:
 
 <tabs>
-<tab title="Baustil">
+<tab title="Baustil" id="style">
 
 Bitte **vermeidet** den mittelalterlichen (Medieval) Baustil. Wir möchten eine Vielzahl an Designs und Architekturen
 sehen, die kreativ und einzigartig sind. Der mittelalterliche Baustil tritt zu häufig auf.
 
 </tab>
-<tab title="Landschaft">
+<tab title="Landschaft" id="landscape">
 
 Integriert natürliche Elemente wie Hügel, Flüsse, Bäume und Gärten, um ein harmonisches Gesamtbild zu schaffen.
 
 </tab>
-<tab title="Gebäude">
+<tab title="Gebäude" id="buildings">
 
 Baut Strukturen in einem Stil eurer Wahl, sei es modern, futuristisch, rustikal oder anders. Lasst eurer Fantasie freien
 Lauf und zeigt eure architektonischen Fähigkeiten.
 
 </tab>
-<tab title="Einrichtung">
+<tab title="Einrichtung" id="furnishings">
 
 Verleiht euren Gebäuden Leben, indem ihr sie im Inneren detailreich und funktional einrichtet. Denkt an Möbel,
 Dekorationen und Beleuchtung.
 
 </tab>
-<tab title="Gesamtbild">
+<tab title="Gesamtbild" id="looking">
 
 Falls ihr organisch bauen könnt, integriert gerne organische Elemente wie Tiere oder Fantasiewesen in eure Bauten.
 
 </tab>
 </tabs>
 
-## Tools & Plugins
+## Tools & Plugins {id="tools"}
 
 Um euch das Bauen zu erleichtern, stehen euch folgende Plugins & Tools zur Verfügung:
 
@@ -72,7 +72,7 @@ Um euch das Bauen zu erleichtern, stehen euch folgende Plugins & Tools zur Verf�
 >
 {style="warning" title="Achtung"}
 
-## Grundstück einreichen
+## Grundstück einreichen {id="submit-plot"}
 
 Wenn ihr mit eurem Bauwerk zufrieden seid, könnt ihr es einreichen.
 

@@ -1,6 +1,6 @@
 # Wie kann ich an einem Event teilnehmen?
 
-## Verbindung zur Lobby herstellen
+## Verbindung zur Lobby herstellen {id="connect-to-lobby"}
 
 Um an einem Event teilzunehmen, folge diesen Schritten:
 
@@ -16,12 +16,12 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
 >
 {style="warning" title="Hinweis:"}
 
-## Event-Ankündigungen
+## Event-Ankündigungen {id="event-announcements"}
 
 Sobald es ein neues Event gibt, wird es in den folgenden Kanälen angekündigt:
 
 - [%com_updates_channel_display%](%com_updates_channel%)
 - Im Stream bei [CastCrafter](%twitch_cast%)
 
-> Wenn du Benachrichtigungen erhalten möchtest, reagiere im
-> Discord-Kanal [%com_info_channel_display%](%com_info_channel%) auf die Nachricht mit der Glocke.
+> Wenn du Benachrichtigungen erhalten möchtest, reagiere im Discord-Kanal \
+> [%com_info_channel_display%](%com_info_channel%) auf die Nachricht mit der Glocke.

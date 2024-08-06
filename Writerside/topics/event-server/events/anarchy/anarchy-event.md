@@ -9,13 +9,13 @@
 > Das Event läuft vom **8.10.2023** um **17:00 Uhr** bis zum **15.10.2023** um **18:00 Uhr**.
 > 
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 Das Anarchy Event ist ein Event, bei dem es darum geht, in einer Welt ohne Regeln zu überleben. Das Event dauert 7 Tage
 und es können maximal 200 Spieler
 gleichzeitig auf der Welt spielen. Das Ziel ist es, so lange wie möglich zu überleben und die Welt zu erkunden.
 
-## Zusätzliche Regeln
+## Zusätzliche Regeln {id="rules"}
 
 > Das bedeutet **fast** keine Regeln. Es handelt sich um einen Server, auf dem du dich frei entfalten kannst und
 > Geschichten sowie Charaktere erschaffen kannst. **ABER** ...
@@ -27,7 +27,7 @@ gleichzeitig auf der Welt spielen. Das Ziel ist es, so lange wie möglich zu üb
 2. Das Erstellen von Lagmaschinen oder jegliche Handlungen, die den Server extrem beeinflussen und zum Crash führen
    könnten sind zu unterlassen. Es geht um Spaß, nicht um das Sabotieren des Erlebnisses für andere.
 
-## Q&amp;A
+## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
 Wie lange läuft das Event?

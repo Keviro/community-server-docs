@@ -6,7 +6,7 @@
 > Das Event läuft vom **01.08.2024** bis zum **03.08.2024**.
 >
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder.
 Das einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
@@ -21,7 +21,7 @@ sollen.
 >
 {style="tip" title="Hinweis:"}
 
-### Trades
+### Trades {id="trades"}
 
 In den ersten 24 Stunden des Events steht euch mit `/trades` jede Stunde ein neuer Trade zu Verfügung, in dem ihr wertvolle und einzigartige Items erhalten könnt!
 
@@ -30,7 +30,7 @@ In den ersten 24 Stunden des Events steht euch mit `/trades` jede Stunde ein neu
 >
 {style="tip" title="Was passiert, wenn ich einen Trade verpasse?"}
 
-### Teleportation
+### Teleportation {id="teleportation"}
 
 Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <Spieler>` zu euren Freunden zu teleportieren.
 
@@ -40,7 +40,7 @@ Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch 
 >
 {style="warning"}
 
-### VoiceChat
+### VoiceChat {id="voicechat"}
 
 In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
 
@@ -58,7 +58,7 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
-## Q&amp;A
+## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?

@@ -10,7 +10,7 @@
 > Das Event läuft vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
 >
 
-## Über das Event
+## Über das Event {id="general-info"}
 
 In dem Flatworld-Event tretet ihr in einer kompletten Flatworld an. Sowohl die Overworld, als auch der Nether und das End sind komplett flach.
 Die Challange ist, zusammenzuarbeiten um an seltene Rohstoffe zu gelangen und am Ende etwas Erstaunliches zu erschaffen.
@@ -45,7 +45,7 @@ Tipp: Viele Items könnt ihr in dieser Welt nur durch das finden von Strukturen 
    von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, obwohl dies nicht vorgesehen ist, droht ein sofortiger
    Ausschluss vom Server.
 
-## Q&amp;A
+## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
