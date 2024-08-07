@@ -7,11 +7,12 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Spieler Ränge" id="player-ranks" >
 
-| Rang                            | Bedeutung & Erklärung                                                                                         |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>           |
-| ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
-| ![Spieler](spieler.png)         | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                                        |
+| Rang                            | Bedeutung & Erklärung                                                                                           |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ![Content](content.png)         | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                   |
+| ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>             |
+| ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>   |
+| ![Spieler](spieler.png)         | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                                          |
 
 </tab>
 
