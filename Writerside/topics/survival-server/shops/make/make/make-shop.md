@@ -1,9 +1,9 @@
 <show-structure depth="2"/>
 <primary-label ref="survival-closed" />
 
-[gold-block]: https://minecraft.fandom.com/de/wiki/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können."
+[gold-block]: https://de.minecraft.wiki/w/Goldblock "Goldblöcke sind Blöcke, die aus neun Goldbarren hergestellt werden können."
 
-[chest]: https://minecraft.fandom.com/de/wiki/Truhe "Truhen sind Blöcke, die zum Lagern von Gegenständen verwendet werden können."
+[chest]: https://de.minecraft.wiki/w/Truhe "Truhen sind Blöcke, die zum Lagern von Gegenständen verwendet werden können."
 
 [create-shop]: create-shop.md "Hier findest du eine Anleitung, wie du einen Shop erstellen kannst."
 
