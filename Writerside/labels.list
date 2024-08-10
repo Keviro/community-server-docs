@@ -23,6 +23,9 @@
   <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
     vom 01.08.2024 bis zum 03.08.2024.
   </secondary-label>
+  <secondary-label id="civilisation-date" name="10.08.2024 - 11.08.2024" color="blue">Das Event läuft
+    vom 10.08.2024 bis zum 11.08.2024.
+  </secondary-label>
 
   <secondary-label id="current-minecraft-version" name="%required_game_version%" color="blue">Du
     benötigst die Java-Edition in der Version %required_game_version%, um auf dem Server spielen zu

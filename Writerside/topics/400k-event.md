@@ -1,3 +1,6 @@
+<primary-label ref="event-running" />
+<secondary-label ref="civilisation-date" />
+
 # 400K Special
 
 > Zum Ausgleich des angedachte 400.000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
