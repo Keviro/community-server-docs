@@ -1,21 +1,25 @@
-# 400K Special
+<primary-label ref="event-running" />
+<secondary-label ref="civilisation-mc-version" />
+<secondary-label ref="civilisation-date" />
 
-> Zum Ausgleich des angedachte 400.000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
+# Zivilisationsprojekt
+
+> Zum Ausgleich des angedachten 400 000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
 >
 {style="note" title="Das aktuell geplante Event kann aus technischen Problemen nicht stattfinden!"}
 
 ## Über das Event {id="general-info"}
 
-Dieses Event stellt die Spieler in einem intensiven 24-Stunden-Wettbewerb vor spannende Herausforderungen.
+Dieses Event stellt die Spielenden in einem intensiven 24-Stunden-Wettbewerb vor spannende Herausforderungen.
 Drei Fraktionen treten in verschiedenen Biomen gegeneinander an, wobei sie in verschiedenen Kategorien punkten können.
 Ein Bewertungssystem, das Multiplikatoren und Community-Engagement berücksichtigt, sorgt für ein faires und dynamisches
 Spielerlebnis.
-Das Event ist für 24 Stunden angesetzt.
+Das Event läuft für 24 Stunden.
 
 ## Fraktionen {collapsible="true" id="fraction"}
 
-**Es gibt drei verschiedene Fraktionen, welche jeweils unterschiedliche Biome besiedeln und dort verschiedenste
-Fähigkeiten unter Beweis stellen müssen.**
+Es gibt drei verschiedene Fraktionen, welche jeweils unterschiedliche Biome besiedeln und dort verschiedenste
+Fähigkeiten unter Beweis stellen müssen.
 
 > Da jedes Biome seine Vor- und Nachteile mit sich bringt, werden die Bewertungen der drei
 > Fraktionen im Nachhinein angepasst und mit einem Multiplikator multipliziert.
@@ -25,19 +29,23 @@ Fähigkeiten unter Beweis stellen müssen.**
 
 | Fraktion   | Biom          | Multiplikator |                                                                                   |
 |------------|---------------|---------------|-----------------------------------------------------------------------------------|
-| Fraktion 1 | Flachland     | `0,8`         | <img src="plains-biom.png" width="256" thumbnail="true" border-effect="rounded"/> |
-| Fraktion 2 | Eis           | `1,0`         | <img src="ice-biom.png" width="256" thumbnail="true" border-effect="rounded"/>    |
-| Fraktion 3 | Sumpf/ Ödland | `1,2`         | <img src="swamp-biom.png" width="256" thumbnail="true" border-effect="rounded"/>  |
+| Fraktion 1 | Flachland     | `0.8`         | <img src="plains-biom.png" width="256" thumbnail="true" border-effect="rounded"/> |
+| Fraktion 2 | Eis           | `1`           | <img src="ice-biom.png" width="256" thumbnail="true" border-effect="rounded"/>    |
+| Fraktion 3 | Sumpf/ Ödland | `1.2`         | <img src="swamp-biom.png" width="256" thumbnail="true" border-effect="rounded"/>  |
 
 ## Kriterien {collapsible="true" id="requirements"}
 
-**Folgende Kriterien müssen jeweils von den verschiedenen Fraktionen erfüllt werden und fließen in die Bewertung mit
-ein.**
+Folgende Kriterien müssen die verschiedenen Fraktionen erfüllen. Diese fließen in die Bewertung mit ein.
+
 <tabs>
 <tab title="Kriterium 1">
 <deflist>
 <def title="Redstone">
-Diese Kategorie sollte sich vorrangig auf Redstone-Techniken konzentrieren, da in den letzten Events deutlich wurde, dass einige Spieler dies sehr gut beherrschen. Es geht jedoch nicht nur darum, was gebaut wurde, sondern auch darum, wie die Schaltungen in die Umgebung integriert wurden und wie sie insgesamt funktionieren.
+
+Diese Kategorie sollte sich vorrangig auf Redstone-Techniken konzentrieren, da in den letzten Events deutlich wurde,
+dass einige Spielende dies perfekt beherrschen.
+Es geht jedoch nicht nur darum, was gebaut wurde, sondern auch darum, wie
+die Schaltungen in die Umgebung integriert wurden und wie sie insgesamt funktionieren.
 
 Verborgene Mechaniken
 : Wie nahtlos fügt sich die Redstoneschaltung in die Umgebung ein? Ist sie geschickt versteckt und harmonisch
@@ -59,7 +67,12 @@ Kreative Ingenieurskunst
 <tab title="Kriterium 2">
 <deflist>
 <def title="Bauen">
-Diese Kategorie bewertet, wie die Fraktionen ihre Bauwerke gestaltet haben. Da jede Fraktion unterschiedliche Umgebungen hat, bleibt die Bewertung bewusst flexibel. Zum Beispiel kann die Flachland-Fraktion großflächig und offen bauen, während die Eis-Fraktion möglicherweise gezwungen ist, sich stärker in die Tiefe oder in Eiszapfen zu integrieren, da ihr nur begrenzt Platz zur Verfügung steht.
+
+Diese Kategorie bewertet, wie die Fraktionen ihre Bauwerke gestaltet haben.
+Da jede Fraktion unterschiedliche Umgebungen hat, bleibt die Bewertung bewusst flexibel.
+Zum Beispiel kann die Flachland-Fraktion großflächig und offen bauen,
+während die Eis-Fraktion möglicherweise gezwungen ist, sich stärker in die Tiefe oder in Eiszapfen zu integrieren, da
+ihr nur begrenzter Platz zur Verfügung steht.
 
 Verschmelzung mit der Natur
 : Wessen Gebilde fügt sich am harmonischsten in das Biom ein?
@@ -71,7 +84,7 @@ Arkana der seltenen Materialien
 : Wer nutzt die mystischsten und seltensten Blöcke für sein Werk?
 
 Meisterwerk der Detailkunst
-: Welches Gebilde besticht durch die höchste Detailverliebtheit und Feinheit?
+: Welches Gebilde sticht durch die höchste Detailverliebtheit und Feinheit heraus?
 
 </def>
 </deflist>
@@ -80,7 +93,7 @@ Meisterwerk der Detailkunst
 <deflist>
 <def title="Sammeln">
 
-Diese Kategorie bewertet die Fähigkeit der Spieler, ihren Fleiß und Einsatz im Spiel unter Beweis zu stellen.
+Diese Kategorie bewertet die Fähigkeit der Spielenden, ihren Fleiß und Einsatz im Spiel unter Beweis zu stellen.
 
 Schatzkammer
 : Die Seltenheit der gesammelten Gegenstände.
@@ -115,7 +128,7 @@ beitragen.
 
 ## Punktvergabe {collapsible="true" id="scoring"}
 
-Kriterium 1 bis 3 werden jeweils mit 1 bis 10 Punkten durch Heiko und eventuelle Gäste bewertet.
+Die Kriterien 1 bis 3 werden jeweils mit 1 bis 10 Punkten durch Heiko und eventuelle Gäste bewertet.
 \
 Kriterium 4 kann, durch Twitch bedingt, nur mit 10 Punkten bewertet werden.
 
@@ -123,7 +136,7 @@ Kriterium 4 kann, durch Twitch bedingt, nur mit 10 Punkten bewertet werden.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event?
-: Das Event läuft voraussichtlich vom **10.08.2024** um **10:00 Uhr** bis **11.06.2024** um **18:00 Uhr**.
+: Das Event läuft voraussichtlich vom **10.08.2024** um **14:00 Uhr** bis **11.08.2024** um **14:00 Uhr**.
 
 Wie lange läuft das Event?
 : Das Event läuft 24 Stunden.
@@ -141,7 +154,7 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 Ist PvP aktiviert?
 : Nein, PvP ist während des Events deaktiviert.
 
-Kann man auch später noch dem Event beitreten?
+Kann ich auch später noch dem Event beitreten?
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
 Das Startequipment bekommst du, sobald du den [Eventserver](how-to-take-part-in-an-event.md) betrittst.
