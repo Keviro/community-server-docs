@@ -73,4 +73,6 @@
     <toc-element topic="faq.md"/>
     <toc-element topic="troubleshooting.md"/>
   <toc-element topic="ranks-overview.md"/>
+    <toc-element topic="civilization-event.md"/>
+    <toc-element topic="400k-special-event.md"/>
 </instance-profile>
