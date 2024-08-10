@@ -20,7 +20,9 @@
          value="https://discord.com/channels/133198459531558912/1124438644523012234/1124440165943869441"/>
 
     <var name="twitch_cast" value="https://www.twitch.tv/castcrafter"/>
+    <var name="youtube_cast" value="https://www.youtube.com/user/CastCrafter"/>
     <var name="twitch" value="https://www.twitch.tv"/>
+    <var name="youtube" value="https://www.youtube.com/"/>
     <var name="shop-server-name" value="Shop Server"/>
     <var name="shop-server-desc" value="Hier erfährst du wie du auf den Shop Server kommst!"/>
     <var name="git-repo-clone-link" value="https://github.com/Keviro/community-server-docs.git"/>
