@@ -9,6 +9,11 @@
 
 Zur Feier von 400 Tausend Youtube-Abonnenten und 400 Tausend Followern auf Twitch findet diesen Event statt. Es werden 400 Spieler versuchen 400 Tausend Diamanten Erze zu farmen. CastCrafter wird zum Anfang Startequip farmen. Dieses bekommt jeder Spieler, sobald er das Event betritt.
 
+## Voicechat {id="voicechat"}
+
+Der Server unterstüzt [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/). Bitte achtet darauf, beim Download euch die [Fabric](https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric), [NeoForge](https://modrinth.com/plugin/simple-voice-chat/versions?l=neoforge) oder [Forge](https://modrinth.com/plugin/simple-voice-chat/versions?l=forge) Version runterzuladen. Versionen wie Paper, Velocity oder Bungeecord werden nicht funktionieren.
+<br>_Hilfe zur Installation findest du [hier](https://modrepo.de/minecraft/voicechat/wiki/installation)_
+
 ## Zusätzliche Regeln {id="rules"}
 
 1. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen sind
