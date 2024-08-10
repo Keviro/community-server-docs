@@ -7,7 +7,7 @@
 
 ## Über das Event {id="general-info"}
 
-In diesem Event treten 160+ Spieler in Teams á 40 Spielern an. Jedes Team bekommt ein eigenes Biom zugewiesen, wodurch sie sich weiterentwickeln können.
+In diesem Event treten 160+ Spieler in 3 Fraktionen á 40+ Spielern an. Jede Fraktion bekommt ein eigenes Biom zugewiesen, wodurch sie sich weiterentwickeln können. Anhand dieser Biome/Startregionen wird am Ende auch eure Punktzahl als Fraktion berechnet.
 _Dies ist ein ausweich Event, da das 400k-Special Event aktuell nicht stattfinden kann_
 
 ## Voicechat {id="voicechat"}
