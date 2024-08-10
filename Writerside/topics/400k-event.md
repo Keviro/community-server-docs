@@ -144,4 +144,4 @@ Ist PvP aktiviert?
 Kann man auch später noch dem Event beitreten?
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
-Das Startequipment bekommst du, sobald du den [Eventserver](how-to-take-part-in-an-event.md) betrittst.
+
