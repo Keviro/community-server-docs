@@ -29,8 +29,8 @@ Fähigkeiten unter Beweis stellen müssen.
 
 | Fraktion   | Biom          | Multiplikator |                                                                                   |
 |------------|---------------|---------------|-----------------------------------------------------------------------------------|
-| Fraktion 1 | Flachland     | `0.8`         | <img src="plains-biom.png" width="256" thumbnail="true" border-effect="rounded"/> |
-| Fraktion 2 | Eis           | `1`           | <img src="ice-biom.png" width="256" thumbnail="true" border-effect="rounded"/>    |
+| Fraktion 1 | Eis           | `1`           | <img src="ice-biom.png" width="256" thumbnail="true" border-effect="rounded"/>    |
+| Fraktion 2 | Flachland     | `0.8`         | <img src="plains-biom.png" width="256" thumbnail="true" border-effect="rounded"/> |
 | Fraktion 3 | Sumpf/ Ödland | `1.2`         | <img src="swamp-biom.png" width="256" thumbnail="true" border-effect="rounded"/>  |
 
 ## Kriterien {collapsible="true" id="requirements"}
