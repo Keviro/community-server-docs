@@ -7,7 +7,8 @@
     <term name="Wochentage">Montag, Dienstag, Mittwoch, Donnerstag und Freitag</term>
     <term name="Wochenende">Samstag und Sonntag</term>
     <term name="MouseWheelie">MouseWheelie verändert die Kommunikation zwischen Client und Server und ist daher verboten</term>
+    <term name="MouseWheelie$English">MouseWheelie changes the communication between client and server and is therefore prohibited</term>
     <term name="Freecam">Freecam kann missbraucht werden um Strukturen, Höhlen und Erze zu finden und bietet daher einen unfairen Vorteil</term>
+    <term name="Freecam$English">Freecam can be abused to find structures, caves and ores and therefore offers an unfair advantage</term>
     <term name="Spielstunde">Dies ist die Zeit, in welcher ein Spieler aktiv spielt. AFK-Zeit wird nicht miteinberechnet!</term>
-
 </terms>

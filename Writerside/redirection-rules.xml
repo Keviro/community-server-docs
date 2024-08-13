@@ -104,4 +104,8 @@
         <description>Created after removal of "Teammitglieder" from Community Server Docs</description>
         <accepts>team-members.html</accepts>
     </rule>
+    <rule id="1bdb4d06">
+        <description>Created after removal of "Regeln" from Community Server Docs</description>
+        <accepts>Regeln.html</accepts>
+    </rule>
 </rules>
