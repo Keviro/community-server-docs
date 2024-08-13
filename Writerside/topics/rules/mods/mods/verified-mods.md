@@ -1,10 +1,10 @@
-[rules]: survival-rules "Zurück zu den Regeln"
-
-[replaymod]: https://www.replaymod.com/
-
 ---
 switcher-label: Language
 ---
+
+[rules]: survival-rules "Zurück zu den Regeln"
+
+[replaymod]: https://www.replaymod.com/
 
 # Geprüfte Modifikationen
 
