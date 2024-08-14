@@ -1,10 +1,10 @@
-[rules]: survival-rules "Zurück zu den Regeln"
-
-[replaymod]: https://www.replaymod.com/
-
 ---
 switcher-label: Language
 ---
+
+[rules]: survival-rules "Zurück zu den Regeln"
+
+[replaymod]: https://www.replaymod.com/
 
 # Geprüfte Modifikationen
 
@@ -84,6 +84,8 @@ the following mods have been reviewed by the team.
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items))
 - ShulkerBoxTooltip ([Modrinth](https://modrinth.com/mod/shulkerboxtooltip),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip))
+- Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat/),
+    [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)) (**Achtung: Es wird nur Fabric, Forge oder Neoforge supportet.**)
 - Skin Layers 3D ([Modrinth](https://modrinth.com/mod/3dskinlayers),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d))
 - Sound Filters ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-filters))
