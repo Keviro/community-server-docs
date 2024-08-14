@@ -87,7 +87,7 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fr
 - Du hast dich mit dem Regelwerk und der Dokumentation auseinandergesetzt
 - Du bist hilfsbereit und freundlich
 - Du bist Teamfähig
-- Du hast mindestens 50 Stunden Spielzeit auf dem Event Server
+- Du hast mindestens 50 Stunden <tooltip term="event-server-playtime-only">Spielzeit auf dem Eventserver</tooltip>
 
 </def>
 </deflist>

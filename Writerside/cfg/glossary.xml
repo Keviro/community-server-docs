@@ -11,4 +11,5 @@
     <term name="Freecam">Freecam kann missbraucht werden um Strukturen, Höhlen und Erze zu finden und bietet daher einen unfairen Vorteil</term>
     <term name="Freecam$English">Freecam can be abused to find structures, caves and ores and therefore offers an unfair advantage</term>
     <term name="Spielstunde">Dies ist die Zeit, in welcher ein Spieler aktiv spielt. AFK-Zeit wird nicht miteinberechnet!</term>
+    <term name="event-server-playtime-only">Es wird nur die Spielzeit auf dem Event Server gewertet. Die Zeit in der Lobby oder auf anderen Servern zählt nicht dazu.</term>
 </terms>
