@@ -31,18 +31,19 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                | Mitglieder                                                                                                                                         |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                                                          |
-| ![Entwickler](developer.png)        | <ul><li>`Chilliger_`</li></ul>                                                                                                                     |
-| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li></ul>                                |
-| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`W3eze`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`Koljav`</li><li>`Progeilo`</li><li>`Sommer_Tyler`</li></ul> |
-| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                     |
+| Rang                                | Mitglieder                                                                                                                                                               |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                                                                                |
+| ![Entwickler](developer.png)        | <ul><li>`Chilliger_`</li></ul>                                                                                                                                           |
+| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li></ul>                                                      |
+| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`W3eze`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`Koljav`</li><li>`Progeilo`</li><li>`Sommer_Tyler`</li><li>`Tabaluga97 `</li></ul> |
+| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                           |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
-<deflist>
-<def title="Bewerbung als Builder oder Supporter">
+Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
+<tabs>
+<tab title="Builder" id="application-builder">
 
 > **Derzeit werden keine Bewerbungen für die Position des Builders angenommen**!
 > Keine Sorge, es wird bald eine spezielle Bewerbungsphase geben, in der ihr euch als Builder bewerben könnt!
@@ -59,36 +60,76 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 >
 {style="warning" title="Momentan keine Bewerbung als Builder möglich!"}
 
-Grundsätzlich können sich alle als Builder oder Supporter bewerben, indem sie sich bei uns melden.
-Am einfachsten geht dies, wenn ihr euch in einem
-<a href="%tickets_channel%">Ticket</a>
- an uns wendet. Bitte beachtet jedoch die Informationen weiter unten.
+<deflist>
+<def title="Beschreibung" id="description-builder">
+Als Builder bist du verantwortlich für die Gestaltung und dem Design auf dem Server.
+Deine Aufgabe besteht darin, Strukturen, Karten oder Gebäude vorzubauen.
+Diese werden dann anschließend für kommende Events verwendet oder in der Lobby eingefügt.
 </def>
-<def title="Bewerbung als Moderator">
-Eine direkte Bewerbung für den Moderator Rang ist nicht möglich. Supporter können jedoch bei guter Arbeit und längerer Mitgliedschaft im Team zum Moderator aufsteigen.
-</def>
-<def title="Bewerbung als Developer" id="dev-application">
-Die Anforderungen für Developer sind recht hoch. 
+<def title="Anforderungen als Builder" id="requirements-builder">
 
-Bitte bewerbt euch nur, wenn ihr genügend Erfahrung und auch Lust und Zeit
-für das Projekt habt.
-Bewerbende sollten sich mit Gradle, Git, Spring, MySQL und Redis auskennen und es sollten bereits
-Erfahrungen in der Entwicklung von Paper und Velocity Plugins vorhanden sein.
-Asynchrone Programmierung und die Arbeit
-mit Packets bzw. PacketEvents sollte kein Problem darstellen.
+- Du kennst dich mit Bautools wie `WorldEdit`, `VoxelSniper`, `goBrush `oder `goPaint `aus
+- Du kannst harmonisch bauen
+- Du kannst detailliert bauen
+- Du beherrschst mehrere Baustile
+
 </def>
 </deflist>
+</tab>
+<tab title="Supporter" id="application-supporter">
+<deflist>
+<def title="Beschreibung" id="description-supporter">
+Als Supporter bist du der erste Ansprechpartner für Spieler bei Fragen und Problemen.
+Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fragen bezüglich der Funktionen und Features des Servers.
+</def>
+<def title="Anforderungen als Supporter" id="requirements-supporter">
 
-<note>
+- Du hast dich mit dem Regelwerk und der Dokumentation auseinandergesetzt
+- Du bist hilfsbereit und freundlich
+- Du bist Teamfähig
+- Du hast mindestens `50` Stunden <tooltip term="event-server-playtime-only">Spielzeit auf dem Eventserver</tooltip>
+
+</def>
+</deflist>
+</tab>
+<tab title="Entwickler" id="application-developer">
+
+<deflist>
+<def title="Beschreibung" id="description-developer">
+Als Entwickler trägst du zur technischen Weiterentwicklung des Servers bei. 
+Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehlerbehebung.
+</def>
+<def title="Anforderungen als Entwickler" id="requirements-developer">
+
+- Du hast ausreichend Zeit und Lust auf das Projekt
+- Du bist Teamfähig
+- Du kennst dich mit Gradle, Git, Spring, MySQL und Redis aus
+- Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
+- Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
+
+</def>
+</deflist>
+</tab>
+</tabs>
+
+### Weitere Informationen {id="more-info"}
+
+<deflist>
+<def title="Wie bewerbe ich mich?" id="how-to-apply">
+
+Wenn auch du Lust hast im Team mitzuhelfen, den Server weiterzugestalten und uns zu unterstützen, kannst du dich gerne
+bei uns melden.
+Am besten geht dies in einem [Ticket](%tickets_channel%).
+</def>
+<def title="Inhalt der Bewerbung" id="application-content">
 Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorgaben machen.
-Überzeugt uns auf eure Art von euerer Motivation und warum ihr denkt, dass ihr für den Rang geeignet seid.
-
-Grundvoraussetzung ist jedoch, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive
-besitzen und regelmäßig
-auf dem Server und TeamSpeak aktiv sind.
-
-Beachtet aber, dass wir in der Regel einen Aufruf machen, sobald wir Teammitglieder suchen oder
-aktiv auf Spieler zukommen, welche uns positiv aufgefallen sind.
-</note>
-
-
+Überzeuge uns auf deine Art von deiner Motivation und warum du denkts, dass du für den Rang geeignet bist.
+</def>
+<def title="Grundvoraussetzungen" id="basic-requirements">
+Grundvoraussetzung ist, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem Server und TeamSpeak aktiv sind.
+Zusätzlich erwarten wir einen respektvollen Umgang und geistliche Reife von dir.
+</def>
+<def title="Weitere Informationen" id="more-infos">
+In der Regel machen wir einen Aufruf, sobald wir Teammitglieder suchen oder wir kommen aktiv auf Spieler zu, welche uns positiv aufgefallen sind.
+</def>
+</deflist>
