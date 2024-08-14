@@ -102,7 +102,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <def title="Anforderungen als Entwickler" id="requirements-developer">
 
 - Du hast ausreichend Zeit und Lust auf das Projekt
-- Du bist Teamfähig
+- Du bist teamfähig
 - Du kennst dich mit Gradle, Git, Spring, MySQL und Redis aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
@@ -123,7 +123,7 @@ Am besten geht dies in einem [Ticket](%tickets_channel%).
 </def>
 <def title="Inhalt der Bewerbung" id="application-content">
 Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorgaben machen.
-Überzeuge uns auf deine Art von deiner Motivation und warum du denkts, dass du für den Rang geeignet bist.
+Überzeuge uns auf deine Art von deiner Motivation und warum du denkst, dass du für den Rang geeignet bist.
 </def>
 <def title="Grundvoraussetzungen" id="basic-requirements">
 Grundvoraussetzung ist, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem Server und TeamSpeak aktiv sind.
