@@ -69,7 +69,7 @@ Diese werden z.B. anschließend für kommende Events verwendet oder in der Lobby
 <def title="Anforderungen als Builder" id="requirements-builder">
 
 - Du kennst dich mit Bautools wie WorldEdit, VoxelSniper, goBrush oder goPaint aus
-- Du weißt, wie man harmonisch baut
+- Du kannst harmonisch bauen
 - Du kannst detailliert bauen
 - Du beherrschst mehrere Baustile
 
