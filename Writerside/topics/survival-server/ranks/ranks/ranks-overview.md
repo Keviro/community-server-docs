@@ -41,7 +41,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
-**Grundsätzlich könnt ihr euch für folgende Ränge bewerben:**
+Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
 <tab title="Builder" id="application-builder">
 
