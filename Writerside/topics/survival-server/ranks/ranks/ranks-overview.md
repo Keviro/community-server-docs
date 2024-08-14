@@ -102,7 +102,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <def title="Anforderungen als Entwickler" id="requirements-developer">
 
 - Du hast ausreichend Zeit und Lust auf das Projekt
-- Du kannst gut im Team arbeiten
+- Du bist Teamfähig
 - Du kennst dich mit Gradle, Git, Spring, MySQL und Redis aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
