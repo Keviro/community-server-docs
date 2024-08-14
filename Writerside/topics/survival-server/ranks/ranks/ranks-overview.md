@@ -117,7 +117,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <deflist>
 <def title="Wie bewerbe ich mich?" id="how-to-apply">
 
-Wenn ihr Lust habt auch im Team mitzuhelfen und den Server weiterzugestalten und zu unterstützen, könnt ihr euch gerne
+Wenn auch du Lust hast im Team mitzuhelfen, den Server weiterzugestalten und uns zu unterstützen, kannst du dich gerne
 bei uns melden.
 Am besten geht dies in einem [Ticket](%tickets_channel%).
 </def>
