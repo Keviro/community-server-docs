@@ -64,7 +64,7 @@ Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <def title="Beschreibung" id="description-builder">
 Als Builder bist du verantwortlich für die Gestaltung und dem Design auf dem Server.
 Deine Aufgabe besteht darin, Strukturen, Karten oder Gebäude vorzubauen.
-Diese werden z.B. anschließend für kommende Events verwendet oder in der Lobby eingefügt.
+Diese werden dann anschließend für kommende Events verwendet oder in der Lobby eingefügt.
 </def>
 <def title="Anforderungen als Builder" id="requirements-builder">
 
