@@ -123,7 +123,7 @@ Am besten geht dies in einem [Ticket](%tickets_channel%).
 </def>
 <def title="Inhalt der Bewerbung" id="application-content">
 Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorgaben machen.
-Überzeugt uns auf eure Art von euerer Motivation und warum ihr denkt, dass ihr für den Rang geeignet seid.
+Überzeuge uns auf deine Art von deiner Motivation und warum du denkts, dass du für den Rang geeignet bist.
 </def>
 <def title="Grundvoraussetzungen" id="basic-requirements">
 Grundvoraussetzung ist, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem Server und TeamSpeak aktiv sind.
