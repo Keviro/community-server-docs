@@ -133,3 +133,5 @@ Zusätzlich erwarten wir einen respektvollen Umgang und geistige Reife von dir.
 In der Regel machen wir einen Aufruf, sobald wir Teammitglieder suchen oder wir kommen aktiv auf Spieler zu, welche uns positiv aufgefallen sind.
 </def>
 </deflist>
+
+TEST (HOFFENTLICH KEINE HELENE MEHR)
