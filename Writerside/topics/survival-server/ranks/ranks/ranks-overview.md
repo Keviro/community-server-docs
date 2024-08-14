@@ -86,7 +86,7 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fr
 
 - Du hast dich mit dem Regelwerk und der Dokumentation auseinandergesetzt
 - Du bist hilfsbereit und freundlich
-- Du kannst gut im Team arbeiten
+- Du bist Teamfähig
 - Du hast mindestens 50 Stunden Spielzeit auf dem Event Server
 
 </def>
