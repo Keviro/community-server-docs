@@ -42,7 +42,7 @@ the following mods have been reviewed by the team.
 
 <include from="util.md" element-id="mod-pack"/>
 
-## Erlaubte Modifikationen {switcher-key="Deutsch"}
+## Erlaubte Modifikationen {switcher-key="Deutsch" id="allowed-modifications-ger"}
 
 - **Performance Mods und Shader**
     - Performance Mods wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
@@ -100,7 +100,7 @@ the following mods have been reviewed by the team.
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zoomify))
 
 
-## Allowed Modifications {switcher-key="English"}
+## Allowed Modifications {switcher-key="English" id="allowed-modifications-en"}
 
 - **Performance Mods and Shaders**
   - Performance mods like `Optifine`, `Sodium`, or `Starlight`, as well as shaders, are generally not a problem.
