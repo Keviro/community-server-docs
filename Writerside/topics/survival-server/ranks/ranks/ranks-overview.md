@@ -126,7 +126,9 @@ Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorga
 Überzeuge uns auf deine Art von deiner Motivation und warum du denkst, dass du für den Rang geeignet bist.
 </def>
 <def title="Grundvoraussetzungen" id="basic-requirements">
+
 Grundvoraussetzung ist, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem Server und TeamSpeak aktiv sind.
+\
 Zusätzlich erwarten wir einen respektvollen Umgang und geistige Reife von dir.
 </def>
 <def title="Weitere Informationen" id="more-infos">
