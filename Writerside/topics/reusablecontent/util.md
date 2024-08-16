@@ -19,12 +19,15 @@
 
 <snippet id="mod-pack">
 
-> Um das Spielerlebnis auf unserem Server zu erleichtern, haben wir ein spezielles Modpack zusammengestellt.\
-> Mit diesem Modpack könnt ihr sicher sein, dass alle enthaltenen Mods auf unserem Server erlaubt sind.\
-> Ladet es [hier auf Modrinth herunter](https://modrinth.com/modpack/castcrafter-survival-server "Zum Modpack") und fangt an zu spielen!\
+>Um das Spielerlebnis auf dem Server zu optimieren gibt es ein offizielles Modpack, welches ausschließlich getestete Modifikationen enthält.
+>Alle enthaltenen Mods sind erlaubt und mit dem Server kompatibel.
+>\
+>**Das Modpack könnt ihr auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!") herunterladen.**
 > \
-> **Es wird keine Garantie gegeben, solltet ihr etwas am Modpack ändern oder Mods hinzufügen.**
+> \
+>**Änderungen am Modpack oder das Hinzufügen zusätzlicher Mods können zu Inkompatibilitäten und unter Umständen zu einem Ausschluss des Servers führen.**
+>**Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
-{style="note" title="Modpack"}
+{style="note" title="Offizielles Server Modpack"}
 
 </snippet>
