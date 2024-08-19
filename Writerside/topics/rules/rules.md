@@ -151,8 +151,7 @@ A detailed list of these rules can be found below.
    money or other resources aren’t allowed. Additionally, any trading between players may only be conducted with items
    and [currencies][economy] available on the server.
 
-
-1. **Moderators and admins have the final say**, even if it contradicts the rules.
+6. **Moderators and admins have the final say**, even if it contradicts the rules.
    We don’t want long discussions.
    If you’re asked to stop doing something, simply stop instead of arguing. 
    There is likely a reason for it.
