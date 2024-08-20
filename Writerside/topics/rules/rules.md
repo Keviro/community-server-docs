@@ -66,6 +66,9 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    verhaltet. Wir tolerieren **keine Belästigung anderer Spieler jeglicher Art**. Seien es
    Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling.
 
+   - Dies gilt auch für den Sprachchat. Jegliche Arten von **Trolling**, **Soundboards** 
+     oder das **Abspielen von Musik** im Sprachchat ist **untersagt** und führt zu einem Ausschluss.
+
    > Solltet ihr ein Problem mit einer anderen Person haben, versucht es **miteinander** zu
    > lösen. Sollte dies nicht möglich sein, [kontaktiert bitte einen Moderator][support].
    > Offener Streit wird nicht geduldet und wir behalten uns vor Spieler dafür temporär vom Server auszuschließen.
@@ -134,6 +137,9 @@ A detailed list of these rules can be found below.
 4. You’re expected to **behave friendly and respectfully towards other players**.
    We don’t tolerate **any form of harassment**.
    This includes insults, hostility, scamming, or any kind of trolling.
+
+   - This also applies to voice chat. Any kind of **trolling**, **soundboards**
+     or **playing music** in voice chat is **forbidden** and will result in exclusion.
 
    > If you have an issue with another person, try to resolve it **together**. If this is not
    > possible, [please contact a moderator][support]. Open conflict will not be tolerated, and we reserve the right to
