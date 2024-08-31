@@ -108,4 +108,9 @@
         <description>Created after removal of "Regeln" from Community Server Docs</description>
         <accepts>Regeln.html</accepts>
     </rule>
+    <rule id="725ff404">
+        <description>
+            <![CDATA[Created after removal of "Besonderheiten & veränderte Mechaniken" from Community Server Docs]]></description>
+        <accepts>specials.html</accepts>
+    </rule>
 </rules>

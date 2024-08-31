@@ -1,12 +1,51 @@
-<primary-label ref="survival-closed" />
+# Besonderheiten &amp; veränderte Mechaniken
 
-# Geänderte Vanilla Mechaniken
+## Keine Villager {collapsible="true" default-state="collapsed" id="no-villagers"}
 
-> Diese Seite ist noch in Arbeit und wird nach und nach vervollständigt.
+Villager sind einfach ausgedrückt "zu OP" für eine funktionierende Economy.
+Würden wir Villager aktivieren, würden die meisten Items zu schnell an Wert verlieren.
+Durch das Deaktivieren von Villagern wird vor allem der Wert von Eisen, Enchantments im Allgemeinen aber auch Mending,
+Totems und anderen Items vor einem massiven Verfall bewahrt.
+\
+Auf dem alten Server wurden aufgrund der massenhaft von Villagern erschaffen Items viele Neulinge
+direkt ins Endgame befördert, indem sie "Endgame" Items geschenkt bekommen haben.
+Im Nether gab es Kisten, welche kostenlos Totems verteilt haben und Spieler somit direkt in den "Godmode" versetzt
+haben. Das möchten wir in einer Economy verhindern, da wir den Handel und die Interaktion unter den
+Spielern fördern möchten, und somit ist das zwar ein extremer aber notwendiger Einschnitt in die
+Vanilla-Mechanik.
 
+> Um die Möglichkeit zu bewahren, trotz deaktivierter Villager an Totems zu kommen, ist
+> es nun möglich, diese ebenfalls wie Mending durch Fishing zu erhalten.
+>
 {style="note"}
 
-## Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
+## Nether Portale {collapsible="true" default-state="collapsed" id="nether-link"}
+
+Um einen größeren Nether von `5 000 · 5 000` Blöcken zu ermöglichen, haben wir uns dazu entschieden
+die Portal-Umrechnung etwas anzupassen.
+Daher beträgt die Umrechnung vom Nether zur Overworld bei uns **1:4** anstelle der normalen 1:8 Umrechnung.
+Behaltet dies also beim Bauen eurer Portale im Hinterkopf.
+
+## Voice-Chat {collapsible="true" default-state="collapsed" id="voice-mod"}
+
+Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, um auf dem Server zu
+spielen, bietet interessierten Spielern aber die Möglichkeit, mit anderen Spielern in-game zu
+sprechen, wenn diese den Mod ebenfalls installiert haben.
+<tabs>
+<tab title="Curseforge" group-key="mod-launcher-curse-forge">
+
+[Plasmo Voice Download](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)
+</tab>
+<tab title="Modrinth" group-key="mod-launcher-modrinth">
+
+[Plasmo Voice Download](https://modrinth.com/plugin/plasmo-voice)
+</tab>
+</tabs>
+
+
+## Geänderte Vanilla Mechaniken {collapsible="true" default-state="collapsed" id="changed-vaanilla-mechanics"}
+
+### Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
 
 Spawn Limit
 : Die Anzahl an Mobs, welche natürlich spawnen können.
@@ -55,7 +94,7 @@ Die Konstante, die verwendet wird, um zu bestimmen, wie viele Wasser Ambient Mob
 </def>
 </deflist>
 
-## Ticks-Per-Einstellungen {collapsible="true" default-state="collapsed" id="ticks-per-settings"}
+### Ticks-Per-Einstellungen {collapsible="true" default-state="collapsed" id="ticks-per-settings"}
 
 Ticks-Per
 : Bestimmt, wie oft bestimmte Ereignisse pro Spiel-Tick passieren.
@@ -167,9 +206,9 @@ Die Anzahl der Ticks, die zwischen den Versuchen vergehen, Monster aus einem Mob
 </def>
 </deflist>
 
-## Welt-Einstellungen {collapsible="true" default-state="collapsed" id="world-settings"}
+### Welt-Einstellungen {collapsible="true" default-state="collapsed" id="world-settings"}
 
-### Entity activation range {collapsible="true" default-state="collapsed" id="entity-activation-range"}
+#### Entity activation range {collapsible="true" default-state="collapsed" id="entity-activation-range"}
 
 Entity Activation Range
 : Bestimmt die Distanz (in Blöcken), in der Entitäten aktiv sind.
@@ -209,7 +248,7 @@ Die Entfernung, in der sonstige Entitäten aktiv sind.
 </def>
 </deflist>
 
-### Verschmelzungsradius {collapsible="true" default-state="collapsed" id="merge-radius"}
+#### Verschmelzungsradius {collapsible="true" default-state="collapsed" id="merge-radius"}
 
 Verschmelzungsradius
 : Bestimmt die Distanz (in Blöcken), in der mehrere Entitäten zu einer verschmelzen.
@@ -241,7 +280,7 @@ Der Radius, in dem mehrere kleinere stacks von XP zu einem größeren verschmelz
 </def>
 </deflist>
 
-## DAB (Distance Activation Brain) {collapsible="true" default-state="collapsed" id="dab"}
+### DAB (Distance Activation Brain) {collapsible="true" default-state="collapsed" id="dab"}
 
 DAB
 : DAB (Distance Activation Brain) ist eine fortschrittliche Serveroptimierung, die speziell dafür entwickelt wurde, die
@@ -279,9 +318,9 @@ ressourcenintensiv und werden daher durch DAB effizienter gestaltet.
 </tr>
 </table>
 
-## Despawn-Regeln {collapsible="true" default-state="collapsed" id="despawn-rules"}
+### Despawn-Regeln {collapsible="true" default-state="collapsed" id="despawn-rules"}
 
-### Despawn-Regeln für Items {collapsible="true" default-state="collapsed" id="item-despawn-rules"}
+#### Despawn-Regeln für Items {collapsible="true" default-state="collapsed" id="item-despawn-rules"}
 
 Item Despawn Rules
 : Bestimmt, wann Items despawnen.
@@ -426,8 +465,7 @@ Item Despawn Rules
 </tr>
 </table>
 
-### Despawn-Regeln für Entitäten {collapsible="true" default-state="collapsed" id="entity-despawn-rules"}
-
+#### Despawn-Regeln für Entitäten {collapsible="true" default-state="collapsed" id="entity-despawn-rules"}
 
 Entity Despawn Rules
 : Bestimmt, wann Entitäten despawnen.
@@ -519,8 +557,7 @@ In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine an
 </def>
 </deflist>
 
-
-## Alternate Current Redstone-Implementierung {collapsible="true" default-state="collapsed" id="alternate-current"}
+### Alternate Current Redstone-Implementierung {collapsible="true" default-state="collapsed" id="alternate-current"}
 
 Der Server verwendet
 die [Alternate Current Redstone-Implementierung
