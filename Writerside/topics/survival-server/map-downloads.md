@@ -9,9 +9,8 @@
 
 <primary-label ref="survival-closed" />
 
-<format color="Gray">Coming soon™️</format>
-
-<format color="Gray">Map Download</format>
+<a href="https://castcrafter.sellfy.store/p/community-server-map/">Map Download</a>
+<video src="https://youtu.be/4JFUiPN2aX4"/>
 
 <chapter title="Die wichtigsten Cords" collapsible="true" id="points-of-interest-1_20">
 
