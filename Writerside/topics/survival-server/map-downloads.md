@@ -1,4 +1,5 @@
 <show-structure depth="0"/>
+<primary-label ref="survival-closed" />
 
 # Map Downloads
 
@@ -6,9 +7,6 @@
 
 <tab title="1.20 Community Server" id="survival-server-1_20">
 <include from="util.md" element-id="survival-closed"/>
-
-<primary-label ref="survival-closed" />
-
 <a href="https://castcrafter.sellfy.store/p/community-server-map/">Map Download</a>
 <video src="https://www.youtube.com/watch?v=4JFUiPN2aX4"/>
 
