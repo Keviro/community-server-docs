@@ -32,12 +32,12 @@
         <toc-element topic="custom-enchantments.md">
         </toc-element>
         <toc-element topic="light-blocks-and-invisible-item-frames.md"/>
-      <!-- Shops will be updated soon !-->
-        <toc-element topic="shops-starting-page.topic" hidden="true">
-            <toc-element topic="make-shop.md"/>
-            <toc-element topic="create-shop.md"/>
-            <toc-element topic="manage-shop.md">
-                <toc-element topic="delete-shop.md"/>
+      <!-- Shops will be updated soon™️!-->
+        <toc-element topic="shops-starting-page.topic" hidden="true" href="https://google.com">
+            <toc-element topic="make-shop.md" href="https://google.com"/>
+            <toc-element topic="create-shop.md" href="https://google.com"/>
+            <toc-element topic="manage-shop.md" href="https://google.com">
+                <toc-element topic="delete-shop.md" href="https://google.com"/>
             </toc-element>
         </toc-element>
         <toc-element topic="cosmetics.md">
