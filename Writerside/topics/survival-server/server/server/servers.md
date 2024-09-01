@@ -6,7 +6,7 @@ Im Folgenden werden die verschiedenen Server kurz vorgestellt.
 <deflist>
 <def title="Der Survival Server" id="survival-server">
 
-Der [Survival Server](survival-server.topic) ist der Hauptserver des Community Servers. \
+Der [Survival Server](survival-server.topic "Klicke für weitere Informationen zum Survival Server!") ist der Hauptserver des Community Servers. \
 Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
 Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas
 beeinflussen. \
@@ -19,7 +19,7 @@ aufgelistet.
 <deflist>
 <def title="Der Event Server" id="event-server">
 
-Auf dem [Event Server](event-server.topic) finden regelmäßig Events statt.
+Auf dem [Event Server](event-server.topic "Klicke für weitere Informationen zum Event Server!") finden regelmäßig Events statt.
 Diese werden von CastCrafter auf [Twitch](%twitch_cast%) gestreamt.
 Zusätzlich werden Videos auf [YouTube](%youtube_cast%) veröffentlicht.
 Die Events werden frühzeitig im Livestream und im [Discrod](%dc_link%)
@@ -33,7 +33,7 @@ unter [%com_updates_channel_display%](%com_updates_channel%) angekündigt.
 
 Die Lobby Server dienen hauptsächlich als Aufenthaltsort für Wartezeiten. Nebenbei kannst du die Lobby erkunden und
 herumspringen. \
-Von den Lobby Servern aus kommst du auf den Event Server und auch auf den Survival Server.
+Von den Lobby Servern aus kommst du beispielsweise auf den Event Server oder auf den Survival Server.
 
 > 1. Mache einen <shortcut>Rechtsklick</shortcut> auf den Kompass in deinem Inventar.
 > 2. Klicke im Menü auf das Icon des gewünschten Servers.
