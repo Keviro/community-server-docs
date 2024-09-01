@@ -108,4 +108,8 @@
         <description>Created after removal of "Regeln" from Community Server Docs</description>
         <accepts>Regeln.html</accepts>
     </rule>
+    <rule id="6cbf8d5d">
+        <description>Created after removal of "Lobby Server" from Community Server Docs</description>
+        <accepts>lobby-server.html</accepts>
+    </rule>
 </rules>
