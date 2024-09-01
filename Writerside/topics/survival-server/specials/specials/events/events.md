@@ -1,4 +1,3 @@
-<primary-label ref="survival-closed" />
 
 # Events
 
@@ -33,14 +32,3 @@ Glück (Luck) Effect mit einer zufälligen Stufe.
 
 Es können auch spontane Angel-Events von Moderatoren und Administratoren gestartet werden.
 Das ist aber die Entscheidung der Person.
-
-## Community-Events {id="community-events" collapsible="true" default-state="collapsed"}
-
-> Community Events sind vom Server Team entwickelte Events, welche **nicht regelmäßig** stattfinden.
->
-{style="tip"}
-
-\
-Vor jedem Event wird im [Discord](%dc_link%) unter dem [#server-updates](%com_updates_channel%) Kanal eine Mitteilung veröffentlicht.
-In dieser stehen Informationen, Regeln und Hinweise zu dem Event.
-Wenn ihr hierfür gepingt werden möchtet, könnt ihr euch in [#server-info](%com_info_channel%) die Rolle holen!
