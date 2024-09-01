@@ -502,7 +502,7 @@ Entity Despawn Rules
 <def title="Soft Despawn Range" id="soft-despawn-range">
 Die "Soft Despawn Range" bezeichnet die Distanz in Blöcken um einen Spieler herum, außerhalb derer verschiedene
 Entitätentypen (für jeden Typ individuell festgelegt) zufällig zum Verschwinden ausgewählt werden können. 
-Diese Regel gilt sowohl horizontal als auch vertikal.
+Diese Regel gilt nur horizontal.
 
 <tip>
 In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine andere Kreatur – sich außerhalb dieser festgelegten Distanz zum Spieler befindet, kann sie zufällig despawnen.
@@ -511,7 +511,7 @@ In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine an
 <def title="Hard Despawn Range" id="hard-despawn-range">
 Die "Hard Despawn Range" bezeichnet die Distanz in Blöcken um einen Spieler herum, außerhalb derer verschiedene
 Entitätentypen (für jeden Typ individuell festgelegt) auf jeden Fall despawnen. 
-Diese Regel gilt sowohl horizontal als auch vertikal.
+Diese Regel gilt nur horizontal.
 
 <tip>
 In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine andere Kreatur – sich außerhalb dieser festgelegten Distanz zum Spieler befindet, wird sie auf jeden Fall despawnen.
