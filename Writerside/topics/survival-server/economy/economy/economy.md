@@ -29,7 +29,7 @@ Bei anhaltender Inaktivität werden Shops jedoch automatisch gelöscht, um Platz
 {style="tip"}
 
 > Es wird davon ausgegangen, dass alle Spieler fair spielen.
-> Wer andere betrügt, ihnen zu wenig oder gar kein Geld wie vereinbart gibt, 
+> Wer andere betrügt, oder vereinbarte Zahlungen nicht einhält,
 > muss mit Konsequenzen rechnen.
 > 
 {style="warning" title="Betrug und Scamming werden zu keiner Zeit geduldet!"}
