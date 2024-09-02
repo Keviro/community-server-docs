@@ -1,5 +1,3 @@
-<primary-label ref="survival-closed" />
-
 # Economy-System
 
 Geld erhaltet ihr ausschließlich über den PayCheck.\
@@ -15,13 +13,23 @@ Mit dem Befehl `/pay <Spieler> <Betrag>` kannst du Geld an andere Spieler überw
 
 ### Handel {id="economy-trading"}
 
+Der Handel findet klassisch zwischen den Spielern selbst statt.
 
+<!--
 Der Handel findet entweder klassisch zwischen den Spielern selbst statt oder die Spieler
-erstellen ihren eigenen Shop auf einer separaten Shop-Insel.
-Bei anhaltender Inaktivität werden diese Shops jedoch automatisch gelöscht, um Platz für neue zu
-schaffen.
+erstellen ihren eigenen Shop.
+Bei anhaltender Inaktivität werden Shops jedoch automatisch gelöscht, um Platz für neue zu schaffen.
+!-->
 
+<!-- 
 > Der Handel findet ausschließlich zwischen den Spielern statt.
+!-->
 > Es gibt keine Möglichkeit, Items an oder vom Server zu kaufen.
 >
 {style="tip"}
+
+> Es wird davon ausgegangen, dass alle Spieler fair spielen.
+> Wer andere betrügt, oder vereinbarte Zahlungen nicht einhält,
+> muss mit Konsequenzen rechnen.
+> 
+{style="warning" title="Betrug und Scamming werden zu keiner Zeit geduldet!"}
