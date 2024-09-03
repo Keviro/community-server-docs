@@ -125,7 +125,7 @@ Screenshots und vor allem Videos sind gerne gesehen.
 <tab title="Entbannungsantrag" id="unban-ticket">
 
 Wenn du denkst, dir wurde mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.\
-Hierbei solltest du stets **ehrlich** sein. Solltest du versuchen uns zu täuschen, wird dein Antrag abgelehnt.
+Hierbei ist es wichtig, **ehrlich** zu sein. Jeder Täuschungsversuch führt zur Ablehnung deines Antrags.
 
 </tab>
 <tab title="Discord Support" id="discord-ticket">
