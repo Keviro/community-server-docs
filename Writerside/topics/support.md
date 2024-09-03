@@ -130,8 +130,7 @@ Hierbei ist es wichtig, **ehrlich** zu sein. Jeder Täuschungsversuch führt zur
 </tab>
 <tab title="Discord Support" id="discord-ticket">
 
-Bei Fragen bezüglich des <a href="%dc_link%">Discords</a> oder wenn du einen Benutzer melden möchtest, kannst du ein
-Discord-Support-Ticket erstellen.
+Bei Fragen zum <a href="%dc_link%">Discord</a> oder um einen Benutzer zu melden, kannst du ein Discord-Support-Ticket erstellen.
 
 </tab>
 </tabs>
