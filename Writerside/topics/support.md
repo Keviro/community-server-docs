@@ -212,7 +212,7 @@ If you have issues or questions about events, open an Event Server Support Ticke
 </tab>
 <tab title="Report" id="report-ticket-english">
 
-If you want to report a player, who stole items, or has damaged buildings, open a report ticket.
+If you want to report a player who stole items or damaged buildings, please open a report ticket.
 
 > Please fill out this form **completely**.
 > Describe your problem as precisely as possible.
