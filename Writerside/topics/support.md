@@ -5,13 +5,21 @@ switcher-label: Language
 # Support
 
 <tldr switcher-key="Deutsch">
+<if switcher-key="Deutsch">   
     <p>Erstelle ein Ticket für Serverprobleme oder Whitelist-Anfragen.</p>
     <p>Reiche Schadensmeldungen zusammen mit einem Videobeweis ein.</p>
     <p>Melde Fehler sofort mit detaillierten Informationen.</p>
+</if>
+<if switcher-key="English">
+    <p>Open a ticket for server issues or whitelist requests.</p>
+    <p>Submit damage reports along with video evidence.</p>
+    <p>Report bugs immediately with detailed information.</p>
+</if>
 </tldr>
 
-
 <if switcher-key="Deutsch">
+
+
 
 Der Support erfolgt **ausschließlich über das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
 Private Nachrichten an Teammitglieder werden nicht bearbeitet.
@@ -24,6 +32,8 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 2. Kicke auf den Knopf, welcher sich unter der Nachricht befindet.
 3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die
    passende Kategorie für dein Anliegen.
+   - Abhängig von der ausgewählten Kategorie öffnet sich ein entsprechendes Formular für dich.
+     Fülle es **vollständig und so genau wie möglich** aus.
 4. Es wurde ein neuer Kanal erstellt. Klicke auf diesen.
 5. Beschreibe dein Problem nun so genau wie möglich. Ein einfaches "X und Y funktioniert nicht." hilft nicht weiter.
 
@@ -69,7 +79,8 @@ Wenn du Fragen oder Probleme auf dem Survival-Server hast, öffne ein Survival-S
 > In der Regel wird dafür ein Video benötigt.
 > Wir empfehlen deshalb allen Spielern, je nach Grafikkarte,
 > entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia
-> oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die
+> oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall
+> die
 > letzten 5 Minuten als Video speichern zu können.
 >
 {style="warning" title="Erstattung"}
@@ -84,11 +95,24 @@ Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Tic
 > In der Regel wird dafür ein Video benötigt.
 > Wir empfehlen deshalb allen Spielern, je nach Grafikkarte,
 > entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia
-> oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall die
+> oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall
+> die
 > letzten 5 Minuten als Video speichern zu können.
 >
 {style="warning" title="Erstattung"}
 
+
+</tab>
+<tab title="Report" id="report-ticket">
+
+Wenn du einen Spieler melden möchtest, Gegenstände gestohlen, oder Gebäude beschädigt wurden, öffne ein Report-Ticket.
+
+> Bitte fülle dieses Formular **vollständig** aus.
+> Beschreibe dein Problem so detailliert wie möglich.
+> Eine Aussage wie "XY ist kaputt" oder "XY hat sich daneben benommen" hilft uns nicht weiter.
+> Wir benötigen den **genauen** Spielernamen und die **genauen** Koordinaten.
+>
+{style="note" title="Für diesen Ticket-Typ wird ein extra Formular geöffnet!"}
 
 </tab>
 <tab title="Bugreport" id="bugreport-ticket">
@@ -100,12 +124,13 @@ Screenshots und vor allem Videos sind gerne gesehen.
 </tab>
 <tab title="Entbannungsantrag" id="unban-ticket">
 
-Wenn du denkst, dir wurde mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.
+Wenn du denkst, dir wurde mit einem Ausschluss vom Server unrecht getan, öffne ein Entbannungsantrag-Ticket.\
+Hierbei ist es wichtig, **ehrlich** zu sein. Jeder Täuschungsversuch führt zur Ablehnung deines Antrags.
 
 </tab>
 <tab title="Discord Support" id="discord-ticket">
 
-Bei Fragen bezüglich des <a href="%dc_link%">Discords</a> oder wenn du einen Benutzer melden möchtest, kannst du ein Discord-Support-Ticket erstellen.
+Bei Fragen zum <a href="%dc_link%">Discord</a> oder um einen Benutzer zu melden, kannst du ein Discord-Support-Ticket erstellen.
 
 </tab>
 </tabs>
@@ -123,8 +148,11 @@ For general questions, you can use the [support channel](%general_support_channe
 
 1. Click on the [ticket channel](%tickets_channel%) in [Discord](%dc_link%).
 2. Click the button located under the message.
-3. A window will open where you can select a [ticket category](#ticket-types-english). Choose the appropriate category for your
+3. A window will open where you can select a [ticket category](#ticket-types-english). Choose the appropriate category
+   for your
    issue.
+   - Depending on the category you select, a form will open for you.
+     Please fill it out **completely and as accurately as possible**.
 4. A new channel will be created. Click on it.
 5. Describe your problem as precisely as possible. A simple "X and Y aren't working." won't help.
 
@@ -182,6 +210,18 @@ If you have issues or questions about events, open an Event Server Support Ticke
 > minutes as a video in case of emergency.
 > {style="warning" title="Refund"}
 </tab>
+<tab title="Report" id="report-ticket-english">
+
+If you want to report a player who stole items or damaged buildings, please open a report ticket.
+
+> Please fill out this form **completely**.
+> Describe your problem as precisely as possible.
+> A simple statement like "XY is broken" or "XY behaved badly" doesn't help us.
+> We need the **exact** player name and **exact** coordinates.
+>
+{style="note" title="A separate form will open for this ticket type!"}
+
+</tab>
 <tab title="Bug Report" id="bugreport-ticket-english">
 If you find a bug on the server, please report it immediately using a Bug Report Ticket.
 Describe as precisely as possible what happened, what you did, and what should have happened.
@@ -196,5 +236,4 @@ If you have questions regarding the <a href="%dc_link%">Discord</a> or if you wa
 </tabs>
 
 </chapter>
-
 </if>
