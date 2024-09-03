@@ -22,7 +22,7 @@ aufgelistet.
 Auf dem [Event Server](event-server.topic "Klicke für weitere Informationen zum Event Server!") finden regelmäßig Events statt.
 Diese werden von CastCrafter auf [Twitch](%twitch_cast%) gestreamt.
 Zusätzlich werden Videos auf [YouTube](%youtube_cast%) veröffentlicht.
-Die Events werden frühzeitig im Livestream und im [Discrod](%dc_link%)
+Die Events werden frühzeitig im Livestream und im [Discord](%dc_link%)
 unter [%com_updates_channel_display%](%com_updates_channel%) angekündigt.
 
 </def>
