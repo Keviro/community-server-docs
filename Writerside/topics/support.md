@@ -33,7 +33,7 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die
    passende Kategorie für dein Anliegen.
    - Abhängig von der ausgewählten Kategorie öffnet sich ein entsprechendes Formular für dich.
-     Fülle dieses **vollständig und so genau wie möglich** aus.
+     Fülle es **vollständig und so genau wie möglich** aus.
 4. Es wurde ein neuer Kanal erstellt. Klicke auf diesen.
 5. Beschreibe dein Problem nun so genau wie möglich. Ein einfaches "X und Y funktioniert nicht." hilft nicht weiter.
 
