@@ -152,7 +152,7 @@ For general questions, you can use the [support channel](%general_support_channe
    for your
    issue.
    - Depending on the category you select, a form will open for you.
-     Fill this out **completely and as accurately as possible**.
+     Please fill it out **completely and as accurately as possible**.
 4. A new channel will be created. Click on it.
 5. Describe your problem as precisely as possible. A simple "X and Y aren't working." won't help.
 
