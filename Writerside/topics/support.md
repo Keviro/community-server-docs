@@ -108,9 +108,9 @@ Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Tic
 Wenn du einen Spieler melden möchtest, Gegenstände gestohlen, oder Gebäude beschädigt wurden, öffne ein Report-Ticket.
 
 > Bitte fülle dieses Formular **vollständig** aus.
-> Schildere dein Problem so genau wie möglich.
-> Ein einfaches XY ist kaputt oder XY hat sich daneben benommen, hilft uns nicht weiter.
-> Wir benötigen den **genauen** Spielernamen und **genaue** Koordinaten.
+> Beschreibe dein Problem so detailliert wie möglich.
+> Eine Aussage wie "XY ist kaputt" oder "XY hat sich daneben benommen" hilft uns nicht weiter.
+> Wir benötigen den **genauen** Spielernamen und die **genauen** Koordinaten.
 >
 {style="note" title="Für diesen Ticket-Typ wird ein extra Formular geöffnet!"}
 
