@@ -196,5 +196,4 @@ If you have questions regarding the <a href="%dc_link%">Discord</a> or if you wa
 </tabs>
 
 </chapter>
-
 </if>
