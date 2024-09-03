@@ -216,7 +216,7 @@ If you want to report a player who stole items or damaged buildings, please open
 
 > Please fill out this form **completely**.
 > Describe your problem as precisely as possible.
-> A simple statement that XY is broken or XY has behaved badly does not help us.
+> A simple statement like "XY is broken" or "XY behaved badly" doesn't help us.
 > We need the **exact** player name and **exact** coordinates.
 >
 {style="note" title="A separate form will open for this ticket type!"}
