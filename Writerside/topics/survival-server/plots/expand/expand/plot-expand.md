@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Grundstück erweitern
 
 ## So kannst du dein Grundstück erweitern: {id="plot-expand"}

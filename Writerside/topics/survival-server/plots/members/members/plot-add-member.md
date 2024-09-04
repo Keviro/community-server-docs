@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Mitglieder bearbeiten
 
 ## So kannst du die Mitglieder auf deinem Grundstück bearbeiten: {id="plot-edit-members"}

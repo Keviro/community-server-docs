@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Grundstück umbenennen
 
 ## So kannst du dein Grundstück umbenennen: {id="plot-rename"}
