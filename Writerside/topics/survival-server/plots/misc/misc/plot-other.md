@@ -1,5 +1,3 @@
-<primary-label ref="survival-closed" />
-
 # Sonstiges
 
 <tabs>
@@ -7,6 +5,7 @@
 
 <deflist>
 <def title="Besitzer herausfinden" id="plot-get-owner">
+
 Um den Besitzer eines Grundstücks herauszufinden, nutze den Befehl `/pwho` während du auf einem Grundstück stehst.
 </def>
 </deflist>

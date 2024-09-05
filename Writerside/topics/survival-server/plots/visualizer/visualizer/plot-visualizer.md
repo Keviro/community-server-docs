@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Visualizer
 
 Mit dem Visualizer kannst du dir die Grundstücke in deiner Umgebung anzeigen lassen.

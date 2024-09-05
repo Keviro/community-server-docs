@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Grundstücke erstellen
 
 ## So kannst du ein Grundstück erstellen: {id="plot-create"}

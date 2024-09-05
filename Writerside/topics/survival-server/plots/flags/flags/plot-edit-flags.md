@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Flags bearbeiten
 
 ## So kannst du deine Grundstück Flags anpassen: {id="plot-edit-flags"}
