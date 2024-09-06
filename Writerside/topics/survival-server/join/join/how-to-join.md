@@ -1,7 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-<secondary-label ref="current-minecraft-version" />
-
 [rules]: survial-rules.md "Zurück zu den Regeln"
 
 # Wie kann ich dem Server beitreten?

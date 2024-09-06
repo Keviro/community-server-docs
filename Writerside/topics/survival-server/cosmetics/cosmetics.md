@@ -1,4 +1,3 @@
-<primary-label ref="survival-closed" />
 
 # Köpfe und Rüstungsständer
 
