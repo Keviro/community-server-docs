@@ -1,4 +1,3 @@
-<primary-label ref="survival-closed" />
 
 # Geänderte Vanilla Mechaniken
 
