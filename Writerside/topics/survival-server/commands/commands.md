@@ -13,6 +13,9 @@
 /ignore &lt;player&gt;
 : Blockiert den angegebenen Spieler im Chat.
 
+/toggle pm
+: Aktiviere oder deaktiviere deine Privatnachrichten.
+
 #### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
 /playtime
