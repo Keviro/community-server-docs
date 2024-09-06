@@ -37,16 +37,16 @@ Behaltet dies also beim Bauen eurer Portale im Hinterkopf.
 ## Voice-Chat {collapsible="true" default-state="collapsed" id="voice-mod"}
 
 Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, um auf dem Server zu
-spielen, bietet interessierten Spielern aber die Möglichkeit, mit anderen Spielern in-game zu
-sprechen, wenn diese den Mod ebenfalls installiert haben.
+spielen, bietet interessierten Spielern aber die Möglichkeit, mit anderen Spielern im Spiel zu
+sprechen, wenn diese die Mod ebenfalls installiert haben.
 <tabs>
 <tab title="Curseforge" group-key="mod-launcher-curse-forge">
 
-[Plasmo Voice Download](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)
+[Simple Voice Chat Download](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 </tab>
 <tab title="Modrinth" group-key="mod-launcher-modrinth">
 
-[Plasmo Voice Download](https://modrinth.com/plugin/plasmo-voice)
+[Simple Voice Chat Download](https://modrinth.com/plugin/simple-voice-chat)
 </tab>
 </tabs>
 
