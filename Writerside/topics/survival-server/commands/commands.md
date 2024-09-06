@@ -1,6 +1,3 @@
-<show-structure depth="0"/>
-<primary-label ref="survival-closed" />
-
 # Befehle
 
 ## Folgende Befehle kannst du auf dem Server verwenden:
@@ -13,22 +10,16 @@
 /r &lt;message&gt;
 : Schreibe dem Spieler, der dich zuletzt angeschrieben hat, eine Nachricht.
 
-/msgtoggle
-: Deaktiviert / Aktiviert Privatnachrichten an dich.
-
-/block &lt;player&gt;
+/ignore &lt;player&gt;
 : Blockiert den angegebenen Spieler im Chat.
 
 #### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
 /playtime
-: Zeigt die aktuelle Spielzeit (ohne AFK Zeit) auf dem Server an.
+: Zeigt die aktuelle <tooltip term="Spielstunde">Spielzeit</tooltip> auf dem Server an.
 
 /balance &lt;%main_currency%|%event_coin%&gt;
 : Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
-
-/lastseen &lt;player&gt;
-: Zeigt dir das Datum an, an welchem der Spieler das letzte Mal auf dem Server war.
 
 #### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
 
