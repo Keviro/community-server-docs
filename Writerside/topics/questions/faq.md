@@ -7,9 +7,6 @@
 #### Wieso gibt es keine Villager? {collapsible="true" default-state="collapsed" }
 > Siehe [Besonderheiten](specials.md#no-villagers "Klicke hier für mehr Information").
 
-#### Wie komme ich auf den Shopserver? {collapsible="true" default-state="collapsed" }
-Wie du zwischen den verschiedenen Servern wechselt, erfährst du **[HIER](servers.md)**.
-
 #### Wieso sind Elytren im End deaktiviert? {collapsible="true" default-state="collapsed"}
 Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll. Es gestaltet das “Ende des Spiels” anspruchsvoller, erhält
 den Wert von Elytren und anderen Items aus dem End, welche vorher einfach verschenkt wurden, und es verbessert die
@@ -20,7 +17,7 @@ massenhaft neue Chunks.
 #### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" }
 Es gibt regelmäßige [MiningEvents](events.md#mining-events) und [AngelEvents](events.md#fishing-events).
 
->Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter dem [Server Update Channel](%com_updates_channel%) darüber informiert.
+>Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
 > {style="note"}
 
 #### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" }
@@ -51,8 +48,8 @@ Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbar
 erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst du [HIER](light-blocks-and-invisible-item-frames.md "%click-more-info%").
 
 
-#### Kann ich ArmorStands anpassen? {collapsible="true" default-state="collapsed" }
-[ArmorStands können mithilfe eines Flints komplett angepasst werden](cosmetics.md "%click-more-info%").
+#### Kann ich Rüstungsständer anpassen? {collapsible="true" default-state="collapsed" }
+[Rüstungsständer können mithilfe eines Feuersteins angepasst werden](cosmetics.md "%click-more-info%").
 Damit kannst du den Rüstungsständern zum Beispiel Arme geben und alle Körperteile separat rotieren. Durch diese
 Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 
@@ -60,7 +57,7 @@ Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
 
 #### Wie gehe ich vor, wenn ich einen Bug entdecke? {collapsible="true" default-state="collapsed" }
-öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
+Öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
 
 >Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
 > {style="warning"}
