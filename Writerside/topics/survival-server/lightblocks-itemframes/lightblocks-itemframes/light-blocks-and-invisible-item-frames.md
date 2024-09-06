@@ -36,7 +36,7 @@ Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
 <def title="Unsichtbare ItemFrames" id="get-invisible-itemframes">
 
 Ihr habt täglich die Möglichkeit, `20` unsichtbare ItemFrames zu
-erhalten. Hierzu müsst ihr dem Händler `20` gewöhnliche ItemFrames und `5` Smaragde übergeben. 
+erhalten. Dafür müsst ihr dem Händler `20` gewöhnliche ItemFrames und `5` Smaragde übergeben. 
 Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 </def>
 </deflist>
