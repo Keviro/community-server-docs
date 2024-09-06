@@ -17,13 +17,13 @@ massenhaft neue Chunks.
 #### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" }
 Es gibt regelmäßige [MiningEvents](events.md#mining-events) und [AngelEvents](events.md#fishing-events).
 
->Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
+> Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
 > {style="note"}
 
 #### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" }
 Nein, als Veteran hat man keine großen Vorteile. Man kann dennoch den Server betreten, obwohl er schon voll ist.
 
->Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
+> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
 > {style="note"}
 
 #### Wieso gibt es keine Teleportation? {collapsible="true" default-state="collapsed" }
@@ -59,8 +59,8 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 #### Wie gehe ich vor, wenn ich einen Bug entdecke? {collapsible="true" default-state="collapsed" }
 Öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
 
->Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
+> Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem Ausschluss vom Servers bestraft!
 > {style="warning"}
-> 
+
 #### Ist der Seed des Servers öffentlich? {collapsible="true" default-state="collapsed" }
 Nein, der Seed ist nicht öffentlich.
