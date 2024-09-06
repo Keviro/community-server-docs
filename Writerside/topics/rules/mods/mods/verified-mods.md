@@ -77,15 +77,13 @@ the following mods have been reviewed by the team.
   ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
-- Plasmo Voice ([Modrinth](https://modrinth.com/plugin/plasmo-voice),
-  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice))
+- Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),
+  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 - ReplayMod ([Modrinth](https://modrinth.com/mod/replaymod))
 - Roughly Enough Items (REI) ([Modrinth](https://modrinth.com/mod/rei),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items))
 - ShulkerBoxTooltip ([Modrinth](https://modrinth.com/mod/shulkerboxtooltip),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip))
-- Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat/),
-    [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)) (**Achtung: Es wird nur Fabric, Forge oder Neoforge supportet.**)
 - Skin Layers 3D ([Modrinth](https://modrinth.com/mod/3dskinlayers),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d))
 - Sound Filters ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-filters))
@@ -99,12 +97,11 @@ the following mods have been reviewed by the team.
 - Zoomify ([Modrinth](https://modrinth.com/mod/zoomify),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zoomify))
 
-
 ## Allowed Modifications {switcher-key="English" id="allowed-modifications-en"}
 
 - **Performance Mods and Shaders**
-  - Performance mods like `Optifine`, `Sodium`, or `Starlight`, as well as shaders, are generally not a problem.
-    You can use them.
+    - Performance mods like `Optifine`, `Sodium`, or `Starlight`, as well as shaders, are generally not a problem.
+      You can use them.
 
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin))
@@ -135,8 +132,8 @@ the following mods have been reviewed by the team.
   ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
-- Plasmo Voice ([Modrinth](https://modrinth.com/plugin/plasmo-voice),
-  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice))
+- Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),
+  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 - ReplayMod ([Modrinth](https://modrinth.com/mod/replaymod))
 - Roughly Enough Items (REI) ([Modrinth](https://modrinth.com/mod/rei),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items))
