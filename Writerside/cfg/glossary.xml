@@ -13,5 +13,5 @@
     <term name="Spielstunde">Dies ist die Zeit, in welcher ein Spieler aktiv spielt. AFK-Zeit wird nicht miteinberechnet!</term>
     <term name="event-server-playtime-only">Spielzeit aus der Lobby oder von anderen Servern werden nicht gewertet!</term>
     <term name="flying-tnt-duper">Fliegende TNT-Duper sind nicht erlaubt. Solltest du eine Möglichkeit finden einen fliegenden Duper zu bauen, ist es in deiner Pflicht, dies in einem Ticket zu melden!</term>
-    <term name="flying-tnt-duper$English">Flying TNT-Duper are forbidden. If you find a way to build a flying duper, you have to report it in a ticket!</term>
+    <term name="flying-tnt-duper$English">Flying TNT-Dupers are forbidden. If you find a way to build a flying duper, you must report it in a ticket!</term>
 </terms>
