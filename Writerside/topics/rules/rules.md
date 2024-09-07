@@ -55,7 +55,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
    Vorteil zu verschaffen.
-   Bedrock Deletion und TNT-Duper sind von dieser Regel ausgenommen.
+   Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel ausgenommen.
 
    > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
    nicht festgesteckt hat.
@@ -128,7 +128,7 @@ A detailed list of these rules can be found below.
 3. **Exploiting, i.e., taking advantage of bugs or features that are clearly not intended, is prohibited.** This
    includes, for example, item duping, attempts to deliberately crash the server, and exploiting bugs in plugins or
    other features to gain an advantage.
-   Bedrock Deletion and TNT Duper are exceptions to this rule.
+   Bedrock Deletion and <tooltip term="flying-tnt-duper$English">stationary TNT-Duper</tooltip> are exceptions to this rule.
 
    > An example is the misuse of the `/unstuck` command to teleport back to spawn when you are not actually stuck.
    >
