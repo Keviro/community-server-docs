@@ -11,7 +11,13 @@ Ihr spawnt beim Betreten des Servers in einem eigenen Chunk.
 Jegliche Blöcke, die außerhalb eines generierten Chunks platziert werden, verschwinden automatisch nach 10 Sekunden.\
 Am Ende des Events ist eine PvP Phase geplant, in welcher PvP aktiviert wird.
 
-![thumbnail](one-chunk-world.png){ border-effect="rounded" thumbnail="false"}
+> Beim Betreten des Servers wird dir ein Chunk zugewiesen, auf dem du bauen und abbauen darfst.
+> In den umliegenden Chunks ist das Abbauen jeglicher Blöcke untersagt.
+> Verstöße werden entsprechend geahndet und können zum Ausschluss vom Server führen.
+>
+{style="warning" title="Bitte baut nur in euren eigenen Chunks!"}
+
+![thumbnail](one-chunk-world.png){border-effect="rounded"}
 
 ## Q&amp;A {id="q-a"}
 
