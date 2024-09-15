@@ -7,7 +7,7 @@
 ## Über das Event {id="general-info"}
 
 Im OneChunk-Event findet ihr euch in einer Welt wieder, in der jeder zweite Chunk fehlt.\
-Ihr spawnt beim Betreten des Servers in einem eigenen Chunk.
+Beim Betreten des Servers spawnt ihr in eurem eigenen Chunk.
 Jegliche Blöcke, die außerhalb eines generierten Chunks platziert werden, verschwinden automatisch nach 10 Sekunden.\
 Am Ende des Events ist eine PvP Phase geplant, in welcher PvP aktiviert wird.
 
