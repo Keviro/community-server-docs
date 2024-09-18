@@ -31,10 +31,10 @@
             <toc-element topic="custom-enchantments.md"/>
             <toc-element topic="light-blocks-and-invisible-item-frames.md"/>
             <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
-                <toc-element href="https://google.com" topic="make-shop.md"/>
-                <toc-element href="https://google.com" topic="create-shop.md"/>
-                <toc-element href="https://google.com" topic="manage-shop.md">
-                    <toc-element href="https://google.com" topic="delete-shop.md"/>
+                <toc-element href="https://google.com" topic="make-shop.md" hidden="true"/>
+                <toc-element href="https://google.com" topic="create-shop.md" hidden="true"/>
+                <toc-element href="https://google.com" topic="manage-shop.md" hidden="true">
+                    <toc-element href="https://google.com" topic="delete-shop.md" hidden="true"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="cosmetics.md">
