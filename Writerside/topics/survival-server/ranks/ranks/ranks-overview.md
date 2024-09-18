@@ -81,7 +81,7 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 <deflist>
 <def title="Beschreibung" id="description-supporter">
 Als Supporter bist du der erste Ansprechpartner für Spieler bei Fragen und Problemen.
-Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fragen bezüglich der Funktionen und Features des Servers.
+Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fragen bezüglich der Funktionen und Features des Servers.
 </def>
 <def title="Anforderungen als Supporter" id="requirements-supporter">
 
