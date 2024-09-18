@@ -1,15 +1,15 @@
 <primary-label ref="event-held" />
+<secondary-label ref="skyblock-mc-version" />
 <secondary-label ref="skyblock-date" />
 
 # Skyblock
 
-> Das Event läuft vom **01.08.2024** bis zum **03.08.2024**.
->
+<video src="https://www.youtube.com/watch?v=h6RZ1PF8JQE"/>
 
 ## Über das Event {id="general-info"}
 
 In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder.
-Das einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
+Das Einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
 Werdet ihr es schaffen zu überleben?
 
 Auf eurer Insel findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern

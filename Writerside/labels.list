@@ -23,6 +23,9 @@
   <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
     vom 01.08.2024 bis zum 03.08.2024.
   </secondary-label>
+  <secondary-label id="skyblock-mc-version" name="1.21" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
   <secondary-label id="one-block-date" name="15.10.2024 - 17.10.2024" color="blue">Das Event läuft
     vom 01.08.2024 bis zum 03.08.2024.
   </secondary-label>

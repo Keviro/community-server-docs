@@ -4,7 +4,7 @@
 
 # Zivilisationsprojekt
 
-> Zum Ausgleich des angedachten 400 000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
+> Zum Ausgleich des angedachten 400 000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
 >
 {style="note" title="Das aktuell geplante Event kann aus technischen Problemen nicht stattfinden!"}
 
