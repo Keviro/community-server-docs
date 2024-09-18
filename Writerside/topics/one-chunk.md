@@ -1,8 +1,10 @@
-<primary-label ref="event-running" />
+<primary-label ref="event-held" />
 <secondary-label ref="one-block-mc-version" />
 <secondary-label ref="one-block-date" />
 
 # OneChunk
+
+<video src="https://www.youtube.com/watch?v=HH_L3DIL_nk"/>
 
 ## Über das Event {id="general-info"}
 
