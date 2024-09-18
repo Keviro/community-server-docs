@@ -20,7 +20,7 @@
 </def>
 </deflist>
 
-#### Was mache ich, wenn ein Spieler mich betrügt oder beklaut? {collapsible="true" default-state="collapsed" id="player-scam" }
+#### Was tue ich, wenn ein Spieler mich betrügt oder beklaut? {collapsible="true" default-state="collapsed" id="player-scam" }
 
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
 
