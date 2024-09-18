@@ -51,8 +51,8 @@ massenhaft neue Chunks.
 
 #### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" id="next-event"}
 
-Auf dem Survival Server gibt es regelmäßige [MiningEvents](events.md#mining-events)
-und [AngelEvents](events.md#fishing-events).
+Auf dem Survival Server finden regelmäßige [MiningEvents](events.md#mining-events)
+und [AngelEvents](events.md#fishing-events) statt.
 
 > Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%)
 > unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
