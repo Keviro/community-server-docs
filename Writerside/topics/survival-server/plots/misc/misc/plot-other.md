@@ -7,6 +7,7 @@
 <def title="Besitzer herausfinden" id="plot-get-owner">
 
 Um den Besitzer eines Grundstücks herauszufinden, nutze den Befehl `/pwho` während du auf einem Grundstück stehst.
+
 </def>
 </deflist>
 
@@ -18,6 +19,7 @@ zum Spawn zu gelangen.
 > Der Missbrauch dieses Befehls wird als Exploiting gewertet und bestraft!
 >
 {style="warning"}
+
 </def>
 </deflist>
 </tab>
@@ -28,8 +30,10 @@ zum Spawn zu gelangen.
 
 Beim Betreten oder Verlassen eines Grundstückes bekommst du im Chat eine Nachricht.
 Diese Funktion lässt sich jedoch ein- oder ausschalten.
+
 1. Führe hierzu den Befehl `/protect` im Chat aus.
 2. Klicke anschließend auf die Lederschuhe. ![toggle plotmessage](plot-toggle-plotmessage.png)
+
 </def>
 </deflist>
 </tab>
@@ -39,15 +43,15 @@ Diese Funktion lässt sich jedoch ein- oder ausschalten.
 <deflist>
 <def title="Berechnung des Grundstückes" id="plot-price-calculation">
 
-````tex
-\begin{align*}
-p(x) &= \max\left(4, \left\lfloor -0.0016666666667 \times x + 12.3333333333 \right\rceil \right) \\
-\end{align*}
-````
+$$
+p(d) = \max( 4, \frac {d} {600} + \frac {37} {3} )
+$$
+
 Hierbei gilt:
-- `p(x)` ist der berechnete Preis pro Block.
-- `x` ist die Distanz vom Grundstück zum Spawn, gemessen in Blöcken.
-- `⌊...⌉` bedeutet runden.
+
+- `p(d)` ist der berechnete Preis pro Block.
+- `d` ist die Distanz vom Grundstück zum Spawn, gemessen in Blöcken.
+
 </def>
 </deflist>
 
