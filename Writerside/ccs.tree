@@ -72,4 +72,5 @@
     <toc-element topic="faq.md"/>
     <toc-element topic="troubleshooting.md"/>
   <toc-element topic="ranks-overview.md"/>
+    <toc-element topic="friend-system.md"/>
 </instance-profile>
