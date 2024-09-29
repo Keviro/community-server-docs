@@ -1,5 +1,7 @@
 [rules]: survial-rules.md "Zurück zu den Regeln"
 
+<primary-label ref="survival-server"/>
+
 # Wie kann ich dem Server beitreten?
 
 #### Der Server ist nicht öffentlich zugänglich und befindet sich hinter einer Whitelist! {id="server-whitelist-required"}
