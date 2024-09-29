@@ -13,6 +13,10 @@ beeinflussen. \
 Diese Änderungen sind in der
 Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!")
 aufgelistet.
+
+Um die Wartezeiten so gering wie möglich zu halten und möglichst vielen Spielern den Spaß am Survival Server zu ermöglichen, gibt es zwei Server.
+Sobald ihr in der [Lobby](#lobby-server) den Kompass öffnet und auf den Survival Server navigiert, könnt ihr euch für einen Server entscheiden.
+Die Inventare der beiden Server sind synchronisert.
 </def>
 </deflist>
 
