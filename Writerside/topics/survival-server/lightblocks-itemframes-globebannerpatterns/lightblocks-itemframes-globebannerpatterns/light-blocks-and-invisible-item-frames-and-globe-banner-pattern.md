@@ -1,8 +1,8 @@
 
-# Lightblocks & unsichtbare ItemFrames
+# Lightblocks, unsichtbare ItemFrames & Globe Banner Vorlagen
 
-> Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im
-> Survival-Modus zu erwerben.\
+> Für alle Spieler bieten wir die Möglichkeit LightBlocks, unsichtbare ItemFrames und Globe Banner Vorlagen auch auf
+> dem Survival-Server zu erwerben.\
 > Am Spawn erwartet euch ein Händler, welcher auf den Verkauf dieser besonderen Gegenstände spezialisiert 
 > ist.
 >
@@ -17,7 +17,7 @@ border-effect="rounded"}
 <deflist>
 <def title="Lightblocks" id="get-lightblocks">
 
-Ihr habt täglich die Möglichkeit, `20` Lightblocks zu
+Ihr habt alle 21 Stunden die Möglichkeit, `20` Lightblocks zu
 erwerben, indem ihr dem Händler `20` Redstonelampen und `5` Smaragde anbietet.
 Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.\
 Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
@@ -35,7 +35,7 @@ Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
 <deflist>
 <def title="Unsichtbare ItemFrames" id="get-invisible-itemframes">
 
-Ihr habt täglich die Möglichkeit, `20` unsichtbare ItemFrames zu
+Ihr habt alle 21 Stunden die Möglichkeit, `20` unsichtbare ItemFrames zu
 erhalten. Dafür müsst ihr dem Händler `20` gewöhnliche ItemFrames und `5` Smaragde übergeben. 
 Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 </def>
@@ -45,5 +45,16 @@ Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 > zu normalen ItemFrames.
 >
 {style="note"}
+</tab>
+<tab title="Globe Banner Vorlage" id="globe-banner-pattern">
+
+<deflist>
+<def title="Globe Banner Vorlage" id="get-globe-banner-pattern">
+
+Ihr habt alle 21 Stunden die Möglichkeit, `1` Globe Banner Vorlage zu
+erhalten. Dafür müsst ihr dem Händler `20` Papier und `5` Smaragde übergeben.
+Diese Banner Vorlage könnt ihr beliebig im Webstuhl verwenden.
+</def>
+</deflist>
 </tab>
 </tabs>
