@@ -31,3 +31,18 @@
 {style="note" title="Offizielles Server Modpack"}
 
 </snippet>
+
+<snippet id="compostable-items">
+
+Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
+
+- Verrottetes Fleisch
+- Kabeljau
+- Tropischer Fisch
+- Lachs
+- Kugelfisch
+- Nautilusschale
+- Spinnenauge
+- Giftige Kartoffeln
+
+</snippet>

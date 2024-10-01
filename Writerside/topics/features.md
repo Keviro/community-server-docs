@@ -9,16 +9,7 @@ Der Server bietet die Möglichkeit an, Karten vor weiteren Kopien zu schützen.
 
 ## Kompostierbare Items {collapsible="true" default-state="collapsed" id="compostable-items"}
 
-Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
-
-- Verrottetes Fleisch
-- Kabeljau
-- Tropischer Fisch
-- Lachs
-- Kugelfisch
-- Nautilusschale
-- Spinnenauge
-- Giftige Kartoffeln
+<include from="util.md" element-id="compostable-items"></include>
 
 ## Todesnachrichten {collapsible="true" default-state="collapsed" id="deathmessages"}
 
