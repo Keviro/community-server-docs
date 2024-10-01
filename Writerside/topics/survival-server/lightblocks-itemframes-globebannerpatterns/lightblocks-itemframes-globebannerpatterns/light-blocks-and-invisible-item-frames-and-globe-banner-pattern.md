@@ -17,7 +17,7 @@ border-effect="rounded"}
 <deflist>
 <def title="Lightblocks" id="get-lightblocks">
 
-Ihr habt alle 21 Stunden die Möglichkeit, `20` Lightblocks zu
+Ihr habt täglich die Möglichkeit, `20` Lightblocks zu
 erwerben, indem ihr dem Händler `20` Redstonelampen und `5` Smaragde anbietet.
 Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.\
 Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
