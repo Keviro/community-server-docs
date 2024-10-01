@@ -51,7 +51,7 @@ Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 <deflist>
 <def title="Globe Banner Vorlage" id="get-globe-banner-pattern">
 
-Ihr habt alle 21 Stunden die Möglichkeit, `1` Globe Banner Vorlage zu
+Ihr habt täglich die Möglichkeit, `1` Globe Banner Vorlage zu
 erhalten. Dafür müsst ihr dem Händler `20` Papier und `5` Smaragde übergeben.
 Diese Banner Vorlage könnt ihr beliebig im Webstuhl verwenden.
 </def>
