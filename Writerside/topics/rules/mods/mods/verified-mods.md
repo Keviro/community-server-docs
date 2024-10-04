@@ -62,6 +62,7 @@ the following mods have been reviewed by the team.
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions))
 - Extreme Sound Muffler ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler))
+- Flashback ([Modrinth](https://modrinth.com/mod/flashback))
 - ForceCloseWorldLoadingScreen ([Modrinth](https://modrinth.com/mod/forcecloseworldloadingscreen))
 - Inventory HUD+ ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge))
 - Jade ([Modrinth](https://modrinth.com/mod/jade), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade))

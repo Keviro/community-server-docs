@@ -1,8 +1,8 @@
 
-# Lightblocks & unsichtbare ItemFrames
+# Lightblocks, unsichtbare ItemFrames & Globe Banner Vorlagen
 
-> Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im
-> Survival-Modus zu erwerben.\
+> Für alle Spielenden bieten wir die Möglichkeit, LightBlocks, unsichtbare ItemFrames und Globe-Banner-Vorlagen auch 
+> auf dem Survival-Server zu erwerben.\
 > Am Spawn erwartet euch ein Händler, welcher auf den Verkauf dieser besonderen Gegenstände spezialisiert 
 > ist.
 >
@@ -45,5 +45,16 @@ Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 > zu normalen ItemFrames.
 >
 {style="note"}
+</tab>
+<tab title="Globe Banner Vorlage" id="globe-banner-pattern">
+
+<deflist>
+<def title="Globe Banner Vorlage" id="get-globe-banner-pattern">
+
+Ihr habt täglich die Möglichkeit, eine Globe-Banner-Vorlage zu erhalten.
+Dafür müsst ihr dem Händler `20` Papier und `5` Smaragde übergeben.
+Diese Banner-Vorlage könnt ihr beliebig im Webstuhl verwenden.
+</def>
+</deflist>
 </tab>
 </tabs>
