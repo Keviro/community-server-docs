@@ -43,6 +43,6 @@ Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompo
 - Kugelfisch
 - Nautilusschale
 - Spinnenauge
-- Giftige Kartoffeln
+- Giftige Kartoffel
 
 </snippet>
