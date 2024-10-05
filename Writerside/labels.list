@@ -17,7 +17,9 @@
   <primary-label id="under-development" short-name="E" name="In Entwicklung" color="purple">
     Dieses Feature befindet sich noch in Entwicklung.
   </primary-label>
-
+  <primary-label id="survival-server" short-name="O" name="Survival Server" color="purple">
+    Willkommen auf dem Survival Server!
+  </primary-label>
 
 
   <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
