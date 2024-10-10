@@ -8,7 +8,7 @@
 ## Über das Event {id="general-info"}
 
 Das Diamond Event ist ein Special, zur Feier der 400.000 Abonnenten auf YouTube und Twitch.
-as Ziel ist es, gemeinsam mit der Community so schnell wie möglich 400.000 Diamanterze abzubauen. 
+Das Ziel ist es, gemeinsam mit der Community so schnell wie möglich 400.000 Diamanterze abzubauen. 
 
 Zu Beginn des Events erhalten alle Spieler beim ersten Beitritt auf den Server ein Starterinventar,
 welches CastCrafter zuvor innerhalb einer Stunde im Stream erfarmt hat.
