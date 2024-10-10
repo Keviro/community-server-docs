@@ -55,7 +55,8 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
    Vorteil zu verschaffen.
-   Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel ausgenommen.
+   Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel
+   ausgenommen.
 
    > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
    nicht festgesteckt hat.
@@ -66,8 +67,8 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    verhaltet. Wir tolerieren **keine Belästigung anderer Spieler jeglicher Art**. Seien es
    Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling.
 
-   - Dies gilt auch für den Sprachchat. Jegliche Arten von **Trolling**, **Soundboards** 
-     oder das **Abspielen von Musik** im Sprachchat ist **untersagt** und führt zu einem Ausschluss.
+    - Dies gilt auch für den Sprachchat. Jegliche Arten von **Trolling**, **Soundboards**
+      oder das **Abspielen von Musik** im Sprachchat ist **untersagt** und führt zu einem Ausschluss.
 
    > Solltet ihr ein Problem mit einer anderen Person haben, versucht es **miteinander** zu
    > lösen. Sollte dies nicht möglich sein, [kontaktiert bitte einen Moderator][support].
@@ -83,6 +84,11 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 6. **Moderatoren und Admins haben das letzte Wort**, auch wenn dies den Regeln widerspricht. Wir
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
    unterlassen, lasst es einfach, anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
+
+> Sobald du den Server betrittst, bestätigst du automatisch, dass du
+> das Regelwerk gelesen und akzeptiert hast.
+>
+{style="warning"}
 
 </if>
 
@@ -128,7 +134,8 @@ A detailed list of these rules can be found below.
 3. **Exploiting, i.e., taking advantage of bugs or features that are clearly not intended, is prohibited.** This
    includes, for example, item duping, attempts to deliberately crash the server, and exploiting bugs in plugins or
    other features to gain an advantage.
-   Bedrock Deletion and <tooltip term="flying-tnt-duper$English">stationary TNT-Duper</tooltip> are exceptions to this rule.
+   Bedrock Deletion and <tooltip term="flying-tnt-duper$English">stationary TNT-Duper</tooltip> are exceptions to this
+   rule.
 
    > An example is the misuse of the `/unstuck` command to teleport back to spawn when you are not actually stuck.
    >
@@ -138,8 +145,8 @@ A detailed list of these rules can be found below.
    We don’t tolerate **any form of harassment**.
    This includes insults, hostility, scamming, or any kind of trolling.
 
-   - This also applies to voice chat. Any kind of **trolling**, **soundboards**
-     or **playing music** in voice chat is **forbidden** and will result in exclusion.
+    - This also applies to voice chat. Any kind of **trolling**, **soundboards**
+      or **playing music** in voice chat is **forbidden** and will result in exclusion.
 
    > If you have an issue with another person, try to resolve it **together**. If this is not
    > possible, [please contact a moderator][support]. Open conflict will not be tolerated, and we reserve the right to
@@ -153,8 +160,13 @@ A detailed list of these rules can be found below.
 
 6. **Moderators and admins have the final say**, even if it contradicts the rules.
    We don’t want long discussions.
-   If you’re asked to stop doing something, simply stop instead of arguing. 
+   If you’re asked to stop doing something, simply stop instead of arguing.
    There is likely a reason for it.
 
+> As soon as you enter the server, you automatically confirm that you have read and accepted the rules.
+>
+{style="warning"}
+
 </if>
+
 

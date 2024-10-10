@@ -1,10 +1,6 @@
 
 # Geänderte Vanilla Mechaniken
 
-> Diese Seite ist noch in Arbeit und wird nach und nach vervollständigt.
-
-{style="note"}
-
 ## Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
 
 Spawn Limit
@@ -518,6 +514,14 @@ In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine an
 </def>
 </deflist>
 
+## Kompostierbare Items {collapsible="true" default-state="collapsed" id="compostable-items"}
+
+<include from="util.md" element-id="compostable-items"></include>
+
+## Vermehrung der Hilfsgeister {collapsible="true" default-state="collapsed" id="allay-breeding"}
+
+[Hilfsgeister](https://de.minecraft.wiki/w/Hilfsgeist) sind auf dem Survival Server nicht durch [Amethystscherben](https://de.minecraft.wiki/w/Amethystscherbe) vermehrbar.
+Du kannst sie dennoch in [Plünderer-Außenposten](https://de.minecraft.wiki/w/Plünderer-Außenposten) finden.
 
 ## Alternate Current Redstone-Implementierung {collapsible="true" default-state="collapsed" id="alternate-current"}
 

@@ -8,6 +8,8 @@
 >
 {style="note" title="Das aktuell geplante Event kann aus technischen Problemen nicht stattfinden!"}
 
+<video src="https://youtu.be/q-LH1eAgnMs?si=xpZkC_U9kcZL5_iY"/>
+
 ## Über das Event {id="general-info"}
 
 Dieses Event stellt die Spielenden in einem intensiven 24-Stunden-Wettbewerb vor spannende Herausforderungen.

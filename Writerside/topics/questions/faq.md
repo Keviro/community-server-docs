@@ -78,7 +78,7 @@ den gewünschten Ort bringt.
 
 Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im Survival zu
 erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst
-du [HIER](light-blocks-and-invisible-item-frames.md "%click-more-info%").
+du [HIER](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 #### Kann ich Rüstungsständer anpassen? {collapsible="true" default-state="collapsed" id="modify-armorstands"}
 
