@@ -21,7 +21,12 @@
     Willkommen auf dem Survival Server!
   </primary-label>
 
-
+  <secondary-label id="diamond-date" name="12.10.2024+" color="blue">Das Event läuft
+    ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
+  </secondary-label>
+  <secondary-label id="diamond-version" name="1.21" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+  </secondary-label>
   <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
     vom 01.08.2024 bis zum 03.08.2024.
   </secondary-label>
