@@ -1,4 +1,4 @@
-<primary-label ref="event-held" />
+<primary-label ref="event-upcoming" />
 <secondary-label ref="diamond-version" />
 <secondary-label ref="diamond-date" />
 
