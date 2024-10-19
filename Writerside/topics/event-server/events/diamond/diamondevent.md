@@ -4,6 +4,7 @@
 
 # Diamond-Event (400k Special)
 
+<video src="https://www.youtube.com/watch?v=bMH8jEOknGg"/>
 
 ## Über das Event {id="general-info"}
 
