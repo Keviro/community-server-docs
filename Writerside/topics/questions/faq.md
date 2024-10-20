@@ -21,6 +21,63 @@
 </def>
 </deflist>
 
+#### Wie teile ich meinen Log? {id="how-to-share-log" collapsible="true" default-state="collapsed"}
+
+##### Minecraft Logs {id="minecraft-log-info"}
+Wenn du ein Problem mit Minecraft hast und Hilfe benötigst, musst du den Minecraft Log hochladen.
+Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen, um herauszufinden, was der Fehler ist.
+
+##### Wie lade ich den Log hoch? {id="minecraft-log-upload"}
+Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
+**Bitte nie den Log als lange Nachricht in einen Chat posten!**
+
+- [PasteBin](https://pastebin.com)
+- [GitHub](https://gist.github.com)
+- [Paste](https://paste.ee)
+- [mclo.gs](https://mclo.gs)
+
+##### Wo finde ich den Log? {id="find-minecraft-log"}
+<tabs>
+<tab title="CurseForge" id="minecraft-log-curseforge">
+
+In CurseForge machst du einen Rechtsklick auf das Modpack-Profil, dann auf Ordner öffnen. Dort findest du den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
+</tab>
+<tab title="Modrinth App" id="minecraft-log-modrinth-app">
+
+In der Modrinth-App wählst du dein Modpack-Profil aus. Klicke nun auf der linken Seite auf `Logs`,
+wähle `Latest Log` aus dem Dropdown-Menü und klicke auf `Share`.
+Du erhältst nun einen Link, den du posten kannst.
+</tab>
+<tab title="GD Launcher" id="minecraft-log-gd-launcher">
+
+Im GD Launcher machst du einen Rechtsklick auf das Modpack-Profil, dann auf `Open Folder`. Dort findest du den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
+</tab>
+<tab title="MultiMC" id="minecraft-log-multimc">
+
+In MultiMC klickst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf `Hochladen`.
+Du erhältst nun einen Link, den du posten kannst. Alternativ kannst du auch direkt im Tab `Minecraft Log` oben rechts auf `Hochladen` klicken.
+</tab>
+<tab title="FTB App" id="minecraft-log-ftb-app">
+
+In der FTP App klickst du dein Modpack-Profil an, dort oben rechst auf `Settings`, anschließend unten links auf `Open Folder`.
+Dort findest du den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
+</tab>
+<tab title="Andere Launcher" id="minecraft-log-other-launcher">
+
+In deinem `.minecraft` Ordner findest du den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
+</tab>
+</tabs>
+
+> - Der Log ist nicht der CrashReport.
+> - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
+> - Ohne Log, brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne geholfen.
+> - Bitte verändere den Log nicht!
+>
+{style="note" title="Wichtig"}
+
 #### Was tue ich, wenn ein Spieler mich betrügt oder beklaut? {collapsible="true" default-state="collapsed" id="player-scam" }
 
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
