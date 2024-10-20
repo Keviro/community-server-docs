@@ -49,3 +49,4 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 </tabs>
 
 Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem Discord.
+[Füge zudem deinen Log an](faq.md#how-to-share-log).
