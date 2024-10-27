@@ -43,4 +43,4 @@ Die Inventare der beiden Server sind synchronisert.
 >
 {style="warning"}
 
-Du kannst dem Server unter `%server_ip%` erreichen. Viel Spaß!
+Du kannst den Server unter `%server_ip%` erreichen. Viel Spaß!
