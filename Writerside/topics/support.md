@@ -29,7 +29,7 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 <chapter title="Wie öffne ich ein Support-Ticket?" collapsible="true" default-state="collapsed" id="how-to-open-support-ticket">
 
 1. Klicke im [Discord](%dc_link%) auf den [Ticket-Kanal](%tickets_channel%).
-2. Kicke auf den Knopf, welcher sich unter der Nachricht befindet.
+2. Klicke auf den Knopf, welcher sich unter der Nachricht befindet.
 3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die
    passende Kategorie für dein Anliegen.
    - Abhängig von der ausgewählten Kategorie öffnet sich ein entsprechendes Formular für dich.
