@@ -23,8 +23,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    signifikant reduzieren.
 7. **Downloads pausieren:** Begrenze die Netzwerkbelastung, indem du Hintergrunddownloads pausierst,
    um die Latenz zu verringern.
-8. **Direkte IP-Adresse nutzen:** Bei DNS Problemen kann die Verwendung der direkten IP-Adresse des Servers (`51.195.111.245`) das Problem eventuell lösen.
-9. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
+8. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
 
 </tab>
 <tab title="Probleme mit dem Ressourcenpaket" id="resourcepack-issues">
@@ -40,10 +39,9 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    zu vermeiden
 4. **Computer neu starten:** Ein Neustart kann diverse Probleme lösen und ist auch bei
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
-5. **Firewall überprüfen:** Stelle sicher, dass die Website `https://mc-packs.net/` nicht blockiert wird, da das Ressourcenpaket über sie heruntergeladen wird.
-6. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
-7. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
-8. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
+6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
+7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
 </tabs>
