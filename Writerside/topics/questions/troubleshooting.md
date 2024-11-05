@@ -45,8 +45,8 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 </tab>
 </tabs>
 
-> Falls du den Badlion Client in der Version 1.21.3 verwendest und Probleme mit dem Ressourcenpaket auftreten,
-> empfehlen wir dir, auf die Version 1.21.1 zurückzugreifen.
+> Falls du den Badlion Client in der Version `1.21.3` verwendest und Probleme mit dem Ressourcenpaket auftreten,
+> empfehlen wir dir, auf die Version `1.21.1` zurückzugreifen.
 > Alternativ kannst du auch einen anderen Client verwenden.
 >
 {style="warning" title="Probleme mit dem Badlion Client"}
