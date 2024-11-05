@@ -30,7 +30,6 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 
 **Das Ressourcenpaket läd nicht richtig oder du erhältst dauerhaft die Nachricht `Aktiviere Ressourcenpaket...`?**
 **Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
-
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Ressourcenpaket beheben.
 2. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
@@ -45,6 +44,12 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 
 </tab>
 </tabs>
+
+> Falls du den Badlion Client in der Version `1.21.3` verwendest und Probleme mit dem Ressourcenpaket auftreten,
+> empfehlen wir dir, auf die Version `1.21.1` zurückzugreifen.
+> Alternativ kannst du auch einen anderen Client verwenden.
+>
+{style="warning" title="Probleme mit dem Badlion Client"}
 
 Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem Discord.
 [Füge zudem deinen Log an](faq.md#how-to-share-log).
