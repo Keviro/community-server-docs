@@ -26,24 +26,6 @@ Private Nachrichten an Teammitglieder werden nicht bearbeitet.
 Der Support vie Sprachchat ist ausgeschlossen.
 Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) verwenden.
 
-<chapter title="Wie öffne ich ein Support-Ticket?" collapsible="true" default-state="collapsed" id="how-to-open-support-ticket">
-
-1. Klicke im [Discord](%dc_link%) auf den [Ticket-Kanal](%tickets_channel%).
-2. Klicke auf den Knopf, welcher sich unter der Nachricht befindet.
-3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die
-   passende Kategorie für dein Anliegen.
-   - Abhängig von der ausgewählten Kategorie öffnet sich ein entsprechendes Formular für dich.
-     Fülle es **vollständig und so genau wie möglich** aus.
-4. Es wurde ein neuer Kanal erstellt. Klicke auf diesen.
-5. Beschreibe dein Problem nun so genau wie möglich. Ein einfaches "X und Y funktioniert nicht." hilft nicht weiter.
-
-<note title="Bitte habe einen Moment Geduld!">
-Wir bemühen uns die Tickets schnellstmöglich zu bearbeiten, jedoch arbeitet das gesamte Team freiwillig, und gerade unter der Woche kann die Bearbeitung der Tickets länger dauern.
-Sobald ein Teammitglied Zeit hat, wird dein Ticket bearbeitet.
-</note>
-
-</chapter>
-
 <chapter title="Die verschiedenen Ticket-Typen:" id="ticket-types">
 
 <tabs>
@@ -130,11 +112,31 @@ Hierbei ist es wichtig, **ehrlich** zu sein. Jeder Täuschungsversuch führt zur
 </tab>
 <tab title="Discord Support" id="discord-ticket">
 
-Bei Fragen zum <a href="%dc_link%">Discord</a> oder um einen Benutzer zu melden, kannst du ein Discord-Support-Ticket erstellen.
+Bei Fragen zum <a href="%dc_link%">Discord</a> oder um einen Benutzer zu melden, kannst du ein Discord-Support-Ticket
+erstellen.
 
 </tab>
 </tabs>
 </chapter>
+
+<chapter title="Wie öffne ich ein Support-Ticket?" collapsible="true" default-state="expanded" id="how-to-open-support-ticket">
+
+1. Klicke im [Discord](%dc_link%) auf den [Ticket-Kanal](%tickets_channel%).
+2. Klicke auf den Knopf, welcher sich unter der Nachricht befindet.
+3. Nun öffnet sich ein Fenster, in welchem du eine [Ticket-Kategorie](#ticket-types) auswählen kannst. Wähle die
+   passende Kategorie für dein Anliegen.
+    - Abhängig von der ausgewählten Kategorie öffnet sich ein entsprechendes Formular für dich.
+      Fülle es **vollständig und so genau wie möglich** aus.
+4. Es wurde ein neuer Kanal erstellt. Klicke auf diesen.
+5. Beschreibe dein Problem nun so genau wie möglich. Ein einfaches "X und Y funktioniert nicht." hilft nicht weiter.
+
+<note title="Bitte habe einen Moment Geduld!">
+Wir bemühen uns die Tickets schnellstmöglich zu bearbeiten, jedoch arbeitet das gesamte Team freiwillig, und gerade unter der Woche kann die Bearbeitung der Tickets länger dauern.
+Sobald ein Teammitglied Zeit hat, wird dein Ticket bearbeitet.
+</note>
+
+</chapter>
+
 </if>
 
 <if switcher-key="English">
@@ -143,25 +145,6 @@ Support is provided **exclusively through the [ticket system](%tickets_channel%)
 Private messages to team members will not be processed.
 Support via voice chat is not available.
 For general questions, you can use the [support channel](%general_support_channel%).
-
-<chapter title="How do I open a support ticket?" collapsible="true" default-state="collapsed" id="how-to-open-support-ticket-english">
-
-1. Click on the [ticket channel](%tickets_channel%) in [Discord](%dc_link%).
-2. Click the button located under the message.
-3. A window will open where you can select a [ticket category](#ticket-types-english). Choose the appropriate category
-   for your
-   issue.
-   - Depending on the category you select, a form will open for you.
-     Please fill it out **completely and as accurately as possible**.
-4. A new channel will be created. Click on it.
-5. Describe your problem as precisely as possible. A simple "X and Y aren't working." won't help.
-
-<note title="Please be patient!">
-We strive to process tickets as quickly as possible, but please remember that the entire team is working voluntarily, and ticket processing may take longer during the week.
-Your ticket will be handled as soon as a team member is available.
-</note>
-
-</chapter>
 
 <chapter title="The different types of tickets:" id="ticket-types-english">
 
@@ -234,6 +217,25 @@ If you believe you were unfairly banned from the server, open an Unban Request T
 If you have questions regarding the <a href="%dc_link%">Discord</a> or if you want to report a user, you can create a Discord Support Ticket.
 </tab>
 </tabs>
+
+</chapter>
+
+<chapter title="How do I open a support ticket?" collapsible="true" default-state="expanded" id="how-to-open-support-ticket-english">
+
+1. Click on the [ticket channel](%tickets_channel%) in [Discord](%dc_link%).
+2. Click the button located under the message.
+3. A window will open where you can select a [ticket category](#ticket-types-english). Choose the appropriate category
+   for your
+   issue.
+    - Depending on the category you select, a form will open for you.
+      Please fill it out **completely and as accurately as possible**.
+4. A new channel will be created. Click on it.
+5. Describe your problem as precisely as possible. A simple "X and Y aren't working." won't help.
+
+<note title="Please be patient!">
+We strive to process tickets as quickly as possible, but please remember that the entire team is working voluntarily, and ticket processing may take longer during the week.
+Your ticket will be handled as soon as a team member is available.
+</note>
 
 </chapter>
 </if>
