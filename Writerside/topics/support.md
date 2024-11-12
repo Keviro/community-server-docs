@@ -119,7 +119,7 @@ erstellen.
 </tabs>
 </chapter>
 
-<chapter title="Wie öffne ich ein Support-Ticket?" collapsible="true" default-state="expanded" id="how-to-open-support-ticket">
+<chapter title="Wie öffne ich ein Support-Ticket?" id="how-to-open-support-ticket">
 
 1. Klicke im [Discord](%dc_link%) auf den [Ticket-Kanal](%tickets_channel%).
 2. Klicke auf den Knopf, welcher sich unter der Nachricht befindet.
@@ -220,7 +220,7 @@ If you have questions regarding the <a href="%dc_link%">Discord</a> or if you wa
 
 </chapter>
 
-<chapter title="How do I open a support ticket?" collapsible="true" default-state="expanded" id="how-to-open-support-ticket-english">
+<chapter title="How do I open a support ticket?" id="how-to-open-support-ticket-english">
 
 1. Click on the [ticket channel](%tickets_channel%) in [Discord](%dc_link%).
 2. Click the button located under the message.
