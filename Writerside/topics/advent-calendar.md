@@ -1,11 +1,11 @@
 # Adventskalender
 
-In der festlichen Weihnachtszeit erwartet dich am Spawn ein ganz besonderer Adventskalender!
-Jeden Tag kannst du ein Türchen öffnen und dich von den Überraschungen dahinter begeistern lassen.
+In der Vorweihnachtszeit wartet ein ganz besonderer Adventskalender auf dich!
+Jeden Tag kannst du ein Türchen öffnen und dich über die Überraschungen freuen, die sich dahinter verbergen.
 Du hast die Chance auf kleine Geschenke, exklusive Items oder besondere Highlights.
 
-Die Türchen sind über den Spawn verteilt und versteckt, sodass du bei der Suche immer wieder Neues entdecken kannst.
-Solltest du ein Türchen gefunden haben kannst du dieses mit einem <shortcut>Rechtsklick</shortcut> öffnen!
+Die Türchen sind über den Spawn verteilt und versteckt, so dass du bei der Suche immer wieder Neues entdecken kannst.
+Hast du ein Türchen gefunden, kannst du es mit einem Rechtsklick öffnen!
 Genieße die weihnachtliche Atmosphäre auf unserem Server und freue dich jeden Tag auf eine neue Überraschung.
 
 Viel Spaß beim Erkunden und eine wundervolle Adventszeit!
