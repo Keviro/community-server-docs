@@ -63,18 +63,23 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    >
    {style="tip"}
 
-4. Es wird erwartet, dass ihr euch **freundlich und respektvoll gegenüber anderen Spielern**
-   verhaltet. Wir tolerieren **keine Belästigung anderer Spieler jeglicher Art**. Seien es
-   Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling.
+4. **Freundliches und respektvolles Verhalten wird erwartet.**  
+   Behandelt andere Spieler stets höflich und respektvoll. Jegliche Form von **Belästigung**, sei es durch
+   Beleidigungen, Anfeindungen, Scamming oder Trolling, wird nicht geduldet.
 
-    - Dies gilt auch für den Sprachchat. Jegliche Arten von **Trolling**, **Soundboards**
-      oder das **Abspielen von Musik** im Sprachchat ist **untersagt** und führt zu einem Ausschluss.
+    - **Sprachchat-Regeln:**  
+      Das Verwenden von **Soundboards** oder das **Abspielen von Musik oder anderen Geräuschen** ist überall dort
+      untersagt, wo es keinen sinnvollen Zweck erfüllt.
 
-   > Solltet ihr ein Problem mit einer anderen Person haben, versucht es **miteinander** zu
-   > lösen. Sollte dies nicht möglich sein, [kontaktiert bitte einen Moderator][support].
-   > Offener Streit wird nicht geduldet und wir behalten uns vor Spieler dafür temporär vom Server auszuschließen.
-   >
-   {style="tip"}
+        - **Erlaubt:** In klar definierten Events wie **Casinos**, **Musikevents**, **DJ-Clubs** oder anderen
+          Situationen, wo es ausdrücklich Sinn ergibt.
+        - **Verboten:** Überall sonst, insbesondere in alltäglichen Sprachchats oder um andere Spieler zu trollen.
+
+   > Habt ihr ein Problem mit jemandem? Versucht zunächst, es **friedlich miteinander** zu klären. Falls das nicht
+   möglich ist, [wendet euch bitte an einen Moderator][support].  
+   > Offene Streitigkeiten werden nicht toleriert, und wir behalten uns vor, Spieler für solche Konflikte vorübergehend
+   auszuschließen.  
+   > {style="tip"}
 
 5. **Boosting und IRL Trading ist nicht gestattet.** Jeder Spieler darf nur über **einen Account**
    verfügen. Zweit-Accounts, um Geld oder sonstige Dinge zu farmen, sind nicht erlaubt. Außerdem darf
@@ -141,18 +146,24 @@ A detailed list of these rules can be found below.
    >
    {style="tip"}
 
-4. You’re expected to **behave friendly and respectfully towards other players**.
-   We don’t tolerate **any form of harassment**.
-   This includes insults, hostility, scamming, or any kind of trolling.
+4. **Friendly and respectful behavior is expected.**  
+   Always treat other players with politeness and respect. Any form of **harassment**, whether through insults,
+   hostility, scamming, or trolling, will not be tolerated.
 
-    - This also applies to voice chat. Any kind of **trolling**, **soundboards**
-      or **playing music** in voice chat is **forbidden** and will result in exclusion.
+    - **Voice Chat Rules:**  
+      The use of **soundboards** or **playing music or other sounds** is forbidden everywhere unless it serves a
+      meaningful purpose.
 
-   > If you have an issue with another person, try to resolve it **together**. If this is not
-   > possible, [please contact a moderator][support]. Open conflict will not be tolerated, and we reserve the right to
-   > temporarily ban players for this.
-   >
-   {style="tip"}
+      - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations where it explicitly makes sense.
+      - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
+        - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations
+          where it explicitly makes sense.
+        - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
+
+   > Have an issue with someone? First, try to **resolve it peacefully together**. If this is not
+   possible, [please contact a moderator][support].  
+   > Open conflicts are not allowed, and we reserve the right to temporarily ban players for such disputes.  
+   > {style="tip"}
 
 5. **Boosting and IRL Trading aren’t allowed.** Each player may only have **one account**. Second accounts to farm
    money or other resources aren’t allowed. Additionally, any trading between players may only be conducted with items
