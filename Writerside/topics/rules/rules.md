@@ -28,25 +28,21 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    >
    {title="Allgemein gilt:" style="note"}
 
-2. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen, sind
-   erlaubt**, solange sie die Kommunikation zwischen Server und Client nicht verändern. Andere
-   Modifikationen und/oder Hacked-Clients sind strengstens untersagt. Außerdem weisen wir darauf
-   hin, dass alles, was eine Tätigkeit des Spielers automatisiert, untersagt ist, egal ob es sich um
-   Minecraft-Modifikationen, externe Software, Exploits, Hardware oder sonstige Möglichkeiten
-   handelt. Modifikationen, welche das Ziel haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls
-   untersagt.
+2. **Spielmodifikationen, die keinen unfairen Vorteil gegenüber anderen Spielern verschaffen, sind erlaubt, solange sie
+   die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
+   und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
+   Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
+   Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen, die dazu dienen, Anti-Cheat-Maßnahmen zu
+   umgehen oder auszutricksen, nicht zulässig.
+
+   Alleine das Betreten des Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu
+   einem Ausschluss führen. Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
+   nicht, [werft einen Blick auf die Liste geprüfter Mods][verified-mods] oder [kontaktiert den Support][support].
 
    > **<tooltip term="MouseWheelie">MouseWheelie</tooltip>**, **<tooltip term="Freecam">Freecam</tooltip>**,
    > **AutoClicker** und **Macros**, **SeedCracker**, sowie **jegliche Formen X-Ray** oder **Hacked Clients**!
    >
    {title="Explizit verbotene Modifikationen sind unter anderem:" style="warning"}
-
-   > Alleine das Betreten des Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen
-   > und kann zu einem Ausschluss führen. Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist,
-   > verwendet sie nicht, [werft einen Blick auf die Liste geprüfter Mods][verified-mods] oder
-   > [kontaktiert den Support][support].
-   >
-   {style="tip"}
 
    <include from="util.md" element-id="mod-pack"/>
 
@@ -114,25 +110,19 @@ A detailed list of these rules can be found below.
    >
    {title="In general:" style="note"}
 
-2. **Game modifications that don’t give you an unfair advantage over others are allowed**, as long as they don’t
-   alter the communication between server and client.
-   Other modifications and/or hacked clients are strictly prohibited.
-   We also emphasize that anything that automates a player's activity is forbidden, whether it's Minecraft
-   modifications, external software, exploits, hardware, or any other means.
-   Modifications designed to bypass or trick AntiCheat measures are also prohibited.
+2. **Game modifications that do not provide an unfair advantage over other players are allowed, as long as they do not alter the communication between server and client.**  
+   Please note that other modifications and/or hacked clients are strictly prohibited. Furthermore, any form of automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications, external software, exploits, hardware, or other means.  
+   Modifications designed to bypass or trick anti-cheat measures are also not permitted.
+
+   Simply joining the server with an unauthorized modification is already considered a violation and may result in a ban.  
+   If you are unsure whether a modification is allowed, do not use it.  
+   Instead, [check the list of verified mods][verified-mods] or [contact support][support].
 
    > **<tooltip term="MouseWheelie$English">MouseWheelie</tooltip>**, **<tooltip term="Freecam$English">
    Freecam</tooltip>**,
    > **AutoClicker** and **Macros**, **SeedCracker**, as well as **any form of X-Ray** or **Hacked Clients**!
    >
    {title="Specifically prohibited modifications include, but are not limited to:" style="warning"}
-
-   > Simply joining the server with an unauthorized modification is already considered a violation and may result in a
-   > ban.
-   > If you’re unsure whether a modification is allowed, don’t use
-   > it, [check the list of verified mods][verified-mods], or [contact support][support].
-   >
-   {style="tip"}
 
    <include from="util.md" element-id="mod-pack"/>
 
@@ -154,8 +144,6 @@ A detailed list of these rules can be found below.
       The use of **soundboards** or **playing music or other sounds** is forbidden everywhere unless it serves a
       meaningful purpose.
 
-      - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations where it explicitly makes sense.
-      - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
         - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations
           where it explicitly makes sense.
         - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
