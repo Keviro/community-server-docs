@@ -118,11 +118,15 @@ A detailed list of these rules can be found below.
    >
    {title="In general:" style="note"}
 
-2. **Game modifications that do not provide an unfair advantage over other players are allowed, as long as they do not alter the communication between server and client.**  
-   Please note that other modifications and/or hacked clients are strictly prohibited. Furthermore, any form of automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications, external software, exploits, hardware, or other means.  
+2. **Game modifications that do not provide an unfair advantage over other players are allowed, as long as they do not
+   alter the communication between server and client.**  
+   Please note that other modifications and/or hacked clients are strictly prohibited. Furthermore, any form of
+   automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications,
+   external software, exploits, hardware, or other means.  
    Modifications designed to bypass or trick anti-cheat measures are also not permitted.
 
-   Simply joining the server with an unauthorized modification is already considered a violation and may result in a ban.  
+   Simply joining the server with an unauthorized modification is already considered a violation and may result in a
+   ban.  
    If you are unsure whether a modification is allowed, do not use it.  
    Instead, [check the list of verified mods][verified-mods] or [contact support][support].
 
