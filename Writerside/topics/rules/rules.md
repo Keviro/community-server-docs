@@ -18,13 +18,13 @@ Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln versto
 mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
 
 1. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern mutwillig zerstörst oder andere Spieler bestiehlst, droht ein sofortiger
-   Ausschluss aus dem Projekt.
+   von anderen Spielern zerstörst oder andere Spieler bestiehlst, droht ein sofortiger
+   Ausschluss vom Server.
 
-   > Alles, was nicht explizit als öffentlich ausgeschildert bzw. erkennbar ist, muss als
-   > privat angesehen werden. Unabhängig davon, ob das Ganze durch ein Grundstück gesichert
-   > wurde oder nicht. Für jegliche Veränderung oder Nutzung ist vorab die Erlaubnis des Besitzers
-   > einzuholen. Dies gilt auch für Events, bei denen keine Grundstücke existieren.
+   > Alles, was nicht eindeutig als öffentlich gekennzeichnet oder erkennbar ist, gilt als privat.
+   > Dabei spielt es keine Rolle, ob der Bereich durch ein Grundstück geschützt ist oder nicht.
+   > Jede Veränderung oder Nutzung erfordert vorab die ausdrückliche Zustimmung des Besitzers.
+   > Diese Regel gilt auch für Events, bei denen keine Grundstücke vorhanden sind.
    >
    {title="Allgemein gilt:" style="note"}
 
@@ -102,10 +102,10 @@ A detailed list of these rules can be found below.
 1. **Griefing will not be tolerated at any time**. If we notice that you deliberately destroy other players'
    buildings or steal from other players, you will be immediately banned from the project.
 
-   > Anything that is not explicitly marked or recognizable as public must be considered private.
-   > This applies regardless of whether the area is protected by a plot or not.
-   > You must get the owner's permission for any changes or use.
-   > This also applies to events where plots don’t exist.
+   > Anything not explicitly marked or clearly recognizable as public is considered private.
+   > This applies regardless of whether the area is protected by a plot or not.  
+   > Any modification or use requires the prior explicit permission of the owner.  
+   > This rule also applies to events where no plots are present.
    >
    {title="In general:" style="note"}
 
