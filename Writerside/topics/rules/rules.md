@@ -89,6 +89,10 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte es auffallen, dass Spieler und/oder deren
    Freunde diese Mechaniken ausnutzen, wird es für beide in einem Ausschluss enden.
 
+6. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
+   stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
+   auffordert, etwas zu unterlassen, respektiert dies bitte ohne weitere Erklärungen. Es gibt immer einen guten Grund
+   für solche Entscheidungen.
 
 > Sobald du den Server betrittst, bestätigst du automatisch, dass du
 > das Regelwerk gelesen und akzeptiert hast.
@@ -167,6 +171,9 @@ A detailed list of these rules can be found below.
    Advent calendar, and then immediately disconnect without a genuine intent to actively participate in the gameplay. If
    it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
 
+6. **Moderators and admins have the final say**, even if it contradicts the official rules. We kindly ask that you
+   refrain from engaging in lengthy discussions. If a moderator or admin asks you to stop doing something, please
+   respect their request without further argument. There is always a valid reason for such decisions.
 
 > As soon as you enter the server, you automatically confirm that you have read and accepted the rules.
 >
