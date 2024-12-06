@@ -77,14 +77,18 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    auszuschließen.  
    > {style="tip"}
 
-5. **Boosting und IRL Trading ist nicht gestattet.** Jeder Spieler darf nur über **einen Account**
-   verfügen. Zweit-Accounts, um Geld oder sonstige Dinge zu farmen, sind nicht erlaubt. Außerdem darf
-   jeglicher Handel zwischen den Spielern nur mit auf dem Server verfügbaren Items
-   und [Währungen][economy] betrieben werden.
+5. **Boosting und IRL Trading sind strikt untersagt.**  
+   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweit-Accounts zum Farmen von Ressourcen,
+   Geld oder anderen Vorteilen ist verboten.
 
-6. **Moderatoren und Admins haben das letzte Wort**, auch wenn dies den Regeln widerspricht. Wir
-   möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
-   unterlassen, lasst es einfach, anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
+   Jeglicher Handel zwischen Spielern darf ausschließlich mit auf dem Server verfügbaren Items und [Währungen][economy]
+   erfolgen.
+
+   Darüber hinaus ist es nicht gestattet, dass Spieler oder deren Freunde dem Server lediglich beitreten, um in
+   beispielsweise einem Adventskalender Items zu droppen und anschließend sofort wieder zu disconnecten, ohne eine
+   tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte es auffallen, dass Spieler und/oder deren
+   Freunde diese Mechaniken ausnutzen, wird es für beide in einem Ausschluss enden.
+
 
 > Sobald du den Server betrittst, bestätigst du automatisch, dass du
 > das Regelwerk gelesen und akzeptiert hast.
@@ -153,14 +157,16 @@ A detailed list of these rules can be found below.
    > Open conflicts are not allowed, and we reserve the right to temporarily ban players for such disputes.  
    > {style="tip"}
 
-5. **Boosting and IRL Trading aren’t allowed.** Each player may only have **one account**. Second accounts to farm
-   money or other resources aren’t allowed. Additionally, any trading between players may only be conducted with items
-   and [currencies][economy] available on the server.
+5. **Boosting and IRL trading are strictly prohibited.**  
+   Each player is allowed to have **only one account**. The use of second accounts to farm resources, money, or other
+   advantages is forbidden.
 
-6. **Moderators and admins have the final say**, even if it contradicts the rules.
-   We don’t want long discussions.
-   If you’re asked to stop doing something, simply stop instead of arguing.
-   There is likely a reason for it.
+   Any trading between players may only involve items and [currencies][economy] available on the server.
+
+   Additionally, players or their friends are not allowed to join the server solely to drop items in, for example, an
+   Advent calendar, and then immediately disconnect without a genuine intent to actively participate in the gameplay. If
+   it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
+
 
 > As soon as you enter the server, you automatically confirm that you have read and accepted the rules.
 >
