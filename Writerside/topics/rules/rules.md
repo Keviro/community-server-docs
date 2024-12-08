@@ -72,7 +72,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
    > Habt ihr ein Problem mit jemandem? Versucht zunächst, es **friedlich miteinander** zu klären. Falls das nicht
    möglich ist, [wendet euch bitte an einen Moderator][support].  
-   > Offene Streitigkeiten werden nicht toleriert, und wir behalten uns vor, Spieler für solche Konflikte vorübergehend
+   > Offene Streitigkeiten werden nicht toleriert, und wir behalten uns das Recht vor, Spieler wegen solcher Konflikte vorübergehend
    auszuschließen.  
    > {style="tip"}
 
