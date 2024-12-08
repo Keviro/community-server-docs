@@ -76,7 +76,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    auszuschließen.  
    > {style="tip"}
 
-5. **Boosting und IRL Trading sind strikt untersagt.**  
+5. **Boosting und IRL-Trading sind strengstens verboten.**  
    Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweit-Accounts zum Farmen von Ressourcen,
    Geld oder anderen Vorteilen ist verboten.
 
