@@ -68,7 +68,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
         - **Erlaubt:** In klar definierten Events wie **Casinos**, **Musikevents**, **DJ-Clubs** oder anderen
           Situationen, wo es ausdrücklich Sinn ergibt.
-        - **Verboten:** Überall sonst, insbesondere in alltäglichen Sprachchats oder um andere Spieler zu trollen.
+        - **Verboten:** Überall sonst, insbesondere in alltäglichen Sprachchats oder zum Trollen anderer Spieler.
 
    > Habt ihr ein Problem mit jemandem? Versucht zunächst, es **friedlich miteinander** zu klären. Falls das nicht
    möglich ist, [wendet euch bitte an einen Moderator][support].  
