@@ -34,9 +34,9 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
    Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
-   Alleine das Betreten des Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu
-   einem Ausschluss führen. Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
-   nicht, [werft einen Blick auf die Liste geprüfter Mods][verified-mods] oder [kontaktiert den Support][support].
+   Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
+   Ausschluss führen. Wenn also unklar ist, ob eine Modifikation erlaubt ist, verwendet sie
+   nicht, [schaut in die Liste geprüfter Modifikationen][verified-mods] oder [kontaktiert den Support][support].
 
    > **<tooltip term="MouseWheelie">MouseWheelie</tooltip>**, **<tooltip term="Freecam">Freecam</tooltip>**,
    > **AutoClicker** und **Macros**, **SeedCracker**, sowie **jegliche Formen X-Ray** oder **Hacked Clients**!
