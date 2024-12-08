@@ -83,10 +83,10 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Jeglicher Handel zwischen Spielern darf ausschließlich mit auf dem Server verfügbaren Items und [Währungen][economy]
    erfolgen.
 
-   Darüber hinaus ist es nicht gestattet, dass Spieler oder deren Freunde dem Server lediglich beitreten, um in
-   beispielsweise einem Adventskalender Items zu droppen und anschließend sofort wieder zu disconnecten, ohne eine
-   tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte es auffallen, dass Spieler und/oder deren
-   Freunde diese Mechaniken ausnutzen, wird es für beide in einem Ausschluss enden.
+   Des Weiteren ist es nicht erlaubt, dass Spieler oder ihre Freunde den Server nur betreten,
+   um beispielsweise Items aus einem Adventskalender an andere zu übergeben und dann sofort wieder disconnecten, ohne eine
+   tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte auffallen, dass Spieler und/oder deren
+   Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
 
 6. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
    stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
