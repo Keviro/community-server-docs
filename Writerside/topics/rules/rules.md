@@ -77,7 +77,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > {style="tip"}
 
 5. **Boosting und IRL-Trading sind strengstens verboten.**  
-   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweit-Accounts zum Farmen von Ressourcen,
+   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweitaccounts zum Farmen von Ressourcen,
    Geld oder anderen Vorteilen ist verboten.
 
    Jeglicher Handel zwischen Spielern darf ausschließlich mit auf dem Server verfügbaren Items und [Währungen][economy]
