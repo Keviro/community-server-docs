@@ -32,8 +32,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
    Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
-   Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen, die dazu dienen, Anti-Cheat-Maßnahmen zu
-   umgehen oder auszutricksen, nicht zulässig.
+   Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
    Alleine das Betreten des Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu
    einem Ausschluss führen. Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
