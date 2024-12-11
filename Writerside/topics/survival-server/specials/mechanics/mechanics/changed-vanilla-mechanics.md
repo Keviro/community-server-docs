@@ -514,6 +514,10 @@ In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine an
 </def>
 </deflist>
 
+## Angelbare Gegenstände {collapsible="true" default-state="collapsed" id="additionally-fishing-loot"}
+
+<include from="util.md" element-id="additionally-fishing-loot"></include>
+
 ## Kompostierbare Items {collapsible="true" default-state="collapsed" id="compostable-items"}
 
 <include from="util.md" element-id="compostable-items"></include>
