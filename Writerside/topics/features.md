@@ -11,6 +11,10 @@ Der Server bietet die Möglichkeit an, Karten vor weiteren Kopien zu schützen.
 
 <include from="util.md" element-id="compostable-items"></include>
 
+## Fischerei {collapsible="true" default-state="collapsed" id="additionally-fishing-loot"}
+
+<include from="util.md" element-id="additionally-fishing-loot"></include>
+
 ## Todesnachrichten {collapsible="true" default-state="collapsed" id="deathmessages"}
 
 Auf dem Survival Server wurden die standardmäßigen Todesnachrichten durch unterhaltsame und lustige Nachrichten ersetzt,
