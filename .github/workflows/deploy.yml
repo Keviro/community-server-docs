@@ -147,8 +147,10 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: community-server-docs
-          directory: cf-pages
+          #projectName: community-server-docs
+          # command: pages deploy YOUR_DIST_FOLDER --project-name=example
+          command: pages deploy cf-pages --project-name=community-server-docs
+          #directory: cf-pages
           branch: main
 
   publish-indexes:
