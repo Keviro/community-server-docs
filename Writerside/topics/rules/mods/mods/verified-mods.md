@@ -10,9 +10,9 @@ switcher-label: Language
 
 <if switcher-key="Deutsch">
 
-In der folgenden Liste sind Modifikationen enthalten, welche ihr bedenkenlos auf dem Server verwenden könnt.
-Die Modifikationen sind vom Team getestet und mit dem Server kompatibel.\
-Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, welche **nicht gegen das [Regelwerk](rules.md) verstoßen**.
+Die folgende Liste enthält Modifikationen, die ohne Bedenken auf dem Server verwendet werden können.
+Die Modifikationen wurden vom Team getestet und sind mit dem Server kompatibel.\
+Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht gegen das [Regelwerk](rules.md) verstoßen**.
 
 > Aufgrund von vermehrten Banns weisen wir hier noch einmal darauf hin, dass **MouseWheelie mit dem Server nicht
 > kompatibel ist**, weil diese die Kommunikation zwischen Client und Server verändert!
