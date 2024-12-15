@@ -75,7 +75,7 @@ the following mods have been reviewed by the team.
 - Light Overlay ([Modrinth](https://modrinth.com/mod/light-overlay),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay))
 - Litematica ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
-    - Die Verwendung von **EasyPlace** oder dem **Printer** ist jedoch **untersagt** und kann zu einem **Ausschluss vom Server** führen. 
+    - Die Verwendung von **EasyPlace** oder dem **Printer** ist jedoch ** strengstens untersagt** und kann zum **Ausschluss vom Server** führen. 
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
 - Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),
