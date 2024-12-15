@@ -24,13 +24,10 @@
 > Modifikationen enthält.
 > Alle enthaltenen Mods sind erlaubt und mit dem Server kompatibel.
 > \
-> **Das Modpack könnt ihr
-auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!")
-herunterladen.**
+> **Das Modpack könnt ihr auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!") herunterladen.**
 > \
 > \
-> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Mods können zu Inkompatibilitäten und unter Umständen zu
-einem Ausschluss des Servers führen.**
+> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Mods können zu Inkompatibilitäten und unter Umständen zu einem Ausschluss des Servers führen.**
 > **Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
 {style="note" title="Offizielles Server Modpack"}
