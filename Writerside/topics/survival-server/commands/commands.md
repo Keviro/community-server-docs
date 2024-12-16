@@ -10,8 +10,14 @@
 /r &lt;message&gt;
 : Schreibe dem Spieler, der dich zuletzt angeschrieben hat, eine Nachricht.
 
-/ignore &lt;player&gt;
-: Blockiert den angegebenen Spieler im Chat.
+<deflist>
+<def title="/ignore <player>">
+Blockiert den angegebenen Spieler im Chat.
+
+> Um einen Spieler wieder freizugeben, tippe den gleichen Befehl.
+>
+</def>
+</deflist>
 
 /toggle pm
 : Aktiviere oder deaktiviere deine Privatnachrichten.
