@@ -39,7 +39,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
 5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
 6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
-7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
 <tab title="Chat-Probleme" id="chat-issues">
@@ -47,12 +47,14 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 **Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
-2. **Einstellungen:** Stelle sicher, dass die Chateinstellungen richtig konfiguriert sind. Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
+2. **Einstellungen:** Stelle sicher, dass die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig konfiguriert sind. 
+   - Überprüfe, ob die `Sichtbarkeit des Chats` auf `Sichtbar` gestellt ist.
+   - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
 3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
 4. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
    zu vermeiden. Solltest du Modifikationen für den Chat installiert haben, lösche diese.
-5. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein.
+5. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
 
 </tab>
 </tabs>
