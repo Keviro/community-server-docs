@@ -7,7 +7,6 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 
 **Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?**
 **Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
-
 :
 1. **Minecraft Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
    beheben.
@@ -41,6 +40,19 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
 6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
 7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+
+</tab>
+<tab title="Probleme mit dem Chat" id="chat-issues">
+
+**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
+:
+1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
+2. **Einstellungen:** Stelle sicher, dass die Chateinstellungen richtig konfiguriert sind. Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
+3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
+   um Kompatibilitätsprobleme zu vermeiden.
+4. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
+   zu vermeiden. Solltest du Modifikationen für den Chat installiert haben, lösche diese.
+5. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein.
 
 </tab>
 </tabs>
