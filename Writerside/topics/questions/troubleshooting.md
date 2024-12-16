@@ -44,7 +44,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 </tab>
 <tab title="Probleme mit dem Chat" id="chat-issues">
 
-**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
+**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
 2. **Einstellungen:** Stelle sicher, dass die Chateinstellungen richtig konfiguriert sind. Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
