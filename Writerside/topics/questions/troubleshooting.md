@@ -42,7 +42,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
-<tab title="Probleme mit dem Chat" id="chat-issues">
+<tab title="Chat-Probleme" id="chat-issues">
 
 **Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
 :
