@@ -18,8 +18,8 @@ Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln versto
 mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
 
 1. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern zerstörst oder andere Spieler bestiehlst, droht ein sofortiger
-   Ausschluss vom Server.
+   von anderen Spielern zerstörst oder andere Spieler bestiehlst, wirst du sofort
+   vom Server ausgeschlossen.
 
    > Alles, was nicht eindeutig als öffentlich gekennzeichnet oder erkennbar ist, gilt als privat.
    > Dabei spielt es keine Rolle, ob der Bereich durch ein Grundstück geschützt ist oder nicht.
