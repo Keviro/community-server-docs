@@ -9,8 +9,7 @@
 1. Um ein Grundstück anzulegen, tippe im Chat den Befehl `/protect` ein.
 2. Nun öffnet sich eine Übersicht und du klickst auf den **Grasblock**.
 
-   ![claim](plot-menu-creation.png) {border-effect="rounded" thumbnail="true" width="480"
-   height="250"}
+   ![claim](plot-menu-creation.png) {border-effect="rounded" thumbnail="false" width="480" height="250"}
 
    Danach erhältst du die Möglichkeit zu fliegen und bekommst Redstone-Fackeln in dein Inventar.
    Diese kannst du platzieren, um einen **Bereich abzustecken**.
@@ -20,4 +19,4 @@
    Um den ProtectionMode zu **verlassen**, ohne ein Grundstück zu kaufen, wähle den **roten** Beton
    aus und mache einen <shortcut>Rechtsklick</shortcut>.
 
-   ![hotbar](plot-create-confirm-cancel.png) {border-effect="rounded" width="384" thumbnail="true"}
+   ![hotbar](plot-create-confirm-cancel.png) {border-effect="rounded" width="384" thumbnail="false"}

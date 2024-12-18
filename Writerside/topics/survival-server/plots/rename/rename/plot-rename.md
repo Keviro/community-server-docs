@@ -5,14 +5,16 @@
 1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls Informationen über dein
    Grundstück, wie z. B. die Größe oder die Koordinaten deines Grundstückes.
-   ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="true" width="384"}
+   ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="false" width="384"}
 2. Wähle nun das Grundstück aus, auf welchem du die Flags bearbeiten möchtest.
-   ![select plot](plot-select-plot.png) {border-effect="rounded" thumbnail="true" width="384"}
+   ![select plot](plot-select-plot.png) {border-effect="rounded" thumbnail="false" width="384"}
 3. Klicke auf das **Namensschild**.
-   ![rename plot](plot-rename.png) {border-effect="rounded" thumbnail="true" width="384"}
+   ![rename plot](plot-rename.png) {border-effect="rounded" thumbnail="false" width="384"}
 4. Nun kannst du dein Grundstück beliebig umbenennen.
    ![rename plot anvil](plot-rename-anvil.png)
+   >Standardmäßig befindet sich eine Leertaste in diesem Feld, stelle sicher, dass du diese entfernst!
+   >
 
-> Beachte, dass der Name des Grundstückes nicht gegen das Regelwerk verstößt.
->
-{style="warning"}
+   > Beachte, dass der Name des Grundstückes nicht gegen das Regelwerk verstößt.
+   >
+   {style="warning"}
