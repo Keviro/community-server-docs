@@ -50,10 +50,9 @@
             <toc-element toc-title="Events">
                 <toc-element topic="diamondevent.md"/>
                 <toc-element topic="one-chunk.md"/>
-                <toc-element topic="civilisation-event.md"/>
                 <toc-element topic="skyblock.md"/>
                 <toc-element topic="oceanblock.md"/>
-                <toc-element topic="building-event.md"/>
+                <toc-element topic="building-event.md" hidden="true"/>
                 <toc-element topic="flatworld.md"/>
                 <toc-element topic="stoneblock-event.md"/>
                 <toc-element topic="anarchy-event.md"/>
@@ -76,4 +75,5 @@
     <toc-element topic="faq.md"/>
     <toc-element topic="troubleshooting.md"/>
   <toc-element topic="ranks-overview.md"/>
+    <toc-element topic="civilisation-event.md"/>
 </instance-profile>
