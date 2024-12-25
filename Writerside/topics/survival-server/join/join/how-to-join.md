@@ -32,14 +32,9 @@
 
 Um die Wartezeiten so gering wie möglich zu halten und möglichst vielen Spielern den Spaß am Survival Server zu ermöglichen, gibt es zwei Server.
 Sobald ihr in der [Lobby](servers.md#lobby-server) den Kompass öffnet und auf den Survival Server navigiert, könnt ihr euch für einen Server entscheiden.
-Die Inventare der beiden Server sind synchronisert.
-> Der erste Server wird bereits von sehr vielen Spielern bespielt und gerade am Abend oder am Wochenende kommt es zu langen Wartezeiten.
-> Strukturen auf dem zweiten Server sind größtenteils noch nicht entdeckt und ihr habt hier höhere Chancen an Gegenstände zu gelangen. 
-> 
-{style="note" title="Für neue Spieler empfiehlt es sich auf dem zweiten Server zu starten."}
+Die Inventare der beiden Server sind synchronisiert.
 
-> Bitte nutzt andere Server nicht ausschließlich als "Farmwelt" und achtet darauf, auch anderen Spielern die Möglichkeit zu geben,
-> die Welt auf ihre Weise zu gestalten.
+> Das ausnutzten der Server und andere nur als "Farmwelt" zu benutzten ist untersagt. Sollte derartiges auffallen, wird dies bestraft.
 >
 {style="warning"}
 
