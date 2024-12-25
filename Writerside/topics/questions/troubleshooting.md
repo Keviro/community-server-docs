@@ -7,7 +7,6 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 
 **Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?**
 **Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
-
 :
 1. **Minecraft Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
    beheben.
@@ -23,15 +22,13 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    signifikant reduzieren.
 7. **Downloads pausieren:** Begrenze die Netzwerkbelastung, indem du Hintergrunddownloads pausierst,
    um die Latenz zu verringern.
-8. **Direkte IP-Adresse nutzen:** Bei DNS Problemen kann die Verwendung der direkten IP-Adresse des Servers (`51.195.111.245`) das Problem eventuell lösen.
-9. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
+8. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
 
 </tab>
 <tab title="Probleme mit dem Ressourcenpaket" id="resourcepack-issues">
 
 **Das Ressourcenpaket läd nicht richtig oder du erhältst dauerhaft die Nachricht `Aktiviere Ressourcenpaket...`?**
 **Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
-
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Ressourcenpaket beheben.
 2. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
@@ -40,12 +37,34 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    zu vermeiden
 4. **Computer neu starten:** Ein Neustart kann diverse Probleme lösen und ist auch bei
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
-5. **Firewall überprüfen:** Stelle sicher, dass die Website `https://mc-packs.net/` nicht blockiert wird, da das Ressourcenpaket über sie heruntergeladen wird.
-6. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
-7. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
-8. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
+6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
+7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+
+</tab>
+<tab title="Chat-Probleme" id="chat-issues">
+
+**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
+:
+1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
+2. **Einstellungen:** Stelle sicher, dass die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig konfiguriert sind. 
+   - Überprüfe, ob die `Sichtbarkeit des Chats` auf `Sichtbar` gestellt ist.
+   - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
+3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
+   um Kompatibilitätsprobleme zu vermeiden.
+4. **Mofifikationen:** Solltest du Modifikationen für den Chat installiert haben, lösche diese.
+5. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
+   zu vermeiden.
+6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
 
 </tab>
 </tabs>
 
+> Falls du den Badlion Client in der Version `1.21.3` verwendest und Probleme mit dem Ressourcenpaket auftreten,
+> empfehlen wir dir, auf die Version `1.21.1` zurückzugreifen.
+> Alternativ kannst du auch einen anderen Client verwenden.
+>
+{style="warning" title="Probleme mit dem Badlion Client"}
+
 Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem Discord.
+[Füge zudem deinen Log an](faq.md#how-to-share-log).

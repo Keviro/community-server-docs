@@ -7,12 +7,13 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Spieler Ränge" id="player-ranks" >
 
-| Rang                            | Bedeutung & Erklärung                                                                                           |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| ![Content](content.png)         | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                   |
-| ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>             |
-| ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>   |
-| ![Spieler](spieler.png)         | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                                          |
+| Rang                            | Bedeutung & Erklärung                                                                                         |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![Content](content.png)         | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                 |
+| ![Contributor](contributor.png) | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>           |
+| ![Diamond](diamond.png)         | <ul><li>Spieler, die beim 400K Diamond Special teilgenommen haben</li><li>für 90 Tage verfügbar</li></ul>     |
+| ![Veteran](veteran.png)         | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
+| ![Spieler](spieler.png)         | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                                        |
 
 </tab>
 
@@ -21,9 +22,9 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | Rang                                | Bedeutung & Erklärung                                                                                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](administrator.png) | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul> |
-| ![Entwickler](developer.png)        | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                               |
 | ![Moderator](moderator.png)         | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul> |
 | ![Supporter](supporter.png)         | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                 |
+| ![Entwickler](developer.png)        | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                               |
 | ![Builder](builder.png)             | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                |
 
 </tab>
@@ -32,13 +33,13 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                | Mitglieder                                                                                                                        |
-|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png) | <ul><li>`Keviro`</li><li>`NotAmmo`</li><li>`CastCrafter`</li><li>`Twisti_Twixi`</li></ul>                                         |
-| ![Entwickler](developer.png)        | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                |
-| ![Moderator](moderator.png)         | <ul><li>`xX_Monster`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li></ul>               |
-| ![Supporter](supporter.png)         | <ul><li>`RicTheCraft`</li><li>`TobiKro110`</li><li>`Alex_mhr`</li><li>`Koljav`</li><li>`Progeilo`</li><li>`Tabaluga97`</li><li>`Gh0stface`</li></ul> |
-| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                    |
+| Rang                                | Mitglieder                                                                                                                                                                                                                                                               |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png) | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                                                                                                |
+| ![Moderator](moderator.png)         | <ul><li>`Gh0stface`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li><li>`RicTheCraft`</li><li>`xX_Monster`</li></ul>                                                                                                            |
+| ![Supporter](supporter.png)         | <ul><li>`Alex_mhr`</li> <li>`bringeis1`</li> <li>`ClubMateSuchti`</li> <li>`gamergirl3275`</li> <li>`ImRuBiX232`</li> <li>`Kendorflame`</li> <li>`Koljav`</li><li>`Orangenlimo`</li><li>`PrinceKKB`</li> <li>`Progeilo`</li><li>`TobiKro110`</li><li>`Tobilul`</li></ul> |
+| ![Entwickler](developer.png)        | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                                                                                       |
+| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                                                                                           |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
@@ -88,7 +89,7 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fra
 - Du hast dich mit dem Regelwerk und der Dokumentation auseinandergesetzt
 - Du bist hilfsbereit und freundlich
 - Du bist teamfähig
-- Du hast mindestens `50` Stunden <tooltip term="event-server-playtime-only">Spielzeit auf dem Eventserver</tooltip>
+- Du hast mindestens `75` Stunden <tooltip term="event-server-playtime-only">Spielzeit auf dem Event- oder Survival-Server </tooltip>
 
 </def>
 </deflist>

@@ -19,6 +19,7 @@
             </toc-element>
             <toc-element accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
             <toc-element topic="features.md">
+                <toc-element topic="advent-calendar.md"/>
                 <toc-element topic="custom-enchantments.md"/>
                 <toc-element topic="economy.md"/>
                 <toc-element accepts-web-file-names-ref="5a6fc3f" topic="plots-homepage.topic">
@@ -47,6 +48,7 @@
         <toc-element topic="event-server.topic">
             <toc-element topic="how-to-take-part-in-an-event.md"/>
             <toc-element toc-title="Events">
+                <toc-element topic="diamondevent.md"/>
                 <toc-element topic="one-chunk.md"/>
                 <toc-element topic="civilisation-event.md"/>
                 <toc-element topic="skyblock.md"/>

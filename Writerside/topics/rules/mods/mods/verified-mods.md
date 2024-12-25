@@ -10,9 +10,9 @@ switcher-label: Language
 
 <if switcher-key="Deutsch">
 
-In der folgenden Liste findet ihr Modifikationen, welche ihr bedenkenlos auf dem Server verwenden könnt.\
-Bitte beachtet, dass auch andere Modifikationen erlaubt sind, welche die Kriterien in
-den [Regeln](rules.md) erfüllen, doch folgende Mods wurden durch das Team geprüft.
+Die folgende Liste enthält Modifikationen, die ohne Bedenken auf dem Server verwendet werden können.
+Die Modifikationen wurden vom Team getestet und sind mit dem Server kompatibel.\
+Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht gegen das [Regelwerk](rules.md) verstoßen**.
 
 > Aufgrund von vermehrten Banns weisen wir hier noch einmal darauf hin, dass **MouseWheelie mit dem Server nicht
 > kompatibel ist**, weil diese die Kommunikation zwischen Client und Server verändert!
@@ -42,7 +42,7 @@ the following mods have been reviewed by the team.
 
 <include from="util.md" element-id="mod-pack"/>
 
-## Erlaubte Modifikationen {switcher-key="Deutsch" id="allowed-modifications-ger"}
+## Überprüfte Modifikationen {switcher-key="Deutsch" id="verified-modifications-ger"}
 
 - **Performance Mods und Shader**
     - Performance Mods wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
@@ -74,8 +74,8 @@ the following mods have been reviewed by the team.
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights))
 - Light Overlay ([Modrinth](https://modrinth.com/mod/light-overlay),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay))
-- Litematica (**Ohne Verwendung von EasyPlace oder Printer!**)
-  ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
+- Litematica ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
+    - Die Verwendung von **EasyPlace** oder dem **Printer** ist jedoch **strengstens untersagt** und kann zum **Ausschluss vom Server** führen. 
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
 - Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),
@@ -98,7 +98,7 @@ the following mods have been reviewed by the team.
 - Zoomify ([Modrinth](https://modrinth.com/mod/zoomify),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zoomify))
 
-## Allowed Modifications {switcher-key="English" id="allowed-modifications-en"}
+## Verified Modifications {switcher-key="English" id="verified-modifications-en"}
 
 - **Performance Mods and Shaders**
     - Performance mods like `Optifine`, `Sodium`, or `Starlight`, as well as shaders, are generally not a problem.
@@ -129,8 +129,8 @@ the following mods have been reviewed by the team.
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights))
 - Light Overlay ([Modrinth](https://modrinth.com/mod/light-overlay),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay))
-- Litematica (**Without using EasyPlace or Printer!**)
-  ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
+- Litematica ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
+  - However, the use of **EasyPlace** or the **Printer** is **strictly prohibited** and may lead to **exclusion from the server**.
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
 - Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),
