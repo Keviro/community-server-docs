@@ -112,4 +112,8 @@
         <description>Created after removal of "Lobby Server" from Community Server Docs</description>
         <accepts>lobby-server.html</accepts>
     </rule>
+    <rule id="362132a4">
+        <description>Created after removal of "Adventskalender" from Community Server Docs</description>
+        <accepts>advent-calendar.html</accepts>
+    </rule>
 </rules>
