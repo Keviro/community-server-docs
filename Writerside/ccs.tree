@@ -14,9 +14,6 @@
         <toc-element accepts-web-file-names-ref="677309af" topic="survival-server.topic">
             <toc-element topic="how-to-join.md"/>
             <toc-element topic="commands.md"/>
-            <toc-element topic="specials.md">
-                <toc-element topic="changed-vanilla-mechanics.md"/>
-            </toc-element>
             <toc-element accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
             <toc-element topic="features.md">
                 <toc-element topic="advent-calendar.md"/>
@@ -31,11 +28,15 @@
                     <toc-element topic="plot-visualizer.md"/>
                     <toc-element topic="plot-other.md"/>
                 </toc-element>
-                <toc-element topic="cosmetics.md">
-                    <toc-element topic="armorstand.md"/>
-                </toc-element>
-                <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
+                <toc-element topic="skill-system.topic">
+                    <toc-element topic="skills.md">
+                        <toc-element topic="fishing.md"/>
+                        <toc-element topic="farming.md"/>
+                        <toc-element topic="woodcutting.md"/>
+                        <toc-element topic="mining.md"/>
+                        <toc-element topic="combat.md"/>
+                    </toc-element>
+                    <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
                     <toc-element hidden="true" href="https://google.com" topic="make-shop.md"/>
                     <toc-element hidden="true" href="https://google.com" topic="create-shop.md"/>
                     <toc-element hidden="true" href="https://google.com" topic="manage-shop.md">
@@ -43,9 +44,16 @@
                     </toc-element>
                 </toc-element>
             </toc-element>
-            <toc-element topic="map-downloads.md"/>
+                <toc-element topic="cosmetics.md">
+                    <toc-element topic="armorstand.md"/>
+                </toc-element>
+                <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
+                <toc-element topic="map-downloads.md"/>
         </toc-element>
         <toc-element topic="event-server.topic">
+            <toc-element topic="specials.md">
+                <toc-element topic="changed-vanilla-mechanics.md"/>
+            </toc-element>
             <toc-element topic="how-to-take-part-in-an-event.md"/>
             <toc-element toc-title="Events">
                 <toc-element topic="diamondevent.md"/>
