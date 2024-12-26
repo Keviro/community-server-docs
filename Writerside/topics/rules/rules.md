@@ -53,8 +53,8 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel
    ausgenommen.
 
-   > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
-   nicht festgesteckt hat.
+   > Beispiele sind der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
+   nicht festgesteckt hat oder das absichtliche Wechseln des Server kurz vor dem Tod, nur um seine Items zu sichern.
    >
    {style="tip"}
 
