@@ -30,7 +30,7 @@ Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x 
 </def>
 <def title="Dynamic Mining">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance beim Abbauen von Stein oder Deepslate für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste III zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance beim Abbauen von Stein oder Deepslate für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste VIII zu erhalten
 
 **Verfügbar ab Level: 21**
 
