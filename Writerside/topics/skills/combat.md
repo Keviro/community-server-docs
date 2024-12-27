@@ -16,7 +16,7 @@ Der Combat Skill bietet dir abhängig von deinem Level folgende Vorteile:
 <deflist >
 <def title="Battle Hardened">
 
-Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit
 
 **Verfügbar ab Level: 1**
 
