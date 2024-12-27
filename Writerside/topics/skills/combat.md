@@ -23,7 +23,7 @@ Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %
 </def>
 <def title="Reapers's Fortune">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Monstern zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten
 
 **Verfügbar ab Level: 11**
 
