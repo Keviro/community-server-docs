@@ -30,7 +30,7 @@ Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance,
 </def>
 <def title="Strong Impact">
 
-Verursache <tooltip term="depends-on-level">`0% → 15%`</tooltip> mehr Schaden gegen feindliche Kreaturen
+Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen
 
 **Verfügbar ab Level: 21**
 
