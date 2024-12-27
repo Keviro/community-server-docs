@@ -5,13 +5,13 @@
 
 ## Wie erhalte ich Erfahrung?
 
-Du erhöhst dein Farming Level, indem du Nutzpflanzen erntest und Tiere erlegst.
+Du erhöhst dein Farming-Level, indem du Nutzpflanzen erntest und Tiere tötest.
 \
-Die Menge der gewonnenen Erfahrung ist dabei abhängig von der Nutzpflanze oder der Tierart.
+Die Menge der gewonnenen Erfahrung hängt von der Nutzpflanze oder der Tierart ab.
 
 ## Welche Fähigkeiten gibt es?
 
-Der Farming Skill bietet dir abhängig von deinem Level folgende Vorteile:
+Der Farming Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Skillful Extraction">
@@ -39,8 +39,9 @@ Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance beim 
 
 ## Levelübersicht {collapsible="true" default-state="collapsed"}
 
-Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie viel Gesamt-XP du bis dorthin gesammelt haben musst.
->Die ersten Level benötigen dabei weniger XP, als fortgeschrittenere Level um ein Balancing zwischen Early-, Mid- und Endgame zu gewährleisten.
+Hier siehst du, wie viele XP du brauchst, um ein bestimmtes Level zu erreichen, oder wie viele XP du bis dahin insgesamt gesammelt haben musst.
+> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und Endgame zu gewährleisten.
+> 
 
 
 | Level | XP für Level | Gesamt-XP   |

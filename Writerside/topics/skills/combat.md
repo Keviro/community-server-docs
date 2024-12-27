@@ -7,11 +7,11 @@
 
 Du erhöhst dein Combat Level durch das Besiegen von feindlichen Kreaturen.
 \
-Die Menge der gewonnenen Erfahrung ist dabei abhängig von der Seltenheit und der Stärke des Monsters.
+Die Menge der gewonnenen Erfahrung hängt von der Seltenheit und der Stärke des Monsters ab.
 
 ## Welche Fähigkeiten gibt es?
 
-Der Combat Skill bietet dir abhängig von deinem Level folgende Vorteile:
+Der Combat Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Battle Hardened">
@@ -40,7 +40,8 @@ Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Scha
 ## Levelübersicht {collapsible="true" default-state="collapsed"}
 
 Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie viel Gesamt-XP du bis dorthin gesammelt haben musst.
->Die ersten Level benötigen dabei weniger XP, als fortgeschrittenere Level um ein Balancing zwischen Early-, Mid- und Endgame zu gewährleisten.
+> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und Endgame zu gewährleisten.
+>
 
 
 | Level | XP für Level | Gesamt-XP   |

@@ -9,7 +9,7 @@ Du erhöhst dein Fishing Level, indem du Fische fängst, Schätze angelst oder M
 
 ## Welche Fähigkeiten gibt es?
 
-Der Fishing Skill bietet dir abhängig von deinem Level folgende Vorteile:
+Der Fishing Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Magnetic Rod">
@@ -37,8 +37,9 @@ Du kannst unter Wasser <tooltip term="depends-on-level">`0% → 300%`</tooltip> 
 
 ## Levelübersicht {collapsible="true" default-state="collapsed"}
 
-Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie viel Gesamt-XP du bis dorthin gesammelt haben musst.
->Die ersten Level benötigen dabei weniger XP, als fortgeschrittenere Level um ein Balancing zwischen Early-, Mid- und Endgame zu gewährleisten.
+Hier siehst du, wie viele XP du brauchst, um ein bestimmtes Level zu erreichen, oder wie viele XP du bis dahin insgesamt gesammelt haben musst.
+> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und Endgame zu gewährleisten.
+> 
 
 
 | Level | XP für Level | Gesamt-XP   |

@@ -5,13 +5,13 @@
 
 ## Wie erhalte ich Erfahrung?
 
-Du erhöhst dein Woodcutting Level, indem du Bäume fällst.
+Durch das Fällen von Bäumen erhöhst du dein Woodcutting-Level.
 \
-Die Menge der gewonnenen Erfahrung ist dabei abhängig von der Holzart.
+Die Menge der gewonnenen Erfahrung hängt von der Holzart ab.
 
 ## Welche Fähigkeiten gibt es?
 
-Der Farming Skill bietet dir abhängig von deinem Level folgende Vorteile:
+Der Farming Skill bietet dir je nach Level folgende Vorteile
 
 <deflist >
 <def title="Craftsmanship">
@@ -39,8 +39,9 @@ Verringert den Cooldown des [Lumberjack](custom-enchantments.md) Enchantments um
 
 ## Levelübersicht {collapsible="true" default-state="collapsed"}
 
-Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie viel Gesamt-XP du bis dorthin gesammelt haben musst.
->Die ersten Level benötigen dabei weniger XP, als fortgeschrittenere Level um ein Balancing zwischen Early-, Mid- und Endgame zu gewährleisten.
+Hier siehst du, wie viele XP du brauchst, um ein bestimmtes Level zu erreichen, oder wie viele XP du bis dahin insgesamt gesammelt haben musst.
+> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und Endgame zu gewährleisten.
+> 
 
 
 | Level | XP für Level | Gesamt-XP   |

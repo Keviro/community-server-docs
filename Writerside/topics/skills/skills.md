@@ -17,18 +17,18 @@ Aktuell gibt es die folgenden Skills:
 Jeder Skill verfügt über drei verschiedene Fähigkeiten oder auch Effekte.
 \
 Die Fähigkeiten sind thematisch an den Skill angepasst und bieten verschiedene Vorteile.
->Viele der Vorteile zielen dabei direkt auf häufige "Probleme" ab.
-> \
-> \
+> Viele der Vorteile zielen dabei direkt auf häufige "Probleme" ab.\
 > So könnt ihr z. B. die Haltbarkeit eurer Tools erhöhen, um dem Mangel an Mending entgegenzuwirken oder aber Steine und Deepslate auch ohne TNT Duper schneller abbauen, um so z. B. große Löcher schneller ausheben zu können.
+> 
 
-Mehr zu den einzelnen Fähigkeiten erfahrt ihr auf der Wikiseite des jeweiligen Skills. Diese sind weiter oben verlinkt.
+Weitere Informationen zu den einzelnen Skills sind auf der Wiki-Seite des jeweiligen Skills zu finden. Diese sind oben verlinkt.
 
 # Das Skillmenu
 
-![](https://i.imgur.com/tXR2o1G.png)
+![skill-start-menu](https://i.imgur.com/tXR2o1G.png)
 
-Das Skillmenu gibt euch einen Überblick über alle Skills, ihre Belohnungen, sowie euren Fortschritt.
-In Zukunft wird es zudem moglich sein über das Skillmenu auf die aktuellen Leaderboards zuzugreifen, in denen ihr euch mit anderen Spielern messen könnt.
+Das Skillmenü gibt euch einen Überblick über alle Skills, deren Belohnungen und euren Fortschritt.
+In Zukunft wird es auch möglich sein, über das Skillmenü auf die aktuellen Leaderboards zuzugreifen, in denen ihr euch mit anderen Spielern messen könnt.
 
-> Ihr auf dem Server mithilfe des Befehls `/skills` auf das Skillmenu zugreifen
+> Ihr könnt auf dem Server mithilfe des Befehls `/skills` auf das Skillmenü zugreifen
+> 
