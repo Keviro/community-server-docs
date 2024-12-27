@@ -52,7 +52,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
    - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
 3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
-4. **Mofifikationen:** Solltest du Modifikationen für den Chat installiert haben, lösche diese.
+4. **Modifikationen:** Solltest du Modifikationen für den Chat installiert haben, lösche diese.
 5. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
    zu vermeiden.
 6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
