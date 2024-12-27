@@ -4,10 +4,10 @@
 
 ## FAQ
 
-#### Wie verknüpfe ich meinen Twitch Account mit Discord? {collapsible="true" default-state="collapsed" id="link-twitch"}
+#### Wie verknüpfe ich meinen Twitch-Account mit Discord? {collapsible="true" default-state="collapsed" id="link-twitch"}
 
 <deflist>
-<def title="Twitch Account mit Discord verknüpfen:" id="twitch-link">
+<def title="Twitch-Account mit Discord verknüpfen:" id="twitch-link">
 
 1. Klicke in Discord auf Benutzereinstellungen.
 2. Klicke auf den Punkt "Verknüpfungen".
@@ -87,7 +87,7 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 Öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
 
 > Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem
-> Ausschluss vom Servers bestraft!
+> Ausschluss vom Server bestraft!
 > {style="warning"}
 
 #### Was mache ich, wenn ich versehentlich gebannt werde? {collapsible="true" default-state="collapsed" id="false-ban"}
@@ -126,7 +126,7 @@ Nein, als Veteran hat man keine großen Vorteile. Man kann dennoch den Server be
 #### Wieso gibt es keine Teleportation? {collapsible="true" default-state="collapsed" id="why-no-teleportation"}
 
 Auf dem Server funktioniert die Fortbewegung noch altmodisch wie in Vanilla Minecraft. Es gibt keine Möglichkeit der
-Teleportation, sondern die Spieler müssen die Strecken z.B. über die von der Community erbauten Nether Highways
+Teleportation, sondern die Spieler müssen die Strecken z. B. über die von der Community erbauten Nether Highways
 zurücklegen. Die einzige Ausnahme bildet hier der Übergang zwischen den verschiedenen Servern. Um die Server zu
 wechseln, müsst ihr jedoch trotzdem immer zurück zum Spawn um mit dem Schiffskapitän zu sprechen, welcher euch dann an
 den gewünschten Ort bringt.
