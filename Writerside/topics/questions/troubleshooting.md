@@ -38,7 +38,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 4. **Computer neu starten:** Ein Neustart kann diverse Probleme lösen und ist auch bei
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
 5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
-6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhanden Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
+6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhandenen Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
 7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
@@ -59,12 +59,6 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 
 </tab>
 </tabs>
-
-> Falls du den Badlion Client in der Version `1.21.3` verwendest und Probleme mit dem Ressourcenpaket auftreten,
-> empfehlen wir dir, auf die Version `1.21.1` zurückzugreifen.
-> Alternativ kannst du auch einen anderen Client verwenden.
->
-{style="warning" title="Probleme mit dem Badlion Client"}
 
 Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem Discord.
 [Füge zudem deinen Log an](faq.md#how-to-share-log).
