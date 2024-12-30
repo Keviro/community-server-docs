@@ -1,34 +1,13 @@
-
 # Events
 
-> Das **Auffordern** ein Event zu starten ist **untersagt**!
-> Solltest du doch zu einem Event auffordern, musst du mit Konsequenzen rechnen.
->
-{style="warning" title="Event Aufforderungen"}
+### Angel Event {id="fishing-event"}
 
-## Mining Events {id="mining-events" collapsible="true" default-state="collapsed"}
+An jeden <tooltip term="Wochenende">Wochenendtagen</tooltip> findet um **20:00 Uhr** ein Angel-Event statt,
+welches **20 Minuten** dauert. Während dieses Events besteht eine erhöhte Chance auf Mending, Soulbound, Totems sowie weiteren [Trödel- und Schatzfängen](https://minecraft.wiki/w/Fishing).
+Hierzu bekommst du den Glückseffekt.
 
-### Feste Mining-Events {id="frequently-mining-events"}
+### Mining Event {id="mining-event"}
 
-An allen <tooltip term="Wochentage">Wochentagen</tooltip> finden um **20:00 Uhr** Mining-Events
-statt. Diese dauern `20 Minuten`. Während diesem Event wird die Abbaugeschwindigkeit erhöht. Du
-bekommst den Eile (Haste) Effect mit der Stufe `10`.
-
-### Spontane Mining-Events {id="unfrequently-mining-events"}
-
-Es können auch spontane Mining-Events von Moderatoren und Administratoren gestartet werden.
-Das ist aber die Entscheidung der Person.
-
-## Angel Events {id="fishing-events" collapsible="true" default-state="collapsed"}
-
-### Feste Angel-Events {id="frequently-fishing-events"}
-
-An jedem <tooltip term="Wochenende">Wochenende</tooltip> finden um **20:00 Uhr** Angel-Events statt.
-Diese dauern `20 Minuten`. Während diesem Event wird die Chance auf Mending, Soulbound und Totems
-sowie allen anderen [Treasure-Drops](https://minecraft.wiki/w/Fishing) erhöht. Du bekommst den
-Glück (Luck) Effect mit einer zufälligen Stufe.
-
-### Spontane Angel-Events {id="unfrequently-fishing-events"}
-
-Es können auch spontane Angel-Events von Moderatoren und Administratoren gestartet werden.
-Das ist aber die Entscheidung der Person.
+An allen <tooltip term="Wochentage">Wochentagen</tooltip> findet um **20:00 Uhr** ein Mining-Event statt,
+welches **20 Minuten** dauert. Während diesem Event wird die Abbaugeschwindigkeit erhöht, indem du den Effekt `Eile X` erhältst.
+Im Rahmen des Mining-Events wird zudem die Möglichkeit, mittels Archäologie an Mending, Soulbound oder Totems heranzukommen, um `20%` erhöht.
