@@ -9,6 +9,6 @@ Hierzu bekommst du den Glückseffekt.
 
 ### Mining Event {id="mining-event"}
 
-An allen <tooltip term="Wochentage">Wochentagen</tooltip> findet um **20:00 Uhr** ein Mining-Event statt.
-Dieses dauert **20 Minuten**. Während diesem Event wird die Abbaugeschwindigkeit erhöht, indem du den Effekt `Eile X` erhältst.
+An allen <tooltip term="Wochentage">Wochentagen</tooltip> findet um **20:00 Uhr** ein Mining-Event statt,
+welches **20 Minuten** dauert. Während diesem Event wird die Abbaugeschwindigkeit erhöht, indem du den Effekt `Eile X` erhältst.
 Im Rahmen des Mining-Events wird zudem die Möglichkeit, mittels Archäologie an Mending, Soulbound oder Totems heranzukommen, um `20%` erhöht.
