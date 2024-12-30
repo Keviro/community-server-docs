@@ -3,8 +3,8 @@
 
 ### Angel Event {id="fishing-event"}
 
-An jeden <tooltip term="Wochenende">Wochenendtagen</tooltip> findet um **20:00 Uhr** ein Angel-Event statt.
-Dieses dauert **20 Minuten**. Während dieses Events besteht eine erhöhte Chance auf Mending, Soulbound, Totems sowie weiteren [Trödel- und Schatzfängen](https://minecraft.wiki/w/Fishing).
+An jeden <tooltip term="Wochenende">Wochenendtagen</tooltip> findet um **20:00 Uhr** ein Angel-Event statt,
+welches **20 Minuten** dauert. Während dieses Events besteht eine erhöhte Chance auf Mending, Soulbound, Totems sowie weiteren [Trödel- und Schatzfängen](https://minecraft.wiki/w/Fishing).
 Hierzu bekommst du den Glückseffekt.
 
 ### Mining Event {id="mining-event"}
