@@ -26,6 +26,8 @@
         <custom-css>custom.css</custom-css>
         <noindex-content>false</noindex-content>
 
+        <ignore-problems>MRK015</ignore-problems>
+
     </variables>
 
     <build-profile instance="ccs">

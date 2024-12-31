@@ -20,6 +20,8 @@
   <primary-label id="survival-server" short-name="O" name="Survival Server" color="purple">
     Willkommen auf dem Survival Server!
   </primary-label>
+  <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
+  </primary-label>
 
   <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft
     ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
@@ -44,6 +46,9 @@
   </secondary-label>
   <secondary-label id="one-block-mc-version" name="1.21" color="purple">
     Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+  </secondary-label>
+  <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
+    Das maximal erreichbare Level dieses Skills beträgt 50.
   </secondary-label>
 
   <secondary-label id="current-minecraft-version" name="%required_game_version%" color="blue">Du

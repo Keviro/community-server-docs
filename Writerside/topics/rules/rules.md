@@ -12,7 +12,7 @@ switcher-label: Language
 
 <if switcher-key="Deutsch">
 
-Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhalten
+Es wird davon ausgegangen, dass sich alle Spielenden gesittet und freundlich verhalten
 und sich keinen unfairen Vorteil gegenüber anderen Spielern verschaffen oder ihnen auf andere Weise schaden.
 Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, müsst ihr
 mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
@@ -48,13 +48,13 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
    untersagt.**
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
-   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
+   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
    Vorteil zu verschaffen.
    Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel
    ausgenommen.
 
-   > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
-   nicht festgesteckt hat.
+   > Beispiele sind der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
+   nicht festgesteckt hat oder das absichtliche Wechseln des Server kurz vor dem Tod, nur um seine Items zu sichern.
    >
    {style="tip"}
 
