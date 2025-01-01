@@ -5,9 +5,9 @@
 
 ## Wie erhalte ich Erfahrung?
 
-Du erhöhst dein Farming-Level, indem du Nutzpflanzen erntest und Tiere tötest.
+Du erhöhst dein Mining-Level, indem du natürlich generierte Blöcke abbaust.
 \
-Die Menge der gewonnenen Erfahrung hängt von der Nutzpflanze oder der Tierart ab.
+Die Menge der gewonnenen Erfahrung hängt von der Seltenheit der Blöcke ab.
 
 ## Welche Fähigkeiten gibt es?
 
