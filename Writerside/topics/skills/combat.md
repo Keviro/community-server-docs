@@ -3,32 +3,32 @@
 
 # Combat
 
-## Wie erhalte ich Erfahrung?
+## Wie erhalte ich Erfahrung? {id="how-to-get-experience"}
 
 Du erhöhst dein Combat Level durch das Besiegen von feindlichen Kreaturen.
 \
 Die Menge der gewonnenen Erfahrung hängt von der Seltenheit und der Stärke des Monsters ab.
 
-## Welche Fähigkeiten gibt es?
+## Welche Fähigkeiten gibt es? {id="skills"}
 
 Der Combat Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
-<def title="Battle Hardened">
+<def title="Battle Hardened" id="battle-hardened">
 
 Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit
 
 **Verfügbar ab Level: 1**
 
 </def>
-<def title="Reapers's Fortune">
+<def title="Reapers's Fortune" id="reapers-fortune">
 
 Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten
 
 **Verfügbar ab Level: 11**
 
 </def>
-<def title="Strong Impact">
+<def title="Strong Impact" id="strong-impact">
 
 Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen
 
@@ -37,7 +37,7 @@ Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Scha
 </def>
 </deflist>
 
-## Levelübersicht {collapsible="true" default-state="collapsed"}
+## Levelübersicht {collapsible="true" default-state="collapsed" id="level-overview"}
 
 Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie viel Gesamt-XP du bis dorthin gesammelt haben musst.
 > Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und Endgame zu gewährleisten.
