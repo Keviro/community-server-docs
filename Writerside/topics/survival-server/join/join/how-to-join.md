@@ -1,8 +1,7 @@
 [rules]: survial-rules.md "Zurück zu den Regeln"
 
 # Wie kann ich das Netzwerk beitreten?
-
-Du kannst den Server unter `%server_ip%` erreichen. Der Server ist in verschiedene Bereiche unterteilt:
+Der Server ist in verschiedene Bereiche unterteilt:
 
 <tabs>
 <tab title="Survival Server" id="survival">
@@ -24,6 +23,8 @@ Wenn du alle Anforderungen erfüllst, kannst den Survival Server über den Kompa
 Es gibt keine Voraussetzungen, um an den Events teilzunehmen. Wie du dies genau machst, findest du <a href="how-to-take-part-in-an-event.md">hier</a>
 </tab>
 </tabs>
+
+Du kannst den Server unter `%server_ip%` erreichen.
 
 > Sobald du das Netzwerk betrittst, akzeptierst du automatisch die [Regeln](rules.md).
 >
