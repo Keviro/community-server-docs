@@ -4,17 +4,16 @@
 
 Um an einem Event teilzunehmen, folge diesen Schritten:
 
-1. **Verbinde dich mit der Lobby:**
-    - **IP:** `castcrafter.de`
+1. **Verbinde dich mit dem Netzwerk:**
+   - [Wie kann ich das Netzwerk betreten?](how-to-join.md)
 
-2. **Teilnahme am Event:**
-    - **Navigator nutzen:** Interagiere mit dem Navigator, um ein GUI zu öffnen, in dem du dem aktuellen Event beitreten
-      kannst.
 
-> Bitte stelle sicher, dass du dich mit den [Serverregeln](rules.md "Zu den Serverregeln") vertraut gemacht hast und die
-> spezifischen Regeln des jeweiligen Events gelesen hast, **bevor** du daran teilnimmst.
->
-{style="warning" title="Hinweis:"}
+1. **Beitreten:**
+    - Interagiere mit dem Navigator, um ein Menu zu öffnen, in dem du dem aktuellen Event beitreten
+      kannst. 
+    - Sollte aktuell kein Event laufen, kannst du auch nicht joinen.
+    - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt. 
+    - Weitere Informationen findest du [hier](servers.md)
 
 ## Event-Ankündigungen {id="event-announcements"}
 
