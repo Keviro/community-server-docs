@@ -1,6 +1,6 @@
 [rules]: survial-rules.md "Zurück zu den Regeln"
 
-# Wie kann ich dem Server beitreten?
+# Wie kann ich das Netzwerk beitreten?
 
 Du kannst den Server unter `%server_ip%` erreichen. Der Server ist in verschiedene Bereiche unterteilt:
 
