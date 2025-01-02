@@ -9,9 +9,9 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
 
 
 1. **Beitreten:**
-    - Interagiere mit dem Navigator, um ein Menu zu öffnen, in dem du dem aktuellen Event beitreten
+    - Interagiere mit dem Navigator, um ein Menü zu öffnen, in welchem du dem aktuellen Event beitreten
       kannst. 
-    - Sollte aktuell kein Event laufen, kannst du auch nicht joinen.
+    - Sollte aktuell kein Event laufen, kannst du dich auch nicht mit dem Event Server verbinden.
     - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt. 
     - Weitere Informationen findest du [hier](servers.md)
 
