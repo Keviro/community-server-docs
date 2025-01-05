@@ -12,78 +12,86 @@ switcher-label: Language
 
 <if switcher-key="Deutsch">
 
-Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhalten
+Es wird davon ausgegangen, dass sich alle Spielenden gesittet und freundlich verhalten
 und sich keinen unfairen Vorteil gegenüber anderen Spielern verschaffen oder ihnen auf andere Weise schaden.
 Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, müsst ihr
 mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
 
 1. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern mutwillig zerstörst oder andere Spieler bestiehlst, droht ein sofortiger
-   Ausschluss aus dem Projekt.
+   von anderen Spielern zerstörst oder andere Spieler bestiehlst, wirst du sofort
+   vom Server ausgeschlossen.
 
-   > Alles, was nicht explizit als öffentlich ausgeschildert bzw. erkennbar ist, muss als
-   > privat angesehen werden. Unabhängig davon, ob das Ganze durch ein Grundstück gesichert
-   > wurde oder nicht. Für jegliche Veränderung oder Nutzung ist vorab die Erlaubnis des Besitzers
-   > einzuholen. Dies gilt auch für Events, bei denen keine Grundstücke existieren.
+   > Alles, was nicht eindeutig als öffentlich gekennzeichnet oder erkennbar ist, gilt als privat.
+   > Dabei spielt es keine Rolle, ob der Bereich durch ein Grundstück geschützt ist oder nicht.
+   > Jede Veränderung oder Nutzung erfordert vorab die ausdrückliche Zustimmung des Besitzers.
+   > Diese Regel gilt auch für Events, bei denen keine Grundstücke vorhanden sind.
    >
    {title="Allgemein gilt:" style="note"}
 
-2. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen, sind
-   erlaubt**, solange sie die Kommunikation zwischen Server und Client nicht verändern. Andere
-   Modifikationen und/oder Hacked-Clients sind strengstens untersagt. Außerdem weisen wir darauf
-   hin, dass alles, was eine Tätigkeit des Spielers automatisiert, untersagt ist, egal ob es sich um
-   Minecraft-Modifikationen, externe Software, Exploits, Hardware oder sonstige Möglichkeiten
-   handelt. Modifikationen, welche das Ziel haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls
-   untersagt.
+2. **Spielmodifikationen, die keinen unfairen Vorteil gegenüber anderen Spielern verschaffen, sind erlaubt, solange sie
+   die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
+   und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
+   Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
+   Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
+
+   Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
+   Ausschluss führen. Wenn also unklar ist, ob eine Modifikation erlaubt ist, verwendet sie
+   nicht, [schaut in die Liste geprüfter Modifikationen][verified-mods] oder [kontaktiert den Support][support].
 
    > **<tooltip term="MouseWheelie">MouseWheelie</tooltip>**, **<tooltip term="Freecam">Freecam</tooltip>**,
    > **AutoClicker** und **Macros**, **SeedCracker**, sowie **jegliche Formen X-Ray** oder **Hacked Clients**!
    >
    {title="Explizit verbotene Modifikationen sind unter anderem:" style="warning"}
 
-   > Alleine das Betreten des Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen
-   > und kann zu einem Ausschluss führen. Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist,
-   > verwendet sie nicht, [werft einen Blick auf die Liste geprüfter Mods][verified-mods] oder
-   > [kontaktiert den Support][support].
-   >
-   {style="tip"}
-
    <include from="util.md" element-id="mod-pack"/>
 
 3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
    untersagt.**
    Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
-   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
+   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
    Vorteil zu verschaffen.
    Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel
    ausgenommen.
 
-   > Ein Beispiel ist der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
-   nicht festgesteckt hat.
+   > Beispiele sind der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
+   nicht festgesteckt hat oder das absichtliche Wechseln des Server kurz vor dem Tod, nur um seine Items zu sichern.
    >
    {style="tip"}
 
-4. Es wird erwartet, dass ihr euch **freundlich und respektvoll gegenüber anderen Spielern**
-   verhaltet. Wir tolerieren **keine Belästigung anderer Spieler jeglicher Art**. Seien es
-   Beleidigungen, Anfeindungen, Scamming oder sonstiges Trolling.
+4. **Freundliches und respektvolles Verhalten wird erwartet.**  
+   Behandelt andere Spieler stets höflich und respektvoll. **Belästigungen jeglicher Art**, sei es durch
+   Beleidigungen, Anfeindungen, Scamming oder Trolling, werden von uns nicht geduldet.
 
-    - Dies gilt auch für den Sprachchat. Jegliche Arten von **Trolling**, **Soundboards**
-      oder das **Abspielen von Musik** im Sprachchat ist **untersagt** und führt zu einem Ausschluss.
+    - **Sprachchat-Regeln:**  
+      Das Verwenden von **Soundboards** oder das **Abspielen von Musik oder anderen Geräuschen** ist überall dort
+      untersagt, wo es keinen sinnvollen Zweck erfüllt.
 
-   > Solltet ihr ein Problem mit einer anderen Person haben, versucht es **miteinander** zu
-   > lösen. Sollte dies nicht möglich sein, [kontaktiert bitte einen Moderator][support].
-   > Offener Streit wird nicht geduldet und wir behalten uns vor Spieler dafür temporär vom Server auszuschließen.
-   >
-   {style="tip"}
+        - **Erlaubt:** In klar definierten Events wie **Casinos**, **Musikevents**, **DJ-Clubs** oder anderen
+          Situationen, wo es ausdrücklich Sinn ergibt.
+        - **Verboten:** Überall sonst, insbesondere in alltäglichen Sprachchats oder zum Trollen anderer Spieler.
 
-5. **Boosting und IRL Trading ist nicht gestattet.** Jeder Spieler darf nur über **einen Account**
-   verfügen. Zweit-Accounts, um Geld oder sonstige Dinge zu farmen, sind nicht erlaubt. Außerdem darf
-   jeglicher Handel zwischen den Spielern nur mit auf dem Server verfügbaren Items
-   und [Währungen][economy] betrieben werden.
+   > Habt ihr ein Problem mit jemandem? Versucht zunächst, es **friedlich miteinander** zu klären. Falls das nicht
+   möglich ist, [wendet euch bitte an einen Moderator][support].  
+   > Offene Streitigkeiten werden nicht toleriert, und wir behalten uns das Recht vor, Spieler wegen solcher Konflikte vorübergehend
+   auszuschließen.  
+   > {style="tip"}
 
-6. **Moderatoren und Admins haben das letzte Wort**, auch wenn dies den Regeln widerspricht. Wir
-   möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
-   unterlassen, lasst es einfach, anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
+5. **Boosting und IRL-Trading sind strengstens verboten.**  
+   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweitaccounts zum Farmen von Ressourcen,
+   Geld oder anderen Vorteilen ist untersagt.
+
+   Jeglicher Handel zwischen Spielern darf ausschließlich mit auf dem Server verfügbaren Items und [Währungen][economy]
+   erfolgen.
+
+   Des Weiteren ist es nicht erlaubt, dass Spieler oder ihre Freunde den Server nur betreten,
+   um beispielsweise Items aus einem Adventskalender an andere zu übergeben und dann sofort wieder disconnecten, ohne eine
+   tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte auffallen, dass Spieler und/oder deren
+   Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
+
+6. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
+   stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
+   auffordert, etwas zu unterlassen, respektiert dies bitte ohne weitere Erklärungen. Es gibt immer einen guten Grund
+   für solche Entscheidungen.
 
 > Sobald du den Server betrittst, bestätigst du automatisch, dass du
 > das Regelwerk gelesen und akzeptiert hast.
@@ -102,32 +110,30 @@ A detailed list of these rules can be found below.
 1. **Griefing will not be tolerated at any time**. If we notice that you deliberately destroy other players'
    buildings or steal from other players, you will be immediately banned from the project.
 
-   > Anything that is not explicitly marked or recognizable as public must be considered private.
-   > This applies regardless of whether the area is protected by a plot or not.
-   > You must get the owner's permission for any changes or use.
-   > This also applies to events where plots don’t exist.
+   > Anything not explicitly marked or clearly recognizable as public is considered private.
+   > This applies regardless of whether the area is protected by a plot or not.  
+   > Any modification or use requires the prior explicit permission of the owner.  
+   > This rule also applies to events where no plots are present.
    >
    {title="In general:" style="note"}
 
-2. **Game modifications that don’t give you an unfair advantage over others are allowed**, as long as they don’t
-   alter the communication between server and client.
-   Other modifications and/or hacked clients are strictly prohibited.
-   We also emphasize that anything that automates a player's activity is forbidden, whether it's Minecraft
-   modifications, external software, exploits, hardware, or any other means.
-   Modifications designed to bypass or trick AntiCheat measures are also prohibited.
+2. **Game modifications that do not provide an unfair advantage over other players are allowed, as long as they do not
+   alter the communication between server and client.**  
+   Please note that other modifications and/or hacked clients are strictly prohibited. Furthermore, any form of
+   automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications,
+   external software, exploits, hardware, or other means.  
+   Modifications designed to bypass or trick anti-cheat measures are also not permitted.
+
+   Simply joining the server with an unauthorized modification is already considered a violation and may result in a
+   ban.  
+   If you are unsure whether a modification is allowed, do not use it.  
+   Instead, [check the list of verified mods][verified-mods] or [contact support][support].
 
    > **<tooltip term="MouseWheelie$English">MouseWheelie</tooltip>**, **<tooltip term="Freecam$English">
    Freecam</tooltip>**,
    > **AutoClicker** and **Macros**, **SeedCracker**, as well as **any form of X-Ray** or **Hacked Clients**!
    >
    {title="Specifically prohibited modifications include, but are not limited to:" style="warning"}
-
-   > Simply joining the server with an unauthorized modification is already considered a violation and may result in a
-   > ban.
-   > If you’re unsure whether a modification is allowed, don’t use
-   > it, [check the list of verified mods][verified-mods], or [contact support][support].
-   >
-   {style="tip"}
 
    <include from="util.md" element-id="mod-pack"/>
 
@@ -141,27 +147,36 @@ A detailed list of these rules can be found below.
    >
    {style="tip"}
 
-4. You’re expected to **behave friendly and respectfully towards other players**.
-   We don’t tolerate **any form of harassment**.
-   This includes insults, hostility, scamming, or any kind of trolling.
+4. **Friendly and respectful behavior is expected.**  
+   Always treat other players with politeness and respect. Any form of **harassment**, whether through insults,
+   hostility, scamming, or trolling, will not be tolerated.
 
-    - This also applies to voice chat. Any kind of **trolling**, **soundboards**
-      or **playing music** in voice chat is **forbidden** and will result in exclusion.
+    - **Voice Chat Rules:**  
+      The use of **soundboards** or **playing music or other sounds** is forbidden everywhere unless it serves a
+      meaningful purpose.
 
-   > If you have an issue with another person, try to resolve it **together**. If this is not
-   > possible, [please contact a moderator][support]. Open conflict will not be tolerated, and we reserve the right to
-   > temporarily ban players for this.
-   >
-   {style="tip"}
+        - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations
+          where it explicitly makes sense.
+        - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
 
-5. **Boosting and IRL Trading aren’t allowed.** Each player may only have **one account**. Second accounts to farm
-   money or other resources aren’t allowed. Additionally, any trading between players may only be conducted with items
-   and [currencies][economy] available on the server.
+   > Have an issue with someone? First, try to **resolve it peacefully together**. If this is not
+   possible, [please contact a moderator][support].  
+   > Open conflicts are not allowed, and we reserve the right to temporarily ban players for such disputes.  
+   > {style="tip"}
 
-6. **Moderators and admins have the final say**, even if it contradicts the rules.
-   We don’t want long discussions.
-   If you’re asked to stop doing something, simply stop instead of arguing.
-   There is likely a reason for it.
+5. **Boosting and IRL trading are strictly prohibited.**  
+   Each player is allowed to have **only one account**. The use of second accounts to farm resources, money, or other
+   advantages is forbidden.
+
+   Any trading between players may only involve items and [currencies][economy] available on the server.
+
+   Additionally, players or their friends are not allowed to join the server solely to drop items in, for example, an
+   Advent calendar, and then immediately disconnect without a genuine intent to actively participate in the gameplay. If
+   it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
+
+6. **Moderators and admins have the final say**, even if it contradicts the official rules. We kindly ask that you
+   refrain from engaging in lengthy discussions. If a moderator or admin asks you to stop doing something, please
+   respect their request without further argument. There is always a valid reason for such decisions.
 
 > As soon as you enter the server, you automatically confirm that you have read and accepted the rules.
 >
