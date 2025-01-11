@@ -99,11 +99,12 @@ jobs:
         run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d cf-pages
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3.101.0
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy cf-pages --project-name=community-server-docs --branch=main
+          wranglerVersion: 3.101.0
 
   publish-indexes:
     needs: [ build, test, deploy ]
