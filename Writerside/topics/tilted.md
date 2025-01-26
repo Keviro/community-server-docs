@@ -7,7 +7,7 @@
 ## Über das Event {id="general-info"}
 
 In dem Tilted World Event findet ihr euch in einer Welt wieder, welche um 45 Grad gedreht ist.
-Bildet Allianzen, baut gedrehte Häuser und erkundet die Caves in denen nichts mehr so ist wie sonst!
+Bildet Allianzen, baut gedrehte Häuser und erkundet die Höhlen, in denen nichts mehr so ist wie sonst!
 
 ![thumbnail](tilted.world.png){border-effect="rounded"}
 
