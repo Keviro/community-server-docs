@@ -47,6 +47,12 @@
   <secondary-label id="one-block-mc-version" name="1.21" color="purple">
     Das Event wird in der Minecraft Java Version 1.21 stattfinden.
   </secondary-label>
+  <secondary-label id="tilted-world-mc-version" name="1.21.4" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+  </secondary-label>
+  <secondary-label id="tilted-world-date" name="26.01.2025 - 28.01.2025" color="blue">Das Event läuft
+    vom 26.01.2025 bis zum 28.01.2025.
+  </secondary-label>
   <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
     Das maximal erreichbare Level dieses Skills beträgt 50.
   </secondary-label>
