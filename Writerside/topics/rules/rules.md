@@ -88,7 +88,14 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte auffallen, dass Spieler und/oder deren
    Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
 
-6. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
+6. **Es ist nicht erlaubt, <tooltip term="harmful-content">jugendgefährdende Inhalte</tooltip> öffentlich zugänglich zu machen, 
+   zu verbreiten oder zu bewerben.** Dies schließt Bauwerke (z. B. Casinos), umbenannte Items und alle anderen Darstellungen ein, 
+   die solche Inhalte fördern.
+   > Casinos werden aufgrund des Bestandschutzes auf dem Survival Server aktuell noch geduldet. In der 1.22 werden diese jedoch auch dort untersagt sein.
+   >
+   {style="note"}
+
+7. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
    stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
    auffordert, etwas zu unterlassen, respektiert dies bitte ohne weitere Erklärungen. Es gibt immer einen guten Grund
    für solche Entscheidungen.
