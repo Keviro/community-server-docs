@@ -59,7 +59,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    {style="tip"}
 
 4. **Freundliches und respektvolles Verhalten wird erwartet.**  
-   Behandelt andere Spieler stets höflich und respektvoll. **Belästigungen jeglicher Art**, sei es durch
+   Behandelt andere Spieler stets höflich und respektvoll. **Belästigungen jeglicher Art**, sei es durch Spamming im Chat,
    Beleidigungen, Anfeindungen, Scamming oder Trolling, werden von uns nicht geduldet.
 
     - **Sprachchat-Regeln:**  
