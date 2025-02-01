@@ -1,24 +1,19 @@
 # Clan Erstellung
 
-<deflist>
-<def title="Wie erstelle ich einen Clan?" id="clan-create">
+Einen Clan kannst du mit dem Befehl `/clan create <name> <tag>` erstellen.
+Dabei legst du einen Namen und ein Kürzel fest – das Kürzel wird später hinter den Namen der
+Clanmitglieder angezeigt.
 
-Ein Clan kann mit dem Befehl `/clan create <name> <tag>` erstellt werden.\
-Hierbei kannst du einen Namen für deinen Clan festlegen und ein Kürzel, das später hinter den Mitgliedern deines Clans angezeigt wird.
-
-> - Der Clanname muss aus **mindestens drei** Zeichen bestehen und darf **maximal 16 Zeichen** lang sein
-> - Der Clantag *muss* aus entweder **drei oder vier Zeichen** bestehen
-> - Der Clantag kann sowohl Groß- als auch Kleinbuchstaben beinhalten
-> - Der angegebene Clanname und der angegebene Clantag müssen [regelkonform](rules.md) sein
+> - Der Clanname muss **mindestens drei** Zeichen lang sein und darf **maximal 16 Zeichen**
+    umfassen.
+> - Der Clantag muss entweder aus **drei oder vier Zeichen** bestehen.
+> - Der Clantag kann sowohl Groß- als auch Kleinbuchstaben enthalten.
+> - Sowohl der Clanname als auch der Clantag müssen **[regelkonform](rules.md)** sein.
 >
-{style="warning" title="Folgendes ist bei der Erstellung eines Clans zu beachten..."}
+{style="note" title="Beachte Folgendes bei der Erstellung eines Clans:"}
 
-</def>
-<def title="Beispiel" id="clan-create-example">
-
-Folgender Befehl wurde zur Erstellung des Clans verwendet:\
+Beispiel
+: Der folgende Befehl wurde zur Erstellung des Clans verwendet:\
 `/clan create Democlan DEMO`
-<img src="clan-info-command.png" alt="clan info" style="inline"/>
-<img src="clan-members-tab.png" alt="clan members" style="inline"/>
-</def>
-</deflist>
+![clan info](clan-info-command.png)
+![clan members](clan-members-tab.png)
