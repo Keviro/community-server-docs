@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Clansystem" id="clan-system">
+
+    <!--    A section combines multiple topics dedicated to a specific subject.
+                Add a starting page to provide an overview of the topics in the section.
+                Start with two topics you want to promote in the <spotlight> group,
+                several important topics in the <primary> group (for example, where to start),
+                several less important topics in the <secondary> group (for example, more advanced topics),
+                and optionally add any other relevant topics in the <misc> group as cards and lists of links
+                (maybe related topics from other sections).
+                Only the spotlight section is limited to two topics.
+                For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+
+    <section-starting-page>
+        <title>Clansystem</title>
+        <description>
+            Das Clansystem ermöglicht es Spielern, sich in Gruppen zu organisieren und eigene Clans zu gründen. Durch
+            die Bildung eines Clans können die Mitglieder effizienter zusammenarbeiten, gemeinsame Ziele verfolgen und
+            unter einem einheitlichen Kürzel auftreten. Dies fördert nicht nur die strategische Koordination,
+            insbesondere bei größeren Gruppen, sondern stärkt auch den Teamgeist innerhalb der Gruppe.
+        </description>
+
+        <primary>
+            <title>Alles im Überblick</title>
+            <a href="create-clan.md" summary="Hier erfahrt ihr, wie ihr einen eigenen Clan gründet."/>
+            <a href="clan-management.md"
+               summary="Hier erfahrt ihr mehr über die Verwaltung des Clans und dessen Mitglieder."/>
+            <a href="clan-more-info.md" summary="Hier findet ihr weitere Informationen und Funktionen zum Clansystem."/>
+        </primary>
+    </section-starting-page>
+
+</topic>
+
