@@ -2,7 +2,7 @@
 
 # Wie könnt ihr das Netzwerk beitreten?
 
-Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby. <br>
+Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby.\
 Der Server ist in 3 Bereiche unterteilt:
 
 <tabs>
