@@ -1,13 +1,11 @@
 # Weitere Informationen
 
-Weitere Informationen {id="clan-info"}
-: Mit dem Befehl `/clan info [tag]` werden dir alle Informationen zum angegebenen Clan in Chat angezeigt.
+{type="medium"}
+Clan-Info {id="clan-info"}
+: Mit dem Befehl `/clan info [tag]` werden dir alle Informationen zum angegebenen Clan im Chat angezeigt.
 
 Mitgliederliste {id="clan-members"}
-: Mit dem Befehl `/clan members` werden dir alle Mitglieder angezeigt, welche sich in deinem Clan befinden.
+: Mit dem Befehl `/clan members` werden dir alle Mitglieder deines Clans angezeigt.
 
 Clan verlassen {id="clan-leave"}
-: Mit dem Befehl `/clan leave` kann der aktuelle Clan verlassen werden.
-
-
-
+: Mit dem Befehl `/clan leave` kannst du deinen aktuellen Clan verlassen.
