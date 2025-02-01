@@ -1,54 +1,51 @@
 # Clan Management
 
-<deflist>
-<def title="Mitgliederverwaltung" id="member-management">
+## Mitgliederverwaltung {id="member-management"}
 
+> Das Hinzufügen oder Entfernen von Mitgliedern kann ausschließlich von Offizieren, Anführern oder
+> dem Clanbesitzer vorgenommen werden!
+>
+{style="note"}
+
+{type="medium"}
 Mitglieder einladen {id="invite-member"}
 : Mitglieder können mit dem Befehl `/clan invite <player>` in den Clan eingeladen werden.
 
 Mitglieder entfernen {id="remove-member"}
 : Mitglieder können mit dem Befehl `/clan kick <player>` aus dem Clan entfernt werden.
 
-> Das Hinzufügen oder Entfernen von Mitgliedern kann nur durch einen Offizier, einen Anführer oder dem Ersteller des
-> Clans verwaltet werden!
->
-{style="note"}
-</def>
-</deflist>
+## Rollenverteilung {id="role-distribution"}
 
-<deflist>
-<def title="Rollenverteilung" id="member-rank">
+Clan-Mitgliedern können unterschiedliche Rollen zugewiesen werden. So können sie beispielsweise zum
+Offizier oder Anführer befördert werden. Eine Übersicht der Rechte findest du in der folgenden
+Tabelle:
 
-Mitgliedern des Clans können verschiedene Rollen zugeteilt werden.\
-Hierfür können Mitglieder zum Offizier oder zum Anführer befördert werden.\
-Eine Übersicht über die Rechte findest du in der folgenen Tabelle.
+<table style="both">
+<tr><td width="256">Funktion</td><td>Offizier</td><td>Anführer</td><td>Besitzer</td></tr>
+<tr><td>Spieler einladen</td><td>✅</td><td>✅</td><td>✅</td></tr>
+<tr><td>Mitglieder entfernen</td><td>✅</td><td>✅</td><td>✅</td></tr>
+<tr><td>Mitglieder befördern</td><td>❌</td><td>✅</td><td>✅</td></tr>
+<tr><td>Mitglieder herabstufen</td><td>❌</td><td>✅</td><td>✅</td></tr>
+<tr><td>Clan auflösen</td><td>❌</td><td>❌</td><td>✅</td></tr>
+</table>
 
-| Funktion               | Offizier | Anführer | Besitzer |
-|------------------------|:--------:|:--------:|:--------:|
-| Spieler einladen       |    ✅     |    ✅     |    ✅     |
-| Mitglieder entfernen   |    ✅     |    ✅     |    ✅     |
-| Mitglieder befördern   |    ❌     |    ✅     |    ✅     |
-| Mitglieder herabstufen |    ❌     |    ✅     |    ✅     |
-| Clan auflösen          |    ❌     |    ❌     |    ✅     |
-
+{type="medium"}
 Beförderung eines Mitglieds {id="promote-member"}
-: Mitglieder können mit dem Befehl `/clan promote <player>` zur jeweils höheren Rolle befördert werden.
+: Mitglieder können mit dem Befehl `/clan promote <player>` auf die nächsthöhere Rolle befördert
+werden.
 
 Herabstufung eines Mitglieds {id="demote-member"}
-: Mitglieder können mit dem Befehl `/clan demote <player>` zur jeweils niedrigeren Rolle befördert werden.
+: Mitglieder können mit dem Befehl `/clan demote <player>` auf die nächstniedrigere Rolle
+herabgestuft werden.
 
-</def>
-</deflist>
+## Clanauflösung {id="clan-dissolution"}
 
-<deflist>
-<def title="Clanauflösung" id="disband-clan">
+Mit dem Befehl `/clan disband` kann der Clanbesitzer seinen Clan auflösen.
 
-Mit dem Befehl `/clan disband` kann der Besitzer des Clans seinen Clan auflösen.
 
-> Sobald der Befehl eingegeben wurde, muss der Besitzer die Auflösung des Clans manuell im Chat bestätigen.
-> Wird die Nachricht bestätigt, wird der Clan unwiderruflich gelöscht und seine Mitglieder werden entfernt.
+
+> Nach Eingabe des Befehls muss die Auflösung im Chat manuell bestätigt werden.
+> Sobald die Bestätigung erfolgt, wird der Clan **unwiderruflich** gelöscht und alle Mitglieder
+> entfernt.
 >
 {style="warning" title="Achtung"}
-
-</def>
-</deflist>
