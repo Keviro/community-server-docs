@@ -1,3 +1,5 @@
+<primary-label ref="clan-preview"/>
+
 # Clan Management
 
 ## Mitgliederverwaltung {id="member-management"}

@@ -1,3 +1,5 @@
+<primary-label ref="clan-preview" />
+
 # Clan Erstellung
 
 Einen Clan kannst du mit dem Befehl `/clan create <name> <tag>` erstellen.
