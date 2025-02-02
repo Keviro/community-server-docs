@@ -29,7 +29,7 @@ verlinkt.
 
 ## Das Skillmenu
 
-![skill-start-menu](https://i.imgur.com/tXR2o1G.png)
+![skill-start-menu](skills-menu.png)
 
 Das Skillmenü gibt euch einen Überblick über alle Skills, deren Belohnungen und euren Fortschritt.
 In Zukunft wird es auch möglich sein, über das Skillmenü auf die aktuellen Leaderboards zuzugreifen, in denen ihr euch
