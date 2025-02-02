@@ -32,7 +32,9 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
    Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
-   Hardware oder sonstige Möglichkeiten handelt. Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
+   Hardware oder sonstige Möglichkeiten handelt.
+   Dies schließt auch das Umlegen der Maustaste auf eine andere Taste mit ein, da dies nicht von einem AutoClicker unterschieden werden kann. 
+   Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
    Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
    Ausschluss führen. Wenn also unklar ist, ob eine Modifikation erlaubt ist, verwendet sie
@@ -89,7 +91,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
 
 6. **Es ist nicht erlaubt, <tooltip term="harmful-content">jugendgefährdende Inhalte</tooltip> öffentlich zugänglich zu machen, 
-   zu verbreiten oder zu bewerben.** Dies schließt Bauwerke (z. B. Casinos), umbenannte Items und alle anderen Darstellungen ein, 
+   zu verbreiten oder zu bewerben.** Dies schließt Bauwerke (z. B. Casinos), umbenannte Items und alle anderen Darstellungen ein, 
    die solche Inhalte fördern.
    > Casinos werden aufgrund des Bestandschutzes auf dem Survival Server aktuell noch geduldet. In der 1.22 werden diese jedoch auch dort untersagt sein.
    >
@@ -128,7 +130,9 @@ A detailed list of these rules can be found below.
    alter the communication between server and client.**  
    Please note that other modifications and/or hacked clients are strictly prohibited. Furthermore, any form of
    automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications,
-   external software, exploits, hardware, or other means.  
+   external software, exploits, hardware, or other means.
+   This also includes binding your mouse buttons to another key 
+   because it can't be distinguished from an actual auto clicker.
    Modifications designed to bypass or trick anti-cheat measures are also not permitted.
 
    Simply joining the server with an unauthorized modification is already considered a violation and may result in a
@@ -181,7 +185,12 @@ A detailed list of these rules can be found below.
    Advent calendar, and then immediately disconnect without a genuine intent to actively participate in the gameplay. If
    it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
 
-6. **Moderators and admins have the final say**, even if it contradicts the official rules. We kindly ask that you
+6. **It is not permitted to make <tooltip term="harmful-content$English">youth-endangering content</tooltip> publicly accessible, to distribute it, or to promote it.** This includes structures (e.g., casinos), renamed items, and all other representations that promote such content.
+   > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
+   >
+   {style="note"}
+
+7. **Moderators and admins have the final say**, even if it contradicts the official rules. We kindly ask that you
    refrain from engaging in lengthy discussions. If a moderator or admin asks you to stop doing something, please
    respect their request without further argument. There is always a valid reason for such decisions.
 
