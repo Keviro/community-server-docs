@@ -37,7 +37,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](administrator.png) | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
 | ![Moderator](moderator.png)         | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Gh0stface`</li><li>`ImRuBiX232`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`PhoenixYokaii`</li><li>`RicTheCraft`</li><li>`xX_Monster`</li></ul> |
-| ![Supporter](supporter.png)         | <ul><li>`bringeis1`</li><li>`Koljav`</li><li>`Orangenlimo`</li><li>`Progeilo`</li><li>`TobiKro110`</li></ul>                                                                                          |
+| ![Supporter](supporter.png)         | <ul><li>`bringeis1`</li><li>`Koljav`</li><li>`Laluck98`</li><li>`Orangenlimo`</li><li>`Progeilo`</li><li>`TobiKro110`</li></ul>                                                                       |
 | ![Entwickler](developer.png)        | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
 | ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
