@@ -1,5 +1,3 @@
-<primary-label ref="clan-preview" />
-
 # Clan Erstellung
 
 Einen Clan kannst du mit dem Befehl `/clan create <name> <tag>` erstellen.
@@ -19,3 +17,5 @@ Beispiel
 `/clan create Democlan DEMO`
 ![clan info](clan-info-command.png)
 ![clan members](clan-members-tab.png)
+
+> Das Clankürzel wird erst ab einer Anzahl von 30 Clanmitlgiedern hinter den Mitglieder in der Spielerliste angezeigt.
