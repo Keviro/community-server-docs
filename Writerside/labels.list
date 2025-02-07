@@ -22,11 +22,6 @@
   </primary-label>
   <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
   </primary-label>
-  <primary-label id="clan-preview" name="Clan Preview" short-name="β" color="tangerine">
-    Die Clan-Funktion befindet sich derzeit in der Beta-Phase.
-    Sie ist möglicherweise noch nicht allen Spielenden zugänglich und kann unerwartete Fehler
-    enthalten.
-  </primary-label>
 
 
   <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft

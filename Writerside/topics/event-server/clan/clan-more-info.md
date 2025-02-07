@@ -1,5 +1,3 @@
-<primary-label ref="clan-preview"/>
-
 # Weitere Informationen
 
 {type="medium"}
