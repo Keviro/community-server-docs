@@ -56,19 +56,19 @@ sollen.
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
-Wann beginnt das Event?
+Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
 
-Welche Version von Minecraft wird benötigt?
+Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.20.4 - 1.20.6** stattfinden.
 
-Was passiert, wenn ich gegen die Regeln verstoße?
+Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
-Ist PvP aktiviert?
+Ist PvP aktiviert? {id="event-pvp"}
 : Nein, PvP ist während des Events deaktiviert. Allerdings kann es manuell durch CastCrafter aktiviert werden.
 
-Kann man auch später noch dem Event beitreten?
+Kann man auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.

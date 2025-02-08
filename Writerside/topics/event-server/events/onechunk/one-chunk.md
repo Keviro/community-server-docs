@@ -18,20 +18,20 @@ Am Ende des Events ist eine PvP-Phase geplant, in der PvP aktiviert wird.
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
-Wann beginnt das Event?
+Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **15.10.2024** bis zum **17.10.2024**.
 
-Welche Version von Minecraft wird benötigt?
+Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21** stattfinden.
 
-Was passiert, wenn ich gegen die Regeln verstoße?
+Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
-Kann man auch später noch dem Event beitreten?
+Kann man auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
 
-Wie viel Spieler können auf den Server?
+Wie viel Spieler können auf den Server? {id="event-min-players"}
 : Der Server bietet Platz für mindestens `100` Spieler.
 Je nach performance lassen sich die Plätze erweitern.
