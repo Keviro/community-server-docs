@@ -2,6 +2,7 @@
 <!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
 <labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+
   <primary-label id="event-held" short-name="S" name="Bereits stattgefunden" color="blue">
     Dieses Event hat bereits stattgefunden.
   </primary-label>
@@ -23,7 +24,7 @@
   <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
   </primary-label>
 
-
+<!-- SECONDARY EVENT LABELS -->
   <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft
     ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
   </secondary-label>
@@ -55,6 +56,17 @@
     läuft
     vom 26.01.2025 bis zum 28.01.2025.
   </secondary-label>
+  <secondary-label id="limitless-hights-date" name="08.02.2025 - 10.02.2025" color="blue">Das Event
+    läuft
+    vom 08.02.2025 bis zum 10.02.2025.
+  </secondary-label>
+  <secondary-label id="limitless-hights-mc-version" name="1.21.4" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+  </secondary-label>
+
+
+
+
   <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
     Das maximal erreichbare Level dieses Skills beträgt 50.
   </secondary-label>
