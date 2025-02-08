@@ -11,6 +11,7 @@ Bei diesem Event spielt Höhe keine Rolle.\
 Von gigantischen Türmen bis hin zu schwebenden Städten, welche scheinbar ins Unendliche wachsen - der Kreativität sind keine Grenzen gesetzt. \
 Doch wie hoch kann man wirklich bauen? Finde es heraus!
 
+![limitless heights](limitless-heights.jpeg){border-effect="rounded"}
 
 ## Q&amp;A {id="q-a"}
 
