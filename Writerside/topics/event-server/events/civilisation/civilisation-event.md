@@ -137,26 +137,26 @@ Kriterium 4 kann, durch Twitch bedingt, nur mit 10 Punkten bewertet werden.
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
-Wann beginnt das Event?
+Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **10.08.2024** um **14:00 Uhr** bis **11.08.2024** um **14:00 Uhr**.
 
-Wie lange läuft das Event?
+Wie lange läuft das Event? {id="event-time"}
 : Das Event läuft 24 Stunden.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.21** stattfinden.
 
-Behalte ich mein Inventar nach dem Tod?
+Behalte ich mein Inventar nach dem Tod? {id="event-keep-inventory"}
 : Ja, jeder Spieler behält sein Inventar nach dem Tod.
 
-Was passiert, wenn ich gegen die Regeln verstoße?
+Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
-Ist PvP aktiviert?
+Ist PvP aktiviert? {id="event-pvp"}
 : Nein, PvP ist während des Events deaktiviert.
 
-Kann ich auch später noch dem Event beitreten?
+Kann ich auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
 Das Startequipment bekommst du, sobald du den [Eventserver](how-to-take-part-in-an-event.md) betrittst.

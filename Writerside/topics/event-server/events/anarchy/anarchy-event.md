@@ -30,5 +30,5 @@ gleichzeitig auf der Welt spielen. Das Ziel ist es, so lange wie möglich zu üb
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
-Wie lange läuft das Event?
+Wie lange läuft das Event? {id="event-date"}
 : Das Event läuft vom **8.10.2023** um **17:00 Uhr** bis zum **15.10.2023** um **18:00 Uhr**.
