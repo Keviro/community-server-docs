@@ -53,7 +53,7 @@ Klicke in dem Menü auf die <b>Lore</b>.
 <step>
 Um den Rüstungsständer zu verschieben, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>>
+</step>
 </procedure>
 <procedure title="Rotieren">
 <step>
@@ -66,7 +66,7 @@ Klicke in dem Menü auf den <b>Kompass</b>.
 <step>
 Um den Rüstungsständer zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>>
+</step>
 </procedure>
 
 ## Rotieren einzelner Körperteile {collapsible="true" default-state="collapsed" id="change-rotation-of-pose"}
@@ -81,7 +81,7 @@ Klicke in dem Menü auf den <b>Leder Helm</b>.
 <step>
 Um den Rüstungsständer zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
-</step>>
+</step>
 </procedure>
 <procedure title="Rotieren der Arme" collapsible="true" default-state="collapsed" id="rotation-of-arm">
 <step>
@@ -94,7 +94,7 @@ Klicke in dem Menü zum Rotieren des rechten Arms auf den <b>linken Stock</b> un
 <step>
 Um den jeweiligen Arm des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip>
 einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
-</step>>
+</step>
 </procedure>
 <procedure title="Rotieren des Körpers" collapsible="true" default-state="collapsed" id="rotation-of-body">
 <step>
@@ -106,7 +106,7 @@ Klicke in dem Menü auf die <b>Leder Brustplatte</b>.
 <step>
 Um den Körper des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
-</step>>
+</step>
 </procedure>
 <procedure title="Rotieren der Beine" collapsible="true" default-state="collapsed" id="rotation-of-leg">
 <step>
@@ -119,7 +119,7 @@ Klick in dem Menü zum Rotieren des rechten Beines auf die <b>linke Lederhose</b
 <step>
 Um das jeweilige Bein des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip>
 einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
-</step>>
+</step>
 </procedure>
 <procedure title="Zurücksetzen der gesamten Pose" collapsible="true" default-state="collapsed" id="resetting-pose">
 <step>
@@ -128,7 +128,7 @@ Um die Pose des Rüstungsständers komplett zurückzusetzen, klicke im Menü auf
 <step>
 Um jegliche Posen des gesamten Rüstungsständers zurückzusetzen <shortcut>Links-Klick</shortcut> ihn mit dem 
 <tooltip term="Flintstone">Feuerstein</tooltip>.   
-</step>>
+</step>
 </procedure>
 
 ## Bearbeiten des Inventars {collapsible="true" default-state="collapsed" id="edit-inventory"}
