@@ -33,7 +33,7 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für
 
 - Ihr könnt keine Items droppen / aufheben
 - Der Nether und das End sind deaktiviert
-- Es stehen grundsätzlich nur Items zu Verfügung, die es auch "normal" gibt. Es können keine Custom Items z. B. aus dem Singleplayer genutzt werden
+- Es stehen grundsätzlich nur Items zur Verfügung, die es auch "normal" gibt. Es können keine Custom Items z. B. aus dem Singleplayer genutzt werden
 - Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawned werden
 - Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
