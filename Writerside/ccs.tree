@@ -56,6 +56,7 @@
     <toc-element topic="event-server.topic">
         <toc-element topic="how-to-take-part-in-an-event.md"/>
         <toc-element toc-title="Events">
+            <toc-element topic="creative2.md"/>
             <toc-element topic="limitless-heights.md"/>
             <toc-element topic="tilted.md"/>
             <toc-element topic="diamondevent.md"/>
