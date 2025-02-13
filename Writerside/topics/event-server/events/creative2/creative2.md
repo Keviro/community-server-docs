@@ -60,7 +60,7 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **15.02.2025 - 16:00 Uhr** bis zum **17.02.2025 - 16:00 Uhr**.
+: Das Event läuft voraussichtlich vom **15.02.2025 - 16:00 Uhr** bis zum **22.02.2025 - 16:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21.4** stattfinden.
