@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming" />
+<primary-label ref="event-running" />
 <secondary-label ref="creative2-mc-version" />
 <secondary-label ref="creative2-date" />
 
