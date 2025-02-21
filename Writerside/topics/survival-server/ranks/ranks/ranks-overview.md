@@ -43,6 +43,13 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
+> **Aktuell läuft eine Entwickler/in-Bewerbungsphase!**
+> 
+> Du möchtest uns im Team als Entwickler/in unterstützen?
+> Auf unserem Discord Server findest du alle weiteren Informationen: [Klicke, zum Öffnen](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202)
+> 
+{style="info" title="Entwickler/in-Bewerbungsphase"}
+
 Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
 <tab title="Builder" id="application-builder">
