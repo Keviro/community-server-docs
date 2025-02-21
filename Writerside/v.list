@@ -25,8 +25,8 @@
     <var name="youtube" value="https://www.youtube.com/"/>
     <var name="shop-server-name" value="Shop Server"/>
     <var name="shop-server-desc" value="Hier erfährst du wie du auf den Shop Server kommst!"/>
-    <var name="git-repo-clone-link" value="https://github.com/Keviro/community-server-docs.git"/>
-    <var name="git-repo-link" value="https://github.com/Keviro/community-server-docs"/>
+    <var name="git-repo-clone-link" value="https://github.com/SLNE-Development/community-server-docs.git"/>
+    <var name="git-repo-link" value="https://github.com/SLNE-Development/community-server-docs"/>
     <var name="click-more-info" value="Klicke hier für mehr Informationen!"/>
 
 </vars>
