@@ -43,12 +43,11 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
-> **Aktuell läuft eine Entwickler/in-Bewerbungsphase!**
-> 
-> Du möchtest uns im Team als Entwickler/in unterstützen?
-> Auf unserem Discord Server findest du alle weiteren Informationen: [Klicke, zum Öffnen](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202)
-> 
-{style="info" title="Entwickler/in-Bewerbungsphase"}
+> Möchtest du Teil unseres Entwicklerteams werden?\
+> Alle weiteren Informationen findest du auf
+> unserem [Discord-Server](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202).
+>
+{style="info" title="Bewerbungsphase für das Entwicklerteam"}
 
 Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
@@ -112,7 +111,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 
 - Du hast ausreichend Zeit und Lust auf das Projekt
 - Du bist teamfähig
-- Du kennst dich mit Gradle, Git, Spring, MySQL und Redis aus
+- Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
 
@@ -126,7 +125,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <deflist>
 <def title="Wie bewerbe ich mich?" id="how-to-apply">
 
-Wenn auch du Lust hast im Team mitzuhelfen, den Server weiterzugestalten und uns zu unterstützen, kannst du dich gerne
+Wenn auch du Lust hast im Team mitzuhelfen, den Server weiter zu gestalten und uns zu unterstützen, kannst du dich gerne
 bei uns melden.
 Am besten geht dies in einem [Ticket](%tickets_channel%).
 </def>
